@@ -2,10 +2,14 @@
   "name": "diagrams-svg",
   "version": "1.0.0",
   "description": "SVG versions of Red Hat Diagrams",
-  "main": "index.js",
   "scripts": {
+    "gulp": "gulp",
+    "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "wesruv",
-  "license": "ISC"
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-svgo": "^2.1.1"
+  }
 }

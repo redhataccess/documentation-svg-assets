@@ -1,0 +1,291 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="571.5" viewBox="0 0 760 571.5">
+  <defs>
+    <style>
+      .a {
+        fill: #e8e8e8;
+      }
+
+      .b {
+        font-size: 14px;
+      }
+
+      .b, .f, .t, .u, .y {
+        fill: #151515;
+      }
+
+      .b, .y, .z {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .ab, .c, .g, .h, .i, .j, .l, .m, .n, .o, .p, .q, .r, .s, .w, .x {
+        fill: none;
+      }
+
+      .c {
+        stroke: #baccdf;
+      }
+
+      .c, .j {
+        stroke-miterlimit: 10;
+      }
+
+      .c, .j, .v, .x {
+        stroke-width: 1.5px;
+      }
+
+      .d, .v {
+        fill: #fff;
+      }
+
+      .e, .z {
+        fill: #06c;
+      }
+
+      .f, .y, .z {
+        font-size: 12px;
+      }
+
+      .f, .u {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .g, .h, .i {
+        stroke: #adadad;
+      }
+
+      .g, .h, .i, .l, .m, .n, .o, .p, .q, .r, .s, .v, .w, .x {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .h {
+        stroke-dasharray: 2.968 2.968;
+      }
+
+      .i {
+        stroke-dasharray: 3.037 3.037;
+      }
+
+      .j {
+        stroke: #d0d0d0;
+      }
+
+      .aa, .k {
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .k {
+        font-weight: 400;
+      }
+
+      .l, .m, .n, .o, .p, .q, .r {
+        stroke: #06c;
+      }
+
+      .m {
+        stroke-dasharray: 2.988 2.988;
+      }
+
+      .n {
+        stroke-dasharray: 2.949 2.949;
+      }
+
+      .o {
+        stroke-dasharray: 2.976 2.976;
+      }
+
+      .p {
+        stroke-dasharray: 3.001 3.001;
+      }
+
+      .q {
+        stroke-dasharray: 3.008 3.008;
+      }
+
+      .r {
+        stroke-dasharray: 2.995 2.995;
+      }
+
+      .s {
+        stroke: #151515;
+      }
+
+      .u {
+        font-size: 11px;
+      }
+
+      .v, .w, .x {
+        stroke: #5b5b5b;
+      }
+
+      .w {
+        stroke-width: 2px;
+      }
+
+      .aa {
+        font-size: 10px;
+        fill: #f3f3f3;
+      }
+    </style>
+  </defs>
+  <title>1</title>
+  <rect class="a" x="20.147" y="20" width="720" height="245"/>
+  <text class="b" transform="translate(40.147 245.12)">Primary site</text>
+  <g>
+    <polyline class="c" points="220.442 165.34 220.442 215.34 60.442 215.34"/>
+    <polyline class="c" points="215.442 160.34 215.442 210.34 55.442 210.34"/>
+    <g>
+      <rect class="d" x="50.942" y="155.84" width="159" height="49"/>
+      <path class="e" d="M209.442,156.34v48h-158v-48h158m1-1h-160v50h160v-50Z"/>
+    </g>
+    <text class="f" transform="translate(60.44 175.444)">Controller nodes</text>
+  </g>
+  <g>
+    <polyline class="g" points="475.442 223.84 475.442 225.34 473.942 225.34"/>
+    <line class="h" x1="470.974" y1="225.34" x2="288.426" y2="225.34"/>
+    <polyline class="g" points="286.942 225.34 285.442 225.34 285.442 223.84"/>
+    <line class="i" x1="285.442" y1="220.803" x2="285.442" y2="143.358"/>
+    <polyline class="g" points="285.442 141.84 285.442 140.34 286.942 140.34"/>
+    <line class="h" x1="289.91" y1="140.34" x2="472.458" y2="140.34"/>
+    <polyline class="g" points="473.942 140.34 475.442 140.34 475.442 141.84"/>
+    <line class="i" x1="475.442" y1="144.877" x2="475.442" y2="222.321"/>
+  </g>
+  <polyline class="j" points="465.442 165.34 465.442 215.34 305.442 215.34"/>
+  <polyline class="j" points="460.442 160.34 460.442 210.34 300.442 210.34"/>
+  <rect class="d" x="295.442" y="155.34" width="160" height="50"/>
+  <text class="f" transform="translate(305.44 175.444)">Compute nodes<tspan class="k"><tspan x="0" y="14">(local ephemeral)</tspan></tspan></text>
+  <polyline class="j" points="704.147 160.34 704.147 210.34 544.147 210.34"/>
+  <g>
+    <polyline class="j" points="709.147 165.34 709.147 215.34 549.147 215.34"/>
+    <rect class="d" x="539.147" y="155.34" width="160" height="50"/>
+  </g>
+  <text class="f" transform="translate(549.146 175.444)">Volume storage</text>
+  <rect class="a" x="20.147" y="361.555" width="230" height="150"/>
+  <g>
+    <polyline class="g" points="230.147 465.186 230.147 466.686 228.647 466.686"/>
+    <line class="h" x1="225.679" y1="466.686" x2="43.131" y2="466.686"/>
+    <polyline class="g" points="41.647 466.686 40.147 466.686 40.147 465.186"/>
+    <line class="i" x1="40.147" y1="462.148" x2="40.147" y2="384.704"/>
+    <polyline class="g" points="40.147 383.186 40.147 381.686 41.647 381.686"/>
+    <line class="h" x1="44.615" y1="381.686" x2="227.163" y2="381.686"/>
+    <polyline class="g" points="228.647 381.686 230.147 381.686 230.147 383.186"/>
+    <line class="i" x1="230.147" y1="386.223" x2="230.147" y2="463.667"/>
+  </g>
+  <polyline class="c" points="220.147 406.686 220.147 456.686 60.147 456.686"/>
+  <polyline class="c" points="215.147 401.686 215.147 451.686 55.147 451.686"/>
+  <g>
+    <rect class="d" x="50.647" y="397.186" width="159" height="49"/>
+    <path class="e" d="M209.147,397.686v48h-158v-48h158m1-1h-160v50h160v-50Z"/>
+  </g>
+  <text class="f" transform="translate(60.147 416.79)">Compute nodes<tspan class="k"><tspan x="0" y="14">(local ephemeral)</tspan></tspan></text>
+  <rect class="a" x="510.147" y="361.555" width="230" height="150"/>
+  <g>
+    <polyline class="g" points="720.147 465.186 720.147 466.686 718.647 466.686"/>
+    <line class="h" x1="715.679" y1="466.686" x2="533.131" y2="466.686"/>
+    <polyline class="g" points="531.647 466.686 530.147 466.686 530.147 465.186"/>
+    <line class="i" x1="530.147" y1="462.148" x2="530.147" y2="384.704"/>
+    <polyline class="g" points="530.147 383.186 530.147 381.686 531.647 381.686"/>
+    <line class="h" x1="534.615" y1="381.686" x2="717.163" y2="381.686"/>
+    <polyline class="g" points="718.647 381.686 720.147 381.686 720.147 383.186"/>
+    <line class="i" x1="720.147" y1="386.223" x2="720.147" y2="463.667"/>
+  </g>
+  <polyline class="c" points="710.147 406.686 710.147 456.686 550.147 456.686"/>
+  <polyline class="c" points="705.147 401.686 705.147 451.686 545.147 451.686"/>
+  <g>
+    <rect class="d" x="540.647" y="397.186" width="159" height="49"/>
+    <path class="e" d="M699.147,397.686v48h-158v-48h158m1-1h-160v50h160v-50Z"/>
+  </g>
+  <text class="f" transform="translate(550.147 416.79)">Compute nodes<tspan class="k"><tspan x="0" y="14">(local ephemeral)</tspan></tspan></text>
+  <g>
+    <polyline class="g" points="719.147 223.84 719.147 225.34 717.647 225.34"/>
+    <line class="h" x1="714.679" y1="225.34" x2="532.131" y2="225.34"/>
+    <polyline class="g" points="530.647 225.34 529.147 225.34 529.147 223.84"/>
+    <line class="i" x1="529.147" y1="220.803" x2="529.147" y2="143.358"/>
+    <polyline class="g" points="529.147 141.84 529.147 140.34 530.647 140.34"/>
+    <line class="h" x1="533.615" y1="140.34" x2="716.163" y2="140.34"/>
+    <polyline class="g" points="717.647 140.34 719.147 140.34 719.147 141.84"/>
+    <line class="i" x1="719.147" y1="144.877" x2="719.147" y2="222.321"/>
+  </g>
+  <g>
+    <polyline class="l" points="759 101.786 759 100.286 757.5 100.286"/>
+    <line class="m" x1="754.512" y1="100.284" x2="253.994" y2="100.064"/>
+    <polyline class="l" points="252.5 100.063 251 100.063 251 101.563"/>
+    <line class="n" x1="251" y1="104.512" x2="251" y2="132.53"/>
+    <polyline class="l" points="251 134.005 251 135.505 249.5 135.504"/>
+    <line class="o" x1="246.524" y1="135.502" x2="3.988" y2="135.342"/>
+    <polyline class="l" points="2.5 135.341 1 135.34 1 136.84"/>
+    <line class="p" x1="1" y1="139.841" x2="1" y2="528.499"/>
+    <polyline class="l" points="1 530 1 531.5 2.5 531.5"/>
+    <line class="q" x1="5.508" y1="531.5" x2="755.996" y2="531.5"/>
+    <polyline class="l" points="757.5 531.5 759 531.5 759 530"/>
+    <line class="r" x1="759" y1="527.005" x2="759" y2="103.283"/>
+  </g>
+  <g>
+    <rect class="d" x="50.442" y="80.34" width="160" height="35"/>
+    <text class="f" transform="translate(60.44 101.164)">Container registry</text>
+  </g>
+  <rect class="d" x="50.442" y="40.34" width="160" height="35"/>
+  <text class="f" transform="translate(60.44 60.444)">Undercloud</text>
+  <line class="s" x1="380.147" y1="265" x2="380.147" y2="283.67"/>
+  <g>
+    <line class="s" x1="380.147" y1="322.886" x2="380.147" y2="351.879"/>
+    <polygon class="t" points="375.161 350.42 380.147 359.055 385.134 350.42 375.161 350.42"/>
+  </g>
+  <g>
+    <polyline class="s" points="625.147 351.879 625.147 337.22 135.147 337.22 135.147 351.879"/>
+    <polygon class="t" points="630.134 350.42 625.147 359.055 620.161 350.42 630.134 350.42"/>
+    <polygon class="t" points="130.161 350.42 135.147 359.055 140.134 350.42 130.161 350.42"/>
+  </g>
+  <g>
+    <text class="u" transform="translate(353.269 316.372)">L3 routing</text>
+    <g>
+      <rect class="v" x="348.397" y="283.67" width="63.5" height="16.107"/>
+      <line class="w" x1="405.109" y1="290.577" x2="405.109" y2="290.577"/>
+      <line class="x" x1="355.201" y1="289.366" x2="355.201" y2="294.01"/>
+      <line class="x" x1="362.004" y1="289.366" x2="362.004" y2="294.01"/>
+      <line class="x" x1="368.808" y1="289.366" x2="368.808" y2="294.01"/>
+      <line class="x" x1="375.612" y1="289.366" x2="375.612" y2="294.01"/>
+      <line class="x" x1="382.415" y1="289.366" x2="382.415" y2="294.01"/>
+      <line class="x" x1="389.219" y1="289.366" x2="389.219" y2="294.01"/>
+    </g>
+  </g>
+  <text class="b" transform="translate(40.147 497.285)">DCN site 1</text>
+  <rect class="a" x="265.147" y="361.555" width="230" height="150"/>
+  <g>
+    <polyline class="g" points="475.147 465.186 475.147 466.686 473.647 466.686"/>
+    <line class="h" x1="470.679" y1="466.686" x2="288.131" y2="466.686"/>
+    <polyline class="g" points="286.647 466.686 285.147 466.686 285.147 465.186"/>
+    <line class="i" x1="285.147" y1="462.148" x2="285.147" y2="384.704"/>
+    <polyline class="g" points="285.147 383.186 285.147 381.686 286.647 381.686"/>
+    <line class="h" x1="289.615" y1="381.686" x2="472.163" y2="381.686"/>
+    <polyline class="g" points="473.647 381.686 475.147 381.686 475.147 383.186"/>
+    <line class="i" x1="475.147" y1="386.223" x2="475.147" y2="463.667"/>
+  </g>
+  <polyline class="c" points="465.147 406.686 465.147 456.686 305.147 456.686"/>
+  <polyline class="c" points="460.147 401.686 460.147 451.686 300.147 451.686"/>
+  <g>
+    <rect class="d" x="295.647" y="397.186" width="159" height="49"/>
+    <path class="e" d="M454.147,397.686v48h-158v-48h158m1-1h-160v50h160v-50Z"/>
+  </g>
+  <text class="f" transform="translate(305.147 416.79)">Compute nodes<tspan class="k"><tspan x="0" y="14">(local ephemeral)</tspan></tspan></text>
+  <text class="b" transform="translate(285.147 497.285)">DCN site 2</text>
+  <text class="b" transform="translate(530.147 497.285)">DCN site N</text>
+  <rect class="a" x="55.147" y="376.555" width="34.877" height="12.33"/>
+  <rect class="a" x="300.147" y="376.555" width="34.877" height="12.33"/>
+  <rect class="a" x="300.709" y="134.174" width="94.51" height="12.33"/>
+  <rect class="a" x="300.709" y="94.174" width="109.291" height="12.33"/>
+  <rect class="a" x="545.147" y="376.555" width="34.877" height="12.33"/>
+  <text class="y" transform="translate(60.147 386.29)">AZ 1</text>
+  <text class="y" transform="translate(305.147 386.29)">AZ 2</text>
+  <text class="y" transform="translate(550.147 386.29)">AZ N</text>
+  <text class="y" transform="translate(305.44 144.944)">AZ 0<tspan class="k" x="27.252" y="0" xml:space="preserve"> (optional)</tspan></text>
+  <rect class="a" x="544.225" y="134.174" width="94.51" height="12.33"/>
+  <text class="y" transform="translate(549.146 144.944)">AZ 0<tspan class="k" x="27.252" y="0" xml:space="preserve"> (optional)</tspan></text>
+  <text class="z" transform="translate(305.44 103.846)">Overcloud stack</text>
+  <g>
+    <text class="aa" transform="translate(664.102 554.517)">68_OpenStack_0220</text>
+    <rect class="ab" y="531.5" width="760" height="40"/>
+  </g>
+</svg>

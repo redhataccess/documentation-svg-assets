@@ -1,0 +1,8 @@
+name: OpenStack DCN Deployment
+alt_text: If you couldn't see the diagram, this text should try to communicate the same information as best as it can.
+related_products:
+  - OpenStack
+    - 1.0
+    - 1.1
+    - 2.0
+  - Product Name 2

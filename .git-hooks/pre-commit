@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Add a file to let us now we need to run the build
+touch .runbuild

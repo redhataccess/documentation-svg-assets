@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# If we have the temp file from pre-commit, run the build and remove the file
+if [ -e .runbuild ]
+    then
+    rm .runbuild
+    npm run gulp
+    git add for-web
+    git commit --amend -C HEAD --no-verify
+fi
+
+exit

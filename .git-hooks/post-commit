@@ -4,7 +4,7 @@
 if [ -e .runbuild ]
     then
     rm .runbuild
-    npm run gulp
+    npm run build
     git add for-web
     git commit --amend -C HEAD --no-verify
 fi

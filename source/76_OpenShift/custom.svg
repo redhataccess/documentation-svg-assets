@@ -39,7 +39,7 @@
 <text transform="matrix(1 0 0 1 666.629 82.535)" class="st1 st2 st3">/</text>
 <text transform="matrix(1 0 0 1 671.745 82.535)" class="st1 st2 st3">o</text>
 <text transform="matrix(1 0 0 1 678.6379 82.535)" class="st1 st2 st3">p</text>
-<text transform="matrix(1 0 0 1 685.767 82.535)" class="st1 st2 st3">e</text>
+<text transform="matrix(1 0 0 1 685.7671 82.535)" class="st1 st2 st3">e</text>
 <text transform="matrix(1 0 0 1 692.386 82.535)" class="st1 st2 st3">n</text>
 <text transform="matrix(1 0 0 1 699.345 82.535)" class="st1 st2 st3">s</text>
 <text transform="matrix(1 0 0 1 705.098 82.535)" class="st1 st2 st3">h</text>
@@ -80,7 +80,7 @@
 <text transform="matrix(1 0 0 1 666.629 514.947)" class="st1 st2 st3">/</text>
 <text transform="matrix(1 0 0 1 671.745 514.947)" class="st1 st2 st3">o</text>
 <text transform="matrix(1 0 0 1 678.6379 514.947)" class="st1 st2 st3">p</text>
-<text transform="matrix(1 0 0 1 685.767 514.947)" class="st1 st2 st3">e</text>
+<text transform="matrix(1 0 0 1 685.7671 514.947)" class="st1 st2 st3">e</text>
 <text transform="matrix(1 0 0 1 692.386 514.947)" class="st1 st2 st3">n</text>
 <text transform="matrix(1 0 0 1 699.345 514.947)" class="st1 st2 st3">s</text>
 <text transform="matrix(1 0 0 1 705.098 514.947)" class="st1 st2 st3">h</text>
@@ -120,7 +120,7 @@
 <text transform="matrix(1 0 0 1 666.629 222.379)" class="st1 st2 st3">/</text>
 <text transform="matrix(1 0 0 1 671.745 222.379)" class="st1 st2 st3">o</text>
 <text transform="matrix(1 0 0 1 678.6379 222.379)" class="st1 st2 st3">p</text>
-<text transform="matrix(1 0 0 1 685.767 222.379)" class="st1 st2 st3">e</text>
+<text transform="matrix(1 0 0 1 685.7671 222.379)" class="st1 st2 st3">e</text>
 <text transform="matrix(1 0 0 1 692.386 222.379)" class="st1 st2 st3">n</text>
 <text transform="matrix(1 0 0 1 699.345 222.379)" class="st1 st2 st3">s</text>
 <text transform="matrix(1 0 0 1 705.098 222.379)" class="st1 st2 st3">h</text>
@@ -169,7 +169,7 @@
 <text transform="matrix(1 0 0 1 666.629 366.791)" class="st1 st2 st3">/</text>
 <text transform="matrix(1 0 0 1 671.745 366.791)" class="st1 st2 st3">o</text>
 <text transform="matrix(1 0 0 1 678.6379 366.791)" class="st1 st2 st3">p</text>
-<text transform="matrix(1 0 0 1 685.767 366.791)" class="st1 st2 st3">e</text>
+<text transform="matrix(1 0 0 1 685.7671 366.791)" class="st1 st2 st3">e</text>
 <text transform="matrix(1 0 0 1 692.386 366.791)" class="st1 st2 st3">n</text>
 <text transform="matrix(1 0 0 1 699.345 366.791)" class="st1 st2 st3">s</text>
 <text transform="matrix(1 0 0 1 705.098 366.791)" class="st1 st2 st3">h</text>
@@ -488,7 +488,7 @@
 	<circle class="st1" cx="475" cy="181.6" r="9"/>
 	<text transform="matrix(1 0 0 1 471.17 185.408)" class="st7 st2 st3">6</text>
 </g>
-<rect x="405" y="251.6" class="st8" width="140" height="50"/>
+<rect x="405" y="251.6" class="st4" width="140" height="50"/>
 <text transform="matrix(1 0 0 1 417.991 275.768)" class="st1 st5 st6">configmaps/trusted-</text>
 <text transform="matrix(1 0 0 1 447.995 287.768)" class="st1 st5 st6">ca-bundle</text>
 <g>

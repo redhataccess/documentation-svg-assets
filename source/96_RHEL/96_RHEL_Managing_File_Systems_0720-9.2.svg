@@ -1,0 +1,84 @@
+<svg id="b62e8638-e221-4d31-8233-edb0f9c935f0" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="328" viewBox="0 0 760 328">
+  <defs>
+    <style>
+      .a9ee2427-1cea-4d70-8b76-e8efb326f855 {
+        font-size: 10px;
+        fill: #f3f3f3;
+      }
+
+      .a2926fde-d134-44b1-8332-ae7d9aafef3f, .a9ee2427-1cea-4d70-8b76-e8efb326f855, .bc2af945-eb6c-4aad-8fea-48891bc6ec16 {
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .a36bdd44-f0f4-4fa8-9893-4783d6734065 {
+        fill: none;
+      }
+
+      .a06a9fce-2e22-4617-ab25-d7a354d8dba6 {
+        fill: #e8e8e8;
+      }
+
+      .b663e566-a729-4a04-b879-bf4e49ff67ec {
+        font-size: 16px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .b663e566-a729-4a04-b879-bf4e49ff67ec, .be51363a-85fe-4ded-8296-e3d22e56f409 {
+        fill: #151515;
+      }
+
+      .a2926fde-d134-44b1-8332-ae7d9aafef3f, .bc2af945-eb6c-4aad-8fea-48891bc6ec16 {
+        font-weight: 400;
+      }
+
+      .bc2af945-eb6c-4aad-8fea-48891bc6ec16 {
+        letter-spacing: 0em;
+      }
+
+      .b31ba027-0fae-46c6-a89f-cb665ad387c6 {
+        fill: #fff;
+      }
+
+      .be51363a-85fe-4ded-8296-e3d22e56f409, .f4929bbb-9631-4e9e-ab47-9ab7cee7bf08 {
+        font-size: 12px;
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .a6f38c1d-acb9-4e64-9dd3-a5ac11fd1dd7 {
+        fill: #d9e8f7;
+      }
+
+      .f4929bbb-9631-4e9e-ab47-9ab7cee7bf08 {
+        fill: #adadad;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="a9ee2427-1cea-4d70-8b76-e8efb326f855" transform="translate(688.182 311.017)">96_RHEL_0720</text>
+    <rect class="a36bdd44-f0f4-4fa8-9893-4783d6734065" y="288" width="760" height="40"/>
+  </g>
+  <rect class="a06a9fce-2e22-4617-ab25-d7a354d8dba6" y="19.5" width="360" height="268.5"/>
+  <text class="b663e566-a729-4a04-b879-bf4e49ff67ec" transform="translate(25 57.972)">Disk <tspan class="bc2af945-eb6c-4aad-8fea-48891bc6ec16" x="38.048" y="0">(before)</tspan></text>
+  <rect class="b31ba027-0fae-46c6-a89f-cb665ad387c6" x="25" y="82.824" width="150" height="120"/>
+  <text class="be51363a-85fe-4ded-8296-e3d22e56f409" transform="translate(52.175 111.148)">Primary partition<tspan class="a2926fde-d134-44b1-8332-ae7d9aafef3f"><tspan x="30.048" y="15">(DOS)</tspan></tspan></text>
+  <rect class="a6f38c1d-acb9-4e64-9dd3-a5ac11fd1dd7" x="35" y="143" width="130" height="50"/>
+  <text class="be51363a-85fe-4ded-8296-e3d22e56f409" transform="translate(68.236 163.824)">File system<tspan class="a2926fde-d134-44b1-8332-ae7d9aafef3f"><tspan x="8.826" y="15">(FAT32)</tspan></tspan></text>
+  <rect class="b31ba027-0fae-46c6-a89f-cb665ad387c6" x="185" y="82.824" width="150" height="120"/>
+  <text class="be51363a-85fe-4ded-8296-e3d22e56f409" transform="translate(212.925 146.148)">Unused partition</text>
+  <path class="b31ba027-0fae-46c6-a89f-cb665ad387c6" d="M334,213.824v48H26v-48H334m1-1H25v50H335v-50Z"/>
+  <text class="f4929bbb-9631-4e9e-ab47-9ab7cee7bf08" transform="translate(149.196 241.148)">Free space</text>
+  <rect class="a06a9fce-2e22-4617-ab25-d7a354d8dba6" x="400" y="19.5" width="360" height="268.5"/>
+  <text class="b663e566-a729-4a04-b879-bf4e49ff67ec" transform="translate(425 57.972)">Disk <tspan class="bc2af945-eb6c-4aad-8fea-48891bc6ec16" x="38.048" y="0">(after)</tspan></text>
+  <rect class="b31ba027-0fae-46c6-a89f-cb665ad387c6" x="425" y="82.824" width="150" height="120"/>
+  <text class="be51363a-85fe-4ded-8296-e3d22e56f409" transform="translate(452.175 111.148)">Primary partition<tspan class="a2926fde-d134-44b1-8332-ae7d9aafef3f"><tspan x="30.048" y="15">(DOS)</tspan></tspan></text>
+  <rect class="a6f38c1d-acb9-4e64-9dd3-a5ac11fd1dd7" x="435" y="143" width="130" height="50"/>
+  <text class="be51363a-85fe-4ded-8296-e3d22e56f409" transform="translate(468.236 163.824)">File system<tspan class="a2926fde-d134-44b1-8332-ae7d9aafef3f"><tspan x="8.826" y="15">(FAT32)</tspan></tspan></text>
+  <rect class="b31ba027-0fae-46c6-a89f-cb665ad387c6" x="585" y="82.824" width="150" height="120"/>
+  <text class="be51363a-85fe-4ded-8296-e3d22e56f409" transform="translate(612.175 111.148)">Primary partition<tspan class="a2926fde-d134-44b1-8332-ae7d9aafef3f"><tspan x="10.668" y="15">(Linux native)</tspan></tspan></text>
+  <rect class="a6f38c1d-acb9-4e64-9dd3-a5ac11fd1dd7" x="595" y="143" width="130" height="50"/>
+  <text class="be51363a-85fe-4ded-8296-e3d22e56f409" transform="translate(628.236 163.824)">File system<tspan class="a2926fde-d134-44b1-8332-ae7d9aafef3f"><tspan x="15.63" y="15">(XFS)</tspan></tspan></text>
+  <path class="b31ba027-0fae-46c6-a89f-cb665ad387c6" d="M734,213.824v48H426v-48H734m1-1H425v50H735v-50Z"/>
+  <text class="f4929bbb-9631-4e9e-ab47-9ab7cee7bf08" transform="translate(549.196 241.148)">Free space</text>
+</svg>

@@ -1,0 +1,80 @@
+<svg id="f2e4fed1-6713-468f-a19b-83ddb2bdf441" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270">
+  <defs>
+    <style>
+      .e92f4619-6c80-4013-b861-d7438ef38d4c {
+        fill: #e8e8e8;
+      }
+
+      .fbc302b5-9e6b-4198-b169-2c40aa7c7a43 {
+        font-size: 16px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .e192677a-56a0-4641-b37d-9abe8d398ba7, .fbc302b5-9e6b-4198-b169-2c40aa7c7a43 {
+        fill: #151515;
+      }
+
+      .e0a2534b-1193-4708-8473-cb868aa7ca63, .e585901c-823b-4d21-8142-a0dfad766557, .f695b91a-848e-45b3-b00b-d469293f7bf6 {
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .e585901c-823b-4d21-8142-a0dfad766557, .f695b91a-848e-45b3-b00b-d469293f7bf6 {
+        font-weight: 400;
+      }
+
+      .e585901c-823b-4d21-8142-a0dfad766557 {
+        letter-spacing: 0em;
+      }
+
+      .e84f2e81-afc1-4577-aea8-bb36bfda382a {
+        fill: #fff;
+      }
+
+      .e192677a-56a0-4641-b37d-9abe8d398ba7, .fec19d4e-5d9c-45ef-83fe-e36d006d7ecc {
+        font-size: 12px;
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .f1a056e9-dc00-4aad-8a8e-4bac89c51816 {
+        fill: #d9e8f7;
+      }
+
+      .fec19d4e-5d9c-45ef-83fe-e36d006d7ecc {
+        fill: #adadad;
+      }
+
+      .e0a2534b-1193-4708-8473-cb868aa7ca63 {
+        font-size: 10px;
+        fill: #f3f3f3;
+      }
+
+      .a1cefb36-c03f-482a-898a-2e2657d43540 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <rect class="e92f4619-6c80-4013-b861-d7438ef38d4c" y="21.5" width="760" height="208.5"/>
+  <text class="fbc302b5-9e6b-4198-b169-2c40aa7c7a43" transform="translate(25 59.972)">Disk <tspan class="e585901c-823b-4d21-8142-a0dfad766557" x="38.048" y="0">(GPT table)</tspan></text>
+  <g>
+    <rect class="e84f2e81-afc1-4577-aea8-bb36bfda382a" x="25" y="84.824" width="170" height="120"/>
+    <text class="e192677a-56a0-4641-b37d-9abe8d398ba7" transform="translate(71.535 109.825)">GPT partition<tspan class="f695b91a-848e-45b3-b00b-d469293f7bf6"><tspan x="-11.238" y="15">(GUID: basic data)</tspan></tspan></text>
+    <rect class="f1a056e9-dc00-4aad-8a8e-4bac89c51816" x="35" y="141.676" width="150" height="50"/>
+    <text class="e192677a-56a0-4641-b37d-9abe8d398ba7" transform="translate(78.236 162.5)">File system<tspan class="f695b91a-848e-45b3-b00b-d469293f7bf6"><tspan x="8.826" y="15">(FAT32)</tspan></tspan></text>
+  </g>
+  <rect class="e84f2e81-afc1-4577-aea8-bb36bfda382a" x="205" y="84.824" width="170" height="120"/>
+  <text class="e192677a-56a0-4641-b37d-9abe8d398ba7" transform="translate(251.535 113.148)">GPT partition<tspan class="f695b91a-848e-45b3-b00b-d469293f7bf6"><tspan x="4.638" y="15">(GUID: root)</tspan></tspan></text>
+  <rect class="f1a056e9-dc00-4aad-8a8e-4bac89c51816" x="215" y="145" width="150" height="50"/>
+  <text class="e192677a-56a0-4641-b37d-9abe8d398ba7" transform="translate(258.236 165.824)">File system<tspan class="f695b91a-848e-45b3-b00b-d469293f7bf6"><tspan x="15.63" y="15">(XFS)</tspan></tspan></text>
+  <rect class="e84f2e81-afc1-4577-aea8-bb36bfda382a" x="385" y="84.824" width="170" height="120"/>
+  <text class="e192677a-56a0-4641-b37d-9abe8d398ba7" transform="translate(431.535 113.148)">GPT partition<tspan class="f695b91a-848e-45b3-b00b-d469293f7bf6"><tspan x="0.779" y="15">(GUID: home)</tspan></tspan></text>
+  <rect class="f1a056e9-dc00-4aad-8a8e-4bac89c51816" x="395" y="145" width="150" height="50"/>
+  <text class="e192677a-56a0-4641-b37d-9abe8d398ba7" transform="translate(438.236 165.824)">File system<tspan class="f695b91a-848e-45b3-b00b-d469293f7bf6"><tspan x="15.63" y="15">(XFS)</tspan></tspan></text>
+  <path class="e84f2e81-afc1-4577-aea8-bb36bfda382a" d="M734,85.824v118H566v-118H734m1-1H565v120H735v-120Z"/>
+  <text class="fec19d4e-5d9c-45ef-83fe-e36d006d7ecc" transform="translate(619.196 148.148)">Free space</text>
+  <g>
+    <text class="e0a2534b-1193-4708-8473-cb868aa7ca63" transform="translate(688.182 253.017)">96_RHEL_0720</text>
+    <rect class="a1cefb36-c03f-482a-898a-2e2657d43540" y="230" width="760" height="40"/>
+  </g>
+</svg>

@@ -27,7 +27,7 @@ const optimizeSvgs = () =>
     .pipe(replace(/font-family:.*;/g, (match) => {
       match = match.toLowerCase();
       if (match.indexOf('mono') >= 0) {
-        return 'font-family: LiberationMono, "Liberation Mono", monospace;';
+        return 'font-family: LiberationMono, "Liberation Mono", Consolas, Monaco, "Andale Mono", monospace;';
       }
       if (match.indexOf('redhattext') >= 0 || match.indexOf('red hat text') >= 0) {
         if (match.indexOf('bold') >= 0) {

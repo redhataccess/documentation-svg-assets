@@ -1,0 +1,216 @@
+<svg id="ff40cf8e-2382-4881-ac89-22396c542bcc" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="927.306" viewBox="0 0 760 927.306">
+  <defs>
+    <style>
+      .bae7ef18-6871-4485-ad4e-187352dca117 {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .a72957f3-a9c8-4ad9-b00c-21acd07c00e9, .b1b469dc-4ace-424d-a6f6-b0631b8f3298 {
+        fill: none;
+      }
+
+      .a72957f3-a9c8-4ad9-b00c-21acd07c00e9 {
+        stroke: #06c;
+        stroke-miterlimit: 10;
+      }
+
+      .bc135a12-6e6c-49ac-9311-0077717322ad {
+        fill: #06c;
+      }
+
+      .b5a7b41d-ebbd-4b88-b6c8-dba442adeab5 {
+        fill: #d9e8f7;
+      }
+
+      .f7fc7df0-7bf1-4fc4-b034-6a6ab5cd2dbf {
+        font-size: 11px;
+        font-family: LiberationMono, Liberation Mono;
+      }
+
+      .a118ea49-2337-477b-8b92-cbf3eb5eb8be, .a28a1377-15c6-459c-89a6-ef068ca3698c, .ba9048a1-fe46-4b4d-9e2f-22333695af09, .f7fc7df0-7bf1-4fc4-b034-6a6ab5cd2dbf {
+        fill: #151515;
+      }
+
+      .a44e4d4a-178e-4c29-b02f-a6bb93e02b59 {
+        font-family: LiberationMono-Italic, Liberation Mono;
+      }
+
+      .a118ea49-2337-477b-8b92-cbf3eb5eb8be, .a44e4d4a-178e-4c29-b02f-a6bb93e02b59 {
+        font-style: italic;
+      }
+
+      .a98e28a6-eb78-4120-bab4-a6ec2338436b {
+        fill: #99c2eb;
+      }
+
+      .a92da07b-b5fc-4c49-a644-605a7b50bb09 {
+        fill: #e8e8e8;
+      }
+
+      .a118ea49-2337-477b-8b92-cbf3eb5eb8be, .a28a1377-15c6-459c-89a6-ef068ca3698c, .a4452334-b06f-4dc6-9947-ba62b8540e8f {
+        font-size: 12px;
+        font-weight: 500;
+      }
+
+      .a28a1377-15c6-459c-89a6-ef068ca3698c, .a4452334-b06f-4dc6-9947-ba62b8540e8f {
+        font-family: RedHatText-Medium, Red Hat Text;
+      }
+
+      .a4452334-b06f-4dc6-9947-ba62b8540e8f, .bf64d171-575e-4f7c-9fa5-941ff3380e80 {
+        fill: #fff;
+      }
+
+      .aa69a38e-40d6-4ca5-8871-eabd1cd6b3b0 {
+        fill: #adadad;
+      }
+
+      .a118ea49-2337-477b-8b92-cbf3eb5eb8be {
+        font-family: RedHatText-MediumItalic, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="bae7ef18-6871-4485-ad4e-187352dca117" transform="translate(660.472 910.323)">106_OpenStack_0720</text>
+    <rect class="b1b469dc-4ace-424d-a6f6-b0631b8f3298" y="887.306" width="760" height="40"/>
+  </g>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="214.812" y1="241.578" x2="275" y2="241.578"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="216.271 246.564 207.635 241.578 216.271 236.592 216.271 246.564"/>
+  </g>
+  <g>
+    <polyline class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" points="495 831.82 759.398 831.82 759.398 81 504.676 81"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="506.135 76.014 497.5 81 506.135 85.986 506.135 76.014"/>
+  </g>
+  <rect class="b5a7b41d-ebbd-4b88-b6c8-dba442adeab5" y="204.078" width="205" height="75"/>
+  <text class="f7fc7df0-7bf1-4fc4-b034-6a6ab5cd2dbf" transform="translate(15 224.182)">openstack overcloud <tspan x="0" y="13">external-upgrade run</tspan><tspan x="0" y="26">--tags ceph_systemd -e </tspan><tspan x="0" y="39">ceph_ansible_limit=</tspan><tspan class="a44e4d4a-178e-4c29-b02f-a6bb93e02b59" x="125.42" y="39">NODE</tspan></text>
+  <rect class="a98e28a6-eb78-4120-bab4-a6ec2338436b" x="275" y="329.177" width="220" height="65"/>
+  <text class="f7fc7df0-7bf1-4fc4-b034-6a6ab5cd2dbf" transform="translate(290 351.587)">openstack overcloud upgrade <tspan x="0" y="13">run --stack </tspan><tspan class="a44e4d4a-178e-4c29-b02f-a6bb93e02b59" x="79.213" y="13">STACK NAME </tspan><tspan x="151.825" y="13">--tags </tspan><tspan x="0" y="26">system_upgrade --limit </tspan><tspan class="a44e4d4a-178e-4c29-b02f-a6bb93e02b59" x="151.825" y="26">NODE</tspan></text>
+  <rect class="a92da07b-b5fc-4c49-a644-605a7b50bb09" x="275" y="753.07" width="220" height="157.5"/>
+  <text class="a28a1377-15c6-459c-89a6-ef068ca3698c" transform="translate(290 778.174)">Select the next node as per<tspan x="0" y="13">the following order:</tspan><tspan x="0" y="39">• Pacemaker-based</tspan><tspan x="7" y="52">controller nodes</tspan><tspan x="0" y="69">• Non-Pacemaker-based</tspan><tspan x="7" y="82">controller nodes</tspan><tspan x="0" y="99">• Ceph storage nodes</tspan><tspan x="0" y="116">• Compute nodes</tspan></text>
+  <rect class="a92da07b-b5fc-4c49-a644-605a7b50bb09" x="275" width="220" height="40"/>
+  <text class="a28a1377-15c6-459c-89a6-ef068ca3698c" transform="translate(317.171 16.824)">Start with the bootstrap<tspan x="20.753" y="13">Pacemaker node</tspan></text>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="385" y1="152.479" x2="385" y2="206.902"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="380.014 205.443 385 214.078 389.986 205.443 380.014 205.443"/>
+  </g>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="385" y1="39.999" x2="385" y2="56.303"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="380.014 54.844 385 63.479 389.986 54.844 380.014 54.844"/>
+  </g>
+  <rect class="a92da07b-b5fc-4c49-a644-605a7b50bb09" x="275" y="66" width="220" height="30"/>
+  <g>
+    <path class="bf64d171-575e-4f7c-9fa5-941ff3380e80" d="M290,151.979a14.5,14.5,0,1,1,0-29H480a14.5,14.5,0,0,1,0,29Z"/>
+    <path class="aa69a38e-40d6-4ca5-8871-eabd1cd6b3b0" d="M480,123.479a14,14,0,0,1,0,28H290a14,14,0,1,1,0-28H480m0-1H290a15,15,0,1,0,0,30H480a15,15,0,0,0,0-30Z"/>
+  </g>
+  <text class="a28a1377-15c6-459c-89a6-ef068ca3698c" transform="translate(330.107 84.324)">Start node upgrade</text>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="385" y1="95.999" x2="385" y2="112.303"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="380.014 110.844 385 119.479 389.986 110.844 380.014 110.844"/>
+  </g>
+  <rect class="a92da07b-b5fc-4c49-a644-605a7b50bb09" x="275" y="697.092" width="220" height="30"/>
+  <text class="a28a1377-15c6-459c-89a6-ef068ca3698c" transform="translate(333.557 715.416)">End node upgrade</text>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="385" y1="727.091" x2="385" y2="743.395"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="380.014 741.936 385 750.571 389.986 741.936 380.014 741.936"/>
+  </g>
+  <circle class="ba9048a1-fe46-4b4d-9e2f-22333695af09" cx="385" cy="180.828" r="15"/>
+  <text class="a4452334-b06f-4dc6-9947-ba62b8540e8f" transform="translate(376.846 185.059)">No</text>
+  <g>
+    <polyline class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" points="504.677 241.578 652.5 241.578 652.5 151.788"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="506.136 246.564 497.5 241.578 506.136 236.592 506.136 246.564"/>
+  </g>
+  <g>
+    <polyline class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" points="265.324 361.677 102.5 361.677 102.5 279.019"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="263.865 356.691 272.5 361.677 263.865 366.663 263.865 356.691"/>
+  </g>
+  <circle class="ba9048a1-fe46-4b4d-9e2f-22333695af09" cx="240.07" cy="241.578" r="15"/>
+  <text class="a4452334-b06f-4dc6-9947-ba62b8540e8f" transform="translate(229.631 244.902)">Yes</text>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="214.812" y1="440.648" x2="275" y2="440.648"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="216.271 445.634 207.635 440.648 216.271 435.661 216.271 445.634"/>
+  </g>
+  <rect class="b5a7b41d-ebbd-4b88-b6c8-dba442adeab5" y="403.148" width="205" height="75"/>
+  <text class="f7fc7df0-7bf1-4fc4-b034-6a6ab5cd2dbf" transform="translate(15 424.058)">openstack overcloud<tspan x="0" y="13">external-upgrade run</tspan><tspan x="0" y="26">--tags system_upgrade_</tspan><tspan x="0" y="39">transfer_data</tspan></text>
+  <circle class="ba9048a1-fe46-4b4d-9e2f-22333695af09" cx="241.318" cy="440.648" r="15"/>
+  <text class="a4452334-b06f-4dc6-9947-ba62b8540e8f" transform="translate(230.878 443.971)">Yes</text>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="555.188" y1="137.479" x2="495" y2="137.479"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="553.729 132.492 562.365 137.479 553.729 142.465 553.729 132.492"/>
+  </g>
+  <rect class="a92da07b-b5fc-4c49-a644-605a7b50bb09" x="565" y="122.479" width="175" height="30"/>
+  <text class="a28a1377-15c6-459c-89a6-ef068ca3698c" transform="translate(600.517 140.803)">Migrate workloads</text>
+  <g>
+    <circle class="ba9048a1-fe46-4b4d-9e2f-22333695af09" cx="527.5" cy="137.479" r="15"/>
+    <text class="a4452334-b06f-4dc6-9947-ba62b8540e8f" transform="translate(517.06 140.709)">Yes</text>
+  </g>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="555.188" y1="652.79" x2="495" y2="652.79"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="553.729 647.804 562.365 652.79 553.729 657.777 553.729 647.804"/>
+  </g>
+  <g>
+    <circle class="ba9048a1-fe46-4b4d-9e2f-22333695af09" cx="527.5" cy="652.79" r="15"/>
+    <text class="a4452334-b06f-4dc6-9947-ba62b8540e8f" transform="translate(517.06 656.021)">Yes</text>
+  </g>
+  <text class="a118ea49-2337-477b-8b92-cbf3eb5eb8be" transform="translate(320.075 142.078)">Is this a compute node?</text>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="385" y1="455.648" x2="385" y2="628.114"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="380.014 626.655 385 635.29 389.986 626.655 380.014 626.655"/>
+  </g>
+  <g>
+    <path class="bf64d171-575e-4f7c-9fa5-941ff3380e80" d="M290,455.147a14.5,14.5,0,0,1,0-29H480a14.5,14.5,0,0,1,0,29Z"/>
+    <path class="aa69a38e-40d6-4ca5-8871-eabd1cd6b3b0" d="M480,426.648a14,14,0,0,1,0,28H290a14,14,0,0,1,0-28H480m0-1H290a15,15,0,0,0,0,30H480a15,15,0,0,0,0-30Z"/>
+  </g>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="385" y1="394.168" x2="385" y2="415.471"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="380.014 414.012 385 422.648 389.986 414.012 380.014 414.012"/>
+  </g>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="102.5" y1="478.132" x2="102.5" y2="494.436"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="97.514 492.977 102.5 501.612 107.486 492.977 97.514 492.977"/>
+  </g>
+  <rect class="a98e28a6-eb78-4120-bab4-a6ec2338436b" y="620.29" width="205" height="65"/>
+  <text class="f7fc7df0-7bf1-4fc4-b034-6a6ab5cd2dbf" transform="translate(15 642.7)">openstack overcloud<tspan x="0" y="13">upgrade run --limit </tspan><tspan class="a44e4d4a-178e-4c29-b02f-a6bb93e02b59" x="132.021" y="13">NODE</tspan></text>
+  <rect class="a98e28a6-eb78-4120-bab4-a6ec2338436b" x="565" y="620.29" width="175" height="65"/>
+  <text class="f7fc7df0-7bf1-4fc4-b034-6a6ab5cd2dbf" transform="translate(580 642.7)">openstack overcloud<tspan x="0" y="13">upgrade run --limit </tspan><tspan class="a44e4d4a-178e-4c29-b02f-a6bb93e02b59"><tspan x="0" y="26">NODE,PREVIOUSNODE,etc</tspan></tspan></text>
+  <g>
+    <polyline class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" points="102.5 685.29 102.5 712.092 265.324 712.092"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="263.865 717.078 272.5 712.092 263.865 707.106 263.865 717.078"/>
+  </g>
+  <g>
+    <polyline class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" points="652.5 685.29 652.5 712.092 504.676 712.092"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="506.135 707.106 497.5 712.092 506.135 717.078 506.135 707.106"/>
+  </g>
+  <rect class="b5a7b41d-ebbd-4b88-b6c8-dba442adeab5" y="504.112" width="205" height="90"/>
+  <text class="f7fc7df0-7bf1-4fc4-b034-6a6ab5cd2dbf" transform="translate(15 526.022)">openstack overcloud<tspan x="0" y="13">external-upgrade run</tspan><tspan x="0" y="26">--playbook upgrade_steps_</tspan><tspan x="0" y="39">playbook.yaml --tags nova_</tspan><tspan x="0" y="52">hybrid_state--limit all</tspan></text>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="102.5" y1="594.112" x2="102.5" y2="610.415"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="97.514 608.956 102.5 617.591 107.486 608.956 97.514 608.956"/>
+  </g>
+  <circle class="ba9048a1-fe46-4b4d-9e2f-22333695af09" cx="385" cy="554.961" r="15"/>
+  <text class="a4452334-b06f-4dc6-9947-ba62b8540e8f" transform="translate(376.846 558.285)">No</text>
+  <text class="a118ea49-2337-477b-8b92-cbf3eb5eb8be" transform="translate(317.153 443.972)">Is this a bootstrap node?</text>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="214.812" y1="652.79" x2="275" y2="652.79"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="216.271 657.777 207.635 652.79 216.271 647.804 216.271 657.777"/>
+  </g>
+  <circle class="ba9048a1-fe46-4b4d-9e2f-22333695af09" cx="240.07" cy="652.79" r="15"/>
+  <text class="a4452334-b06f-4dc6-9947-ba62b8540e8f" transform="translate(231.917 656.114)">No</text>
+  <g>
+    <path class="bf64d171-575e-4f7c-9fa5-941ff3380e80" d="M290,667.29a14.5,14.5,0,0,1,0-29H480a14.5,14.5,0,0,1,0,29Z"/>
+    <path class="aa69a38e-40d6-4ca5-8871-eabd1cd6b3b0" d="M480,638.79a14,14,0,0,1,0,28H290a14,14,0,0,1,0-28H480m0-1H290a15,15,0,0,0,0,30H480a15,15,0,0,0,0-30Z"/>
+  </g>
+  <text class="a118ea49-2337-477b-8b92-cbf3eb5eb8be" transform="translate(294.803 656.114)">Is this a pacemaker-based node?</text>
+  <g>
+    <line class="a72957f3-a9c8-4ad9-b00c-21acd07c00e9" x1="385" y1="266.578" x2="385" y2="319.501"/>
+    <polygon class="bc135a12-6e6c-49ac-9311-0077717322ad" points="380.014 318.042 385 326.677 389.986 318.042 380.014 318.042"/>
+  </g>
+  <g>
+    <rect class="bf64d171-575e-4f7c-9fa5-941ff3380e80" x="275.5" y="217.078" width="219" height="49" rx="23.5"/>
+    <path class="aa69a38e-40d6-4ca5-8871-eabd1cd6b3b0" d="M471,217.578a23.026,23.026,0,0,1,23,23v2a23.026,23.026,0,0,1-23,23H299a23.026,23.026,0,0,1-23-23v-2a23.026,23.026,0,0,1,23-23H471m0-1H299a24.071,24.071,0,0,0-24,24v2a24.071,24.071,0,0,0,24,24H471a24.071,24.071,0,0,0,24-24v-2a24.071,24.071,0,0,0-24-24Z"/>
+  </g>
+  <circle class="ba9048a1-fe46-4b4d-9e2f-22333695af09" cx="385" cy="294.927" r="15"/>
+  <text class="a4452334-b06f-4dc6-9947-ba62b8540e8f" transform="translate(376.846 299.158)">No</text>
+  <text class="a118ea49-2337-477b-8b92-cbf3eb5eb8be" transform="translate(302.549 238.402)">Ceph containers on the node?<tspan x="17.502" y="13">(OSD, MON, MGR, etc.)</tspan></text>
+</svg>

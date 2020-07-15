@@ -1,0 +1,139 @@
+<svg id="b461b778-ff4f-455a-b26e-7cda565c2179" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="344.724" viewBox="0 0 760 344.724">
+  <defs>
+    <style>
+      .a2c93c40-279f-40b1-8b47-d259a98bd1e0, .a385ed96-d662-4634-be15-9c760e6a87d7 {
+        fill: #f3f3f3;
+      }
+
+      .f95aca8c-cb1a-4f13-9440-6edacd46ae62 {
+        fill: #cce0f5;
+      }
+
+      .f74dc62d-9776-4c92-9070-4301f63858d9 {
+        font-size: 12px;
+      }
+
+      .abc024d7-43e5-41df-a7c2-5239df32db12, .f74dc62d-9776-4c92-9070-4301f63858d9 {
+        fill: #151515;
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .be22d4fa-3632-47b0-a6ab-8997f3f349b7, .e7296a26-005f-49e9-8917-4e495f795f0c, .ebf97ad2-308d-43db-ab2c-cf0aea0a9123 {
+        fill: none;
+      }
+
+      .be22d4fa-3632-47b0-a6ab-8997f3f349b7 {
+        stroke: #06c;
+      }
+
+      .a8d4bace-bdde-4ee4-8e9f-342ec92b5611, .be22d4fa-3632-47b0-a6ab-8997f3f349b7, .ebf97ad2-308d-43db-ab2c-cf0aea0a9123 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .ba7a7a06-52b1-4613-9329-720b37649497 {
+        fill: #06c;
+      }
+
+      .abc024d7-43e5-41df-a7c2-5239df32db12 {
+        font-size: 11px;
+      }
+
+      .a242ed3a-a057-4aaa-93c3-46c5f8483329, .a8d4bace-bdde-4ee4-8e9f-342ec92b5611 {
+        fill: #fff;
+      }
+
+      .a8d4bace-bdde-4ee4-8e9f-342ec92b5611 {
+        stroke: #5b5b5b;
+        stroke-width: 1.5px;
+      }
+
+      .fd35ea1b-0e42-4c73-832a-48ebfa516ae6 {
+        fill: #99c2eb;
+      }
+
+      .ebf97ad2-308d-43db-ab2c-cf0aea0a9123 {
+        stroke: #151515;
+      }
+
+      .a385ed96-d662-4634-be15-9c760e6a87d7 {
+        font-size: 10px;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <rect class="a2c93c40-279f-40b1-8b47-d259a98bd1e0" y="19.724" width="760" height="285"/>
+  <rect class="f95aca8c-cb1a-4f13-9440-6edacd46ae62" x="542.221" y="123.569" width="60" height="50"/>
+  <text class="f74dc62d-9776-4c92-9070-4301f63858d9" transform="translate(627.221 68.999)">Core build</text>
+  <g>
+    <g>
+      <line class="be22d4fa-3632-47b0-a6ab-8997f3f349b7" x1="572.221" y1="183.224" x2="572.221" y2="207.29"/>
+      <polygon class="ba7a7a06-52b1-4613-9329-720b37649497" points="567.234 184.683 572.221 176.048 577.207 184.683 567.234 184.683"/>
+    </g>
+    <g>
+      <text class="abc024d7-43e5-41df-a7c2-5239df32db12" transform="translate(512.981 262.358)">Application developers</text>
+      <g>
+        <path class="a8d4bace-bdde-4ee4-8e9f-342ec92b5611" d="M591.289,245.79a19.068,19.068,0,1,0-38.135,0Z"/>
+        <ellipse class="a8d4bace-bdde-4ee4-8e9f-342ec92b5611" cx="572.221" cy="216.939" rx="9.573" ry="9.649"/>
+      </g>
+    </g>
+  </g>
+  <rect class="fd35ea1b-0e42-4c73-832a-48ebfa516ae6" x="527.221" y="108.387" width="60" height="50"/>
+  <g>
+    <rect class="a242ed3a-a057-4aaa-93c3-46c5f8483329" x="512.721" y="93.887" width="59" height="49"/>
+    <path class="ba7a7a06-52b1-4613-9329-720b37649497" d="M571.221,94.387v48h-58v-48h58m1-1h-60v50h60v-50Z"/>
+  </g>
+  <text class="f74dc62d-9776-4c92-9070-4301f63858d9" transform="translate(627.221 93.999)">Middleware</text>
+  <line class="ebf97ad2-308d-43db-ab2c-cf0aea0a9123" x1="623.416" y1="89.195" x2="579.474" y2="118.289"/>
+  <line class="ebf97ad2-308d-43db-ab2c-cf0aea0a9123" x1="623.356" y1="64.462" x2="557.859" y2="107.827"/>
+  <line class="ebf97ad2-308d-43db-ab2c-cf0aea0a9123" x1="623.416" y1="113.986" x2="594.114" y2="133.387"/>
+  <text class="f74dc62d-9776-4c92-9070-4301f63858d9" transform="translate(627.221 118.999)">Application</text>
+  <g>
+    <g>
+      <line class="be22d4fa-3632-47b0-a6ab-8997f3f349b7" x1="97.5" y1="153.224" x2="97.5" y2="207.29"/>
+      <polygon class="ba7a7a06-52b1-4613-9329-720b37649497" points="92.514 154.683 97.5 146.048 102.486 154.683 92.514 154.683"/>
+    </g>
+    <g>
+      <text class="abc024d7-43e5-41df-a7c2-5239df32db12" transform="translate(68.554 262.358)">Operations</text>
+      <g>
+        <path class="a8d4bace-bdde-4ee4-8e9f-342ec92b5611" d="M116.568,245.79a19.068,19.068,0,1,0-38.135,0Z"/>
+        <ellipse class="a8d4bace-bdde-4ee4-8e9f-342ec92b5611" cx="97.5" cy="216.939" rx="9.573" ry="9.649"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect class="a242ed3a-a057-4aaa-93c3-46c5f8483329" x="68" y="93.887" width="59" height="49"/>
+    <path class="ba7a7a06-52b1-4613-9329-720b37649497" d="M126.5,94.387v48h-58v-48h58m1-1h-60v50h60v-50Z"/>
+  </g>
+  <text class="f74dc62d-9776-4c92-9070-4301f63858d9" transform="translate(182.5 68.999)">Core build</text>
+  <g>
+    <g>
+      <g>
+        <line class="be22d4fa-3632-47b0-a6ab-8997f3f349b7" x1="331.134" y1="168.224" x2="331.134" y2="207.29"/>
+        <polygon class="ba7a7a06-52b1-4613-9329-720b37649497" points="326.148 169.683 331.134 161.048 336.12 169.683 326.148 169.683"/>
+      </g>
+      <g>
+        <text class="abc024d7-43e5-41df-a7c2-5239df32db12" transform="translate(304.46 262.358)">Architects</text>
+        <g>
+          <path class="a8d4bace-bdde-4ee4-8e9f-342ec92b5611" d="M350.2,245.79a19.068,19.068,0,1,0-38.135,0Z"/>
+          <ellipse class="a8d4bace-bdde-4ee4-8e9f-342ec92b5611" cx="331.134" cy="216.939" rx="9.573" ry="9.649"/>
+        </g>
+      </g>
+    </g>
+    <rect class="fd35ea1b-0e42-4c73-832a-48ebfa516ae6" x="301.134" y="108.387" width="60" height="50"/>
+    <g>
+      <rect class="a242ed3a-a057-4aaa-93c3-46c5f8483329" x="286.634" y="93.887" width="59" height="49"/>
+      <path class="ba7a7a06-52b1-4613-9329-720b37649497" d="M345.134,94.387v48h-58v-48h58m1-1h-60v50h60v-50Z"/>
+    </g>
+    <text class="f74dc62d-9776-4c92-9070-4301f63858d9" transform="translate(401.134 68.999)">Core build</text>
+    <text class="f74dc62d-9776-4c92-9070-4301f63858d9" transform="translate(401.134 93.999)">Middleware</text>
+    <line class="ebf97ad2-308d-43db-ab2c-cf0aea0a9123" x1="397.33" y1="89.195" x2="353.387" y2="118.289"/>
+    <line class="ebf97ad2-308d-43db-ab2c-cf0aea0a9123" x1="397.33" y1="64.462" x2="331.833" y2="107.827"/>
+  </g>
+  <line class="ebf97ad2-308d-43db-ab2c-cf0aea0a9123" x1="178.695" y1="64.462" x2="113.198" y2="107.827"/>
+  <g>
+    <text class="a385ed96-d662-4634-be15-9c760e6a87d7" transform="translate(664.872 327.084)">107_OpenShift_0720</text>
+    <rect class="e7296a26-005f-49e9-8917-4e495f795f0c" y="304.724" width="760" height="40"/>
+  </g>
+</svg>

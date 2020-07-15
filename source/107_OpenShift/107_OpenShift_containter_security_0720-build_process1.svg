@@ -1,0 +1,152 @@
+<svg id="a58901f4-d19b-4312-aac3-9dbe95f6b5f4" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="474.224" viewBox="0 0 760 474.224">
+  <defs>
+    <style>
+      .a10cb744-e344-4265-8a1d-1c6447eb83a1, .bb7b5d07-3d2a-45f6-85a8-0124d8fd7668 {
+        fill: #f3f3f3;
+      }
+
+      .acfc1b9d-6dd6-4493-ba8d-bd73ababdc43 {
+        font-size: 14px;
+      }
+
+      .a788c339-4072-41a4-a8c7-e78ef5acc79e, .a7e92a77-464c-4084-b0bd-a270677104e6, .acfc1b9d-6dd6-4493-ba8d-bd73ababdc43, .ba0d96ed-b933-4265-a26b-53bb9fe894b3, .f213b6b5-c3b0-4f11-a133-e4aaeba43ab1 {
+        fill: #151515;
+      }
+
+      .acfc1b9d-6dd6-4493-ba8d-bd73ababdc43, .f213b6b5-c3b0-4f11-a133-e4aaeba43ab1 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .fbdc1166-ef58-4255-b7ad-7da3d4c7be2f {
+        fill: #dcdcdc;
+      }
+
+      .ba0d96ed-b933-4265-a26b-53bb9fe894b3, .f213b6b5-c3b0-4f11-a133-e4aaeba43ab1 {
+        font-size: 12px;
+      }
+
+      .a7e92a77-464c-4084-b0bd-a270677104e6, .ba0d96ed-b933-4265-a26b-53bb9fe894b3, .e1f98050-90ef-4e71-8544-6401acaed8e7 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .a36ff3ef-982f-41ee-8b20-0ac20ee4f61b, .a4a6c8f1-d179-4e1f-b42d-b065ad536b6e, .bd74de6d-2149-44c0-8e55-c8fd1fb06ad0 {
+        fill: none;
+      }
+
+      .bd74de6d-2149-44c0-8e55-c8fd1fb06ad0 {
+        stroke: #06c;
+      }
+
+      .aa9507a5-909d-42c6-9d89-27a9761f87cf, .bd74de6d-2149-44c0-8e55-c8fd1fb06ad0 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .eeb39b31-4d3b-4c7a-a5d2-e1860f960f04 {
+        fill: #06c;
+      }
+
+      .a788c339-4072-41a4-a8c7-e78ef5acc79e, .a7e92a77-464c-4084-b0bd-a270677104e6, .b42d30e6-ac9f-4299-bb40-a8e16dddce0a, .e1f98050-90ef-4e71-8544-6401acaed8e7 {
+        font-size: 11px;
+      }
+
+      .a788c339-4072-41a4-a8c7-e78ef5acc79e {
+        font-family: RedHatText-Italic, Red Hat Text;
+        font-style: italic;
+      }
+
+      .a78a6f53-becd-4158-ac67-c249e14b35c2, .aa9507a5-909d-42c6-9d89-27a9761f87cf {
+        fill: #fff;
+      }
+
+      .b42d30e6-ac9f-4299-bb40-a8e16dddce0a {
+        letter-spacing: 0em;
+      }
+
+      .ac43c4ae-e543-4f69-9cbf-ea57b5384f35 {
+        fill: #e8e8e8;
+      }
+
+      .aa9507a5-909d-42c6-9d89-27a9761f87cf {
+        stroke: #5b5b5b;
+        stroke-width: 1.5px;
+      }
+
+      .a4a6c8f1-d179-4e1f-b42d-b065ad536b6e {
+        stroke: #dcdcdc;
+        stroke-miterlimit: 10;
+      }
+
+      .a10cb744-e344-4265-8a1d-1c6447eb83a1 {
+        font-size: 10px;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <rect class="bb7b5d07-3d2a-45f6-85a8-0124d8fd7668" y="19.724" width="760" height="99"/>
+  <text class="acfc1b9d-6dd6-4493-ba8d-bd73ababdc43" transform="translate(19.5 51.512)">Development</text>
+  <rect class="bb7b5d07-3d2a-45f6-85a8-0124d8fd7668" y="133.724" width="760" height="99"/>
+  <text class="acfc1b9d-6dd6-4493-ba8d-bd73ababdc43" transform="translate(19.5 165.512)">Build</text>
+  <rect class="bb7b5d07-3d2a-45f6-85a8-0124d8fd7668" y="247.724" width="760" height="186.5"/>
+  <text class="acfc1b9d-6dd6-4493-ba8d-bd73ababdc43" transform="translate(19.5 279.512)">Deployment</text>
+  <rect class="fbdc1166-ef58-4255-b7ad-7da3d4c7be2f" x="357.486" y="44.845" width="175" height="50"/>
+  <text class="ba0d96ed-b933-4265-a26b-53bb9fe894b3" transform="translate(405.741 73.169)">Git repository</text>
+  <g>
+    <line class="bd74de6d-2149-44c0-8e55-c8fd1fb06ad0" x1="347.65" y1="69.845" x2="193.637" y2="69.845"/>
+    <polygon class="eeb39b31-4d3b-4c7a-a5d2-e1860f960f04" points="346.191 64.858 354.826 69.845 346.191 74.831 346.191 64.858"/>
+  </g>
+  <text class="a788c339-4072-41a4-a8c7-e78ef5acc79e" transform="translate(229.031 61.817)">Configure triggers</text>
+  <g>
+    <line class="bd74de6d-2149-44c0-8e55-c8fd1fb06ad0" x1="554.796" y1="184.345" x2="532.486" y2="184.345"/>
+    <polygon class="eeb39b31-4d3b-4c7a-a5d2-e1860f960f04" points="553.337 179.358 561.972 184.345 553.337 189.331 553.337 179.358"/>
+  </g>
+  <g>
+    <polyline class="bd74de6d-2149-44c0-8e55-c8fd1fb06ad0" points="532.486 69.845 654.472 69.845 654.472 149.668"/>
+    <polygon class="eeb39b31-4d3b-4c7a-a5d2-e1860f960f04" points="649.486 148.209 654.472 156.845 659.458 148.209 649.486 148.209"/>
+  </g>
+  <g>
+    <polyline class="bd74de6d-2149-44c0-8e55-c8fd1fb06ad0" points="542.162 341.845 654.472 341.845 654.472 209.345"/>
+    <polygon class="eeb39b31-4d3b-4c7a-a5d2-e1860f960f04" points="543.621 346.831 534.986 341.845 543.621 336.858 543.621 346.831"/>
+  </g>
+  <g>
+    <line class="bd74de6d-2149-44c0-8e55-c8fd1fb06ad0" x1="347.65" y1="184.345" x2="325.34" y2="184.345"/>
+    <polygon class="eeb39b31-4d3b-4c7a-a5d2-e1860f960f04" points="346.191 179.358 354.826 184.345 346.191 189.331 346.191 179.358"/>
+  </g>
+  <rect class="fbdc1166-ef58-4255-b7ad-7da3d4c7be2f" x="150.5" y="274.345" width="175" height="135"/>
+  <rect class="a78a6f53-becd-4158-ac67-c249e14b35c2" x="165.5" y="309.345" width="145" height="85" transform="translate(476 703.689) rotate(-180)"/>
+  <text class="f213b6b5-c3b0-4f11-a133-e4aaeba43ab1" transform="translate(165.5 299.449)">Node <tspan class="e1f98050-90ef-4e71-8544-6401acaed8e7" x="34.284" y="0">(xN)</tspan></text>
+  <text class="ba0d96ed-b933-4265-a26b-53bb9fe894b3" transform="translate(175.5 329.449)">Pod <tspan class="b42d30e6-ac9f-4299-bb40-a8e16dddce0a" x="25.343" y="0">(xN)</tspan></text>
+  <rect class="ac43c4ae-e543-4f69-9cbf-ea57b5384f35" x="175.5" y="339.345" width="125" height="45" transform="translate(476 723.689) rotate(-180)"/>
+  <text class="ba0d96ed-b933-4265-a26b-53bb9fe894b3" transform="translate(191.489 365.168)">Container image</text>
+  <g>
+    <line class="bd74de6d-2149-44c0-8e55-c8fd1fb06ad0" x1="357.326" y1="341.845" x2="335.176" y2="341.845"/>
+    <polygon class="eeb39b31-4d3b-4c7a-a5d2-e1860f960f04" points="336.635 336.858 328 341.845 336.635 346.831 336.635 336.858"/>
+  </g>
+  <rect class="fbdc1166-ef58-4255-b7ad-7da3d4c7be2f" x="357.486" y="159.345" width="175" height="50"/>
+  <text class="ba0d96ed-b933-4265-a26b-53bb9fe894b3" transform="translate(406.329 187.013)">Builder image</text>
+  <rect class="fbdc1166-ef58-4255-b7ad-7da3d4c7be2f" x="150.5" y="159.345" width="175" height="50"/>
+  <text class="ba0d96ed-b933-4265-a26b-53bb9fe894b3" transform="translate(186.749 187.669)">Container registry</text>
+  <g>
+    <rect class="a78a6f53-becd-4158-ac67-c249e14b35c2" x="564.972" y="159.845" width="174" height="49"/>
+    <path class="eeb39b31-4d3b-4c7a-a5d2-e1860f960f04" d="M738.472,160.345v48h-173v-48h173m1-1h-175v50h175v-50Z"/>
+  </g>
+  <text class="ba0d96ed-b933-4265-a26b-53bb9fe894b3" transform="translate(640.12 187.669)">Build</text>
+  <g>
+    <text class="a7e92a77-464c-4084-b0bd-a270677104e6" transform="translate(150.5 96.17)">Developer</text>
+    <g>
+      <path class="aa9507a5-909d-42c6-9d89-27a9761f87cf" d="M196.281,79.6a19.068,19.068,0,1,0-38.135,0Z"/>
+      <ellipse class="aa9507a5-909d-42c6-9d89-27a9761f87cf" cx="177.214" cy="50.751" rx="9.573" ry="9.649"/>
+    </g>
+  </g>
+  <rect class="a4a6c8f1-d179-4e1f-b42d-b065ad536b6e" x="357.486" y="274.345" width="175" height="135" transform="translate(889.972 683.689) rotate(-180)"/>
+  <rect class="fbdc1166-ef58-4255-b7ad-7da3d4c7be2f" x="372.486" y="289.345" width="145" height="50"/>
+  <text class="ba0d96ed-b933-4265-a26b-53bb9fe894b3" transform="translate(412.688 317.012)">Base image</text>
+  <rect class="fbdc1166-ef58-4255-b7ad-7da3d4c7be2f" x="372.486" y="344.345" width="145" height="50"/>
+  <text class="ba0d96ed-b933-4265-a26b-53bb9fe894b3" transform="translate(429.962 372.012)">Code</text>
+  <g>
+    <text class="a10cb744-e344-4265-8a1d-1c6447eb83a1" transform="translate(664.872 456.584)">107_OpenShift_0720</text>
+    <rect class="a36ff3ef-982f-41ee-8b20-0ac20ee4f61b" y="434.224" width="760" height="40"/>
+  </g>
+</svg>

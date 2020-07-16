@@ -1,0 +1,80 @@
+<svg id="e7e29ab3-8e1b-408d-929a-53b6d9147d3f" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="269" viewBox="0 0 760 269">
+  <defs>
+    <style>
+      .b7294187-e288-47fe-95e0-530f31acf8a4 {
+        font-size: 10px;
+        fill: #f3f3f3;
+      }
+
+      .b52b0a7d-5450-402f-9e7e-38112504e6ca, .b7294187-e288-47fe-95e0-530f31acf8a4, .e851f412-aaf5-41de-ae02-9ebfb0361c6d {
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .e67e4483-fa0b-4ae6-82f2-253e8eb859d8 {
+        fill: none;
+      }
+
+      .be930b43-8ea1-4059-bf50-76d4aabf8142 {
+        fill: #e8e8e8;
+      }
+
+      .fe622b64-66f2-4845-93e7-965dcd5bf066 {
+        font-size: 16px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .a2d9be55-ec19-44ef-9b6f-ee7b351de65d, .fe622b64-66f2-4845-93e7-965dcd5bf066 {
+        fill: #151515;
+      }
+
+      .b52b0a7d-5450-402f-9e7e-38112504e6ca, .e851f412-aaf5-41de-ae02-9ebfb0361c6d {
+        font-weight: 400;
+      }
+
+      .b52b0a7d-5450-402f-9e7e-38112504e6ca {
+        letter-spacing: 0em;
+      }
+
+      .f03cf86f-07b7-41f3-9bac-38eefb90e5fc {
+        fill: #fff;
+      }
+
+      .a2d9be55-ec19-44ef-9b6f-ee7b351de65d, .ed9a16e4-0b2d-4db5-b84f-bc73f9eee72b {
+        font-size: 12px;
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .fe49c685-a488-4555-9f89-1fc486fb3d28 {
+        fill: #d9e8f7;
+      }
+
+      .ed9a16e4-0b2d-4db5-b84f-bc73f9eee72b {
+        fill: #b9b9b9;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="b7294187-e288-47fe-95e0-530f31acf8a4" transform="translate(628.182 252.017)">96_RHEL_0720</text>
+    <rect class="e67e4483-fa0b-4ae6-82f2-253e8eb859d8" y="229" width="700" height="40"/>
+  </g>
+  <rect class="be930b43-8ea1-4059-bf50-76d4aabf8142" y="20.5" width="700" height="208.5"/>
+  <text class="fe622b64-66f2-4845-93e7-965dcd5bf066" transform="translate(25 58.972)">Disk <tspan class="b52b0a7d-5450-402f-9e7e-38112504e6ca" x="38.048" y="0">(MBR table)</tspan></text>
+  <rect class="f03cf86f-07b7-41f3-9bac-38eefb90e5fc" x="25" y="83.824" width="160" height="120"/>
+  <text class="a2d9be55-ec19-44ef-9b6f-ee7b351de65d" transform="translate(57.175 112.148)">Primary partition<tspan class="e851f412-aaf5-41de-ae02-9ebfb0361c6d"><tspan x="30.048" y="15">(DOS)</tspan></tspan></text>
+  <rect class="fe49c685-a488-4555-9f89-1fc486fb3d28" x="35" y="144" width="140" height="50"/>
+  <text class="a2d9be55-ec19-44ef-9b6f-ee7b351de65d" transform="translate(73.236 164.824)">File system<tspan class="e851f412-aaf5-41de-ae02-9ebfb0361c6d"><tspan x="8.826" y="15">(FAT32)</tspan></tspan></text>
+  <rect class="f03cf86f-07b7-41f3-9bac-38eefb90e5fc" x="195" y="83.824" width="160" height="120"/>
+  <text class="a2d9be55-ec19-44ef-9b6f-ee7b351de65d" transform="translate(227.925 112.148)">Unused partition</text>
+  <path class="be930b43-8ea1-4059-bf50-76d4aabf8142" d="M344,145v48H206V145H344m1-1H205v50H345V144Z"/>
+  <text class="ed9a16e4-0b2d-4db5-b84f-bc73f9eee72b" transform="translate(243.236 164.824)">File system<tspan class="e851f412-aaf5-41de-ae02-9ebfb0361c6d"><tspan x="6.51" y="15">(Unused)</tspan></tspan></text>
+  <rect class="f03cf86f-07b7-41f3-9bac-38eefb90e5fc" x="365" y="82.824" width="150" height="120"/>
+  <text class="a2d9be55-ec19-44ef-9b6f-ee7b351de65d" transform="translate(392.925 111.148)">Unused partition</text>
+  <path class="be930b43-8ea1-4059-bf50-76d4aabf8142" d="M504,144v48H376V144H504m1-1H375v50H505V143Z"/>
+  <text class="ed9a16e4-0b2d-4db5-b84f-bc73f9eee72b" transform="translate(408.236 163.824)">File system<tspan class="e851f412-aaf5-41de-ae02-9ebfb0361c6d"><tspan x="6.51" y="15">(Unused)</tspan></tspan></text>
+  <rect class="f03cf86f-07b7-41f3-9bac-38eefb90e5fc" x="525" y="82.824" width="150" height="120"/>
+  <text class="a2d9be55-ec19-44ef-9b6f-ee7b351de65d" transform="translate(552.925 111.148)">Unused partition</text>
+  <path class="be930b43-8ea1-4059-bf50-76d4aabf8142" d="M664,144v48H536V144H664m1-1H535v50H665V143Z"/>
+  <text class="ed9a16e4-0b2d-4db5-b84f-bc73f9eee72b" transform="translate(568.236 163.824)">File system<tspan class="e851f412-aaf5-41de-ae02-9ebfb0361c6d"><tspan x="6.51" y="15">(Unused)</tspan></tspan></text>
+</svg>

@@ -1,0 +1,158 @@
+<svg id="f20976a0-dd32-40a7-a31b-d1768153b341" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="500.5" viewBox="0 0 760 500.5">
+  <defs>
+    <style>
+      .b532eb10-c26e-4ed9-ab5b-6ec3b9601d56 {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .a9f0c3ac-074d-4737-9724-4bc51b08a7fe, .b090469c-7745-4b1c-b3c3-5c28014a12e0, .be0ec2cc-e604-45f5-a01b-0cb7724ef2a4, .fd1096bd-61a0-47d5-9ff5-8688adf4fe73 {
+        fill: none;
+      }
+
+      .afeac1cf-6c4c-457a-b7f5-db296569e071 {
+        fill: #e8e8e8;
+      }
+
+      .becab1ca-5c1d-4077-8ae2-e60b0fa13ce9 {
+        font-size: 12px;
+      }
+
+      .a6f9c12b-6215-4b0c-8f36-c855c6a06221, .b21b5cd1-1d81-4388-96d6-802bb74965d6, .b4f5f7b8-3a28-4758-a051-5c684de68a7c, .bc3dcc09-2d4a-4fc0-993b-3becb11a6a20, .becab1ca-5c1d-4077-8ae2-e60b0fa13ce9 {
+        fill: #151515;
+      }
+
+      .b21b5cd1-1d81-4388-96d6-802bb74965d6, .becab1ca-5c1d-4077-8ae2-e60b0fa13ce9 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .a6f9c12b-6215-4b0c-8f36-c855c6a06221, .b21b5cd1-1d81-4388-96d6-802bb74965d6 {
+        font-size: 11px;
+      }
+
+      .a6f9c12b-6215-4b0c-8f36-c855c6a06221 {
+        font-family: LiberationMono, Liberation Mono;
+      }
+
+      .be808332-9208-4599-9ed7-cf418bdeee61 {
+        fill: #fff;
+      }
+
+      .be0ec2cc-e604-45f5-a01b-0cb7724ef2a4, .be808332-9208-4599-9ed7-cf418bdeee61, .fd1096bd-61a0-47d5-9ff5-8688adf4fe73 {
+        stroke: #5b5b5b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .be0ec2cc-e604-45f5-a01b-0cb7724ef2a4, .be808332-9208-4599-9ed7-cf418bdeee61 {
+        stroke-width: 1.5px;
+      }
+
+      .fd1096bd-61a0-47d5-9ff5-8688adf4fe73 {
+        stroke-width: 2px;
+      }
+
+      .b090469c-7745-4b1c-b3c3-5c28014a12e0 {
+        stroke: #151515;
+        stroke-miterlimit: 10;
+      }
+
+      .bc3dcc09-2d4a-4fc0-993b-3becb11a6a20 {
+        font-size: 14px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="b532eb10-c26e-4ed9-ab5b-6ec3b9601d56" transform="translate(688.182 483.517)">96_RHEL_0720</text>
+    <rect class="a9f0c3ac-074d-4737-9724-4bc51b08a7fe" y="460.5" width="760" height="40"/>
+  </g>
+  <rect class="afeac1cf-6c4c-457a-b7f5-db296569e071" x="160" y="20.5" width="120" height="80"/>
+  <path class="afeac1cf-6c4c-457a-b7f5-db296569e071" d="M759,126.5v228H1v-228H759m1-1H0v230H760v-230Z"/>
+  <path class="afeac1cf-6c4c-457a-b7f5-db296569e071" d="M759,371.5v88H1v-88H759m1-1H0v90H760v-90Z"/>
+  <g>
+    <rect class="afeac1cf-6c4c-457a-b7f5-db296569e071" x="160" y="390.5" width="120" height="50"/>
+    <text class="becab1ca-5c1d-4077-8ae2-e60b0fa13ce9" transform="translate(195.413 418.824)">Program</text>
+  </g>
+  <g>
+    <rect class="afeac1cf-6c4c-457a-b7f5-db296569e071" x="542.654" y="390.5" width="120" height="50"/>
+    <text class="a6f9c12b-6215-4b0c-8f36-c855c6a06221" transform="translate(566.349 418.824)">cachefilesd</text>
+  </g>
+  <g>
+    <rect class="afeac1cf-6c4c-457a-b7f5-db296569e071" x="466.123" y="158" width="120" height="50"/>
+    <text class="a6f9c12b-6215-4b0c-8f36-c855c6a06221" transform="translate(493.119 186.324)">cachefiles</text>
+  </g>
+  <g>
+    <rect class="afeac1cf-6c4c-457a-b7f5-db296569e071" x="313.061" y="158" width="120" height="50"/>
+    <text class="becab1ca-5c1d-4077-8ae2-e60b0fa13ce9" transform="translate(344.958 186.324)">FS-Cache</text>
+  </g>
+  <g>
+    <text class="b21b5cd1-1d81-4388-96d6-802bb74965d6" transform="translate(202.958 74.464)">Server</text>
+    <g>
+      <rect class="be808332-9208-4599-9ed7-cf418bdeee61" x="192.5" y="44.119" width="55" height="13.75"/>
+      <line class="fd1096bd-61a0-47d5-9ff5-8688adf4fe73" x1="241.621" y1="50.015" x2="241.621" y2="50.015"/>
+      <line class="be0ec2cc-e604-45f5-a01b-0cb7724ef2a4" x1="199.236" y1="51.976" x2="207.486" y2="51.976"/>
+    </g>
+  </g>
+  <rect class="afeac1cf-6c4c-457a-b7f5-db296569e071" x="160" y="145.5" width="120" height="80"/>
+  <g>
+    <text class="b21b5cd1-1d81-4388-96d6-802bb74965d6" transform="translate(208.825 207.899)">NFS</text>
+    <g>
+      <path class="be808332-9208-4599-9ed7-cf418bdeee61" d="M201.551,170.876v10.192c0,5.629,8.26,10.192,18.449,10.192s18.449-4.563,18.449-10.192V170.876"/>
+      <ellipse class="be808332-9208-4599-9ed7-cf418bdeee61" cx="220" cy="170.876" rx="18.449" ry="10.192"/>
+    </g>
+  </g>
+  <rect class="afeac1cf-6c4c-457a-b7f5-db296569e071" x="619.184" y="145.5" width="120" height="80"/>
+  <g>
+    <text class="b21b5cd1-1d81-4388-96d6-802bb74965d6" transform="translate(667.481 207.899)">ext3</text>
+    <g>
+      <path class="be808332-9208-4599-9ed7-cf418bdeee61" d="M660.735,170.876v10.192c0,5.629,8.26,10.192,18.449,10.192s18.449-4.563,18.449-10.192V170.876"/>
+      <ellipse class="be808332-9208-4599-9ed7-cf418bdeee61" cx="679.184" cy="170.876" rx="18.449" ry="10.192"/>
+    </g>
+  </g>
+  <g>
+    <line class="b090469c-7745-4b1c-b3c3-5c28014a12e0" x1="280" y1="183" x2="303.385" y2="183"/>
+    <polygon class="b4f5f7b8-3a28-4758-a051-5c684de68a7c" points="301.926 187.986 310.561 183 301.926 178.014 301.926 187.986"/>
+  </g>
+  <g>
+    <line class="b090469c-7745-4b1c-b3c3-5c28014a12e0" x1="433.061" y1="183" x2="456.447" y2="183"/>
+    <polygon class="b4f5f7b8-3a28-4758-a051-5c684de68a7c" points="454.988 187.986 463.623 183 454.988 178.014 454.988 187.986"/>
+  </g>
+  <g>
+    <line class="b090469c-7745-4b1c-b3c3-5c28014a12e0" x1="586.123" y1="183" x2="609.508" y2="183"/>
+    <polygon class="b4f5f7b8-3a28-4758-a051-5c684de68a7c" points="608.049 187.986 616.684 183 608.049 178.014 608.049 187.986"/>
+  </g>
+  <g>
+    <line class="b090469c-7745-4b1c-b3c3-5c28014a12e0" x1="220" y1="225.5" x2="220" y2="245.824"/>
+    <polygon class="b4f5f7b8-3a28-4758-a051-5c684de68a7c" points="215.014 244.365 220 253 224.986 244.365 215.014 244.365"/>
+  </g>
+  <text class="bc3dcc09-2d4a-4fc0-993b-3becb11a6a20" transform="translate(20 156.288)">Kernel space</text>
+  <text class="bc3dcc09-2d4a-4fc0-993b-3becb11a6a20" transform="translate(20 401.288)">User space</text>
+  <g>
+    <line class="b090469c-7745-4b1c-b3c3-5c28014a12e0" x1="220" y1="335.5" x2="220" y2="380.824"/>
+    <polygon class="b4f5f7b8-3a28-4758-a051-5c684de68a7c" points="215.014 379.365 220 388 224.986 379.365 215.014 379.365"/>
+  </g>
+  <g>
+    <line class="b090469c-7745-4b1c-b3c3-5c28014a12e0" x1="220" y1="100.5" x2="220" y2="135.552"/>
+    <polygon class="b4f5f7b8-3a28-4758-a051-5c684de68a7c" points="215.014 134.093 220 142.728 224.986 134.093 215.014 134.093"/>
+  </g>
+  <g>
+    <polyline class="b090469c-7745-4b1c-b3c3-5c28014a12e0" points="612.654 380.824 612.654 245.5 679.185 245.5 679.185 225.5"/>
+    <polygon class="b4f5f7b8-3a28-4758-a051-5c684de68a7c" points="617.64 379.365 612.654 388 607.667 379.365 617.64 379.365"/>
+  </g>
+  <g>
+    <polyline class="b090469c-7745-4b1c-b3c3-5c28014a12e0" points="592.654 380.824 592.654 245.5 526.123 245.5 526.123 208"/>
+    <polygon class="b4f5f7b8-3a28-4758-a051-5c684de68a7c" points="597.64 379.365 592.654 388 587.667 379.365 597.64 379.365"/>
+  </g>
+  <rect class="afeac1cf-6c4c-457a-b7f5-db296569e071" x="160" y="255.5" width="120" height="80"/>
+  <g>
+    <text class="b21b5cd1-1d81-4388-96d6-802bb74965d6" transform="translate(209.177 317.899)">VFS</text>
+    <g>
+      <path class="be808332-9208-4599-9ed7-cf418bdeee61" d="M201.551,280.876v10.192c0,5.629,8.26,10.192,18.449,10.192s18.449-4.563,18.449-10.192V280.876"/>
+      <ellipse class="be808332-9208-4599-9ed7-cf418bdeee61" cx="220" cy="280.876" rx="18.449" ry="10.192"/>
+    </g>
+  </g>
+</svg>

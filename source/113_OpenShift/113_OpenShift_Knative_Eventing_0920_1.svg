@@ -1,0 +1,161 @@
+<svg id="fb309f6e-c6f0-46f0-b772-2ed5c64c344e" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="298.011" viewBox="0 0 760 298.011">
+  <defs>
+    <style>
+      .ea63fcdc-2ec1-4313-b3e7-5ab6d2339734 {
+        font-size: 10px;
+        fill: #f3f3f3;
+      }
+
+      .aa6762ec-5057-40a5-a767-f7604f0c8fa6, .ea63fcdc-2ec1-4313-b3e7-5ab6d2339734 {
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .aaa9e9b4-dead-4544-b187-637ac14f0840, .b96231d0-8fa1-41b4-8ff7-e0fc6a72f5e2, .fec0d201-ed1f-4ef8-b031-335b4678855f {
+        fill: none;
+      }
+
+      .aaa9e9b4-dead-4544-b187-637ac14f0840 {
+        stroke: #e8e8e8;
+      }
+
+      .aaa9e9b4-dead-4544-b187-637ac14f0840, .fec0d201-ed1f-4ef8-b031-335b4678855f {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .fec0d201-ed1f-4ef8-b031-335b4678855f {
+        stroke: #151515;
+      }
+
+      .a0165bb6-f916-4bcb-b573-22e0b7272ebc, .ec73ffa0-0c7d-442d-abd8-da3d0c83f8b1, .fe0e7ce8-6e2c-4166-862e-f29abee6fada {
+        fill: #151515;
+      }
+
+      .eac691c5-230f-46b2-8d83-5be9b86c25db {
+        fill: #e8e8e8;
+      }
+
+      .a0165bb6-f916-4bcb-b573-22e0b7272ebc, .bb919317-a899-4225-8fc7-dab97677c7d2, .ec73ffa0-0c7d-442d-abd8-da3d0c83f8b1 {
+        font-size: 11px;
+      }
+
+      .bb919317-a899-4225-8fc7-dab97677c7d2, .ec73ffa0-0c7d-442d-abd8-da3d0c83f8b1 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .b9da1a3a-eb8c-4001-baef-39d4dea37675 {
+        fill: #06c;
+      }
+
+      .bb919317-a899-4225-8fc7-dab97677c7d2 {
+        fill: #fff;
+      }
+
+      .b9779057-dcb5-4950-a661-c6dc32b685fa {
+        fill: #f2f7fc;
+      }
+
+      .a0165bb6-f916-4bcb-b573-22e0b7272ebc {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .f4a25425-3da4-4ec2-a72f-fd4e1826cfe5 {
+        fill: #cce0f5;
+      }
+
+      .aa6762ec-5057-40a5-a767-f7604f0c8fa6 {
+        font-weight: 400;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="ea63fcdc-2ec1-4313-b3e7-5ab6d2339734" transform="translate(667.512 281.029)">113_OpenShift_0920</text>
+    <rect class="b96231d0-8fa1-41b4-8ff7-e0fc6a72f5e2" y="258.011" width="760" height="40"/>
+  </g>
+  <line class="aaa9e9b4-dead-4544-b187-637ac14f0840" x1="757.221" y1="53.5" x2="0.5" y2="53.5"/>
+  <g>
+    <polyline class="fec0d201-ed1f-4ef8-b031-335b4678855f" points="407.837 103 305 103 305 163"/>
+    <polygon class="fe0e7ce8-6e2c-4166-862e-f29abee6fada" points="406.378 98.014 415.014 103 406.378 107.986 406.378 98.014"/>
+  </g>
+  <rect class="eac691c5-230f-46b2-8d83-5be9b86c25db" y="78" width="115" height="50" transform="translate(115 206) rotate(-180)"/>
+  <text class="ec73ffa0-0c7d-442d-abd8-da3d0c83f8b1" transform="translate(36.213 106.324)">Source 1</text>
+  <rect class="eac691c5-230f-46b2-8d83-5be9b86c25db" y="208" width="115" height="50" transform="translate(115 466) rotate(-180)"/>
+  <text class="ec73ffa0-0c7d-442d-abd8-da3d0c83f8b1" transform="translate(34.959 236.324)">Source 2</text>
+  <g>
+    <rect class="b9da1a3a-eb8c-4001-baef-39d4dea37675" x="645" y="78" width="115" height="50" transform="translate(1405 206) rotate(-180)"/>
+    <text class="bb919317-a899-4225-8fc7-dab97677c7d2" transform="translate(691.448 106.324)">Sink</text>
+  </g>
+  <line class="fec0d201-ed1f-4ef8-b031-335b4678855f" x1="57.155" y1="208" x2="57.155" y2="128"/>
+  <g>
+    <line class="fec0d201-ed1f-4ef8-b031-335b4678855f" x1="237.824" y1="168" x2="57.872" y2="168"/>
+    <polygon class="fe0e7ce8-6e2c-4166-862e-f29abee6fada" points="236.365 163.014 245 168 236.365 172.986 236.365 163.014"/>
+  </g>
+  <g>
+    <line class="fec0d201-ed1f-4ef8-b031-335b4678855f" x1="635.328" y1="103" x2="532.371" y2="103"/>
+    <polygon class="fe0e7ce8-6e2c-4166-862e-f29abee6fada" points="633.869 98.014 642.505 103 633.869 107.986 633.869 98.014"/>
+  </g>
+  <g>
+    <g>
+      <g>
+        <path class="b9779057-dcb5-4950-a661-c6dc32b685fa" d="M570,115a12,12,0,1,1,12-12A12.014,12.014,0,0,1,570,115Z"/>
+        <path class="b9da1a3a-eb8c-4001-baef-39d4dea37675" d="M570,91.5a11.5,11.5,0,1,1-11.5,11.5A11.514,11.514,0,0,1,570,91.5m0-1a12.5,12.5,0,1,0,12.5,12.5A12.5,12.5,0,0,0,570,90.5Z"/>
+      </g>
+      <text class="a0165bb6-f916-4bcb-b573-22e0b7272ebc" transform="translate(566.721 105.953)">2</text>
+    </g>
+    <g>
+      <g>
+        <path class="b9779057-dcb5-4950-a661-c6dc32b685fa" d="M605,115a12,12,0,1,1,12-12A12.014,12.014,0,0,1,605,115Z"/>
+        <path class="b9da1a3a-eb8c-4001-baef-39d4dea37675" d="M605,91.5a11.5,11.5,0,1,1-11.5,11.5A11.514,11.514,0,0,1,605,91.5m0-1a12.5,12.5,0,1,0,12.5,12.5A12.5,12.5,0,0,0,605,90.5Z"/>
+      </g>
+      <text class="a0165bb6-f916-4bcb-b573-22e0b7272ebc" transform="translate(601.721 105.953)">2</text>
+    </g>
+  </g>
+  <path class="eac691c5-230f-46b2-8d83-5be9b86c25db" d="M130.078,168a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,130.078,168Z"/>
+  <text class="a0165bb6-f916-4bcb-b573-22e0b7272ebc" transform="translate(114.294 170.953)">2</text>
+  <g>
+    <path class="eac691c5-230f-46b2-8d83-5be9b86c25db" d="M165.078,168a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,165.078,168Z"/>
+    <text class="a0165bb6-f916-4bcb-b573-22e0b7272ebc" transform="translate(150.46 170.953)">1</text>
+  </g>
+  <g>
+    <path class="eac691c5-230f-46b2-8d83-5be9b86c25db" d="M200.078,168a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,200.078,168Z"/>
+    <text class="a0165bb6-f916-4bcb-b573-22e0b7272ebc" transform="translate(184.294 170.953)">2</text>
+  </g>
+  <g>
+    <polyline class="fec0d201-ed1f-4ef8-b031-335b4678855f" points="407.837 233 305 233 305 173"/>
+    <polygon class="fe0e7ce8-6e2c-4166-862e-f29abee6fada" points="406.378 228.014 415.014 233 406.378 237.986 406.378 228.014"/>
+  </g>
+  <g>
+    <rect class="b9da1a3a-eb8c-4001-baef-39d4dea37675" x="645" y="208" width="115" height="50" transform="translate(1405 466) rotate(-180)"/>
+    <text class="bb919317-a899-4225-8fc7-dab97677c7d2" transform="translate(691.448 236.325)">Sink</text>
+  </g>
+  <g>
+    <line class="fec0d201-ed1f-4ef8-b031-335b4678855f" x1="635.328" y1="233" x2="532.371" y2="233"/>
+    <polygon class="fe0e7ce8-6e2c-4166-862e-f29abee6fada" points="633.869 228.014 642.505 233 633.869 237.986 633.869 228.014"/>
+  </g>
+  <g>
+    <path class="f4a25425-3da4-4ec2-a72f-fd4e1826cfe5" d="M600.005,233a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,600.005,233Z"/>
+    <text class="a0165bb6-f916-4bcb-b573-22e0b7272ebc" transform="translate(585.387 235.953)">1</text>
+  </g>
+  <rect class="eac691c5-230f-46b2-8d83-5be9b86c25db" x="247.5" y="143" width="115" height="50" transform="translate(610 336) rotate(-180)"/>
+  <text class="ec73ffa0-0c7d-442d-abd8-da3d0c83f8b1" transform="translate(287.433 171.047)">Broker</text>
+  <g>
+    <g>
+      <path class="f4a25425-3da4-4ec2-a72f-fd4e1826cfe5" d="M.147,29a9,9,0,1,0,9-9A9,9,0,0,0,.147,29Z"/>
+      <g>
+        <path class="b9779057-dcb5-4950-a661-c6dc32b685fa" d="M30.748,37.5a8.5,8.5,0,1,1,8.5-8.5A8.509,8.509,0,0,1,30.748,37.5Z"/>
+        <path class="b9da1a3a-eb8c-4001-baef-39d4dea37675" d="M30.747,21a8,8,0,1,1-8,8,8.009,8.009,0,0,1,8-8m0-1a9,9,0,1,0,9,9,9,9,0,0,0-9-9Z"/>
+      </g>
+      <path class="eac691c5-230f-46b2-8d83-5be9b86c25db" d="M43.347,29a9,9,0,1,0,9-9A9,9,0,0,0,43.347,29Z"/>
+    </g>
+    <text class="ec73ffa0-0c7d-442d-abd8-da3d0c83f8b1" transform="translate(69.515 33.403)">Events</text>
+  </g>
+  <g>
+    <rect class="b9779057-dcb5-4950-a661-c6dc32b685fa" x="418.014" y="78.5" width="114" height="49"/>
+    <path class="b9da1a3a-eb8c-4001-baef-39d4dea37675" d="M531.514,79v48h-113V79h113m1-1h-115v50h115V78Z"/>
+  </g>
+  <text class="ec73ffa0-0c7d-442d-abd8-da3d0c83f8b1" transform="translate(454.717 98.624)">Trigger <tspan class="aa6762ec-5057-40a5-a767-f7604f0c8fa6"><tspan x="-14.971" y="15">(filter applied)</tspan></tspan></text>
+  <rect class="f4a25425-3da4-4ec2-a72f-fd4e1826cfe5" x="417.514" y="208" width="115" height="50" transform="translate(950.027 466) rotate(-180)"/>
+  <text class="ec73ffa0-0c7d-442d-abd8-da3d0c83f8b1" transform="translate(454.717 228.624)">Trigger <tspan class="aa6762ec-5057-40a5-a767-f7604f0c8fa6"><tspan x="-14.971" y="15">(filter applied)</tspan></tspan></text>
+</svg>

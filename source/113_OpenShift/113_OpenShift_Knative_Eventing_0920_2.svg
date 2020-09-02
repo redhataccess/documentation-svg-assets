@@ -1,0 +1,147 @@
+<svg id="b1a60f31-1c42-4743-af9f-d200deec3d62" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="298.011" viewBox="0 0 760 298.011">
+  <defs>
+    <style>
+      .b79d1d63-3651-4f3a-99ca-b9cc3e2dc14d {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .b289d8b6-e42b-40db-bda0-4deed8fa9571, .bbc0ccff-02b9-494e-98c4-d96110408f9d, .e0628660-09d5-4aba-92ca-75a1c8ca33f5 {
+        fill: none;
+      }
+
+      .e0628660-09d5-4aba-92ca-75a1c8ca33f5 {
+        stroke: #151515;
+      }
+
+      .bbc0ccff-02b9-494e-98c4-d96110408f9d, .e0628660-09d5-4aba-92ca-75a1c8ca33f5 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a86f4d03-f062-4c47-b11f-62c1957b34e3, .b4bc058e-0c8d-4972-8ce3-f4ac9cb893b2, .fe0304fe-a56a-4413-a2df-9484b5de8362 {
+        fill: #151515;
+      }
+
+      .b53d6831-1a21-4c75-ae2d-8ce9b553197e {
+        fill: #06c;
+      }
+
+      .a86f4d03-f062-4c47-b11f-62c1957b34e3, .b4bc058e-0c8d-4972-8ce3-f4ac9cb893b2, .b4d035e7-4f86-452e-9c62-71855f8dd1d4 {
+        font-size: 11px;
+      }
+
+      .b4d035e7-4f86-452e-9c62-71855f8dd1d4 {
+        fill: #fff;
+      }
+
+      .a86f4d03-f062-4c47-b11f-62c1957b34e3, .b4d035e7-4f86-452e-9c62-71855f8dd1d4 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .f3c50c81-582d-4eb3-979c-88216b289dda {
+        fill: #e8e8e8;
+      }
+
+      .bbc0ccff-02b9-494e-98c4-d96110408f9d {
+        stroke: #e8e8e8;
+      }
+
+      .b4bc058e-0c8d-4972-8ce3-f4ac9cb893b2 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .af3b2164-ca0b-4610-a52c-cc868e3efd98 {
+        fill: #d9e8f7;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="b79d1d63-3651-4f3a-99ca-b9cc3e2dc14d" transform="translate(667.512 281.029)">113_OpenShift_0920</text>
+    <rect class="b289d8b6-e42b-40db-bda0-4deed8fa9571" y="258.011" width="760" height="40"/>
+  </g>
+  <g>
+    <polyline class="e0628660-09d5-4aba-92ca-75a1c8ca33f5" points="367.837 103 255 103 255 163"/>
+    <polygon class="fe0304fe-a56a-4413-a2df-9484b5de8362" points="366.378 98.014 375.014 103 366.378 107.986 366.378 98.014"/>
+  </g>
+  <g>
+    <rect class="b53d6831-1a21-4c75-ae2d-8ce9b553197e" x="645" y="78" width="115" height="50" transform="translate(1405 206) rotate(-180)"/>
+    <text class="b4d035e7-4f86-452e-9c62-71855f8dd1d4" transform="translate(691.448 106.324)">Sink</text>
+  </g>
+  <g>
+    <polyline class="e0628660-09d5-4aba-92ca-75a1c8ca33f5" points="187.824 183 57.514 183 57.514 208"/>
+    <polygon class="fe0304fe-a56a-4413-a2df-9484b5de8362" points="186.365 178.014 195 183 186.365 187.986 186.365 178.014"/>
+  </g>
+  <g>
+    <polyline class="e0628660-09d5-4aba-92ca-75a1c8ca33f5" points="187.824 153 57.514 153 57.514 128"/>
+    <polygon class="fe0304fe-a56a-4413-a2df-9484b5de8362" points="186.365 148.014 195 153 186.365 157.986 186.365 148.014"/>
+  </g>
+  <g>
+    <line class="e0628660-09d5-4aba-92ca-75a1c8ca33f5" x1="635.328" y1="103" x2="492.371" y2="103"/>
+    <polygon class="fe0304fe-a56a-4413-a2df-9484b5de8362" points="633.869 98.014 642.505 103 633.869 107.986 633.869 98.014"/>
+  </g>
+  <g>
+    <polyline class="e0628660-09d5-4aba-92ca-75a1c8ca33f5" points="367.837 233 255 233 255 173"/>
+    <polygon class="fe0304fe-a56a-4413-a2df-9484b5de8362" points="366.378 228.014 375.014 233 366.378 237.986 366.378 228.014"/>
+  </g>
+  <g>
+    <rect class="b53d6831-1a21-4c75-ae2d-8ce9b553197e" x="645" y="208" width="115" height="50" transform="translate(1405 466) rotate(-180)"/>
+    <text class="b4d035e7-4f86-452e-9c62-71855f8dd1d4" transform="translate(691.448 236.325)">Sink</text>
+  </g>
+  <g>
+    <line class="e0628660-09d5-4aba-92ca-75a1c8ca33f5" x1="635.328" y1="233" x2="492.371" y2="233"/>
+    <polygon class="fe0304fe-a56a-4413-a2df-9484b5de8362" points="633.869 228.014 642.505 233 633.869 237.986 633.869 228.014"/>
+  </g>
+  <rect class="f3c50c81-582d-4eb3-979c-88216b289dda" x="197.5" y="143" width="115" height="50" transform="translate(510 336) rotate(-180)"/>
+  <text class="a86f4d03-f062-4c47-b11f-62c1957b34e3" transform="translate(233.858 171.047)">Channel</text>
+  <rect class="f3c50c81-582d-4eb3-979c-88216b289dda" y="78" width="115" height="50" transform="translate(115 206) rotate(-180)"/>
+  <text class="a86f4d03-f062-4c47-b11f-62c1957b34e3" transform="translate(36.213 106.324)">Source 1</text>
+  <rect class="f3c50c81-582d-4eb3-979c-88216b289dda" y="208" width="115" height="50" transform="translate(115 466) rotate(-180)"/>
+  <text class="a86f4d03-f062-4c47-b11f-62c1957b34e3" transform="translate(34.959 236.324)">Source 2</text>
+  <line class="bbc0ccff-02b9-494e-98c4-d96110408f9d" x1="757.221" y1="53.5" x2="0.5" y2="53.5"/>
+  <g>
+    <path class="f3c50c81-582d-4eb3-979c-88216b289dda" d="M.147,29a9,9,0,1,0,9-9A9,9,0,0,0,.147,29Z"/>
+    <text class="a86f4d03-f062-4c47-b11f-62c1957b34e3" transform="translate(26.315 33.403)">Events</text>
+  </g>
+  <g>
+    <path class="f3c50c81-582d-4eb3-979c-88216b289dda" d="M165.078,153a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,165.078,153Z"/>
+    <text class="b4bc058e-0c8d-4972-8ce3-f4ac9cb893b2" transform="translate(149.096 155.953)">3</text>
+  </g>
+  <path class="f3c50c81-582d-4eb3-979c-88216b289dda" d="M130.078,153a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,130.078,153Z"/>
+  <text class="b4bc058e-0c8d-4972-8ce3-f4ac9cb893b2" transform="translate(115.461 155.953)">1</text>
+  <g>
+    <path class="f3c50c81-582d-4eb3-979c-88216b289dda" d="M130.078,183a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,130.078,183Z"/>
+    <text class="b4bc058e-0c8d-4972-8ce3-f4ac9cb893b2" transform="translate(114.295 185.953)">2</text>
+  </g>
+  <g>
+    <path class="f3c50c81-582d-4eb3-979c-88216b289dda" d="M542.236,103a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,542.236,103Z"/>
+    <text class="b4bc058e-0c8d-4972-8ce3-f4ac9cb893b2" transform="translate(527.619 105.953)">1</text>
+    <g>
+      <path class="f3c50c81-582d-4eb3-979c-88216b289dda" d="M577.236,103a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,577.236,103Z"/>
+      <text class="b4bc058e-0c8d-4972-8ce3-f4ac9cb893b2" transform="translate(561.453 105.953)">2</text>
+    </g>
+    <g>
+      <path class="f3c50c81-582d-4eb3-979c-88216b289dda" d="M612.236,103a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,612.236,103Z"/>
+      <text class="b4bc058e-0c8d-4972-8ce3-f4ac9cb893b2" transform="translate(596.254 105.953)">3</text>
+    </g>
+  </g>
+  <g>
+    <path class="f3c50c81-582d-4eb3-979c-88216b289dda" d="M542.236,233a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,542.236,233Z"/>
+    <text class="b4bc058e-0c8d-4972-8ce3-f4ac9cb893b2" transform="translate(527.619 235.953)">1</text>
+    <g>
+      <path class="f3c50c81-582d-4eb3-979c-88216b289dda" d="M577.236,233a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,577.236,233Z"/>
+      <text class="b4bc058e-0c8d-4972-8ce3-f4ac9cb893b2" transform="translate(561.453 235.953)">2</text>
+    </g>
+    <g>
+      <path class="f3c50c81-582d-4eb3-979c-88216b289dda" d="M612.236,233a12.5,12.5,0,1,1-12.5-12.5A12.5,12.5,0,0,1,612.236,233Z"/>
+      <text class="b4bc058e-0c8d-4972-8ce3-f4ac9cb893b2" transform="translate(596.254 235.953)">3</text>
+    </g>
+  </g>
+  <rect class="af3b2164-ca0b-4610-a52c-cc868e3efd98" x="377.514" y="78" width="115" height="50" transform="translate(870.027 206) rotate(-180)"/>
+  <text class="a86f4d03-f062-4c47-b11f-62c1957b34e3" transform="translate(402.391 106.047)">Subscription</text>
+  <rect class="af3b2164-ca0b-4610-a52c-cc868e3efd98" x="377.514" y="208" width="115" height="50" transform="translate(870.027 466) rotate(-180)"/>
+  <text class="a86f4d03-f062-4c47-b11f-62c1957b34e3" transform="translate(402.391 236.046)">Subscription</text>
+</svg>

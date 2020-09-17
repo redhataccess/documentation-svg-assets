@@ -1,0 +1,89 @@
+<svg id="bfcfb165-100a-4cae-9e38-73aa7836e8bc" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="266" viewBox="0 0 760 266">
+  <defs>
+    <style>
+      .b98884fc-407d-4574-a869-6faf45a5156e {
+        fill: #e8e8e8;
+      }
+
+      .ef9c9d58-7f40-45aa-90dc-7973c4ae4477 {
+        fill: #06c;
+      }
+
+      .a8923b1b-bffa-45ea-a622-aa1a93724478, .f39c8d5a-50db-4e59-bf81-795e286c3e54 {
+        font-size: 12px;
+      }
+
+      .a8923b1b-bffa-45ea-a622-aa1a93724478, .f99242a8-e9a6-4ec2-82a0-9046958bb72c {
+        fill: #151515;
+      }
+
+      .a8923b1b-bffa-45ea-a622-aa1a93724478 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .af1d55ab-66e1-4fe0-874c-94c36fb35c88, .b39bb757-8645-416e-ad9a-8519f651186d {
+        fill: none;
+      }
+
+      .b39bb757-8645-416e-ad9a-8519f651186d {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .f39c8d5a-50db-4e59-bf81-795e286c3e54 {
+        fill: #fff;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .e769b1f4-8e3e-449c-92da-5f2a1ae305ef {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="b98884fc-407d-4574-a869-6faf45a5156e" x="278" y="176.5" width="204" height="49"/>
+    <path class="ef9c9d58-7f40-45aa-90dc-7973c4ae4477" d="M481.5,177v48h-203V177h203m1-1h-205v50h205V176Z"/>
+  </g>
+  <g>
+    <rect class="b98884fc-407d-4574-a869-6faf45a5156e" x="555.5" y="176.5" width="204" height="49"/>
+    <path class="ef9c9d58-7f40-45aa-90dc-7973c4ae4477" d="M759,177v48H556V177H759m1-1H555v50H760V176Z"/>
+  </g>
+  <text class="a8923b1b-bffa-45ea-a622-aa1a93724478" transform="translate(322.642 204.222)">OAuth authorization</text>
+  <g>
+    <rect class="b98884fc-407d-4574-a869-6faf45a5156e" x="0.5" y="176.5" width="204" height="49"/>
+    <path class="ef9c9d58-7f40-45aa-90dc-7973c4ae4477" d="M204,177v48H1V177H204m1-1H0v50H205V176Z"/>
+  </g>
+  <text class="a8923b1b-bffa-45ea-a622-aa1a93724478" transform="translate(44.452 204.222)">Simple authorization</text>
+  <g>
+    <line class="b39bb757-8645-416e-ad9a-8519f651186d" x1="380" y1="66" x2="380" y2="86.324"/>
+    <polygon class="f99242a8-e9a6-4ec2-82a0-9046958bb72c" points="375.014 84.865 380 93.5 384.986 84.865 375.014 84.865"/>
+  </g>
+  <g>
+    <line class="b39bb757-8645-416e-ad9a-8519f651186d" x1="380" y1="146" x2="380" y2="166.324"/>
+    <polygon class="f99242a8-e9a6-4ec2-82a0-9046958bb72c" points="375.014 164.865 380 173.5 384.986 164.865 375.014 164.865"/>
+  </g>
+  <g>
+    <polyline class="b39bb757-8645-416e-ad9a-8519f651186d" points="102.5 166.324 102.5 121 277.5 121"/>
+    <polygon class="f99242a8-e9a6-4ec2-82a0-9046958bb72c" points="107.486 164.865 102.5 173.5 97.514 164.865 107.486 164.865"/>
+  </g>
+  <g>
+    <polyline class="b39bb757-8645-416e-ad9a-8519f651186d" points="657.5 166.324 657.5 121 482.5 121"/>
+    <polygon class="f99242a8-e9a6-4ec2-82a0-9046958bb72c" points="662.486 164.865 657.5 173.5 652.514 164.865 662.486 164.865"/>
+  </g>
+  <g>
+    <rect class="b98884fc-407d-4574-a869-6faf45a5156e" x="277.5" y="16" width="205" height="50"/>
+    <text class="a8923b1b-bffa-45ea-a622-aa1a93724478" transform="translate(363.681 44.759)">Kafka</text>
+  </g>
+  <rect class="ef9c9d58-7f40-45aa-90dc-7973c4ae4477" x="277.5" y="96" width="205" height="50"/>
+  <text class="f39c8d5a-50db-4e59-bf81-795e286c3e54" transform="translate(338.858 124.759)">Authorization</text>
+  <text class="a8923b1b-bffa-45ea-a622-aa1a93724478" transform="translate(605.535 204.222)">OPA authorization</text>
+  <g>
+    <text class="e769b1f4-8e3e-449c-92da-5f2a1ae305ef" transform="translate(690.972 249.017)">117_AMQ_0920</text>
+    <rect class="af1d55ab-66e1-4fe0-874c-94c36fb35c88" y="226" width="760" height="40"/>
+  </g>
+</svg>

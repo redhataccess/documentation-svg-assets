@@ -1,0 +1,280 @@
+<svg id="e8e8a71e-2699-4c2d-860b-d37448e33e59" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="760" height="368.887" viewBox="0 0 760 368.887">
+  <defs>
+    <style>
+      .a0dd8191-8177-488d-9bdb-3fabb6845ee5, .b3b4dbeb-7d1b-415a-9bb2-4d1e06dde24b, .befffb8d-370d-40bb-9453-58de68509f88, .ecc6d810-1f80-4eef-9ca1-db5b829355c0 {
+        fill: none;
+      }
+
+      .a0dd8191-8177-488d-9bdb-3fabb6845ee5 {
+        stroke: #e8e8e8;
+      }
+
+      .a0dd8191-8177-488d-9bdb-3fabb6845ee5, .ecc6d810-1f80-4eef-9ca1-db5b829355c0 {
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .b786514d-867a-46a8-b197-4c38862fd4d4, .fccc2c11-c14b-4a2e-ad03-bbf0f55d1e7e {
+        fill: #fff;
+      }
+
+      .a4320e9c-7646-46b7-a4e2-fb99648516e9, .f0d5b6b4-cef9-404f-81aa-313d367068a6 {
+        fill: #06c;
+      }
+
+      .a4320e9c-7646-46b7-a4e2-fb99648516e9, .b8a95e22-ef7e-42c5-aafd-9129209c8075, .fccc2c11-c14b-4a2e-ad03-bbf0f55d1e7e {
+        font-size: 11px;
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .a97da51c-a7cc-4988-8b7f-37773d072950 {
+        letter-spacing: -0.015em;
+      }
+
+      .afb54dd2-103b-4f16-be73-1ecdcbd95523 {
+        letter-spacing: 0.01em;
+      }
+
+      .e420dbda-fde6-4daa-b124-ed5d81ad003c, .e4806954-171d-4e6f-abea-b8807046cc21 {
+        fill: #e8e8e8;
+      }
+
+      .a8945354-b39e-4728-ade4-4345959cc791 {
+        font-size: 16px;
+      }
+
+      .a8945354-b39e-4728-ade4-4345959cc791, .ad56e58e-ac20-4270-9029-259868f936e9, .b27b8dc5-f825-46ee-acee-30ec76a4e250, .b8a95e22-ef7e-42c5-aafd-9129209c8075, .bcf1808e-0c2c-4931-882e-627e5d2f4dfe {
+        fill: #151515;
+      }
+
+      .a8945354-b39e-4728-ade4-4345959cc791, .bcf1808e-0c2c-4931-882e-627e5d2f4dfe {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .fd84214b-b675-4357-bc10-ffee569364dc {
+        letter-spacing: 0.011em;
+      }
+
+      .a1929014-7262-4006-8e57-c0f6e03b8ccd {
+        letter-spacing: -0.001em;
+      }
+
+      .ab455942-0363-4cea-9153-b1f93c064852 {
+        letter-spacing: 0.004em;
+      }
+
+      .a9d17288-f201-4faa-9197-96e55f67a77c {
+        letter-spacing: 0.011em;
+      }
+
+      .a75a6304-b255-4d61-95e1-5e83deb6601e {
+        letter-spacing: 0.006em;
+      }
+
+      .a4d7b1a1-0346-4be3-818f-e0f426051873 {
+        letter-spacing: -0.008em;
+      }
+
+      .e71c124c-96a8-4338-9dde-f56cf459611c {
+        letter-spacing: 0.008em;
+      }
+
+      .e628c02b-44a9-436d-a0d5-866a01da7b6f {
+        letter-spacing: -0.002em;
+      }
+
+      .bc86aa69-d078-4c79-a8d1-7db78bc3c3d4 {
+        letter-spacing: 0.007em;
+      }
+
+      .a4a9d567-c4ef-4f88-b50e-5a67f9920c6e {
+        letter-spacing: 0.011em;
+      }
+
+      .b3be74ec-86dd-446b-81fe-8d4dffe44225 {
+        letter-spacing: -0.003em;
+      }
+
+      .e54d71d1-3b45-427b-a4b7-7704ab353d9e {
+        letter-spacing: 0.002em;
+      }
+
+      .ac9532c9-a74b-455c-8910-382bb656b7aa {
+        letter-spacing: 0em;
+      }
+
+      .bcf1808e-0c2c-4931-882e-627e5d2f4dfe {
+        font-size: 14px;
+      }
+
+      .e938c962-0220-4e60-ae67-8aba3e5280b0 {
+        letter-spacing: 0.004em;
+      }
+
+      .a0c3aae7-c44c-4641-adda-8f9a2434c709 {
+        letter-spacing: 0.006em;
+      }
+
+      .aea62191-e8d4-44e3-8562-bca5ad5e7555 {
+        letter-spacing: 0.012em;
+      }
+
+      .a5716513-4e08-4277-b21f-78510b949f84 {
+        letter-spacing: 0.008em;
+      }
+
+      .ae2a58ba-d37a-42bd-87d2-e331590f3773 {
+        letter-spacing: 0.006em;
+      }
+
+      .ac54328c-431d-4504-91a1-95dcdd011c5b {
+        letter-spacing: 0.007em;
+      }
+
+      .ad3e3819-a29d-418f-8759-12d99e3e88fd {
+        letter-spacing: 0.003em;
+      }
+
+      .a7af93fd-eecf-4155-813b-231b7ef350da {
+        letter-spacing: 0em;
+      }
+
+      .e3f68101-cbd7-4aff-9825-b58abc00b50d {
+        letter-spacing: -0.007em;
+      }
+
+      .a557c2f9-e34b-47ca-aea7-64d8431b90ab {
+        letter-spacing: -0.024em;
+      }
+
+      .b1bce5c9-8e08-40c4-bedb-d6b5d9146101 {
+        letter-spacing: -0.015em;
+      }
+
+      .a78fd8f4-8702-44e5-826e-c87178fd6457 {
+        letter-spacing: 0.003em;
+      }
+
+      .e49501bd-7bcd-4ab2-81d1-96ad35aca039 {
+        letter-spacing: -0.01em;
+      }
+
+      .ee8a9de5-7c35-45ba-8b73-d70e111389a3 {
+        letter-spacing: 0.005em;
+      }
+
+      .ab0e33b3-135f-4376-9dc1-b8d32d573c2f {
+        letter-spacing: 0.004em;
+      }
+
+      .ec03a17e-9614-4cb9-af3d-6facbd306bb3 {
+        letter-spacing: 0em;
+      }
+
+      .b2c2711f-4abc-4efc-81cd-20477ebcb117 {
+        letter-spacing: -0.024em;
+      }
+
+      .e04a9ee9-f975-4a16-87bb-10f2093ac67c {
+        letter-spacing: -0.033em;
+      }
+
+      .b6159189-9e98-4279-b185-49b939124a9d {
+        letter-spacing: 0.001em;
+      }
+
+      .befffb8d-370d-40bb-9453-58de68509f88 {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b27b8dc5-f825-46ee-acee-30ec76a4e250, .e420dbda-fde6-4daa-b124-ed5d81ad003c {
+        font-size: 10px;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .ecc6d810-1f80-4eef-9ca1-db5b829355c0 {
+        stroke: #d5d5d5;
+      }
+
+      .be07d6b5-305a-4eb8-8ce4-4593a204fc9b {
+        letter-spacing: -0.008em;
+      }
+
+      .b69d1bdf-45d5-4b64-b549-feb7ba424efd {
+        letter-spacing: -0.023em;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="a0dd8191-8177-488d-9bdb-3fabb6845ee5" points="10.467 156.516 129.467 156.516 129.467 91.516"/>
+    <polyline class="a0dd8191-8177-488d-9bdb-3fabb6845ee5" points="5.467 151.516 124.467 151.516 124.467 86.516"/>
+    <g>
+      <rect class="b786514d-867a-46a8-b197-4c38862fd4d4" x="0.967" y="82.016" width="118" height="64"/>
+      <path class="f0d5b6b4-cef9-404f-81aa-313d367068a6" d="M118.467,82.516v63h-117v-63h117m1-1H.467v65h119v-65Z"/>
+    </g>
+    <text class="a4320e9c-7646-46b7-a4e2-fb99648516e9" transform="translate(23.822 117.063)">AMQP Clie<tspan class="a97da51c-a7cc-4988-8b7f-37773d072950" x="56.121" y="0">n</tspan><tspan class="afb54dd2-103b-4f16-be73-1ecdcbd95523" x="62.358" y="0">t</tspan><tspan x="67.022" y="0">s</tspan></text>
+  </g>
+  <rect class="e4806954-171d-4e6f-abea-b8807046cc21" x="150" y="19.261" width="610" height="309.5"/>
+  <text class="a8945354-b39e-4728-ade4-4345959cc791" transform="translate(180 60.417)"><tspan class="fd84214b-b675-4357-bc10-ffee569364dc">O</tspan><tspan class="a1929014-7262-4006-8e57-c0f6e03b8ccd" x="13.186" y="0">p</tspan><tspan class="ab455942-0363-4cea-9153-b1f93c064852" x="23.467" y="0">e</tspan><tspan class="a9d17288-f201-4faa-9197-96e55f67a77c" x="33.01" y="0">nS</tspan><tspan class="a75a6304-b255-4d61-95e1-5e83deb6601e" x="53.723" y="0">h</tspan><tspan class="a4d7b1a1-0346-4be3-818f-e0f426051873" x="63.71" y="0">i</tspan><tspan class="e71c124c-96a8-4338-9dde-f56cf459611c" x="68.198" y="0">f</tspan><tspan x="75.688" y="0">t </tspan><tspan class="e628c02b-44a9-436d-a0d5-866a01da7b6f" x="86.457" y="0">C</tspan><tspan class="bc86aa69-d078-4c79-a8d1-7db78bc3c3d4" x="97.951" y="0">l</tspan><tspan class="a4a9d567-c4ef-4f88-b50e-5a67f9920c6e" x="102.666" y="0">u</tspan><tspan class="b3be74ec-86dd-446b-81fe-8d4dffe44225" x="112.734" y="0">s</tspan><tspan class="e54d71d1-3b45-427b-a4b7-7704ab353d9e" x="120.856" y="0">t</tspan><tspan class="ab455942-0363-4cea-9153-b1f93c064852" x="128.216" y="0">e</tspan><tspan class="ac9532c9-a74b-455c-8910-382bb656b7aa" x="137.759" y="0">r</tspan></text>
+  <rect class="b786514d-867a-46a8-b197-4c38862fd4d4" x="375" y="79.261" width="355" height="219.5"/>
+  <text class="bcf1808e-0c2c-4931-882e-627e5d2f4dfe" transform="translate(395 109.437)"><tspan class="e938c962-0220-4e60-ae67-8aba3e5280b0">A</tspan><tspan class="a0c3aae7-c44c-4641-adda-8f9a2434c709" x="10.446" y="0">M</tspan><tspan x="23.477" y="0">Q </tspan><tspan class="aea62191-e8d4-44e3-8562-bca5ad5e7555" x="37.868" y="0">O</tspan><tspan class="a5716513-4e08-4277-b21f-78510b949f84" x="49.414" y="0">n</tspan><tspan class="ae2a58ba-d37a-42bd-87d2-e331590f3773" x="58.184" y="0">l</tspan><tspan class="ac54328c-431d-4504-91a1-95dcdd011c5b" x="62.301" y="0">i</tspan><tspan class="ad3e3819-a29d-418f-8759-12d99e3e88fd" x="66.425" y="0">n</tspan><tspan class="a7af93fd-eecf-4155-813b-231b7ef350da" x="75.112" y="0">e</tspan></text>
+  <rect class="e4806954-171d-4e6f-abea-b8807046cc21" x="395" y="128.761" width="120" height="60"/>
+  <g>
+    <polyline class="a0dd8191-8177-488d-9bdb-3fabb6845ee5" points="585.593 198.536 704.593 198.536 704.593 138.536"/>
+    <polyline class="a0dd8191-8177-488d-9bdb-3fabb6845ee5" points="580.593 193.536 699.593 193.536 699.593 133.536"/>
+    <g>
+      <rect class="e4806954-171d-4e6f-abea-b8807046cc21" x="574.593" y="127.537" width="121" height="62"/>
+      <path class="b786514d-867a-46a8-b197-4c38862fd4d4" d="M694.593,128.536v60h-119v-60h119m2-2h-123v64h123v-64Z"/>
+    </g>
+  </g>
+  <text class="b8a95e22-ef7e-42c5-aafd-9129209c8075" transform="translate(441.812 149.856)">AMQ<tspan x="-19.734" y="12">I</tspan><tspan class="a97da51c-a7cc-4988-8b7f-37773d072950" x="-16.688" y="12">n</tspan><tspan class="e3f68101-cbd7-4aff-9825-b58abc00b50d" x="-10.45" y="12">t</tspan><tspan x="-5.974" y="12">e</tspan><tspan class="a557c2f9-e34b-47ca-aea7-64d8431b90ab" x="0.329" y="12">r</tspan><tspan class="b1bce5c9-8e08-40c4-bedb-d6b5d9146101" x="4.389" y="12">c</tspan><tspan x="9.977" y="12">onn</tspan><tspan class="a78fd8f4-8702-44e5-826e-c87178fd6457" x="29.358" y="12">e</tspan><tspan class="afb54dd2-103b-4f16-be73-1ecdcbd95523" x="35.693" y="12">c</tspan><tspan x="41.557" y="12">t</tspan><tspan x="-8.822" y="24">N</tspan><tspan class="b1bce5c9-8e08-40c4-bedb-d6b5d9146101" x="-0.451" y="24">e</tspan><tspan class="afb54dd2-103b-4f16-be73-1ecdcbd95523" x="5.687" y="24">t</tspan><tspan class="e49501bd-7bcd-4ab2-81d1-96ad35aca039" x="10.351" y="24">w</tspan><tspan x="18.348" y="24">ork</tspan></text>
+  <rect class="e4806954-171d-4e6f-abea-b8807046cc21" x="395" y="238.761" width="315.5" height="40"/>
+  <text class="b8a95e22-ef7e-42c5-aafd-9129209c8075" transform="translate(511.896 263.156)"><tspan class="b1bce5c9-8e08-40c4-bedb-d6b5d9146101">C</tspan><tspan x="7.788" y="0">o</tspan><tspan class="b1bce5c9-8e08-40c4-bedb-d6b5d9146101" x="14.366" y="0">n</tspan><tspan x="20.603" y="0">t</tspan><tspan class="a557c2f9-e34b-47ca-aea7-64d8431b90ab" x="25.156" y="0">r</tspan><tspan x="29.216" y="0">ol P</tspan><tspan class="a557c2f9-e34b-47ca-aea7-64d8431b90ab" x="48.509" y="0">r</tspan><tspan class="a78fd8f4-8702-44e5-826e-c87178fd6457" x="52.568" y="0">o</tspan><tspan class="b1bce5c9-8e08-40c4-bedb-d6b5d9146101" x="59.179" y="0">c</tspan><tspan class="ee8a9de5-7c35-45ba-8b73-d70e111389a3" x="64.767" y="0">e</tspan><tspan class="ab0e33b3-135f-4376-9dc1-b8d32d573c2f" x="71.125" y="0">s</tspan><tspan class="ec03a17e-9614-4cb9-af3d-6facbd306bb3" x="76.438" y="0">s</tspan></text>
+  <text class="b8a95e22-ef7e-42c5-aafd-9129209c8075" transform="translate(596.226 162.857)">AMQ 7 B<tspan class="b2c2711f-4abc-4efc-81cd-20477ebcb117" x="45.419" y="0">r</tspan><tspan x="49.478" y="0">o</tspan><tspan class="e04a9ee9-f975-4a16-87bb-10f2093ac67c" x="56.056" y="0">k</tspan><tspan x="61.644" y="0">e</tspan><tspan class="b6159189-9e98-4279-b185-49b939124a9d" x="67.946" y="0">r</tspan><tspan x="72.28" y="0">s</tspan></text>
+  <g>
+    <line class="befffb8d-370d-40bb-9453-58de68509f88" x1="524.676" y1="158.313" x2="565.324" y2="158.313"/>
+    <polygon class="ad56e58e-ac20-4270-9029-259868f936e9" points="526.135 163.299 517.5 158.313 526.135 153.326 526.135 163.299"/>
+    <polygon class="ad56e58e-ac20-4270-9029-259868f936e9" points="563.865 163.299 572.5 158.313 563.865 153.326 563.865 163.299"/>
+  </g>
+  <text class="b27b8dc5-f825-46ee-acee-30ec76a4e250" transform="translate(530.08 150.473)">AMQP</text>
+  <g>
+    <line class="befffb8d-370d-40bb-9453-58de68509f88" x1="455" y1="229.084" x2="455" y2="198.437"/>
+    <polygon class="ad56e58e-ac20-4270-9029-259868f936e9" points="459.986 227.625 455 236.261 450.014 227.625 459.986 227.625"/>
+    <polygon class="ad56e58e-ac20-4270-9029-259868f936e9" points="459.986 199.896 455 191.261 450.014 199.896 459.986 199.896"/>
+  </g>
+  <text class="b27b8dc5-f825-46ee-acee-30ec76a4e250" transform="translate(460.014 216.12)">AMQP</text>
+  <g>
+    <line class="befffb8d-370d-40bb-9453-58de68509f88" x1="635" y1="229.084" x2="635" y2="198.437"/>
+    <polygon class="ad56e58e-ac20-4270-9029-259868f936e9" points="639.987 227.625 635 236.261 630.014 227.625 639.987 227.625"/>
+    <polygon class="ad56e58e-ac20-4270-9029-259868f936e9" points="639.987 199.896 635 191.261 630.014 199.896 639.987 199.896"/>
+  </g>
+  <text class="b27b8dc5-f825-46ee-acee-30ec76a4e250" transform="translate(640.014 221.427)">AMQP</text>
+  <g>
+    <polyline class="ecc6d810-1f80-4eef-9ca1-db5b829355c0" points="190.268 198.604 309.268 198.604 309.268 138.604"/>
+    <polyline class="ecc6d810-1f80-4eef-9ca1-db5b829355c0" points="185.268 193.604 304.268 193.604 304.268 133.604"/>
+    <rect class="f0d5b6b4-cef9-404f-81aa-313d367068a6" x="180.268" y="128.604" width="119" height="60"/>
+  </g>
+  <text class="fccc2c11-c14b-4a2e-ad03-bbf0f55d1e7e" transform="translate(203.854 162.857)">AMQP Clie<tspan class="a97da51c-a7cc-4988-8b7f-37773d072950" x="56.121" y="0">n</tspan><tspan class="afb54dd2-103b-4f16-be73-1ecdcbd95523" x="62.358" y="0">t</tspan><tspan x="67.022" y="0">s</tspan></text>
+  <text class="b27b8dc5-f825-46ee-acee-30ec76a4e250" transform="translate(225.08 105.92)">AMQP</text>
+  <g>
+    <polyline class="befffb8d-370d-40bb-9453-58de68509f88" points="385.324 151.261 345 151.261 345 113.761 129.676 113.761"/>
+    <polygon class="ad56e58e-ac20-4270-9029-259868f936e9" points="383.865 146.274 392.5 151.261 383.865 156.247 383.865 146.274"/>
+    <polygon class="ad56e58e-ac20-4270-9029-259868f936e9" points="131.135 108.774 122.5 113.761 131.135 118.747 131.135 108.774"/>
+  </g>
+  <g>
+    <g>
+      <line class="befffb8d-370d-40bb-9453-58de68509f88" x1="309.176" y1="166.261" x2="385.324" y2="166.261"/>
+      <polygon class="ad56e58e-ac20-4270-9029-259868f936e9" points="310.635 171.247 302 166.261 310.635 161.274 310.635 171.247"/>
+      <polygon class="ad56e58e-ac20-4270-9029-259868f936e9" points="383.865 171.247 392.5 166.261 383.865 161.274 383.865 171.247"/>
+    </g>
+    <text class="b27b8dc5-f825-46ee-acee-30ec76a4e250" transform="translate(332.33 180.921)">AMQP</text>
+  </g>
+  <g>
+    <text class="e420dbda-fde6-4daa-b124-ed5d81ad003c" transform="translate(690.671 351.778)">119_AMQ_<tspan class="be07d6b5-305a-4eb8-8ce4-4593a204fc9b" x="44.77" y="0">0</tspan><tspan class="b69d1bdf-45d5-4b64-b549-feb7ba424efd" x="51.289" y="0">9</tspan><tspan x="57.249" y="0">20</tspan></text>
+    <rect class="b3b4dbeb-7d1b-415a-9bb2-4d1e06dde24b" y="328.761" width="760" height="40"/>
+  </g>
+</svg>

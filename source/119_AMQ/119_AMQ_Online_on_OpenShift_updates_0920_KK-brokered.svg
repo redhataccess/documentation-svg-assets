@@ -1,0 +1,374 @@
+<svg id="b2762277-a74d-4949-8dd9-ab86facbe797" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="760" height="818.14" viewBox="0 0 760 818.14">
+  <defs>
+    <style>
+      .bcbd8f79-5b4c-4d9a-845d-fa88661b2966, .bf651ba7-f1a9-48dc-a62d-7aa56c66d989, .ef3a7063-f5f2-43cd-8614-bc758a61391f, .f53984a7-95ea-49c2-af82-378b188e36e2 {
+        fill: none;
+      }
+
+      .bf651ba7-f1a9-48dc-a62d-7aa56c66d989 {
+        stroke: #e8e8e8;
+      }
+
+      .bcbd8f79-5b4c-4d9a-845d-fa88661b2966, .bf651ba7-f1a9-48dc-a62d-7aa56c66d989 {
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .b47caa97-617a-4be3-9b0d-c21c0a54de65, .bc0cb7cf-29b0-4e8f-a468-8d7b56a9b13c {
+        fill: #fff;
+      }
+
+      .b77326f0-9fba-4d86-8e20-c31e76056194, .ed3c9d8c-1c4c-41a5-bd0f-8622c652ad69 {
+        fill: #06c;
+      }
+
+      .b5caf57d-cfdd-4139-88c9-7c49aa7f27fa, .b8716bcc-09f6-41a4-bd26-e108e1c2acea {
+        fill: #e8e8e8;
+      }
+
+      .b09c5afa-07b5-4e30-91df-6ee978a1e08c {
+        font-size: 16px;
+      }
+
+      .a0f1ad5d-2e9a-469d-b6e6-8d54ca3a0e13, .a3e71e00-25f3-47f6-a628-8628ab936743, .b09c5afa-07b5-4e30-91df-6ee978a1e08c, .e7362283-9eae-45a7-8ba9-08d2f76b7433 {
+        fill: #151515;
+      }
+
+      .a0f1ad5d-2e9a-469d-b6e6-8d54ca3a0e13, .b09c5afa-07b5-4e30-91df-6ee978a1e08c {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .fe08bde4-fc12-4132-b4df-b43994db3924 {
+        letter-spacing: 0.011em;
+      }
+
+      .b3fce57e-992f-4210-a654-d67bdcc096ab {
+        letter-spacing: -0.001em;
+      }
+
+      .b8264243-85ff-4fd2-86a8-2a809644e669 {
+        letter-spacing: 0.004em;
+      }
+
+      .bbf3e944-35a0-485a-aeaa-e6a7dc364888 {
+        letter-spacing: 0.011em;
+      }
+
+      .e11ae7a4-a0cd-4ef8-8347-6fff818748c6 {
+        letter-spacing: 0.006em;
+      }
+
+      .f120cfb9-9957-44d4-97a3-4ae8a23f07d3 {
+        letter-spacing: -0.008em;
+      }
+
+      .b5d40658-9bf0-40c3-976a-9b0c9f54c8ed {
+        letter-spacing: 0.008em;
+      }
+
+      .a3c5e8b6-83a2-4695-9465-6d3843918d85 {
+        letter-spacing: -0.002em;
+      }
+
+      .afbed5fc-1ba0-49d7-a402-c827372fced0 {
+        letter-spacing: 0.007em;
+      }
+
+      .bdd14c0f-150c-45aa-901d-c90753c06ee6 {
+        letter-spacing: 0.011em;
+      }
+
+      .f3c4a07b-f3a8-4a34-b928-65d571aec32e {
+        letter-spacing: -0.003em;
+      }
+
+      .eafc1a63-80b2-4305-b505-162cd3f20eb4 {
+        letter-spacing: 0.002em;
+      }
+
+      .b308d535-cbdf-4733-b1c3-b765d47d0764 {
+        letter-spacing: 0em;
+      }
+
+      .bcbd8f79-5b4c-4d9a-845d-fa88661b2966 {
+        stroke: #d5d5d5;
+      }
+
+      .a3e71e00-25f3-47f6-a628-8628ab936743, .b47caa97-617a-4be3-9b0d-c21c0a54de65, .ed3c9d8c-1c4c-41a5-bd0f-8622c652ad69 {
+        font-size: 11px;
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .fb62a76d-56b3-4a31-be1e-b3bd92d21cf0 {
+        letter-spacing: -0.015em;
+      }
+
+      .a667fd4f-057d-42c6-ab68-33e9c97fdde4 {
+        letter-spacing: -0.024em;
+      }
+
+      .f9a5cb98-bbd3-43bc-9d26-286b219d896e {
+        letter-spacing: 0.003em;
+      }
+
+      .bd921333-a1fe-478e-9e1a-c9e8d6a6e229 {
+        letter-spacing: 0.005em;
+      }
+
+      .ee3fff54-002a-48d5-9cec-c7a3e129fb9a {
+        letter-spacing: 0.004em;
+      }
+
+      .b3317cd6-c3f9-43c0-9810-338583efda78 {
+        letter-spacing: 0em;
+      }
+
+      .ef3a7063-f5f2-43cd-8614-bc758a61391f {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .ad9662f3-9289-422d-9dd5-8a25cd534172 {
+        letter-spacing: -0.039em;
+      }
+
+      .e961b3dc-d7db-41a9-8cfa-e9f43626c7c9 {
+        letter-spacing: 0.01em;
+      }
+
+      .a3a1b88d-5c0a-4061-a070-2ff2aa417edb {
+        letter-spacing: 0.01em;
+      }
+
+      .b29413ce-88c9-4c2c-82cd-2ddbfb62ce92 {
+        letter-spacing: -0.024em;
+      }
+
+      .ec1659e8-3bac-4672-9b42-80be168a8704 {
+        letter-spacing: -0.033em;
+      }
+
+      .e9a56251-9406-4b4e-98aa-d94467e70958 {
+        letter-spacing: -0.015em;
+      }
+
+      .e12c4217-580f-4db1-bf40-b97d458e9748 {
+        letter-spacing: -0.007em;
+      }
+
+      .a185bc16-5a1f-451c-b8b9-fba5604f7823 {
+        letter-spacing: 0.003em;
+      }
+
+      .e8198cdd-c7ae-47c5-8bdf-993877669cee {
+        letter-spacing: 0em;
+      }
+
+      .a0f1ad5d-2e9a-469d-b6e6-8d54ca3a0e13 {
+        font-size: 14px;
+      }
+
+      .b2d4c91c-94c7-431f-b978-b47db108878e {
+        letter-spacing: 0.004em;
+      }
+
+      .a104160f-a3b7-4ac0-b336-26ae4c416c8b {
+        letter-spacing: 0.006em;
+      }
+
+      .a2ce9f9b-f707-4089-a297-a1496e080172 {
+        letter-spacing: 0.012em;
+      }
+
+      .a5cf77e1-7018-44fc-b537-f34152eadca6 {
+        letter-spacing: 0.008em;
+      }
+
+      .f275a2f9-66df-4f29-bb7f-08e61edc2e55 {
+        letter-spacing: 0.006em;
+      }
+
+      .e0259bcf-b426-4e48-8ce9-87cd3f9f82f5 {
+        letter-spacing: 0.007em;
+      }
+
+      .ae9ce9b2-f6f7-4488-bde6-9629ed26f619 {
+        letter-spacing: 0.003em;
+      }
+
+      .bc3b1e0b-5e62-4544-bde2-b1f1d4b38de4 {
+        letter-spacing: 0em;
+      }
+
+      .b8716bcc-09f6-41a4-bd26-e108e1c2acea {
+        font-size: 10px;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .a450a0cf-f6f9-4dcb-ad53-c4d2f5dae00a {
+        letter-spacing: -0.008em;
+      }
+
+      .eb0b08ee-d6ac-4a09-96aa-b0b7ccccf492 {
+        letter-spacing: -0.023em;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="bf651ba7-f1a9-48dc-a62d-7aa56c66d989" points="10.335 270.278 129.335 270.278 129.335 210.278"/>
+    <polyline class="bf651ba7-f1a9-48dc-a62d-7aa56c66d989" points="5.335 265.278 124.335 265.278 124.335 205.278"/>
+    <g>
+      <rect class="bc0cb7cf-29b0-4e8f-a468-8d7b56a9b13c" x="0.835" y="200.778" width="118" height="59"/>
+      <path class="b77326f0-9fba-4d86-8e20-c31e76056194" d="M118.335,201.278v58h-117v-58h117m1-1H.335v60h119v-60Z"/>
+    </g>
+  </g>
+  <g>
+    <polyline class="bf651ba7-f1a9-48dc-a62d-7aa56c66d989" points="10.335 385.457 129.335 385.457 129.335 325.457"/>
+    <polyline class="bf651ba7-f1a9-48dc-a62d-7aa56c66d989" points="5.335 380.457 124.335 380.457 124.335 320.457"/>
+    <g>
+      <rect class="bc0cb7cf-29b0-4e8f-a468-8d7b56a9b13c" x="0.835" y="315.957" width="118" height="59"/>
+      <path class="b77326f0-9fba-4d86-8e20-c31e76056194" d="M118.335,316.457v58h-117v-58h117m1-1H.335v60h119v-60Z"/>
+    </g>
+  </g>
+  <g>
+    <polyline class="bf651ba7-f1a9-48dc-a62d-7aa56c66d989" points="10.335 500.135 129.335 500.135 129.335 440.135"/>
+    <polyline class="bf651ba7-f1a9-48dc-a62d-7aa56c66d989" points="5.335 495.135 124.335 495.135 124.335 435.135"/>
+    <g>
+      <rect class="bc0cb7cf-29b0-4e8f-a468-8d7b56a9b13c" x="0.835" y="430.636" width="118" height="59"/>
+      <path class="b77326f0-9fba-4d86-8e20-c31e76056194" d="M118.335,431.135v58h-117v-58h117m1-1H.335v60h119v-60Z"/>
+    </g>
+  </g>
+  <g>
+    <polyline class="bf651ba7-f1a9-48dc-a62d-7aa56c66d989" points="10.335 615.14 129.335 615.14 129.335 555.14"/>
+    <polyline class="bf651ba7-f1a9-48dc-a62d-7aa56c66d989" points="5.335 610.14 124.335 610.14 124.335 550.14"/>
+    <g>
+      <rect class="bc0cb7cf-29b0-4e8f-a468-8d7b56a9b13c" x="0.835" y="545.64" width="118" height="59"/>
+      <path class="b77326f0-9fba-4d86-8e20-c31e76056194" d="M118.335,546.14v58h-117v-58h117m1-1H.335v60h119v-60Z"/>
+    </g>
+  </g>
+  <rect class="b5caf57d-cfdd-4139-88c9-7c49aa7f27fa" x="150" y="20.002" width="610" height="757"/>
+  <text class="b09c5afa-07b5-4e30-91df-6ee978a1e08c" transform="translate(180 61.159)"><tspan class="fe08bde4-fc12-4132-b4df-b43994db3924">O</tspan><tspan class="b3fce57e-992f-4210-a654-d67bdcc096ab" x="13.186" y="0">p</tspan><tspan class="b8264243-85ff-4fd2-86a8-2a809644e669" x="23.467" y="0">e</tspan><tspan class="bbf3e944-35a0-485a-aeaa-e6a7dc364888" x="33.01" y="0">nS</tspan><tspan class="e11ae7a4-a0cd-4ef8-8347-6fff818748c6" x="53.723" y="0">h</tspan><tspan class="f120cfb9-9957-44d4-97a3-4ae8a23f07d3" x="63.71" y="0">i</tspan><tspan class="b5d40658-9bf0-40c3-976a-9b0c9f54c8ed" x="68.198" y="0">f</tspan><tspan x="75.688" y="0">t </tspan><tspan class="a3c5e8b6-83a2-4695-9465-6d3843918d85" x="86.457" y="0">C</tspan><tspan class="afbed5fc-1ba0-49d7-a402-c827372fced0" x="97.951" y="0">l</tspan><tspan class="bdd14c0f-150c-45aa-901d-c90753c06ee6" x="102.666" y="0">u</tspan><tspan class="f3c4a07b-f3a8-4a34-b928-65d571aec32e" x="112.734" y="0">s</tspan><tspan class="eafc1a63-80b2-4305-b505-162cd3f20eb4" x="120.856" y="0">t</tspan><tspan class="b8264243-85ff-4fd2-86a8-2a809644e669" x="128.216" y="0">e</tspan><tspan class="b308d535-cbdf-4733-b1c3-b765d47d0764" x="137.759" y="0">r</tspan></text>
+  <g>
+    <polyline class="bcbd8f79-5b4c-4d9a-845d-fa88661b2966" points="190.617 199.579 309.617 199.579 309.617 139.579"/>
+    <polyline class="bcbd8f79-5b4c-4d9a-845d-fa88661b2966" points="185.617 194.579 304.617 194.579 304.617 134.579"/>
+    <rect class="b77326f0-9fba-4d86-8e20-c31e76056194" x="180.617" y="129.579" width="119" height="60"/>
+  </g>
+  <g>
+    <polyline class="bcbd8f79-5b4c-4d9a-845d-fa88661b2966" points="190.617 314.692 309.617 314.692 309.617 254.692"/>
+    <polyline class="bcbd8f79-5b4c-4d9a-845d-fa88661b2966" points="185.617 309.692 304.617 309.692 304.617 249.692"/>
+    <rect class="b77326f0-9fba-4d86-8e20-c31e76056194" x="180.617" y="244.692" width="119" height="60"/>
+  </g>
+  <g>
+    <polyline class="bcbd8f79-5b4c-4d9a-845d-fa88661b2966" points="190.617 429.805 309.617 429.805 309.617 369.805"/>
+    <polyline class="bcbd8f79-5b4c-4d9a-845d-fa88661b2966" points="185.617 424.805 304.617 424.805 304.617 364.805"/>
+    <rect class="b77326f0-9fba-4d86-8e20-c31e76056194" x="180.617" y="359.805" width="119" height="60"/>
+  </g>
+  <g>
+    <polyline class="bcbd8f79-5b4c-4d9a-845d-fa88661b2966" points="190.617 544.484 309.617 544.484 309.617 484.484"/>
+    <polyline class="bcbd8f79-5b4c-4d9a-845d-fa88661b2966" points="185.617 539.484 304.617 539.484 304.617 479.484"/>
+    <rect class="b77326f0-9fba-4d86-8e20-c31e76056194" x="180.617" y="474.484" width="119" height="60"/>
+  </g>
+  <g>
+    <polyline class="bcbd8f79-5b4c-4d9a-845d-fa88661b2966" points="190.617 660.031 309.617 660.031 309.617 600.031"/>
+    <polyline class="bcbd8f79-5b4c-4d9a-845d-fa88661b2966" points="185.617 655.031 304.617 655.031 304.617 595.031"/>
+    <rect class="b77326f0-9fba-4d86-8e20-c31e76056194" x="180.617" y="590.031" width="119" height="60"/>
+  </g>
+  <rect class="bc0cb7cf-29b0-4e8f-a468-8d7b56a9b13c" x="375" y="80.002" width="355" height="667"/>
+  <rect class="b5caf57d-cfdd-4139-88c9-7c49aa7f27fa" x="395.5" y="687.002" width="315" height="40"/>
+  <text class="a3e71e00-25f3-47f6-a628-8628ab936743" transform="translate(513.313 711.398)"><tspan class="fb62a76d-56b3-4a31-be1e-b3bd92d21cf0">C</tspan><tspan x="7.788" y="0">o</tspan><tspan class="fb62a76d-56b3-4a31-be1e-b3bd92d21cf0" x="14.366" y="0">n</tspan><tspan x="20.603" y="0">t</tspan><tspan class="a667fd4f-057d-42c6-ab68-33e9c97fdde4" x="25.156" y="0">r</tspan><tspan x="29.216" y="0">ol P</tspan><tspan class="a667fd4f-057d-42c6-ab68-33e9c97fdde4" x="48.509" y="0">r</tspan><tspan class="f9a5cb98-bbd3-43bc-9d26-286b219d896e" x="52.568" y="0">o</tspan><tspan class="fb62a76d-56b3-4a31-be1e-b3bd92d21cf0" x="59.179" y="0">c</tspan><tspan class="bd921333-a1fe-478e-9e1a-c9e8d6a6e229" x="64.767" y="0">e</tspan><tspan class="ee3fff54-002a-48d5-9cec-c7a3e129fb9a" x="71.125" y="0">s</tspan><tspan class="b3317cd6-c3f9-43c0-9810-338583efda78" x="76.438" y="0">s</tspan></text>
+  <g>
+    <line class="ef3a7063-f5f2-43cd-8614-bc758a61391f" x1="554.167" y1="677.326" x2="554.167" y2="646.678"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="559.153 675.867 554.167 684.502 549.181 675.867 559.153 675.867"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="559.153 648.137 554.167 639.502 549.181 648.137 559.153 648.137"/>
+  </g>
+  <g>
+    <line class="ef3a7063-f5f2-43cd-8614-bc758a61391f" x1="309.176" y1="160.002" x2="385.24" y2="160.002"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="310.635 164.988 302 160.002 310.635 155.016 310.635 164.988"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="383.781 164.988 392.417 160.002 383.781 155.016 383.781 164.988"/>
+  </g>
+  <g>
+    <polyline class="bf651ba7-f1a9-48dc-a62d-7aa56c66d989" points="10.335 154.948 129.335 154.948 129.335 94.948"/>
+    <polyline class="bf651ba7-f1a9-48dc-a62d-7aa56c66d989" points="5.335 149.948 124.335 149.948 124.335 89.948"/>
+    <g>
+      <rect class="bc0cb7cf-29b0-4e8f-a468-8d7b56a9b13c" x="0.835" y="85.448" width="118" height="59"/>
+      <path class="b77326f0-9fba-4d86-8e20-c31e76056194" d="M118.335,85.948v58h-117v-58h117m1-1H.335v60h119v-60Z"/>
+    </g>
+  </g>
+  <text class="b47caa97-617a-4be3-9b0d-c21c0a54de65" transform="translate(204.553 163.598)">M<tspan class="ad9662f3-9289-422d-9dd5-8a25cd534172" x="9.79" y="0">Q</tspan><tspan class="e961b3dc-d7db-41a9-8cfa-e9f43626c7c9" x="18.282" y="0">T</tspan><tspan x="25.421" y="0">T Clie</tspan><tspan class="fb62a76d-56b3-4a31-be1e-b3bd92d21cf0" x="54.725" y="0">n</tspan><tspan class="a3a1b88d-5c0a-4061-a070-2ff2aa417edb" x="60.961" y="0">t</tspan><tspan class="b3317cd6-c3f9-43c0-9810-338583efda78" x="65.625" y="0">s</tspan></text>
+  <rect class="b5caf57d-cfdd-4139-88c9-7c49aa7f27fa" x="394.917" y="130.002" width="316.75" height="507"/>
+  <text class="a3e71e00-25f3-47f6-a628-8628ab936743" transform="translate(517.157 386.549)">AMQ 7 B<tspan class="b29413ce-88c9-4c2c-82cd-2ddbfb62ce92" x="45.419" y="0">r</tspan><tspan x="49.478" y="0">o</tspan><tspan class="ec1659e8-3bac-4672-9b42-80be168a8704" x="56.056" y="0">k</tspan><tspan x="61.644" y="0">er</tspan></text>
+  <g>
+    <polyline class="ef3a7063-f5f2-43cd-8614-bc758a61391f" points="385.24 260.126 345 260.126 345 230.126 129.676 230.126"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="383.781 255.14 392.417 260.126 383.781 265.113 383.781 255.14"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="131.135 225.14 122.5 230.126 131.135 235.113 131.135 225.14"/>
+  </g>
+  <g>
+    <polyline class="ef3a7063-f5f2-43cd-8614-bc758a61391f" points="385.24 375.002 345 375.002 345 345.002 129.676 345.002"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="383.781 370.016 392.417 375.002 383.781 379.988 383.781 370.016"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="131.135 340.016 122.5 345.002 131.135 349.988 131.135 340.016"/>
+  </g>
+  <g>
+    <polyline class="ef3a7063-f5f2-43cd-8614-bc758a61391f" points="385.24 145.002 345 145.002 345 115.002 129.676 115.002"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="383.781 140.016 392.417 145.002 383.781 149.988 383.781 140.016"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="131.135 110.016 122.5 115.002 131.135 119.988 131.135 110.016"/>
+  </g>
+  <g>
+    <line class="ef3a7063-f5f2-43cd-8614-bc758a61391f" x1="309.176" y1="275.002" x2="385.24" y2="275.002"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="310.635 279.988 302 275.002 310.635 270.016 310.635 279.988"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="383.781 279.988 392.417 275.002 383.781 270.016 383.781 279.988"/>
+  </g>
+  <text class="b47caa97-617a-4be3-9b0d-c21c0a54de65" transform="translate(203.854 278.598)">AMQP Clie<tspan class="e9a56251-9406-4b4e-98aa-d94467e70958" x="56.121" y="0">n</tspan><tspan class="a3a1b88d-5c0a-4061-a070-2ff2aa417edb" x="62.358" y="0">t</tspan><tspan x="67.022" y="0">s</tspan></text>
+  <g>
+    <line class="ef3a7063-f5f2-43cd-8614-bc758a61391f" x1="309.176" y1="390.002" x2="385.24" y2="390.002"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="310.635 394.988 302 390.002 310.635 385.016 310.635 394.988"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="383.781 394.988 392.417 390.002 383.781 385.016 383.781 394.988"/>
+  </g>
+  <text class="b47caa97-617a-4be3-9b0d-c21c0a54de65" transform="translate(204.465 387.598)"><tspan class="fb62a76d-56b3-4a31-be1e-b3bd92d21cf0">C</tspan><tspan x="7.788" y="0">o</tspan><tspan class="b29413ce-88c9-4c2c-82cd-2ddbfb62ce92" x="14.366" y="0">r</tspan><tspan x="18.425" y="0">e P</tspan><tspan class="b29413ce-88c9-4c2c-82cd-2ddbfb62ce92" x="34.672" y="0">ro</tspan><tspan class="e12c4217-580f-4db1-bf40-b97d458e9748" x="45.045" y="0">t</tspan><tspan class="a185bc16-5a1f-451c-b8b9-fba5604f7823" x="49.521" y="0">o</tspan><tspan class="fb62a76d-56b3-4a31-be1e-b3bd92d21cf0" x="56.133" y="0">c</tspan><tspan class="e8198cdd-c7ae-47c5-8bdf-993877669cee" x="61.721" y="0">ol</tspan><tspan x="4.438" y="12">JMS Clie</tspan><tspan class="e9a56251-9406-4b4e-98aa-d94467e70958" x="50.462" y="12">n</tspan><tspan class="e961b3dc-d7db-41a9-8cfa-e9f43626c7c9" x="56.699" y="12">t</tspan><tspan class="b3317cd6-c3f9-43c0-9810-338583efda78" x="61.362" y="12">s</tspan></text>
+  <g>
+    <line class="ef3a7063-f5f2-43cd-8614-bc758a61391f" x1="309.176" y1="505.002" x2="385.24" y2="505.002"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="310.635 509.988 302 505.002 310.635 500.016 310.635 509.988"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="383.781 509.988 392.417 505.002 383.781 500.016 383.781 509.988"/>
+  </g>
+  <text class="b47caa97-617a-4be3-9b0d-c21c0a54de65" transform="translate(214.096 502.598)">O<tspan class="a185bc16-5a1f-451c-b8b9-fba5604f7823" x="8.921" y="0">p</tspan><tspan x="15.675" y="0">enWi</tspan><tspan class="a667fd4f-057d-42c6-ab68-33e9c97fdde4" x="41.447" y="0">r</tspan><tspan x="45.507" y="0">e</tspan><tspan x="-5.192" y="12">JMS Clie</tspan><tspan class="e9a56251-9406-4b4e-98aa-d94467e70958" x="40.831" y="12">n</tspan><tspan class="e961b3dc-d7db-41a9-8cfa-e9f43626c7c9" x="47.068" y="12">t</tspan><tspan class="b3317cd6-c3f9-43c0-9810-338583efda78" x="51.731" y="12">s</tspan></text>
+  <g>
+    <line class="ef3a7063-f5f2-43cd-8614-bc758a61391f" x1="309.176" y1="620.002" x2="385.24" y2="620.002"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="310.635 624.988 302 620.002 310.635 615.016 310.635 624.988"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="383.781 624.988 392.417 620.002 383.781 615.016 383.781 624.988"/>
+  </g>
+  <text class="b47caa97-617a-4be3-9b0d-c21c0a54de65" transform="translate(200.967 623.598)"><tspan class="fb62a76d-56b3-4a31-be1e-b3bd92d21cf0">S</tspan><tspan class="ad9662f3-9289-422d-9dd5-8a25cd534172" x="6.842" y="0">T</tspan><tspan x="13.442" y="0">OMP Clie</tspan><tspan class="e9a56251-9406-4b4e-98aa-d94467e70958" x="61.896" y="0">n</tspan><tspan class="e961b3dc-d7db-41a9-8cfa-e9f43626c7c9" x="68.134" y="0">t</tspan><tspan class="b3317cd6-c3f9-43c0-9810-338583efda78" x="72.797" y="0">s</tspan></text>
+  <text class="ed3c9d8c-1c4c-41a5-bd0f-8622c652ad69" transform="translate(24.387 118.847)">M<tspan class="ad9662f3-9289-422d-9dd5-8a25cd534172" x="9.79" y="0">Q</tspan><tspan class="e961b3dc-d7db-41a9-8cfa-e9f43626c7c9" x="18.282" y="0">T</tspan><tspan x="25.421" y="0">T Clie</tspan><tspan class="fb62a76d-56b3-4a31-be1e-b3bd92d21cf0" x="54.725" y="0">n</tspan><tspan class="a3a1b88d-5c0a-4061-a070-2ff2aa417edb" x="60.961" y="0">t</tspan><tspan class="b3317cd6-c3f9-43c0-9810-338583efda78" x="65.625" y="0">s</tspan></text>
+  <text class="ed3c9d8c-1c4c-41a5-bd0f-8622c652ad69" transform="translate(23.854 233.847)">AMQP Clie<tspan class="e9a56251-9406-4b4e-98aa-d94467e70958" x="56.121" y="0">n</tspan><tspan class="a3a1b88d-5c0a-4061-a070-2ff2aa417edb" x="62.358" y="0">t</tspan><tspan x="67.022" y="0">s</tspan></text>
+  <g>
+    <rect class="bc0cb7cf-29b0-4e8f-a468-8d7b56a9b13c" x="0.5" y="315.751" width="119" height="59"/>
+    <path class="b77326f0-9fba-4d86-8e20-c31e76056194" d="M119,316.251v58H1v-58H119m1-1H0v60H120v-60Z"/>
+  </g>
+  <g>
+    <polyline class="ef3a7063-f5f2-43cd-8614-bc758a61391f" points="385.24 490.002 345 490.002 345 460.002 129.676 460.002"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="383.781 485.016 392.417 490.002 383.781 494.988 383.781 485.016"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="131.135 455.016 122.5 460.002 131.135 464.988 131.135 455.016"/>
+  </g>
+  <text class="ed3c9d8c-1c4c-41a5-bd0f-8622c652ad69" transform="translate(24.465 342.347)"><tspan class="fb62a76d-56b3-4a31-be1e-b3bd92d21cf0">C</tspan><tspan x="7.788" y="0">o</tspan><tspan class="b29413ce-88c9-4c2c-82cd-2ddbfb62ce92" x="14.366" y="0">r</tspan><tspan x="18.425" y="0">e P</tspan><tspan class="b29413ce-88c9-4c2c-82cd-2ddbfb62ce92" x="34.672" y="0">ro</tspan><tspan class="e12c4217-580f-4db1-bf40-b97d458e9748" x="45.045" y="0">t</tspan><tspan class="a185bc16-5a1f-451c-b8b9-fba5604f7823" x="49.521" y="0">o</tspan><tspan class="fb62a76d-56b3-4a31-be1e-b3bd92d21cf0" x="56.133" y="0">c</tspan><tspan class="e8198cdd-c7ae-47c5-8bdf-993877669cee" x="61.721" y="0">ol</tspan><tspan x="4.438" y="12">JMS Clie</tspan><tspan class="e9a56251-9406-4b4e-98aa-d94467e70958" x="50.462" y="12">n</tspan><tspan class="e961b3dc-d7db-41a9-8cfa-e9f43626c7c9" x="56.699" y="12">t</tspan><tspan class="b3317cd6-c3f9-43c0-9810-338583efda78" x="61.362" y="12">s</tspan></text>
+  <g>
+    <rect class="bc0cb7cf-29b0-4e8f-a468-8d7b56a9b13c" x="0.5" y="430.751" width="119" height="59"/>
+    <path class="b77326f0-9fba-4d86-8e20-c31e76056194" d="M119,431.251v58H1v-58H119m1-1H0v60H120v-60Z"/>
+  </g>
+  <g>
+    <polyline class="ef3a7063-f5f2-43cd-8614-bc758a61391f" points="385.24 605.002 345 605.002 345 575.002 129.676 575.002"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="383.781 600.016 392.417 605.002 383.781 609.988 383.781 600.016"/>
+    <polygon class="e7362283-9eae-45a7-8ba9-08d2f76b7433" points="131.135 570.016 122.5 575.002 131.135 579.988 131.135 570.016"/>
+  </g>
+  <text class="ed3c9d8c-1c4c-41a5-bd0f-8622c652ad69" transform="translate(34.096 457.347)">O<tspan class="a185bc16-5a1f-451c-b8b9-fba5604f7823" x="8.921" y="0">p</tspan><tspan x="15.675" y="0">enWi</tspan><tspan class="a667fd4f-057d-42c6-ab68-33e9c97fdde4" x="41.447" y="0">r</tspan><tspan x="45.507" y="0">e</tspan><tspan x="-5.192" y="12">JMS Clie</tspan><tspan class="e9a56251-9406-4b4e-98aa-d94467e70958" x="40.831" y="12">n</tspan><tspan class="e961b3dc-d7db-41a9-8cfa-e9f43626c7c9" x="47.068" y="12">t</tspan><tspan class="b3317cd6-c3f9-43c0-9810-338583efda78" x="51.731" y="12">s</tspan></text>
+  <g>
+    <rect class="bc0cb7cf-29b0-4e8f-a468-8d7b56a9b13c" x="0.5" y="545.751" width="119" height="59"/>
+    <path class="b77326f0-9fba-4d86-8e20-c31e76056194" d="M119,546.251v58H1v-58H119m1-1H0v60H120v-60Z"/>
+  </g>
+  <text class="ed3c9d8c-1c4c-41a5-bd0f-8622c652ad69" transform="translate(20.967 578.847)"><tspan class="fb62a76d-56b3-4a31-be1e-b3bd92d21cf0">S</tspan><tspan class="ad9662f3-9289-422d-9dd5-8a25cd534172" x="6.842" y="0">T</tspan><tspan x="13.442" y="0">OMP Clie</tspan><tspan class="e9a56251-9406-4b4e-98aa-d94467e70958" x="61.896" y="0">n</tspan><tspan class="e961b3dc-d7db-41a9-8cfa-e9f43626c7c9" x="68.134" y="0">t</tspan><tspan class="b3317cd6-c3f9-43c0-9810-338583efda78" x="72.797" y="0">s</tspan></text>
+  <text class="a0f1ad5d-2e9a-469d-b6e6-8d54ca3a0e13" transform="translate(395 110.178)"><tspan class="b2d4c91c-94c7-431f-b978-b47db108878e">A</tspan><tspan class="a104160f-a3b7-4ac0-b336-26ae4c416c8b" x="10.446" y="0">M</tspan><tspan x="23.477" y="0">Q </tspan><tspan class="a2ce9f9b-f707-4089-a297-a1496e080172" x="37.868" y="0">O</tspan><tspan class="a5cf77e1-7018-44fc-b537-f34152eadca6" x="49.414" y="0">n</tspan><tspan class="f275a2f9-66df-4f29-bb7f-08e61edc2e55" x="58.184" y="0">l</tspan><tspan class="e0259bcf-b426-4e48-8ce9-87cd3f9f82f5" x="62.301" y="0">i</tspan><tspan class="ae9ce9b2-f6f7-4488-bde6-9629ed26f619" x="66.425" y="0">n</tspan><tspan class="bc3b1e0b-5e62-4544-bde2-b1f1d4b38de4" x="75.112" y="0">e</tspan></text>
+  <g>
+    <text class="b8716bcc-09f6-41a4-bd26-e108e1c2acea" transform="translate(690.671 800.019)">119_AMQ_<tspan class="a450a0cf-f6f9-4dcb-ad53-c4d2f5dae00a" x="44.77" y="0">0</tspan><tspan class="eb0b08ee-d6ac-4a09-96aa-b0b7ccccf492" x="51.289" y="0">9</tspan><tspan x="57.249" y="0">20</tspan></text>
+    <rect class="f53984a7-95ea-49c2-af82-378b188e36e2" y="777.002" width="760" height="40"/>
+  </g>
+</svg>

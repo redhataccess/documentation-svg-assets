@@ -1,0 +1,125 @@
+<svg id="af03b5fe-77e1-4222-bb67-aa59f1928a05" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="504.101" viewBox="0 0 760 504.101">
+  <defs>
+    <style>
+      .eebab0cb-a050-4655-8ad2-556e54e25e96 {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .b0edc6d9-98ed-4c85-ba75-4bd6c28fb977, .e3e74913-d913-4fcd-be40-dfec9fadfffa, .ee5eff0e-94c9-4327-a05e-bd54e942dea9 {
+        fill: none;
+      }
+
+      .ee5eff0e-94c9-4327-a05e-bd54e942dea9 {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a4fc12a4-44fe-4feb-91c2-9f9f1bfbb688, .ad468b60-fd84-4fcb-9789-c7633dccfea3, .b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9 {
+        fill: #151515;
+      }
+
+      .e0e3da54-7dbc-40f5-a959-99401d2f3501 {
+        fill: #e8e8e8;
+      }
+
+      .a4fc12a4-44fe-4feb-91c2-9f9f1bfbb688, .b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9 {
+        font-size: 11px;
+      }
+
+      .b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .b18cfda3-e3f5-4f1a-a1d2-0f537dcaceed {
+        fill: #fff;
+      }
+
+      .a4fc12a4-44fe-4feb-91c2-9f9f1bfbb688 {
+        font-family: RedHatText-Italic, Red Hat Text;
+        font-style: italic;
+      }
+
+      .b0edc6d9-98ed-4c85-ba75-4bd6c28fb977 {
+        stroke: #e8e8e8;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .bbc7eaf9-0b82-49da-8b64-c872bcb507fd {
+        fill: #d9e8f7;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="eebab0cb-a050-4655-8ad2-556e54e25e96" transform="translate(678.091 487.119)">99_RHPAM_0920</text>
+    <rect class="e3e74913-d913-4fcd-be40-dfec9fadfffa" x="0.01" y="464.101" width="760" height="40"/>
+  </g>
+  <g>
+    <line class="ee5eff0e-94c9-4327-a05e-bd54e942dea9" x1="412.5" y1="111.007" x2="412.5" y2="60.525"/>
+    <polygon class="ad468b60-fd84-4fcb-9789-c7633dccfea3" points="417.486 109.548 412.5 118.183 407.514 109.548 417.486 109.548"/>
+  </g>
+  <g>
+    <rect class="e0e3da54-7dbc-40f5-a959-99401d2f3501" x="260" y="20.683" width="305" height="40"/>
+    <text class="b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9" transform="translate(366.813 44.008)">Client application</text>
+  </g>
+  <rect class="b18cfda3-e3f5-4f1a-a1d2-0f537dcaceed" x="401" y="75.11" width="23" height="20.965"/>
+  <text class="a4fc12a4-44fe-4feb-91c2-9f9f1bfbb688" transform="translate(392.591 88.716)">API calls</text>
+  <g>
+    <line class="ee5eff0e-94c9-4327-a05e-bd54e942dea9" x1="335" y1="354.387" x2="335" y2="437.369"/>
+    <polygon class="ad468b60-fd84-4fcb-9789-c7633dccfea3" points="330.014 435.91 335 444.545 339.986 435.91 330.014 435.91"/>
+  </g>
+  <g>
+    <rect class="e0e3da54-7dbc-40f5-a959-99401d2f3501" x="260" y="446.887" width="305" height="40"/>
+    <text class="b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9" transform="translate(391.243 470.211)">Storage</text>
+  </g>
+  <g>
+    <line class="ee5eff0e-94c9-4327-a05e-bd54e942dea9" x1="335" y1="259.711" x2="335" y2="218.405"/>
+    <polygon class="ad468b60-fd84-4fcb-9789-c7633dccfea3" points="339.986 258.252 335 266.887 330.014 258.252 339.986 258.252"/>
+    <polygon class="ad468b60-fd84-4fcb-9789-c7633dccfea3" points="339.986 219.864 335 211.229 330.014 219.864 339.986 219.864"/>
+  </g>
+  <rect class="b18cfda3-e3f5-4f1a-a1d2-0f537dcaceed" x="323.5" y="228.575" width="23" height="20.965"/>
+  <text class="a4fc12a4-44fe-4feb-91c2-9f9f1bfbb688" transform="translate(289.153 242.182)">Controller API calls</text>
+  <g>
+    <line class="ee5eff0e-94c9-4327-a05e-bd54e942dea9" x1="490" y1="259.711" x2="490" y2="208.729"/>
+    <polygon class="ad468b60-fd84-4fcb-9789-c7633dccfea3" points="494.986 258.252 490 266.887 485.014 258.252 494.986 258.252"/>
+  </g>
+  <rect class="b18cfda3-e3f5-4f1a-a1d2-0f537dcaceed" x="478.5" y="228.575" width="23" height="20.965"/>
+  <text class="a4fc12a4-44fe-4feb-91c2-9f9f1bfbb688" transform="translate(430.375 242.182)">Request service artifacts</text>
+  <polyline class="b0edc6d9-98ed-4c85-ba75-4bd6c28fb977" points="155 319.387 155 359.387 5 359.387"/>
+  <polyline class="b0edc6d9-98ed-4c85-ba75-4bd6c28fb977" points="160 324.387 160 364.387 10 364.387"/>
+  <g>
+    <rect class="e0e3da54-7dbc-40f5-a959-99401d2f3501" x="260" y="120.683" width="305" height="88"/>
+    <rect class="b18cfda3-e3f5-4f1a-a1d2-0f537dcaceed" x="275" y="153.683" width="275" height="40"/>
+    <text class="b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9" transform="translate(360.394 177.008)">H2 Database Engine</text>
+    <text class="b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9" transform="translate(275 143.787)">KIE server</text>
+  </g>
+  <rect class="bbc7eaf9-0b82-49da-8b64-c872bcb507fd" x="415" y="269.387" width="150" height="40"/>
+  <text class="b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9" transform="translate(444.845 292.711)">Maven repository</text>
+  <rect class="e0e3da54-7dbc-40f5-a959-99401d2f3501" x="415" y="359.387" width="150" height="40"/>
+  <text class="b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9" transform="translate(467.895 382.434)">Indexing</text>
+  <rect class="bbc7eaf9-0b82-49da-8b64-c872bcb507fd" x="260" y="269.387" width="150" height="40"/>
+  <text class="b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9" transform="translate(308.721 292.711)">Controller</text>
+  <rect class="bbc7eaf9-0b82-49da-8b64-c872bcb507fd" x="260" y="314.387" width="305" height="40"/>
+  <text class="b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9" transform="translate(369.414 337.711)">Business Central</text>
+  <rect class="e0e3da54-7dbc-40f5-a959-99401d2f3501" x="610" y="269.387" width="150" height="40"/>
+  <text class="b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9" transform="translate(659.76 286.434)">CI/CD for<tspan x="-11.813" y="12">KJAR projects</tspan></text>
+  <g>
+    <line class="ee5eff0e-94c9-4327-a05e-bd54e942dea9" x1="250.324" y1="334.387" x2="150" y2="334.387"/>
+    <polygon class="ad468b60-fd84-4fcb-9789-c7633dccfea3" points="248.865 329.4 257.5 334.387 248.865 339.373 248.865 329.4"/>
+  </g>
+  <g>
+    <line class="ee5eff0e-94c9-4327-a05e-bd54e942dea9" x1="600.324" y1="289.387" x2="574.676" y2="289.387"/>
+    <polygon class="ad468b60-fd84-4fcb-9789-c7633dccfea3" points="598.865 284.4 607.5 289.387 598.865 294.373 598.865 284.4"/>
+    <polygon class="ad468b60-fd84-4fcb-9789-c7633dccfea3" points="576.135 284.4 567.5 289.387 576.135 294.373 576.135 284.4"/>
+  </g>
+  <rect class="b18cfda3-e3f5-4f1a-a1d2-0f537dcaceed" x="323.5" y="389.613" width="23" height="31.706"/>
+  <text class="a4fc12a4-44fe-4feb-91c2-9f9f1bfbb688" transform="translate(300.774 402.59)">Access .niogit,<tspan x="-5.506" y="12">Maven repo files</tspan></text>
+  <rect class="e0e3da54-7dbc-40f5-a959-99401d2f3501" y="314.387" width="150" height="40"/>
+  <text class="b92d86ec-2c7e-4d8a-8aaa-185d95f4fab9" transform="translate(60.408 337.433)">Users</text>
+  <rect class="b18cfda3-e3f5-4f1a-a1d2-0f537dcaceed" x="178.221" y="323.904" width="54.307" height="20.965"/>
+  <text class="a4fc12a4-44fe-4feb-91c2-9f9f1bfbb688" transform="translate(182.721 337.511)">UI access</text>
+</svg>

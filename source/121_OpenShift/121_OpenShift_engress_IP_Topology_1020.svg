@@ -1,153 +1,167 @@
-<svg id="a387e084-0d6d-4a46-8ab7-d3861b8dd97e" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="524.218" viewBox="0 0 760 524.218">
+<svg id="adfa7144-27a8-47cd-8695-e5e8074074dc" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="526.218" viewBox="0 0 760 526.218">
   <defs>
     <style>
-      .b9a9c9d9-87d7-479a-8c95-add05141c48b {
+      .a06810c6-c4c4-4f79-8b49-bde9716d5185, .b02ba650-d72d-409a-ab30-a4c04f62ad2b, .bd522a33-15fc-4dc7-aabf-4aadc03e6994, .e41b9ccb-cc95-46f9-a699-409b2fb29774, .ea5e21c5-4d31-441c-a01f-fd62daa51122, .ebfa67b6-e3ef-49ab-b393-8775b63f7edb, .f58d06c2-0fde-47dc-8f06-19286f18a776, .f999705f-1629-41aa-83ab-c13009277b63, .f9d273aa-c454-4076-bab0-2e01fafdece5 {
+        fill: none;
+      }
+
+      .b02ba650-d72d-409a-ab30-a4c04f62ad2b, .bd522a33-15fc-4dc7-aabf-4aadc03e6994, .e41b9ccb-cc95-46f9-a699-409b2fb29774, .ea5e21c5-4d31-441c-a01f-fd62daa51122, .ebfa67b6-e3ef-49ab-b393-8775b63f7edb, .f999705f-1629-41aa-83ab-c13009277b63 {
+        stroke: #06c;
+      }
+
+      .b02ba650-d72d-409a-ab30-a4c04f62ad2b, .bd522a33-15fc-4dc7-aabf-4aadc03e6994, .e41b9ccb-cc95-46f9-a699-409b2fb29774, .ea5e21c5-4d31-441c-a01f-fd62daa51122, .ebfa67b6-e3ef-49ab-b393-8775b63f7edb, .f58d06c2-0fde-47dc-8f06-19286f18a776, .f999705f-1629-41aa-83ab-c13009277b63, .f9d273aa-c454-4076-bab0-2e01fafdece5 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b02ba650-d72d-409a-ab30-a4c04f62ad2b, .f9d273aa-c454-4076-bab0-2e01fafdece5 {
+        stroke-width: 2px;
+      }
+
+      .f9d273aa-c454-4076-bab0-2e01fafdece5 {
+        stroke: #4cb6d6;
+      }
+
+      .b72d3cbc-6bfc-4efc-917b-8df957a52164 {
+        fill: #fff;
+      }
+
+      .a7e03fb4-441a-42ed-b186-eb8bfd1331f2 {
         font-size: 12px;
         font-family: RedHatText-Medium, Red Hat Text;
         font-weight: 500;
       }
 
-      .b9a9c9d9-87d7-479a-8c95-add05141c48b, .f8d4deb5-4e10-4966-8a86-78fcc8f92a11 {
+      .a7e03fb4-441a-42ed-b186-eb8bfd1331f2, .ac8302a1-f9b5-4858-be1d-a79e9acacdf2, .e188186e-72be-4018-9a44-535c0a01483d {
         fill: #151515;
       }
 
-      .a22a300a-9fdb-46b3-9360-45bf7c684a8b, .a454918e-a97d-4b98-b945-36cf89951c80, .ace578d8-736c-4fb3-853a-92610b2808a9, .b79d2283-ded3-4d24-bb53-8966d4079980, .bba3932f-a563-497e-9615-6d1b4263b6c8, .e83d103e-c079-4fb7-b12f-ca4b10d4447d, .f53d879d-5702-4282-9056-0acfee13fcfd, .f8e0a708-049c-4cdd-8eb8-a732ae0c50f6, .ff271b8b-3d6a-4173-9f7c-e0199d93d7ce {
-        fill: none;
-      }
-
-      .ace578d8-736c-4fb3-853a-92610b2808a9, .bba3932f-a563-497e-9615-6d1b4263b6c8, .e83d103e-c079-4fb7-b12f-ca4b10d4447d, .f53d879d-5702-4282-9056-0acfee13fcfd, .f8e0a708-049c-4cdd-8eb8-a732ae0c50f6, .ff271b8b-3d6a-4173-9f7c-e0199d93d7ce {
-        stroke: #06c;
-      }
-
-      .a22a300a-9fdb-46b3-9360-45bf7c684a8b, .a454918e-a97d-4b98-b945-36cf89951c80, .ace578d8-736c-4fb3-853a-92610b2808a9, .bba3932f-a563-497e-9615-6d1b4263b6c8, .e83d103e-c079-4fb7-b12f-ca4b10d4447d, .f53d879d-5702-4282-9056-0acfee13fcfd, .f8e0a708-049c-4cdd-8eb8-a732ae0c50f6, .ff271b8b-3d6a-4173-9f7c-e0199d93d7ce {
-        stroke-linecap: round;
-        stroke-linejoin: round;
-      }
-
-      .a22a300a-9fdb-46b3-9360-45bf7c684a8b, .f8e0a708-049c-4cdd-8eb8-a732ae0c50f6 {
-        stroke-width: 2px;
-      }
-
-      .a22a300a-9fdb-46b3-9360-45bf7c684a8b {
-        stroke: #4cb6d6;
-      }
-
-      .b8d8d85a-ac21-40f1-a68f-b2e629d14b91 {
+      .ab9e9585-9dce-4215-b9a5-e5f53498db8f {
         fill: #e8e8e8;
       }
 
-      .f8d4deb5-4e10-4966-8a86-78fcc8f92a11 {
+      .ac8302a1-f9b5-4858-be1d-a79e9acacdf2 {
         font-size: 14px;
         font-family: RedHatText-Bold, Red Hat Text;
         font-weight: 700;
       }
 
-      .a454918e-a97d-4b98-b945-36cf89951c80 {
+      .b814b036-fc6a-4294-beef-f2ebc34fe84d, .e188186e-72be-4018-9a44-535c0a01483d {
+        font-size: 11px;
+        font-family: LiberationMono, Liberation Mono;
+      }
+
+      .b814b036-fc6a-4294-beef-f2ebc34fe84d {
+        font-weight: 400;
+      }
+
+      .f58d06c2-0fde-47dc-8f06-19286f18a776 {
         stroke: #fff;
         stroke-width: 8px;
       }
 
-      .a37556e0-3880-4916-a4e5-67c5020bd1b5 {
+      .bf60db29-9fbf-435a-90c3-5f2310374bb4 {
         fill: #4cb6d6;
       }
 
-      .f8f548e3-dc15-47be-a3bc-05af63cb91e4 {
-        fill: #fff;
-      }
-
-      .b6330101-eae3-4bc9-8996-f18569100a75 {
+      .b592640b-c316-475e-bce6-b7a3789f36a5 {
         fill: #d5d5d5;
       }
 
-      .e83d103e-c079-4fb7-b12f-ca4b10d4447d {
+      .bd522a33-15fc-4dc7-aabf-4aadc03e6994 {
         stroke-dasharray: 3.4 3.4;
       }
 
-      .f53d879d-5702-4282-9056-0acfee13fcfd {
+      .ea5e21c5-4d31-441c-a01f-fd62daa51122 {
         stroke-dasharray: 2.8 2.8;
       }
 
-      .ace578d8-736c-4fb3-853a-92610b2808a9 {
+      .f999705f-1629-41aa-83ab-c13009277b63 {
         stroke-dasharray: 3.3 3.3;
       }
 
-      .b06f50e5-17a7-4b56-b9ec-4a8cf5a90893 {
-        font-size: 11px;
-        font-family: LiberationMono, Liberation Mono;
-        font-weight: 400;
-      }
-
-      .bba3932f-a563-497e-9615-6d1b4263b6c8 {
-        stroke-dasharray: 2.846 2.846;
-      }
-
-      .b01496fa-6031-4e39-b7b3-8fb52e10c9fd {
+      .b9c89556-e7ba-4978-8e60-200af8d305df {
         font-size: 10px;
         fill: #f3f3f3;
         font-family: RedHatText-Regular, Red Hat Text;
       }
+
+      .e41b9ccb-cc95-46f9-a699-409b2fb29774 {
+        stroke-dasharray: 2.846 2.846;
+      }
     </style>
   </defs>
-  <text class="b9a9c9d9-87d7-479a-8c95-add05141c48b" transform="translate(467.089 152.904)">Pod network<tspan x="0" y="15">10.128.0.0/14</tspan></text>
-  <polyline class="f8e0a708-049c-4cdd-8eb8-a732ae0c50f6" points="424.774 117.5 459.591 117.5 459.591 439.218 425.093 439.218"/>
-  <text class="b9a9c9d9-87d7-479a-8c95-add05141c48b" transform="translate(597.089 152.904)">Infrastructure network<tspan x="0" y="15">192.168.126.0/18</tspan></text>
-  <polyline class="a22a300a-9fdb-46b3-9360-45bf7c684a8b" points="424.614 97.501 589.591 97.501 589.591 459.218 424.933 459.218"/>
-  <rect class="b8d8d85a-ac21-40f1-a68f-b2e629d14b91" x="633.07" y="220" width="127" height="95"/>
-  <text class="f8d4deb5-4e10-4966-8a86-78fcc8f92a11" transform="translate(653.07 251.788)">External<tspan x="0" y="15">service</tspan></text>
-  <line class="f8e0a708-049c-4cdd-8eb8-a732ae0c50f6" x1="459.591" y1="260" x2="425.07" y2="260"/>
-  <line class="a454918e-a97d-4b98-b945-36cf89951c80" x1="469.591" y1="240" x2="425.07" y2="240"/>
-  <line class="a22a300a-9fdb-46b3-9360-45bf7c684a8b" x1="589.591" y1="240" x2="425.07" y2="240"/>
+  <polyline class="b02ba650-d72d-409a-ab30-a4c04f62ad2b" points="424.774 117.5 459.591 117.5 459.591 439.218 425.093 439.218"/>
+  <polyline class="f9d273aa-c454-4076-bab0-2e01fafdece5" points="424.614 97.501 589.591 97.501 589.591 459.218 424.933 459.218"/>
+  <rect class="b72d3cbc-6bfc-4efc-917b-8df957a52164" x="464.185" y="449.005" width="91.058" height="20.426"/>
+  <text class="a7e03fb4-441a-42ed-b186-eb8bfd1331f2" transform="translate(467.089 462.946)">192.168.126.102</text>
   <g>
-    <line class="a22a300a-9fdb-46b3-9360-45bf7c684a8b" x1="589.591" y1="267.5" x2="623.394" y2="267.5"/>
-    <polygon class="a37556e0-3880-4916-a4e5-67c5020bd1b5" points="621.935 272.486 630.57 267.5 621.935 262.514 621.935 272.486"/>
+    <rect class="ab9e9585-9dce-4215-b9a5-e5f53498db8f" x="0.07" y="374.218" width="425" height="135"/>
+    <text class="ac8302a1-f9b5-4858-be1d-a79e9acacdf2" transform="translate(20.07 406.146)">Node 3<tspan class="b814b036-fc6a-4294-beef-f2ebc34fe84d"><tspan x="0" y="26">meta:</tspan></tspan></text>
+    <text class="e188186e-72be-4018-9a44-535c0a01483d" transform="translate(26.682 445.145)">name: node3</text>
+    <text class="e188186e-72be-4018-9a44-535c0a01483d" transform="translate(26.645 458.146)">labels:</text>
+    <text class="e188186e-72be-4018-9a44-535c0a01483d" transform="translate(33.219 471.146)">k8s.ovn.org/egress-assignable: &quot;&quot;</text>
   </g>
-  <rect class="f8f548e3-dc15-47be-a3bc-05af63cb91e4" x="464.185" y="87.706" width="83.558" height="20.426"/>
-  <text class="b9a9c9d9-87d7-479a-8c95-add05141c48b" transform="translate(467.089 101.647)">192.168.126.10</text>
-  <rect class="f8f548e3-dc15-47be-a3bc-05af63cb91e4" x="464.185" y="449.005" width="91.058" height="20.426"/>
-  <text class="b9a9c9d9-87d7-479a-8c95-add05141c48b" transform="translate(467.089 462.946)">192.168.126.102</text>
-  <rect class="b8d8d85a-ac21-40f1-a68f-b2e629d14b91" x="0.07" y="55" width="425" height="135"/>
-  <rect class="b8d8d85a-ac21-40f1-a68f-b2e629d14b91" x="0.07" y="374.218" width="425" height="130"/>
-  <rect class="b8d8d85a-ac21-40f1-a68f-b2e629d14b91" x="0.07" y="220" width="425" height="95"/>
-  <polygon class="b6330101-eae3-4bc9-8996-f18569100a75" points="394.996 444.218 265.07 444.218 265.145 374.218 395.07 374.218 394.996 444.218"/>
-  <polygon class="b8d8d85a-ac21-40f1-a68f-b2e629d14b91" points="394.996 339.218 265.07 339.218 265.145 374.218 395.07 374.218 394.996 339.218"/>
-  <rect class="b6330101-eae3-4bc9-8996-f18569100a75" x="265.107" y="55" width="129.925" height="135"/>
-  <polygon class="b6330101-eae3-4bc9-8996-f18569100a75" points="394.996 290 265.07 290 265.145 220 395.07 220 394.996 290"/>
-  <polygon class="b8d8d85a-ac21-40f1-a68f-b2e629d14b91" points="394.996 20 265.07 20 265.145 55 395.07 55 394.996 20"/>
-  <polygon class="b8d8d85a-ac21-40f1-a68f-b2e629d14b91" points="394.996 190 265.07 190 265.145 220 395.07 220 394.996 190"/>
+  <text class="a7e03fb4-441a-42ed-b186-eb8bfd1331f2" transform="translate(467.089 152.904)">Pod network<tspan x="0" y="15">10.128.0.0/14</tspan></text>
+  <text class="a7e03fb4-441a-42ed-b186-eb8bfd1331f2" transform="translate(597.089 152.904)">Infrastructure network<tspan x="0" y="15">192.168.126.0/18</tspan></text>
+  <rect class="ab9e9585-9dce-4215-b9a5-e5f53498db8f" x="633.07" y="220" width="127" height="95"/>
+  <text class="ac8302a1-f9b5-4858-be1d-a79e9acacdf2" transform="translate(653.07 251.788)">External<tspan x="0" y="15">service</tspan></text>
+  <line class="b02ba650-d72d-409a-ab30-a4c04f62ad2b" x1="459.591" y1="260" x2="425.07" y2="260"/>
+  <line class="f58d06c2-0fde-47dc-8f06-19286f18a776" x1="469.591" y1="240" x2="425.07" y2="240"/>
+  <line class="f9d273aa-c454-4076-bab0-2e01fafdece5" x1="589.591" y1="240" x2="425.07" y2="240"/>
   <g>
-    <line class="ff271b8b-3d6a-4173-9f7c-e0199d93d7ce" x1="385.07" y1="140" x2="386.57" y2="140"/>
-    <line class="e83d103e-c079-4fb7-b12f-ca4b10d4447d" x1="389.97" y1="140" x2="401.87" y2="140"/>
-    <polyline class="ff271b8b-3d6a-4173-9f7c-e0199d93d7ce" points="403.57 140 405.07 140 405.07 138.5"/>
-    <line class="f53d879d-5702-4282-9056-0acfee13fcfd" x1="405.07" y1="135.7" x2="405.07" y2="97.9"/>
-    <polyline class="ff271b8b-3d6a-4173-9f7c-e0199d93d7ce" points="405.07 96.5 405.07 95 403.57 95"/>
-    <line class="e83d103e-c079-4fb7-b12f-ca4b10d4447d" x1="400.17" y1="95" x2="388.27" y2="95"/>
-    <line class="ff271b8b-3d6a-4173-9f7c-e0199d93d7ce" x1="386.57" y1="95" x2="385.07" y2="95"/>
+    <line class="f9d273aa-c454-4076-bab0-2e01fafdece5" x1="589.591" y1="267.5" x2="623.394" y2="267.5"/>
+    <polygon class="bf60db29-9fbf-435a-90c3-5f2310374bb4" points="621.935 272.486 630.57 267.5 621.935 262.514 621.935 272.486"/>
+  </g>
+  <rect class="b72d3cbc-6bfc-4efc-917b-8df957a52164" x="464.185" y="87.706" width="83.558" height="20.426"/>
+  <text class="a7e03fb4-441a-42ed-b186-eb8bfd1331f2" transform="translate(467.089 101.647)">192.168.126.10</text>
+  <rect class="ab9e9585-9dce-4215-b9a5-e5f53498db8f" x="0.07" y="55" width="425" height="135"/>
+  <polygon class="b592640b-c316-475e-bce6-b7a3789f36a5" points="394.996 444.218 265.07 444.218 265.145 374.218 395.07 374.218 394.996 444.218"/>
+  <polygon class="ab9e9585-9dce-4215-b9a5-e5f53498db8f" points="394.996 339.218 265.07 339.218 265.145 374.218 395.07 374.218 394.996 339.218"/>
+  <rect class="b592640b-c316-475e-bce6-b7a3789f36a5" x="265.107" y="55" width="129.925" height="135"/>
+  <polygon class="ab9e9585-9dce-4215-b9a5-e5f53498db8f" points="394.996 20 265.07 20 265.145 55 395.07 55 394.996 20"/>
+  <g>
+    <line class="ebfa67b6-e3ef-49ab-b393-8775b63f7edb" x1="385.07" y1="140" x2="386.57" y2="140"/>
+    <line class="bd522a33-15fc-4dc7-aabf-4aadc03e6994" x1="389.97" y1="140" x2="401.87" y2="140"/>
+    <polyline class="ebfa67b6-e3ef-49ab-b393-8775b63f7edb" points="403.57 140 405.07 140 405.07 138.5"/>
+    <line class="ea5e21c5-4d31-441c-a01f-fd62daa51122" x1="405.07" y1="135.7" x2="405.07" y2="97.9"/>
+    <polyline class="ebfa67b6-e3ef-49ab-b393-8775b63f7edb" points="405.07 96.5 405.07 95 403.57 95"/>
+    <line class="bd522a33-15fc-4dc7-aabf-4aadc03e6994" x1="400.17" y1="95" x2="388.27" y2="95"/>
+    <line class="ebfa67b6-e3ef-49ab-b393-8775b63f7edb" x1="386.57" y1="95" x2="385.07" y2="95"/>
   </g>
   <g>
-    <line class="ff271b8b-3d6a-4173-9f7c-e0199d93d7ce" x1="425.07" y1="117.5" x2="423.57" y2="117.5"/>
-    <line class="ace578d8-736c-4fb3-853a-92610b2808a9" x1="420.27" y1="117.5" x2="408.72" y2="117.5"/>
-    <line class="ff271b8b-3d6a-4173-9f7c-e0199d93d7ce" x1="407.07" y1="117.5" x2="405.57" y2="117.5"/>
+    <line class="ebfa67b6-e3ef-49ab-b393-8775b63f7edb" x1="425.07" y1="117.5" x2="423.57" y2="117.5"/>
+    <line class="f999705f-1629-41aa-83ab-c13009277b63" x1="420.27" y1="117.5" x2="408.72" y2="117.5"/>
+    <line class="ebfa67b6-e3ef-49ab-b393-8775b63f7edb" x1="407.07" y1="117.5" x2="405.57" y2="117.5"/>
   </g>
-  <rect class="f8f548e3-dc15-47be-a3bc-05af63cb91e4" x="275.07" y="394.218" width="110" height="40"/>
-  <text class="b9a9c9d9-87d7-479a-8c95-add05141c48b" transform="translate(315.251 417.542)">pod4</text>
-  <text class="f8d4deb5-4e10-4966-8a86-78fcc8f92a11" transform="translate(20.07 406.006)">Node 3<tspan class="b06f50e5-17a7-4b56-b9ec-4a8cf5a90893"><tspan x="0" y="26">meta:</tspan><tspan x="0" y="39" xml:space="preserve"> name: node3</tspan><tspan x="0" y="52" xml:space="preserve"> labels:</tspan><tspan x="0" y="65" xml:space="preserve">  k8s.ovn.org/egress-assignable: &quot;&quot;</tspan></tspan></text>
-  <rect class="f8f548e3-dc15-47be-a3bc-05af63cb91e4" x="275.07" y="120" width="110" height="40"/>
-  <text class="b9a9c9d9-87d7-479a-8c95-add05141c48b" transform="translate(315.736 143.323)">pod2</text>
-  <rect class="f8f548e3-dc15-47be-a3bc-05af63cb91e4" x="275.07" y="75" width="110" height="40"/>
-  <text class="b9a9c9d9-87d7-479a-8c95-add05141c48b" transform="translate(317.104 98.323)">pod1</text>
-  <text class="f8d4deb5-4e10-4966-8a86-78fcc8f92a11" transform="translate(20.07 86.788)">Node 1<tspan class="b06f50e5-17a7-4b56-b9ec-4a8cf5a90893"><tspan x="0" y="26">meta:</tspan><tspan x="0" y="39" xml:space="preserve"> name: node1</tspan><tspan x="0" y="52" xml:space="preserve"> labels:</tspan><tspan x="0" y="65" xml:space="preserve">  k8s.ovn.org/egress-assignable: &quot;&quot;</tspan></tspan></text>
-  <text class="f8d4deb5-4e10-4966-8a86-78fcc8f92a11" transform="translate(20.07 251.788)">Node 2<tspan class="b06f50e5-17a7-4b56-b9ec-4a8cf5a90893"><tspan x="0" y="26">meta:</tspan><tspan x="0" y="39" xml:space="preserve"> name: node2</tspan></tspan></text>
+  <rect class="b72d3cbc-6bfc-4efc-917b-8df957a52164" x="275.07" y="394.218" width="110" height="40"/>
+  <text class="a7e03fb4-441a-42ed-b186-eb8bfd1331f2" transform="translate(315.251 417.542)">pod4</text>
+  <rect class="b72d3cbc-6bfc-4efc-917b-8df957a52164" x="275.07" y="120" width="110" height="40"/>
+  <text class="a7e03fb4-441a-42ed-b186-eb8bfd1331f2" transform="translate(315.736 143.323)">pod2</text>
+  <rect class="b72d3cbc-6bfc-4efc-917b-8df957a52164" x="275.07" y="75" width="110" height="40"/>
+  <text class="a7e03fb4-441a-42ed-b186-eb8bfd1331f2" transform="translate(317.104 98.323)">pod1</text>
+  <text class="ac8302a1-f9b5-4858-be1d-a79e9acacdf2" transform="translate(20.07 86.928)">Node 1<tspan class="b814b036-fc6a-4294-beef-f2ebc34fe84d"><tspan x="0" y="26">meta:</tspan></tspan></text>
+  <text class="e188186e-72be-4018-9a44-535c0a01483d" transform="translate(26.682 125.928)">name: node1</text>
+  <text class="e188186e-72be-4018-9a44-535c0a01483d" transform="translate(26.645 138.928)">labels:</text>
+  <text class="e188186e-72be-4018-9a44-535c0a01483d" transform="translate(33.219 151.928)">k8s.ovn.org/egress-assignable: &quot;&quot;</text>
+  <text class="a7e03fb4-441a-42ed-b186-eb8bfd1331f2" transform="translate(296.117 43.531)">namespace1</text>
+  <text class="a7e03fb4-441a-42ed-b186-eb8bfd1331f2" transform="translate(294.749 362.742)">namespace2</text>
   <g>
-    <line class="ff271b8b-3d6a-4173-9f7c-e0199d93d7ce" x1="425.07" y1="260" x2="423.57" y2="260"/>
-    <line class="bba3932f-a563-497e-9615-6d1b4263b6c8" x1="420.724" y1="260" x2="387.993" y2="260"/>
-    <line class="ff271b8b-3d6a-4173-9f7c-e0199d93d7ce" x1="386.57" y1="260" x2="385.07" y2="260"/>
+    <text class="b9c89556-e7ba-4978-8e60-200af8d305df" transform="translate(671.012 509.235)">121_OpenShift_1020</text>
+    <rect class="a06810c6-c4c4-4f79-8b49-bde9716d5185" y="486.218" width="760" height="40"/>
   </g>
-  <rect class="f8f548e3-dc15-47be-a3bc-05af63cb91e4" x="275.07" y="240" width="110" height="40"/>
-  <text class="b9a9c9d9-87d7-479a-8c95-add05141c48b" transform="translate(315.514 263.323)">pod3</text>
-  <text class="b9a9c9d9-87d7-479a-8c95-add05141c48b" transform="translate(296.117 43.531)">namespace1</text>
-  <text class="b9a9c9d9-87d7-479a-8c95-add05141c48b" transform="translate(294.749 362.742)">namespace2</text>
   <g>
-    <text class="b01496fa-6031-4e39-b7b3-8fb52e10c9fd" transform="translate(671.012 507.235)">121_OpenShift_1020</text>
-    <rect class="b79d2283-ded3-4d24-bb53-8966d4079980" y="484.218" width="760" height="40"/>
+    <rect class="ab9e9585-9dce-4215-b9a5-e5f53498db8f" x="0.07" y="220" width="425" height="95"/>
+    <text class="ac8302a1-f9b5-4858-be1d-a79e9acacdf2" transform="translate(20.07 251.928)">Node 2<tspan class="b814b036-fc6a-4294-beef-f2ebc34fe84d"><tspan x="0" y="26">meta:</tspan></tspan></text>
+    <text class="e188186e-72be-4018-9a44-535c0a01483d" transform="translate(26.682 290.928)">name: node2</text>
   </g>
+  <polygon class="b592640b-c316-475e-bce6-b7a3789f36a5" points="394.996 290 265.07 290 265.145 220 395.07 220 394.996 290"/>
+  <polygon class="ab9e9585-9dce-4215-b9a5-e5f53498db8f" points="394.996 190 265.07 190 265.145 220 395.07 220 394.996 190"/>
+  <g>
+    <line class="ebfa67b6-e3ef-49ab-b393-8775b63f7edb" x1="425.07" y1="260" x2="423.57" y2="260"/>
+    <line class="e41b9ccb-cc95-46f9-a699-409b2fb29774" x1="420.724" y1="260" x2="387.993" y2="260"/>
+    <line class="ebfa67b6-e3ef-49ab-b393-8775b63f7edb" x1="386.57" y1="260" x2="385.07" y2="260"/>
+  </g>
+  <rect class="b72d3cbc-6bfc-4efc-917b-8df957a52164" x="275.07" y="240" width="110" height="40"/>
+  <text class="a7e03fb4-441a-42ed-b186-eb8bfd1331f2" transform="translate(315.514 263.323)">pod3</text>
 </svg>

@@ -1,0 +1,103 @@
+<svg id="b8d04a97-5d9a-465d-945e-1385e4f45e6f" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="354.436" viewBox="0 0 760 354.436">
+  <defs>
+    <style>
+      .a7405f3e-bf84-47e2-be7c-c1ede291c59e, .a8f9bcc3-567b-4319-afc5-a5680284831e {
+        fill: none;
+      }
+
+      .a8f9bcc3-567b-4319-afc5-a5680284831e {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .ab10a391-d6bb-4986-ba0e-4f770e58986e, .b6555dac-9d99-4193-917b-ee13525a861c, .eec29761-325d-4f5c-8927-1d39ba6779ac {
+        fill: #151515;
+      }
+
+      .eaea6d87-3886-40d7-bf54-564a2df45837, .f8303b45-4404-478b-8bf6-48993c464c0c {
+        fill: #e8e8e8;
+      }
+
+      .b6555dac-9d99-4193-917b-ee13525a861c, .eec29761-325d-4f5c-8927-1d39ba6779ac, .f3fdfc2e-0189-443d-b939-aa57ea795690 {
+        font-size: 12px;
+      }
+
+      .b6555dac-9d99-4193-917b-ee13525a861c {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .eaea6d87-3886-40d7-bf54-564a2df45837 {
+        font-size: 10px;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .e07233a0-7778-4e4d-b6d9-396e15b76fed {
+        fill: #06c;
+      }
+
+      .eec29761-325d-4f5c-8927-1d39ba6779ac, .f3fdfc2e-0189-443d-b939-aa57ea795690 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .e19c6ed1-cdb0-4a62-a089-a057ef4773ae {
+        fill: #e5f0fa;
+      }
+
+      .f3fdfc2e-0189-443d-b939-aa57ea795690 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="a8f9bcc3-567b-4319-afc5-a5680284831e" x1="393" y1="167.26" x2="393" y2="146.612"/>
+    <polygon class="ab10a391-d6bb-4986-ba0e-4f770e58986e" points="397.986 165.801 393 174.436 388.014 165.801 397.986 165.801"/>
+    <polygon class="ab10a391-d6bb-4986-ba0e-4f770e58986e" points="397.986 148.071 393 139.436 388.014 148.071 397.986 148.071"/>
+  </g>
+  <g>
+    <line class="a8f9bcc3-567b-4319-afc5-a5680284831e" x1="117.5" y1="167.26" x2="117.5" y2="146.612"/>
+    <polygon class="ab10a391-d6bb-4986-ba0e-4f770e58986e" points="122.486 165.801 117.5 174.436 112.513 165.801 122.486 165.801"/>
+    <polygon class="ab10a391-d6bb-4986-ba0e-4f770e58986e" points="122.486 148.071 117.5 139.436 112.513 148.071 122.486 148.071"/>
+  </g>
+  <g>
+    <line class="a8f9bcc3-567b-4319-afc5-a5680284831e" x1="393" y1="267.26" x2="393" y2="246.612"/>
+    <polygon class="ab10a391-d6bb-4986-ba0e-4f770e58986e" points="397.986 265.801 393 274.436 388.014 265.801 397.986 265.801"/>
+    <polygon class="ab10a391-d6bb-4986-ba0e-4f770e58986e" points="397.986 248.071 393 239.436 388.014 248.071 397.986 248.071"/>
+  </g>
+  <g>
+    <line class="a8f9bcc3-567b-4319-afc5-a5680284831e" x1="117.5" y1="267.26" x2="117.5" y2="246.612"/>
+    <polygon class="ab10a391-d6bb-4986-ba0e-4f770e58986e" points="122.486 265.801 117.5 274.436 112.513 265.801 122.486 265.801"/>
+    <polygon class="ab10a391-d6bb-4986-ba0e-4f770e58986e" points="122.486 248.071 117.5 239.436 112.513 248.071 122.486 248.071"/>
+  </g>
+  <g>
+    <rect class="f8303b45-4404-478b-8bf6-48993c464c0c" x="290.5" y="176.495" width="205" height="60"/>
+    <text class="b6555dac-9d99-4193-917b-ee13525a861c" transform="translate(374.179 211.38)">Maven</text>
+  </g>
+  <g>
+    <rect class="f8303b45-4404-478b-8bf6-48993c464c0c" x="14.999" y="176.936" width="205" height="60"/>
+    <text class="b6555dac-9d99-4193-917b-ee13525a861c" transform="translate(108.691 211.821)">Git</text>
+  </g>
+  <rect class="f8303b45-4404-478b-8bf6-48993c464c0c" x="15" y="276.936" width="480.5" height="60"/>
+  <text class="b6555dac-9d99-4193-917b-ee13525a861c" transform="translate(209.315 311.821)">CI/CD (Jenkins)</text>
+  <g>
+    <text class="eaea6d87-3886-40d7-bf54-564a2df45837" transform="translate(679.172 336.796)">123_RHPAM_1020</text>
+    <rect class="a7405f3e-bf84-47e2-be7c-c1ede291c59e" x="-0.001" y="314.436" width="760" height="40"/>
+  </g>
+  <g>
+    <path class="e07233a0-7778-4e4d-b6d9-396e15b76fed" d="M509.5,20.932v115h-233v-115h233m1-1h-235v117h235v-117Z"/>
+    <text class="eec29761-325d-4f5c-8927-1d39ba6779ac" transform="translate(290.5 47.059)">KIE Server</text>
+    <rect class="e19c6ed1-cdb0-4a62-a089-a057ef4773ae" x="290.5" y="61.932" width="205" height="60"/>
+    <text class="b6555dac-9d99-4193-917b-ee13525a861c" transform="translate(338.155 96.817)">Red Hat JBoss EAP</text>
+  </g>
+  <rect class="e07233a0-7778-4e4d-b6d9-396e15b76fed" x="555" y="61.932" width="205" height="60"/>
+  <text class="f3fdfc2e-0189-443d-b939-aa57ea795690" transform="translate(569.464 91.817)">Red Hat Business Automation<tspan x="59.825" y="13">Database</tspan></text>
+  <path class="e07233a0-7778-4e4d-b6d9-396e15b76fed" d="M234,20.932v115H1v-115H234m1-1H0v117H235v-117Z"/>
+  <text class="eec29761-325d-4f5c-8927-1d39ba6779ac" transform="translate(15 47.059)">IDE</text>
+  <g>
+    <line class="a8f9bcc3-567b-4319-afc5-a5680284831e" x1="519.926" y1="91.817" x2="545.574" y2="91.817"/>
+    <polygon class="ab10a391-d6bb-4986-ba0e-4f770e58986e" points="521.385 96.803 512.75 91.817 521.385 86.83 521.385 96.803"/>
+    <polygon class="ab10a391-d6bb-4986-ba0e-4f770e58986e" points="544.114 96.803 552.75 91.817 544.114 86.83 544.114 96.803"/>
+  </g>
+</svg>

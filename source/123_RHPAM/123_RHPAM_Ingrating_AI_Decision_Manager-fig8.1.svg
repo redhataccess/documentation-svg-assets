@@ -1,0 +1,93 @@
+<svg id="abddc950-1055-4a48-97fe-e10d473473ba" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="426" viewBox="0 0 760 426">
+  <defs>
+    <style>
+      .e85dc689-f471-40a1-9834-42554f4a691a {
+        fill: #e8e8e8;
+      }
+
+      .affdcb42-1613-412b-9112-f8ff72daf549 {
+        font-size: 14px;
+      }
+
+      .a3ebec5b-06b0-49c6-a586-ab6d2460e2bd, .affdcb42-1613-412b-9112-f8ff72daf549, .b56e0df2-af6c-4c28-82e0-d357ef7dff98, .f3be8521-8147-4732-b784-889144e4c0af {
+        fill: #151515;
+      }
+
+      .affdcb42-1613-412b-9112-f8ff72daf549, .e55172e9-2a5c-43d8-b7df-42e2f281bc1e, .f3be8521-8147-4732-b784-889144e4c0af {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .a6aa2f27-b53c-4cc2-9e6a-33d5087ed386, .ef71e2ee-86e3-494b-86b5-85cf42763ce3 {
+        fill: none;
+      }
+
+      .a6aa2f27-b53c-4cc2-9e6a-33d5087ed386 {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .bf7c0b72-b119-4c58-8705-b231804aa601, .e55172e9-2a5c-43d8-b7df-42e2f281bc1e {
+        fill: #fff;
+      }
+
+      .be982fec-54df-4fbd-bdbc-2adcf5ae97a1 {
+        fill: #06c;
+      }
+
+      .a3ebec5b-06b0-49c6-a586-ab6d2460e2bd, .e55172e9-2a5c-43d8-b7df-42e2f281bc1e, .f3be8521-8147-4732-b784-889144e4c0af {
+        font-size: 12px;
+      }
+
+      .ae73177e-cf25-41cb-8091-39bc519480c0 {
+        fill: #e5f0fa;
+      }
+
+      .a3ebec5b-06b0-49c6-a586-ab6d2460e2bd {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .f6084276-827b-43c4-95e0-138636180bd8 {
+        font-size: 10px;
+        fill: #dcdcdc;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <rect class="e85dc689-f471-40a1-9834-42554f4a691a" y="19.932" width="760" height="396.223"/>
+  <text class="affdcb42-1613-412b-9112-f8ff72daf549" transform="translate(29.999 56.831)">Red Hat OpenShift Container Platform</text>
+  <g>
+    <line class="a6aa2f27-b53c-4cc2-9e6a-33d5087ed386" x1="244.676" y1="192.936" x2="267.823" y2="192.936"/>
+    <polygon class="b56e0df2-af6c-4c28-82e0-d357ef7dff98" points="246.135 197.922 237.5 192.936 246.135 187.95 246.135 197.922"/>
+    <polygon class="b56e0df2-af6c-4c28-82e0-d357ef7dff98" points="266.365 197.922 275 192.936 266.365 187.95 266.365 197.922"/>
+  </g>
+  <g>
+    <line class="a6aa2f27-b53c-4cc2-9e6a-33d5087ed386" x1="492.176" y1="192.936" x2="515.323" y2="192.936"/>
+    <polygon class="b56e0df2-af6c-4c28-82e0-d357ef7dff98" points="493.635 197.922 485 192.936 493.635 187.95 493.635 197.922"/>
+    <polygon class="b56e0df2-af6c-4c28-82e0-d357ef7dff98" points="513.864 197.922 522.5 192.936 513.864 187.95 513.864 197.922"/>
+  </g>
+  <rect class="bf7c0b72-b119-4c58-8705-b231804aa601" x="277.499" y="81.936" width="205" height="301"/>
+  <path class="be982fec-54df-4fbd-bdbc-2adcf5ae97a1" d="M466.5,121.936v245h-173v-245h173m1-1h-175v247h175v-247Z"/>
+  <text class="f3be8521-8147-4732-b784-889144e4c0af" transform="translate(307.5 148.063)">KIE Server</text>
+  <text class="f3be8521-8147-4732-b784-889144e4c0af" transform="translate(292.499 104.537)">Container</text>
+  <rect class="ae73177e-cf25-41cb-8091-39bc519480c0" x="307.5" y="162.936" width="145" height="60"/>
+  <text class="a3ebec5b-06b0-49c6-a586-ab6d2460e2bd" transform="translate(325.154 197.821)">Red Hat JBoss EAP</text>
+  <rect class="be982fec-54df-4fbd-bdbc-2adcf5ae97a1" x="525" y="162.942" width="205" height="59.988"/>
+  <text class="e55172e9-2a5c-43d8-b7df-42e2f281bc1e" transform="translate(539.463 192.821)">Red Hat Business Automation<tspan x="59.825" y="13">Database</tspan></text>
+  <rect class="bf7c0b72-b119-4c58-8705-b231804aa601" x="30" y="81.936" width="205" height="301"/>
+  <path class="be982fec-54df-4fbd-bdbc-2adcf5ae97a1" d="M219,121.936v245H46v-245H219m1-1H45v247H220v-247Z"/>
+  <text class="f3be8521-8147-4732-b784-889144e4c0af" transform="translate(60 148.063)">Business Central</text>
+  <text class="f3be8521-8147-4732-b784-889144e4c0af" transform="translate(45 104.538)">Container</text>
+  <rect class="e85dc689-f471-40a1-9834-42554f4a691a" x="60" y="162.936" width="145" height="60"/>
+  <text class="a3ebec5b-06b0-49c6-a586-ab6d2460e2bd" transform="translate(113.678 197.821)">Maven</text>
+  <rect class="e85dc689-f471-40a1-9834-42554f4a691a" x="60" y="227.936" width="145" height="60"/>
+  <text class="a3ebec5b-06b0-49c6-a586-ab6d2460e2bd" transform="translate(123.692 262.821)">Git</text>
+  <rect class="ae73177e-cf25-41cb-8091-39bc519480c0" x="60" y="292.821" width="145" height="60"/>
+  <text class="a3ebec5b-06b0-49c6-a586-ab6d2460e2bd" transform="translate(77.655 327.706)">Red Hat JBoss EAP</text>
+  <g>
+    <text class="f6084276-827b-43c4-95e0-138636180bd8" transform="translate(658.796 399.172)">123_RHPAM_1020</text>
+    <rect class="ef71e2ee-86e3-494b-86b5-85cf42763ce3" y="376.155" width="760" height="40"/>
+  </g>
+</svg>

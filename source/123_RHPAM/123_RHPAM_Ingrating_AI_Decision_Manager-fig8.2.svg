@@ -1,0 +1,84 @@
+<svg id="bfe2bbf4-d073-436a-a3bd-c0ea3b8f1f47" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="284.842" viewBox="0 0 760 284.842">
+  <defs>
+    <style>
+      .f0169085-49ba-4636-803f-de1d4085c965 {
+        font-size: 10px;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .f0169085-49ba-4636-803f-de1d4085c965, .f88ef603-b71b-454a-8e47-147a2a1bbe44 {
+        fill: #e8e8e8;
+      }
+
+      .ef4f1880-1320-4666-b45c-a9af479d831d, .fbb38c06-dfa5-4f67-aa8c-783dcd1afc04 {
+        fill: none;
+      }
+
+      .f7ae8355-3e2a-44d4-84bd-130657efc9c1 {
+        fill: #06c;
+      }
+
+      .a7c21bfb-e293-4f2f-9db6-b86e434697f5, .f08efccf-7e24-4ad4-89d7-fbdf38bac50e, .f9661dc3-a504-43f2-aacb-e86629a3c625 {
+        font-size: 12px;
+      }
+
+      .f08efccf-7e24-4ad4-89d7-fbdf38bac50e, .f30d5a04-7ec5-405f-84ae-e36c42448081, .f9661dc3-a504-43f2-aacb-e86629a3c625 {
+        fill: #151515;
+      }
+
+      .a7c21bfb-e293-4f2f-9db6-b86e434697f5, .f9661dc3-a504-43f2-aacb-e86629a3c625 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .b3a81cf0-daba-4220-8288-bcc2ba6aa140 {
+        fill: #e5f0fa;
+      }
+
+      .f08efccf-7e24-4ad4-89d7-fbdf38bac50e {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .a7c21bfb-e293-4f2f-9db6-b86e434697f5 {
+        fill: #fff;
+      }
+
+      .fbb38c06-dfa5-4f67-aa8c-783dcd1afc04 {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="f0169085-49ba-4636-803f-de1d4085c965" transform="translate(679.172 267.202)">123_RHPAM_1020</text>
+    <rect class="ef4f1880-1320-4666-b45c-a9af479d831d" x="-0.001" y="244.842" width="760" height="40"/>
+  </g>
+  <g>
+    <path class="f7ae8355-3e2a-44d4-84bd-130657efc9c1" d="M509.5,20.932v245h-233v-245h233m1-1h-235v247h235v-247Z"/>
+    <text class="f9661dc3-a504-43f2-aacb-e86629a3c625" transform="translate(290.5 47.059)">KIE Server</text>
+    <rect class="b3a81cf0-daba-4220-8288-bcc2ba6aa140" x="290.5" y="61.932" width="205" height="60"/>
+    <text class="f08efccf-7e24-4ad4-89d7-fbdf38bac50e" transform="translate(338.155 96.817)">Red Hat JBoss EAP</text>
+  </g>
+  <rect class="f7ae8355-3e2a-44d4-84bd-130657efc9c1" x="555" y="61.932" width="205" height="60"/>
+  <text class="a7c21bfb-e293-4f2f-9db6-b86e434697f5" transform="translate(569.464 88.654)">Red Hat Business Automation<tspan x="59.825" y="13">Database</tspan></text>
+  <path class="f7ae8355-3e2a-44d4-84bd-130657efc9c1" d="M234,20.932v245H1v-245H234m1-1H0v247H235v-247Z"/>
+  <text class="f9661dc3-a504-43f2-aacb-e86629a3c625" transform="translate(15 47.059)">Business Central</text>
+  <rect class="f88ef603-b71b-454a-8e47-147a2a1bbe44" x="15" y="61.932" width="205" height="60"/>
+  <text class="f08efccf-7e24-4ad4-89d7-fbdf38bac50e" transform="translate(93.678 96.817)">Maven</text>
+  <rect class="f88ef603-b71b-454a-8e47-147a2a1bbe44" x="15" y="126.932" width="205" height="60"/>
+  <text class="f08efccf-7e24-4ad4-89d7-fbdf38bac50e" transform="translate(103.692 161.817)">Git</text>
+  <rect class="b3a81cf0-daba-4220-8288-bcc2ba6aa140" x="15" y="191.817" width="205" height="60"/>
+  <text class="f08efccf-7e24-4ad4-89d7-fbdf38bac50e" transform="translate(57.655 226.701)">Red Hat JBoss EAP</text>
+  <g>
+    <line class="fbb38c06-dfa5-4f67-aa8c-783dcd1afc04" x1="244.676" y1="91.817" x2="265.323" y2="91.817"/>
+    <polygon class="f30d5a04-7ec5-405f-84ae-e36c42448081" points="246.135 96.803 237.5 91.817 246.135 86.83 246.135 96.803"/>
+    <polygon class="f30d5a04-7ec5-405f-84ae-e36c42448081" points="263.865 96.803 272.5 91.817 263.865 86.83 263.865 96.803"/>
+  </g>
+  <g>
+    <line class="fbb38c06-dfa5-4f67-aa8c-783dcd1afc04" x1="519.927" y1="91.817" x2="545.574" y2="91.817"/>
+    <polygon class="f30d5a04-7ec5-405f-84ae-e36c42448081" points="521.386 96.803 512.75 91.817 521.386 86.83 521.386 96.803"/>
+    <polygon class="f30d5a04-7ec5-405f-84ae-e36c42448081" points="544.115 96.803 552.75 91.817 544.115 86.83 544.115 96.803"/>
+  </g>
+</svg>

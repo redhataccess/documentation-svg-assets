@@ -1,0 +1,195 @@
+<svg id="ee21a513-a6ba-4ead-8327-fd367d35b767" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="808.5" viewBox="0 0 760 808.5">
+  <defs>
+    <style>
+      .a5b2a6ea-0bc5-4a8c-8e3d-d807581a375d {
+        font-size: 10px;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .a5b2a6ea-0bc5-4a8c-8e3d-d807581a375d, .b19b1d89-b7c1-403f-bd79-e3fe28b54d92 {
+        fill: #f3f3f3;
+      }
+
+      .a3aefef4-89de-409c-88c2-f2e4ed8ffbd4, .a597eb97-e2d6-492e-a0a2-97593c655084, .eeaea886-eabb-4665-85ef-4033d18446ed {
+        fill: none;
+      }
+
+      .a03aa911-33d2-4f15-96cd-91f9e7629bfb {
+        font-size: 16px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .a03aa911-33d2-4f15-96cd-91f9e7629bfb, .a084e53f-b456-49cb-97d4-8494bb237550, .aa4cc87a-7a7c-43bb-9e2d-98a6a450d961, .f493d1ed-3c18-4e3b-8ab9-2bf6a2671339 {
+        fill: #151515;
+      }
+
+      .a084e53f-b456-49cb-97d4-8494bb237550, .aa4cc87a-7a7c-43bb-9e2d-98a6a450d961, .f493d1ed-3c18-4e3b-8ab9-2bf6a2671339 {
+        font-size: 12px;
+      }
+
+      .aa4cc87a-7a7c-43bb-9e2d-98a6a450d961, .e078c22e-b7c0-4a19-ad07-041637f403db, .f493d1ed-3c18-4e3b-8ab9-2bf6a2671339, .f72cfb24-a1c5-4db4-9cfc-946ed2d9abbd {
+        font-family: LiberationMono, Liberation Mono;
+      }
+
+      .a3aefef4-89de-409c-88c2-f2e4ed8ffbd4, .a597eb97-e2d6-492e-a0a2-97593c655084 {
+        stroke: #06c;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a3a12cb9-0168-41eb-b096-271818de604c {
+        fill: #06c;
+      }
+
+      .a084e53f-b456-49cb-97d4-8494bb237550, .b51ee2ee-4cf5-4b2f-ade8-b0c50ee93806 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .e078c22e-b7c0-4a19-ad07-041637f403db, .f72cfb24-a1c5-4db4-9cfc-946ed2d9abbd {
+        font-weight: 400;
+      }
+
+      .a3aefef4-89de-409c-88c2-f2e4ed8ffbd4 {
+        stroke-dasharray: 3 3;
+      }
+
+      .f493d1ed-3c18-4e3b-8ab9-2bf6a2671339 {
+        letter-spacing: -0.02em;
+      }
+
+      .b07e2eee-391d-418c-b56b-ccd096c64f31 {
+        letter-spacing: -0.22em;
+      }
+
+      .bf55cf13-0847-437b-838c-0e6f2286ce14 {
+        letter-spacing: -0.02em;
+      }
+
+      .f72cfb24-a1c5-4db4-9cfc-946ed2d9abbd {
+        letter-spacing: -0.08em;
+      }
+
+      .f4f0773e-f7b8-44d8-92e7-6c3e76c890fe {
+        fill: #dedede;
+      }
+
+      .e8c3b97b-c389-47b8-82c3-69413484564b {
+        fill: #e8e8e8;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="a5b2a6ea-0bc5-4a8c-8e3d-d807581a375d" transform="translate(687.031 801.517)">115_3Scale_1020</text>
+    <rect class="eeaea886-eabb-4665-85ef-4033d18446ed" y="778.5" width="760" height="40"/>
+  </g>
+  <rect class="b19b1d89-b7c1-403f-bd79-e3fe28b54d92" y="16" width="182" height="762.5"/>
+  <text class="a03aa911-33d2-4f15-96cd-91f9e7629bfb" transform="translate(15 50.032)">User</text>
+  <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(15 125.032)">Get /foo</text>
+  <rect class="b19b1d89-b7c1-403f-bd79-e3fe28b54d92" x="192.667" y="16" width="182" height="762.5"/>
+  <text class="a03aa911-33d2-4f15-96cd-91f9e7629bfb" transform="translate(207.667 50.032)">APIcast</text>
+  <rect class="b19b1d89-b7c1-403f-bd79-e3fe28b54d92" x="385.333" y="16" width="182" height="762.5"/>
+  <text class="a03aa911-33d2-4f15-96cd-91f9e7629bfb" transform="translate(400.333 50.032)">API sonator</text>
+  <rect class="b19b1d89-b7c1-403f-bd79-e3fe28b54d92" x="578" y="16" width="182" height="762.5"/>
+  <text class="a03aa911-33d2-4f15-96cd-91f9e7629bfb" transform="translate(593 50.032)">Upstream API</text>
+  <g>
+    <line class="a597eb97-e2d6-492e-a0a2-97593c655084" x1="15.5" y1="133.502" x2="352.491" y2="133.502"/>
+    <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="351.032 138.488 359.667 133.502 351.032 128.516 351.032 138.488"/>
+  </g>
+  <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(207.417 165.032)">POST /transactions/authrep.xml<tspan class="b51ee2ee-4cf5-4b2f-ade8-b0c50ee93806"><tspan x="0" y="15">Metrics:</tspan><tspan class="e078c22e-b7c0-4a19-ad07-041637f403db" x="45.228" y="15" xml:space="preserve"> {&quot;Hit&quot;:1}</tspan></tspan></text>
+  <g>
+    <line class="a3aefef4-89de-409c-88c2-f2e4ed8ffbd4" x1="207.917" y1="188.649" x2="544.908" y2="188.649"/>
+    <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="543.449 193.636 552.084 188.649 543.449 183.663 543.449 193.636"/>
+  </g>
+  <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(509.377 220.532)">200 OK</text>
+  <g>
+    <line class="a3aefef4-89de-409c-88c2-f2e4ed8ffbd4" x1="215.093" y1="229.002" x2="552.084" y2="229.002"/>
+    <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="216.552 233.988 207.917 229.002 216.552 224.016 216.552 233.988"/>
+  </g>
+  <text class="f493d1ed-3c18-4e3b-8ab9-2bf6a2671339" transform="translate(207.417 380.884)">POST<tspan class="b07e2eee-391d-418c-b56b-ccd096c64f31" x="27.845" y="0"> </tspan><tspan class="bf55cf13-0847-437b-838c-0e6f2286ce14" x="32.406" y="0">/transactions.xml</tspan><tspan class="b51ee2ee-4cf5-4b2f-ade8-b0c50ee93806"><tspan x="0" y="15">Metrics:</tspan><tspan class="f72cfb24-a1c5-4db4-9cfc-946ed2d9abbd" x="43.308" y="15"> </tspan><tspan class="e078c22e-b7c0-4a19-ad07-041637f403db" x="49.549" y="15">{&quot;Hit.200&quot;: 1}</tspan></tspan></text>
+  <g>
+    <line class="a3aefef4-89de-409c-88c2-f2e4ed8ffbd4" x1="207.917" y1="404.501" x2="544.908" y2="404.501"/>
+    <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="543.449 409.488 552.084 404.501 543.449 399.515 543.449 409.488"/>
+  </g>
+  <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(509.377 436.384)">200 OK</text>
+  <g>
+    <line class="a3aefef4-89de-409c-88c2-f2e4ed8ffbd4" x1="215.093" y1="444.854" x2="552.084" y2="444.854"/>
+    <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="216.552 449.84 207.917 444.854 216.552 439.868 216.552 449.84"/>
+  </g>
+  <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(207.417 260.532)">Get /foo</text>
+  <g>
+    <line class="a597eb97-e2d6-492e-a0a2-97593c655084" x1="207.917" y1="269.002" x2="737.324" y2="269.002"/>
+    <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="735.865 273.988 744.5 269.002 735.865 264.015 735.865 273.988"/>
+  </g>
+  <g>
+    <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(701.543 300.532)">200 OK</text>
+    <g>
+      <line class="a597eb97-e2d6-492e-a0a2-97593c655084" x1="214.593" y1="309.002" x2="744.25" y2="309.002"/>
+      <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="216.052 313.988 207.417 309.002 216.052 304.015 216.052 313.988"/>
+    </g>
+  </g>
+  <g>
+    <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(316.46 340.532)">200 OK</text>
+    <g>
+      <line class="a597eb97-e2d6-492e-a0a2-97593c655084" x1="22.176" y1="349.002" x2="359.167" y2="349.002"/>
+      <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="23.635 353.988 15 349.002 23.635 344.015 23.635 353.988"/>
+    </g>
+  </g>
+  <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(15 532.26)">Get /foo</text>
+  <g>
+    <line class="a597eb97-e2d6-492e-a0a2-97593c655084" x1="15.5" y1="540.731" x2="352.491" y2="540.731"/>
+    <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="351.032 545.717 359.667 540.731 351.032 535.744 351.032 545.717"/>
+  </g>
+  <g>
+    <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(207.417 692.613)">POST /transactions/authrep.xml <tspan class="b51ee2ee-4cf5-4b2f-ade8-b0c50ee93806"><tspan x="0" y="15">Metrics:</tspan><tspan class="e078c22e-b7c0-4a19-ad07-041637f403db" x="45.228" y="15" xml:space="preserve"> {&quot;Hit&quot;:1, &quot;Hit.200&quot;: 1}</tspan></tspan></text>
+    <g>
+      <line class="a3aefef4-89de-409c-88c2-f2e4ed8ffbd4" x1="207.917" y1="716.231" x2="544.908" y2="716.231"/>
+      <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="543.449 721.217 552.084 716.231 543.449 711.245 543.449 721.217"/>
+    </g>
+    <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(509.377 748.113)">200 OK</text>
+    <g>
+      <line class="a3aefef4-89de-409c-88c2-f2e4ed8ffbd4" x1="215.093" y1="756.583" x2="552.084" y2="756.583"/>
+      <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="216.552 761.57 207.917 756.583 216.552 751.597 216.552 761.57"/>
+    </g>
+    <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(207.417 572.261)">Get /foo</text>
+    <g>
+      <line class="a597eb97-e2d6-492e-a0a2-97593c655084" x1="207.917" y1="580.731" x2="737.324" y2="580.731"/>
+      <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="735.865 585.718 744.5 580.731 735.865 575.745 735.865 585.718"/>
+    </g>
+    <g>
+      <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(701.543 612.261)">200 OK</text>
+      <g>
+        <line class="a597eb97-e2d6-492e-a0a2-97593c655084" x1="214.593" y1="620.731" x2="744.25" y2="620.731"/>
+        <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="216.052 625.718 207.417 620.731 216.052 615.745 216.052 625.718"/>
+      </g>
+    </g>
+    <g>
+      <text class="aa4cc87a-7a7c-43bb-9e2d-98a6a450d961" transform="translate(316.46 652.261)">200 OK</text>
+      <g>
+        <line class="a597eb97-e2d6-492e-a0a2-97593c655084" x1="22.176" y1="660.731" x2="359.167" y2="660.731"/>
+        <polygon class="a3a12cb9-0168-41eb-b096-271818de604c" points="23.635 665.718 15 660.731 23.635 655.745 23.635 665.718"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect class="f4f0773e-f7b8-44d8-92e7-6c3e76c890fe" x="15" y="66" width="167" height="30"/>
+    <rect class="e8c3b97b-c389-47b8-82c3-69413484564b" x="182" y="66" width="10.667" height="30"/>
+    <rect class="e8c3b97b-c389-47b8-82c3-69413484564b" x="374.667" y="66" width="10.667" height="30"/>
+    <rect class="e8c3b97b-c389-47b8-82c3-69413484564b" x="567.333" y="66" width="10.667" height="30"/>
+    <rect class="f4f0773e-f7b8-44d8-92e7-6c3e76c890fe" x="578" y="66" width="167" height="30"/>
+    <rect class="f4f0773e-f7b8-44d8-92e7-6c3e76c890fe" x="192.667" y="66" width="182" height="30"/>
+    <rect class="f4f0773e-f7b8-44d8-92e7-6c3e76c890fe" x="385.333" y="66" width="182" height="30"/>
+  </g>
+  <g>
+    <rect class="f4f0773e-f7b8-44d8-92e7-6c3e76c890fe" x="15" y="470.731" width="167" height="30"/>
+    <rect class="e8c3b97b-c389-47b8-82c3-69413484564b" x="182" y="470.731" width="10.667" height="30"/>
+    <rect class="e8c3b97b-c389-47b8-82c3-69413484564b" x="374.667" y="470.731" width="10.667" height="30"/>
+    <rect class="e8c3b97b-c389-47b8-82c3-69413484564b" x="567.333" y="470.731" width="10.667" height="30"/>
+    <rect class="f4f0773e-f7b8-44d8-92e7-6c3e76c890fe" x="578" y="470.731" width="167" height="30"/>
+    <rect class="f4f0773e-f7b8-44d8-92e7-6c3e76c890fe" x="192.667" y="470.731" width="182" height="30"/>
+    <rect class="f4f0773e-f7b8-44d8-92e7-6c3e76c890fe" x="385.333" y="470.731" width="182" height="30"/>
+  </g>
+  <text class="a084e53f-b456-49cb-97d4-8494bb237550" transform="translate(291.478 85.324)">First request (Auth not cached)</text>
+  <text class="a084e53f-b456-49cb-97d4-8494bb237550" transform="translate(294.286 490.055)">Second request (Auth cached)</text>
+</svg>

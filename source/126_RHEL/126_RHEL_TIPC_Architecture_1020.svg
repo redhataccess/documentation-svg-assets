@@ -1,0 +1,134 @@
+<svg id="bd82f690-44ee-42a4-a6d7-9a0349d4e93f" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="317.603" viewBox="0 0 760 317.603">
+  <defs>
+    <style>
+      .ac859bc5-d5e0-4d76-8cb2-d099adcbc9c1 {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .aa9c4b77-afc0-41cc-9006-3092beb630fe, .b7baf23e-394b-4aaa-bd39-6392f08f70cd, .e05001f3-1240-4b91-a532-bbadfcf1a314, .e091b37a-8f69-4566-866a-9d1fec68ea53 {
+        fill: none;
+      }
+
+      .a1e161a7-08d1-47f6-b276-47722cba07a1 {
+        fill: #e8e8e8;
+      }
+
+      .ae1605d2-557b-465d-a747-63e0a6832fdb {
+        font-size: 14px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .ae1605d2-557b-465d-a747-63e0a6832fdb, .f170193d-57b8-4ae9-9e2f-71b53858e25e {
+        fill: #151515;
+      }
+
+      .a5be04fb-8052-44b2-889a-5153fb505f84 {
+        fill: #adadad;
+      }
+
+      .bf916020-ab53-4b34-be85-353e88a7e615, .f170193d-57b8-4ae9-9e2f-71b53858e25e {
+        font-size: 12px;
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .a2c96376-e2ca-4f65-98f8-3adb9d84e37b, .bf916020-ab53-4b34-be85-353e88a7e615 {
+        fill: #fff;
+      }
+
+      .e083b1b7-363e-4a1b-b875-bf754344fe95 {
+        fill: #06c;
+      }
+
+      .a86fe6df-94e0-4861-b151-26c001713185 {
+        fill: #d9e8f7;
+      }
+
+      .aa9c4b77-afc0-41cc-9006-3092beb630fe, .b7baf23e-394b-4aaa-bd39-6392f08f70cd, .e05001f3-1240-4b91-a532-bbadfcf1a314 {
+        stroke: #06c;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .e05001f3-1240-4b91-a532-bbadfcf1a314 {
+        stroke-dasharray: 3.1 3.1;
+      }
+
+      .aa9c4b77-afc0-41cc-9006-3092beb630fe {
+        stroke-dasharray: 3.005 3.005;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="ac859bc5-d5e0-4d76-8cb2-d099adcbc9c1" transform="translate(688.331 300.62)">126_RHEL_1020</text>
+    <rect class="e091b37a-8f69-4566-866a-9d1fec68ea53" y="277.603" width="760" height="40"/>
+  </g>
+  <g>
+    <rect class="a1e161a7-08d1-47f6-b276-47722cba07a1" y="19.724" width="300" height="225"/>
+    <text class="ae1605d2-557b-465d-a747-63e0a6832fdb" transform="translate(15 46.512)">Node A</text>
+    <g>
+      <path class="a5be04fb-8052-44b2-889a-5153fb505f84" d="M198.692,189.474H299.9v20.5H198.692C193.031,209.974,193.031,189.474,198.692,189.474Z"/>
+      <text class="bf916020-ab53-4b34-be85-353e88a7e615" transform="translate(202.694 204.323)">Bearer service</text>
+    </g>
+    <g>
+      <path class="e083b1b7-363e-4a1b-b875-bf754344fe95" d="M198.777,134.474H300v20.5H198.777C193.116,154.974,193.116,134.474,198.777,134.474Z"/>
+      <text class="bf916020-ab53-4b34-be85-353e88a7e615" transform="translate(202.778 149.392)">TIPC address</text>
+    </g>
+    <g>
+      <rect class="a2c96376-e2ca-4f65-98f8-3adb9d84e37b" x="15" y="59.724" width="165" height="60"/>
+      <text class="f170193d-57b8-4ae9-9e2f-71b53858e25e" transform="translate(50.573 93.049)">TIPC application</text>
+    </g>
+    <g>
+      <g>
+        <rect class="a86fe6df-94e0-4861-b151-26c001713185" x="15.5" y="125.224" width="164" height="39"/>
+        <path class="e083b1b7-363e-4a1b-b875-bf754344fe95" d="M179,125.724v38H16v-38H179m1-1H15v40H180v-40Z"/>
+      </g>
+      <text class="f170193d-57b8-4ae9-9e2f-71b53858e25e" transform="translate(83.092 148.049)">TIPC</text>
+    </g>
+    <rect class="a1e161a7-08d1-47f6-b276-47722cba07a1" x="460" y="19.724" width="300" height="225"/>
+    <text class="ae1605d2-557b-465d-a747-63e0a6832fdb" transform="translate(474.999 46.512)">Node B</text>
+    <g>
+      <path class="a5be04fb-8052-44b2-889a-5153fb505f84" d="M561.308,189.474H460.1v20.5H561.308C566.969,209.974,566.969,189.474,561.308,189.474Z"/>
+      <text class="bf916020-ab53-4b34-be85-353e88a7e615" transform="translate(476.367 204.323)">Bearer service</text>
+    </g>
+    <g>
+      <path class="e083b1b7-363e-4a1b-b875-bf754344fe95" d="M561.223,134.474H460v20.5H561.223C566.884,154.974,566.884,134.474,561.223,134.474Z"/>
+      <text class="bf916020-ab53-4b34-be85-353e88a7e615" transform="translate(482.463 149.392)">TIPC address</text>
+    </g>
+    <g>
+      <rect class="a2c96376-e2ca-4f65-98f8-3adb9d84e37b" x="580" y="59.724" width="165" height="60"/>
+      <text class="f170193d-57b8-4ae9-9e2f-71b53858e25e" transform="translate(615.573 93.049)">TIPC application</text>
+    </g>
+    <g>
+      <g>
+        <rect class="a86fe6df-94e0-4861-b151-26c001713185" x="580.5" y="125.224" width="164" height="39"/>
+        <path class="e083b1b7-363e-4a1b-b875-bf754344fe95" d="M744,125.724v38H581v-38H744m1-1H580v40H745v-40Z"/>
+      </g>
+      <text class="f170193d-57b8-4ae9-9e2f-71b53858e25e" transform="translate(648.091 148.049)">TIPC</text>
+    </g>
+    <g>
+      <line class="b7baf23e-394b-4aaa-bd39-6392f08f70cd" x1="97.5" y1="239.4" x2="97.5" y2="240.9"/>
+      <line class="e05001f3-1240-4b91-a532-bbadfcf1a314" x1="97.5" y1="244" x2="97.5" y2="273.45"/>
+      <polyline class="b7baf23e-394b-4aaa-bd39-6392f08f70cd" points="97.5 275 97.5 276.5 99 276.5"/>
+      <line class="aa9c4b77-afc0-41cc-9006-3092beb630fe" x1="102.005" y1="276.5" x2="659.497" y2="276.5"/>
+      <polyline class="b7baf23e-394b-4aaa-bd39-6392f08f70cd" points="661 276.5 662.5 276.5 662.5 275"/>
+      <line class="e05001f3-1240-4b91-a532-bbadfcf1a314" x1="662.5" y1="271.9" x2="662.5" y2="242.45"/>
+      <line class="b7baf23e-394b-4aaa-bd39-6392f08f70cd" x1="662.5" y1="240.9" x2="662.5" y2="239.4"/>
+      <polygon class="e083b1b7-363e-4a1b-b875-bf754344fe95" points="92.514 240.859 97.5 232.224 102.486 240.859 92.514 240.859"/>
+      <polygon class="e083b1b7-363e-4a1b-b875-bf754344fe95" points="667.486 240.859 662.5 232.224 657.514 240.859 667.486 240.859"/>
+    </g>
+    <g>
+      <rect class="a2c96376-e2ca-4f65-98f8-3adb9d84e37b" x="15" y="169.724" width="165" height="60"/>
+      <text class="f170193d-57b8-4ae9-9e2f-71b53858e25e" transform="translate(64.553 198.049)">Level 2 or 3<tspan x="-7.47" y="13">bearer service</tspan></text>
+    </g>
+    <g>
+      <rect class="a2c96376-e2ca-4f65-98f8-3adb9d84e37b" x="580" y="169.724" width="165" height="60"/>
+      <text class="f170193d-57b8-4ae9-9e2f-71b53858e25e" transform="translate(629.552 198.049)">Level 2 or 3<tspan x="-7.47" y="13">bearer service</tspan></text>
+    </g>
+    <rect class="a2c96376-e2ca-4f65-98f8-3adb9d84e37b" x="328.93" y="266.785" width="102.14" height="21.635"/>
+    <text class="f170193d-57b8-4ae9-9e2f-71b53858e25e" transform="translate(332.979 280.5)">Bearer transport</text>
+  </g>
+</svg>

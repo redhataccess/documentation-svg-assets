@@ -1,0 +1,66 @@
+<svg id="b0d83ddd-3c76-4584-ab4f-073d374c4051" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="193.615" viewBox="0 0 760 193.615">
+  <defs>
+    <style>
+      .b2f27ae5-47b3-4796-be58-f508102116af, .bb0a414c-2fc4-433d-890c-61312754ed2a {
+        font-size: 12px;
+        fill: #151515;
+      }
+
+      .b2f27ae5-47b3-4796-be58-f508102116af, .b2fd0c97-c46d-425b-99a1-714ed1510c21, .b3a4ef42-135b-4b2f-a6a2-8d0ce1ca72a3 {
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .b2fd0c97-c46d-425b-99a1-714ed1510c21 {
+        font-size: 29px;
+      }
+
+      .b3a4ef42-135b-4b2f-a6a2-8d0ce1ca72a3 {
+        font-size: 10px;
+        fill: #f3f3f3;
+      }
+
+      .f91978ff-88df-4786-af05-9d1da7a84688 {
+        fill: none;
+      }
+
+      .ba3baeb7-066a-4fd5-be80-51548689679a {
+        fill: #e5f0fa;
+      }
+
+      .bb0a414c-2fc4-433d-890c-61312754ed2a {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .bf4a2b10-9763-4b23-9e18-0e52ab564734 {
+        fill: #06c;
+      }
+
+      .aed7228a-99f0-4c10-9563-a0847443be63 {
+        fill: #bfd9f2;
+      }
+
+      .eab53e2a-3f8d-4ca3-9dbd-2ef601f037a8 {
+        fill: #99c2eb;
+      }
+    </style>
+  </defs>
+  <text class="b2f27ae5-47b3-4796-be58-f508102116af" transform="translate(432.474 140.442)">Data process flow,<tspan x="12.138" y="13">decision table</tspan></text>
+  <text class="b2f27ae5-47b3-4796-be58-f508102116af" transform="translate(635.593 140.442)">Resource planning</text>
+  <text class="b2f27ae5-47b3-4796-be58-f508102116af" transform="translate(236.328 140.442)">Neural network,<tspan x="-21.426" y="13">clustering, classification</tspan></text>
+  <text class="b2fd0c97-c46d-425b-99a1-714ed1510c21" transform="translate(575.652 79.919)">+</text>
+  <text class="b2fd0c97-c46d-425b-99a1-714ed1510c21" transform="translate(372.348 79.919)">+</text>
+  <text class="b2fd0c97-c46d-425b-99a1-714ed1510c21" transform="translate(168.957 79.919)">=</text>
+  <g>
+    <text class="b3a4ef42-135b-4b2f-a6a2-8d0ce1ca72a3" transform="translate(679.172 176.58)">123_RHPAM_1020</text>
+    <rect class="f91978ff-88df-4786-af05-9d1da7a84688" y="153.562" width="760" height="40"/>
+  </g>
+  <polygon class="ba3baeb7-066a-4fd5-be80-51548689679a" points="203.381 43.183 203.381 98.183 278.381 120.683 353.381 98.183 353.381 43.183 278.381 20.683 203.381 43.183"/>
+  <text class="bb0a414c-2fc4-433d-890c-61312754ed2a" transform="translate(253.427 67.405)">Machine<tspan x="-1.607" y="13">Learning</tspan></text>
+  <path class="bf4a2b10-9763-4b23-9e18-0e52ab564734" d="M70.009,21.728,148.99,43.941V97.426L70.009,119.639.99,97.455V43.912L70.009,21.728m-.019-1.045-70,22.5v55l70,22.5,80-22.5v-55l-80-22.5Z"/>
+  <text class="bb0a414c-2fc4-433d-890c-61312754ed2a" transform="translate(68.69 73.906)">AI</text>
+  <polygon class="aed7228a-99f0-4c10-9563-a0847443be63" points="406.685 43.183 406.685 98.183 481.685 120.683 556.685 98.183 556.685 43.183 481.685 20.683 406.685 43.183"/>
+  <text class="bb0a414c-2fc4-433d-890c-61312754ed2a" transform="translate(461.867 67.405)">Digital<tspan x="-14.76" y="13">Decisioning</tspan></text>
+  <polygon class="eab53e2a-3f8d-4ca3-9dbd-2ef601f037a8" points="609.99 43.183 609.99 98.183 689.99 120.683 759.99 98.183 759.99 43.183 689.99 20.683 609.99 43.183"/>
+  <text class="bb0a414c-2fc4-433d-890c-61312754ed2a" transform="translate(666.443 67.405)">Maths<tspan x="-20.31" y="13">Optimization</tspan></text>
+</svg>

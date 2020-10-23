@@ -1,0 +1,178 @@
+<svg id="a58c2417-58dc-4966-bae3-3ccbfca25104" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="466.379" viewBox="0 0 760 466.379">
+  <defs>
+    <style>
+      .a65b018a-ed43-404a-bc9d-f2494e042f3c {
+        fill: #e8e8e8;
+      }
+
+      .f20709df-1b31-4f5d-b92c-f2eb549e7c27 {
+        font-size: 14px;
+      }
+
+      .b0c36d7e-d2e1-4cda-bc77-09577c6ec5a8, .f09391ad-6988-4545-be83-5ba7e2d252d8, .f20709df-1b31-4f5d-b92c-f2eb549e7c27, .f5d047d0-d50f-47d1-a132-2e0c90108648 {
+        fill: #151515;
+      }
+
+      .f20709df-1b31-4f5d-b92c-f2eb549e7c27, .f5d047d0-d50f-47d1-a132-2e0c90108648 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .f5da5d03-6c60-449b-aa38-ce20196fb4af {
+        fill: #fff;
+      }
+
+      .ee0b58b2-0f23-450a-92e3-c6701204e2a3 {
+        fill: #06c;
+      }
+
+      .f09391ad-6988-4545-be83-5ba7e2d252d8, .f5d047d0-d50f-47d1-a132-2e0c90108648 {
+        font-size: 12px;
+      }
+
+      .b42421e4-4fa1-42d9-a223-2941717905ec {
+        fill: #dfeac0;
+      }
+
+      .f09391ad-6988-4545-be83-5ba7e2d252d8 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .b0c32c81-6e04-4f2e-b392-fb786d513a70 {
+        fill: #d9e8f7;
+      }
+
+      .aa018ecd-fa74-4052-bf60-b1427f6f29fe, .b633bee7-0feb-4b4d-ae24-e425559feb18, .ba543060-c626-471e-ad41-dfb9c98a084e, .bb2f0e4e-4e6c-4089-b000-ec0b82eff152, .e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac, .e337a43b-2dcf-49a2-80c0-4cc75fe07ed5 {
+        fill: none;
+      }
+
+      .aa018ecd-fa74-4052-bf60-b1427f6f29fe, .b633bee7-0feb-4b4d-ae24-e425559feb18, .e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac, .e337a43b-2dcf-49a2-80c0-4cc75fe07ed5 {
+        stroke: #d0d0d0;
+      }
+
+      .aa018ecd-fa74-4052-bf60-b1427f6f29fe, .b633bee7-0feb-4b4d-ae24-e425559feb18, .bb2f0e4e-4e6c-4089-b000-ec0b82eff152, .e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac, .e337a43b-2dcf-49a2-80c0-4cc75fe07ed5 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b633bee7-0feb-4b4d-ae24-e425559feb18 {
+        stroke-dasharray: 3.06 3.06;
+      }
+
+      .aa018ecd-fa74-4052-bf60-b1427f6f29fe {
+        stroke-dasharray: 2.947 2.947;
+      }
+
+      .e337a43b-2dcf-49a2-80c0-4cc75fe07ed5 {
+        stroke-dasharray: 3.04 3.04;
+      }
+
+      .bb2f0e4e-4e6c-4089-b000-ec0b82eff152 {
+        stroke: #151515;
+      }
+
+      .f3e1b8a1-cd1e-4f88-8c17-27ced61ebe97 {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="a65b018a-ed43-404a-bc9d-f2494e042f3c" y="250.379" width="235" height="177"/>
+    <text class="f20709df-1b31-4f5d-b92c-f2eb549e7c27" transform="translate(20.005 407.347)">Remote site 1</text>
+    <g>
+      <rect class="f5da5d03-6c60-449b-aa38-ce20196fb4af" x="20.505" y="271.879" width="194" height="109"/>
+      <path class="ee0b58b2-0f23-450a-92e3-c6701204e2a3" d="M214.005,272.379v108h-193v-108h193m1-1h-195v110h195v-110Z"/>
+    </g>
+    <text class="f5d047d0-d50f-47d1-a132-2e0c90108648" transform="translate(35.005 295.729)">RHEL Edge Device</text>
+    <rect class="b42421e4-4fa1-42d9-a223-2941717905ec" x="35.005" y="306.198" width="80" height="60" transform="translate(150.011 672.396) rotate(-180)"/>
+    <text class="f09391ad-6988-4545-be83-5ba7e2d252d8" transform="translate(59.819 333.022)">Delta<tspan x="-8.256" y="13">update 1</tspan></text>
+    <rect class="b0c32c81-6e04-4f2e-b392-fb786d513a70" x="120.005" y="306.198" width="80" height="60" transform="translate(320.01 672.396) rotate(-180)"/>
+    <text class="f09391ad-6988-4545-be83-5ba7e2d252d8" transform="translate(144.82 333.022)">Delta<tspan x="-9.624" y="13">update 2</tspan></text>
+  </g>
+  <g>
+    <rect class="a65b018a-ed43-404a-bc9d-f2494e042f3c" x="262.253" y="250.379" width="235" height="177"/>
+    <text class="f20709df-1b31-4f5d-b92c-f2eb549e7c27" transform="translate(282.258 407.347)">Remote site 2</text>
+    <g>
+      <rect class="f5da5d03-6c60-449b-aa38-ce20196fb4af" x="282.758" y="271.879" width="194" height="109"/>
+      <path class="ee0b58b2-0f23-450a-92e3-c6701204e2a3" d="M476.258,272.379v108h-193v-108h193m1-1h-195v110h195v-110Z"/>
+    </g>
+    <text class="f5d047d0-d50f-47d1-a132-2e0c90108648" transform="translate(297.258 295.729)">RHEL Edge Device</text>
+    <rect class="b42421e4-4fa1-42d9-a223-2941717905ec" x="297.258" y="306.198" width="80" height="60" transform="translate(674.516 672.396) rotate(-180)"/>
+    <g>
+      <polyline class="e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac" points="382.735 364.198 382.735 365.698 384.235 365.698"/>
+      <line class="b633bee7-0feb-4b4d-ae24-e425559feb18" x1="387.295" y1="365.698" x2="459.205" y2="365.698"/>
+      <polyline class="e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac" points="460.735 365.698 462.235 365.698 462.235 364.198"/>
+      <line class="aa018ecd-fa74-4052-bf60-b1427f6f29fe" x1="462.235" y1="361.251" x2="462.235" y2="309.672"/>
+      <polyline class="e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac" points="462.235 308.198 462.235 306.698 460.735 306.698"/>
+      <line class="b633bee7-0feb-4b4d-ae24-e425559feb18" x1="457.675" y1="306.698" x2="385.765" y2="306.698"/>
+      <polyline class="e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac" points="384.235 306.698 382.735 306.698 382.735 308.198"/>
+      <line class="aa018ecd-fa74-4052-bf60-b1427f6f29fe" x1="382.735" y1="311.146" x2="382.735" y2="362.725"/>
+    </g>
+    <text class="f09391ad-6988-4545-be83-5ba7e2d252d8" transform="translate(322.072 333.022)">Delta<tspan x="-8.256" y="13">update 1</tspan></text>
+  </g>
+  <rect class="a65b018a-ed43-404a-bc9d-f2494e042f3c" x="524.505" y="250.379" width="235" height="177"/>
+  <text class="f20709df-1b31-4f5d-b92c-f2eb549e7c27" transform="translate(545.005 406.115)">Remote site N</text>
+  <g>
+    <rect class="f5da5d03-6c60-449b-aa38-ce20196fb4af" x="545.505" y="270.647" width="194" height="109"/>
+    <path class="ee0b58b2-0f23-450a-92e3-c6701204e2a3" d="M739.005,271.148v108h-193v-108h193m1-1h-195v110h195v-110Z"/>
+  </g>
+  <g>
+    <g>
+      <polyline class="e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac" points="560.506 362.967 560.506 364.467 562.006 364.467"/>
+      <line class="e337a43b-2dcf-49a2-80c0-4cc75fe07ed5" x1="565.046" y1="364.467" x2="636.486" y2="364.467"/>
+      <polyline class="e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac" points="638.006 364.467 639.506 364.467 639.506 362.967"/>
+      <line class="aa018ecd-fa74-4052-bf60-b1427f6f29fe" x1="639.506" y1="360.019" x2="639.506" y2="308.44"/>
+      <polyline class="e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac" points="639.506 306.967 639.506 305.467 638.006 305.467"/>
+      <line class="e337a43b-2dcf-49a2-80c0-4cc75fe07ed5" x1="634.966" y1="305.467" x2="563.526" y2="305.467"/>
+      <polyline class="e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac" points="562.006 305.467 560.506 305.467 560.506 306.967"/>
+      <line class="aa018ecd-fa74-4052-bf60-b1427f6f29fe" x1="560.506" y1="309.914" x2="560.506" y2="361.493"/>
+    </g>
+    <g>
+      <polyline class="e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac" points="645.483 362.967 645.483 364.467 646.983 364.467"/>
+      <line class="e337a43b-2dcf-49a2-80c0-4cc75fe07ed5" x1="650.023" y1="364.467" x2="721.463" y2="364.467"/>
+      <polyline class="e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac" points="722.983 364.467 724.483 364.467 724.483 362.967"/>
+      <line class="aa018ecd-fa74-4052-bf60-b1427f6f29fe" x1="724.483" y1="360.019" x2="724.483" y2="308.44"/>
+      <polyline class="e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac" points="724.483 306.967 724.483 305.467 722.983 305.467"/>
+      <line class="e337a43b-2dcf-49a2-80c0-4cc75fe07ed5" x1="719.943" y1="305.467" x2="648.503" y2="305.467"/>
+      <polyline class="e2f0b132-3d5f-4c52-b4f7-b7f7d1524eac" points="646.983 305.467 645.483 305.467 645.483 306.967"/>
+      <line class="aa018ecd-fa74-4052-bf60-b1427f6f29fe" x1="645.483" y1="309.914" x2="645.483" y2="361.493"/>
+    </g>
+  </g>
+  <text class="f5d047d0-d50f-47d1-a132-2e0c90108648" transform="translate(560.005 295.729)">RHEL Edge Device</text>
+  <g>
+    <polyline class="bb2f0e4e-4e6c-4089-b000-ec0b82eff152" points="505.879 196 505.879 221 379.879 221 379.879 240.703"/>
+    <polygon class="b0c36d7e-d2e1-4cda-bc77-09577c6ec5a8" points="374.893 239.244 379.879 247.879 384.865 239.244 374.893 239.244"/>
+  </g>
+  <g>
+    <polyline class="bb2f0e4e-4e6c-4089-b000-ec0b82eff152" points="515.879 196 515.879 221 641.879 221 641.879 240.703"/>
+    <polygon class="b0c36d7e-d2e1-4cda-bc77-09577c6ec5a8" points="636.893 239.244 641.879 247.879 646.865 239.244 636.893 239.244"/>
+  </g>
+  <rect class="b0c32c81-6e04-4f2e-b392-fb786d513a70" x="456.384" y="211.009" width="20" height="20" transform="translate(932.768 442.019) rotate(-180)"/>
+  <g>
+    <rect class="b42421e4-4fa1-42d9-a223-2941717905ec" x="544.384" y="211.009" width="20" height="20" transform="translate(1108.768 442.019) rotate(-180)"/>
+    <rect class="b0c32c81-6e04-4f2e-b392-fb786d513a70" x="569.218" y="211.009" width="20" height="20" transform="translate(1158.435 442.019) rotate(-180)"/>
+  </g>
+  <g>
+    <rect class="a65b018a-ed43-404a-bc9d-f2494e042f3c" x="320.879" y="20" width="380" height="176"/>
+    <text class="f20709df-1b31-4f5d-b92c-f2eb549e7c27" transform="translate(340.884 50.032)">Repository endpoint</text>
+    <rect class="f5da5d03-6c60-449b-aa38-ce20196fb4af" x="340.884" y="66" width="110" height="110" transform="translate(791.768 242) rotate(-180)"/>
+    <text class="f5d047d0-d50f-47d1-a132-2e0c90108648" transform="translate(355.884 90.35)">Rev A1</text>
+    <rect class="f5da5d03-6c60-449b-aa38-ce20196fb4af" x="455.884" y="66" width="110" height="110" transform="translate(1021.768 242) rotate(-180)"/>
+    <text class="f5d047d0-d50f-47d1-a132-2e0c90108648" transform="translate(470.884 90.35)">Rev A2</text>
+    <rect class="b42421e4-4fa1-42d9-a223-2941717905ec" x="470.884" y="100.819" width="80" height="60" transform="translate(1021.768 261.638) rotate(-180)"/>
+    <text class="f09391ad-6988-4545-be83-5ba7e2d252d8" transform="translate(495.698 127.643)">Delta<tspan x="-8.256" y="13">update 1</tspan></text>
+    <rect class="f5da5d03-6c60-449b-aa38-ce20196fb4af" x="570.884" y="66" width="110" height="110" transform="translate(1251.768 242) rotate(-180)"/>
+    <text class="f5d047d0-d50f-47d1-a132-2e0c90108648" transform="translate(585.884 90.35)">Rev A3</text>
+    <g>
+      <rect class="b0c32c81-6e04-4f2e-b392-fb786d513a70" x="585.884" y="100.819" width="80" height="60" transform="translate(1251.768 261.638) rotate(-180)"/>
+      <text class="f09391ad-6988-4545-be83-5ba7e2d252d8" transform="translate(610.698 127.643)">Delta<tspan x="-9.624" y="13">update 2</tspan></text>
+    </g>
+  </g>
+  <g>
+    <text class="f3e1b8a1-cd1e-4f88-8c17-27ced61ebe97" transform="translate(688.821 450.397)">125_RHEL_1020</text>
+    <rect class="ba543060-c626-471e-ad41-dfb9c98a084e" y="427.379" width="760" height="40"/>
+  </g>
+</svg>

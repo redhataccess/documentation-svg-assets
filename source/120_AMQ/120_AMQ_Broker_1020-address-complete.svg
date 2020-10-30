@@ -1,0 +1,321 @@
+<svg id="fd285e07-9ad5-4c6f-b715-f53c7d207c0f" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="760" height="702.161" viewBox="0 0 760 702.161">
+  <defs>
+    <style>
+      .a1490200-4d3a-4228-a655-716dbbc76663 {
+        fill: #e8e8e8;
+      }
+
+      .a071b28f-6203-4296-b659-58c9e002088c, .a0835828-4aa2-442d-bdc0-5d23834bc5a5, .a37d923c-5853-4416-882a-8abc0980503e, .ab3895b6-8249-49aa-a437-36ed923c09e5, .ad07fdac-b3ad-4030-8a04-257df8cc501e, .b2996134-2bef-401a-8187-bfed94966fa6, .b69993f5-d487-4c18-a55c-adce08c93f52, .b7832526-443d-42d0-aa8b-39858e6d3a2b, .bf95a289-cd9b-4184-9878-bb183c46b696, .ecee79a5-05c5-4b43-9f13-7e83ab8f7b22, .edc74d6d-a6e8-4649-8be8-dd2894fdcf64, .fae2f4d6-9d00-4dbf-b5c1-31cd9cea21e4, .fdeb836e-6ca9-4597-8b48-11f270f9d40b, .fe8b3d7b-dab7-430d-91bc-08b725d5ce5b {
+        fill: none;
+      }
+
+      .b7832526-443d-42d0-aa8b-39858e6d3a2b {
+        stroke: #d5d5d5;
+      }
+
+      .a071b28f-6203-4296-b659-58c9e002088c, .a37d923c-5853-4416-882a-8abc0980503e, .b7832526-443d-42d0-aa8b-39858e6d3a2b {
+        stroke-miterlimit: 10;
+      }
+
+      .acc10b11-381b-42d7-9cf8-3d3702664538, .b69993f5-d487-4c18-a55c-adce08c93f52, .b7832526-443d-42d0-aa8b-39858e6d3a2b {
+        stroke-width: 1.5px;
+      }
+
+      .b1f97da6-cc62-4529-b37e-a70ba0b24844, .b2661b6f-e6ab-4469-8d07-920852dc9a98, .b4a34bf4-aef2-4483-9b80-eb41b75bef3b {
+        font-size: 12px;
+      }
+
+      .a2c8bb45-d20a-48f8-bb4a-9985811185a5, .a9a155d9-a66b-48ad-ba50-c1d10f88bac1, .b2661b6f-e6ab-4469-8d07-920852dc9a98, .b4a34bf4-aef2-4483-9b80-eb41b75bef3b, .baee49b4-6612-4764-8ac7-7b0ce9bfc4b9 {
+        fill: #151515;
+      }
+
+      .b4a34bf4-aef2-4483-9b80-eb41b75bef3b {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .acc10b11-381b-42d7-9cf8-3d3702664538, .b1f97da6-cc62-4529-b37e-a70ba0b24844, .b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7 {
+        fill: #fff;
+      }
+
+      .f7f4fd66-806f-4b5a-82c1-ce1f2ca81fdd {
+        fill: #06c;
+      }
+
+      .b1f97da6-cc62-4529-b37e-a70ba0b24844 {
+        font-family: RedHatText-MediumItalic, Red Hat Text;
+        font-style: italic;
+      }
+
+      .a2c8bb45-d20a-48f8-bb4a-9985811185a5, .a9a155d9-a66b-48ad-ba50-c1d10f88bac1, .b1f97da6-cc62-4529-b37e-a70ba0b24844, .b2661b6f-e6ab-4469-8d07-920852dc9a98 {
+        font-weight: 500;
+      }
+
+      .a37d923c-5853-4416-882a-8abc0980503e, .ad07fdac-b3ad-4030-8a04-257df8cc501e {
+        stroke: #151515;
+      }
+
+      .a0835828-4aa2-442d-bdc0-5d23834bc5a5, .ab3895b6-8249-49aa-a437-36ed923c09e5, .acc10b11-381b-42d7-9cf8-3d3702664538, .ad07fdac-b3ad-4030-8a04-257df8cc501e, .b2996134-2bef-401a-8187-bfed94966fa6, .b69993f5-d487-4c18-a55c-adce08c93f52, .bf95a289-cd9b-4184-9878-bb183c46b696, .ecee79a5-05c5-4b43-9f13-7e83ab8f7b22, .edc74d6d-a6e8-4649-8be8-dd2894fdcf64, .fae2f4d6-9d00-4dbf-b5c1-31cd9cea21e4, .fdeb836e-6ca9-4597-8b48-11f270f9d40b, .fe8b3d7b-dab7-430d-91bc-08b725d5ce5b {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a2c8bb45-d20a-48f8-bb4a-9985811185a5, .a9a155d9-a66b-48ad-ba50-c1d10f88bac1, .b2661b6f-e6ab-4469-8d07-920852dc9a98 {
+        font-family: RedHatText-Medium, Red Hat Text;
+      }
+
+      .a9a155d9-a66b-48ad-ba50-c1d10f88bac1 {
+        font-size: 9px;
+      }
+
+      .acc10b11-381b-42d7-9cf8-3d3702664538, .b69993f5-d487-4c18-a55c-adce08c93f52 {
+        stroke: #5b5b5b;
+      }
+
+      .a0835828-4aa2-442d-bdc0-5d23834bc5a5, .ab3895b6-8249-49aa-a437-36ed923c09e5, .b2996134-2bef-401a-8187-bfed94966fa6, .bf95a289-cd9b-4184-9878-bb183c46b696, .ecee79a5-05c5-4b43-9f13-7e83ab8f7b22, .edc74d6d-a6e8-4649-8be8-dd2894fdcf64, .fae2f4d6-9d00-4dbf-b5c1-31cd9cea21e4, .fdeb836e-6ca9-4597-8b48-11f270f9d40b, .fe8b3d7b-dab7-430d-91bc-08b725d5ce5b {
+        stroke: #06c;
+      }
+
+      .a0835828-4aa2-442d-bdc0-5d23834bc5a5 {
+        stroke-dasharray: 2.922 2.922;
+      }
+
+      .ecee79a5-05c5-4b43-9f13-7e83ab8f7b22 {
+        stroke-dasharray: 3.035 3.035;
+      }
+
+      .fae2f4d6-9d00-4dbf-b5c1-31cd9cea21e4 {
+        stroke-dasharray: 2.876 2.876;
+      }
+
+      .ab3895b6-8249-49aa-a437-36ed923c09e5 {
+        stroke-dasharray: 2.956 2.956;
+      }
+
+      .bf95a289-cd9b-4184-9878-bb183c46b696 {
+        stroke-dasharray: 2.969 2.969;
+      }
+
+      .fdeb836e-6ca9-4597-8b48-11f270f9d40b {
+        stroke-dasharray: 2.838 2.838;
+      }
+
+      .b2996134-2bef-401a-8187-bfed94966fa6 {
+        stroke-dasharray: 3.003 3.003;
+      }
+
+      .edc74d6d-a6e8-4649-8be8-dd2894fdcf64 {
+        stroke-dasharray: 2.851 2.851;
+      }
+
+      .a2c8bb45-d20a-48f8-bb4a-9985811185a5 {
+        font-size: 10px;
+      }
+
+      .a071b28f-6203-4296-b659-58c9e002088c {
+        stroke: #e8e8e8;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="a1490200-4d3a-4228-a655-716dbbc76663" x="267.25" y="416.154" width="225.5" height="207"/>
+    <polyline class="b7832526-443d-42d0-aa8b-39858e6d3a2b" points="297.25 553.603 482.75 553.603 482.75 468.603"/>
+    <polyline class="b7832526-443d-42d0-aa8b-39858e6d3a2b" points="292.25 548.603 477.75 548.603 477.75 463.603"/>
+    <text class="b4a34bf4-aef2-4483-9b80-eb41b75bef3b" transform="translate(287.25 441.241)">Broker C</text>
+    <rect class="b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7" x="287.25" y="458.603" width="185.5" height="85"/>
+    <rect class="f7f4fd66-806f-4b5a-82c1-ce1f2ca81fdd" x="302.5" y="493.603" width="155" height="35" transform="translate(760 1022.206) rotate(-180)"/>
+    <text class="b1f97da6-cc62-4529-b37e-a70ba0b24844" transform="translate(354.434 514.388)">multicast</text>
+    <text class="b4a34bf4-aef2-4483-9b80-eb41b75bef3b" transform="translate(302.313 482.807)">Addresses</text>
+    <rect class="b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7" x="287.25" y="568.242" width="185.5" height="35"/>
+    <g>
+      <line class="ad07fdac-b3ad-4030-8a04-257df8cc501e" x1="380" y1="558.566" x2="380" y2="528.603"/>
+      <polygon class="baee49b4-6612-4764-8ac7-7b0ce9bfc4b9" points="384.986 557.107 380 565.742 375.014 557.107 384.986 557.107"/>
+    </g>
+    <text class="b2661b6f-e6ab-4469-8d07-920852dc9a98" transform="translate(356.282 589.027)">Queue 3</text>
+    <rect class="a1490200-4d3a-4228-a655-716dbbc76663" x="302.5" y="302.621" width="155" height="35"/>
+    <text class="b4a34bf4-aef2-4483-9b80-eb41b75bef3b" transform="translate(347.282 323.445)">Producer 3</text>
+    <rect class="a1490200-4d3a-4228-a655-716dbbc76663" x="287.25" y="691.797" width="185.5" height="35"/>
+    <g>
+      <line class="ad07fdac-b3ad-4030-8a04-257df8cc501e" x1="380" y1="483.629" x2="380" y2="337.324"/>
+      <polygon class="baee49b4-6612-4764-8ac7-7b0ce9bfc4b9" points="384.986 482.17 380 490.805 375.014 482.17 384.986 482.17"/>
+    </g>
+    <g>
+      <rect class="b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7" x="344.413" y="373.445" width="71.174" height="30.699"/>
+      <g>
+        <text class="a9a155d9-a66b-48ad-ba50-c1d10f88bac1" transform="translate(357.568 397.377)">Message 3</text>
+        <g>
+          <polygon class="acc10b11-381b-42d7-9cf8-3d3702664538" points="391.75 382.324 368.25 382.324 368.25 356.117 374.125 350.293 391.75 350.293 391.75 382.324"/>
+          <polygon class="b69993f5-d487-4c18-a55c-adce08c93f52" points="374.125 356.117 368.25 356.117 374.125 350.293 374.125 356.117"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="372.656" y1="360.484" x2="380" y2="360.484"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="372.656" y1="364.852" x2="387.344" y2="364.852"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="372.656" y1="369.22" x2="387.344" y2="369.22"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="372.656" y1="373.588" x2="387.344" y2="373.588"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <line class="a37d923c-5853-4416-882a-8abc0980503e" x1="380" y1="603.242" x2="380" y2="682.209"/>
+        <polygon class="baee49b4-6612-4764-8ac7-7b0ce9bfc4b9" points="375.014 680.75 380 689.385 384.986 680.75 375.014 680.75"/>
+      </g>
+      <rect class="b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7" x="344.413" y="639.566" width="71.174" height="30.699"/>
+      <g>
+        <text class="a9a155d9-a66b-48ad-ba50-c1d10f88bac1" transform="translate(353.95 663.498)">Message 1-3</text>
+        <g>
+          <polygon class="acc10b11-381b-42d7-9cf8-3d3702664538" points="391.751 648.445 368.251 648.445 368.251 622.238 374.126 616.414 391.751 616.414 391.751 648.445"/>
+          <polygon class="b69993f5-d487-4c18-a55c-adce08c93f52" points="374.126 622.238 368.251 622.238 374.126 616.414 374.126 622.238"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="372.657" y1="626.606" x2="380.001" y2="626.606"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="372.657" y1="630.974" x2="387.344" y2="630.974"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="372.657" y1="635.341" x2="387.344" y2="635.341"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="372.657" y1="639.709" x2="387.344" y2="639.709"/>
+        </g>
+      </g>
+    </g>
+    <rect class="a1490200-4d3a-4228-a655-716dbbc76663" x="534.5" y="175.533" width="225.5" height="217"/>
+    <polyline class="b7832526-443d-42d0-aa8b-39858e6d3a2b" points="564.5 312.982 750 312.982 750 227.982"/>
+    <polyline class="b7832526-443d-42d0-aa8b-39858e6d3a2b" points="559.5 307.982 745 307.982 745 222.982"/>
+    <rect class="b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7" x="554.5" y="217.982" width="185.5" height="85"/>
+    <rect class="a1490200-4d3a-4228-a655-716dbbc76663" y="175.533" width="225.5" height="217"/>
+    <polyline class="b7832526-443d-42d0-aa8b-39858e6d3a2b" points="30 312.982 215.5 312.982 215.5 227.982"/>
+    <polyline class="b7832526-443d-42d0-aa8b-39858e6d3a2b" points="25 307.982 210.5 307.982 210.5 222.982"/>
+    <text class="b4a34bf4-aef2-4483-9b80-eb41b75bef3b" transform="translate(20 200.62)">Broker A</text>
+    <rect class="b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7" x="20" y="217.982" width="185.5" height="85"/>
+    <rect class="f7f4fd66-806f-4b5a-82c1-ce1f2ca81fdd" x="35.25" y="252.982" width="155" height="35" transform="translate(225.5 540.964) rotate(-180)"/>
+    <text class="b1f97da6-cc62-4529-b37e-a70ba0b24844" transform="translate(87.184 273.767)">multicast</text>
+    <text class="b4a34bf4-aef2-4483-9b80-eb41b75bef3b" transform="translate(35.063 242.186)">Addresses</text>
+    <g>
+      <line class="ad07fdac-b3ad-4030-8a04-257df8cc501e" x1="112.75" y1="327.945" x2="112.75" y2="287.982"/>
+      <polygon class="baee49b4-6612-4764-8ac7-7b0ce9bfc4b9" points="117.736 326.486 112.75 335.121 107.764 326.486 117.736 326.486"/>
+    </g>
+    <g>
+      <line class="fe8b3d7b-dab7-430d-91bc-08b725d5ce5b" x1="199.675" y1="280.482" x2="201.175" y2="280.482"/>
+      <line class="a0835828-4aa2-442d-bdc0-5d23834bc5a5" x1="204.096" y1="280.482" x2="243.539" y2="280.482"/>
+      <polyline class="fe8b3d7b-dab7-430d-91bc-08b725d5ce5b" points="245 280.482 246.5 280.482 246.5 281.982"/>
+      <line class="ecee79a5-05c5-4b43-9f13-7e83ab8f7b22" x1="246.5" y1="285.017" x2="246.5" y2="508.086"/>
+      <polyline class="fe8b3d7b-dab7-430d-91bc-08b725d5ce5b" points="246.5 509.603 246.5 511.103 248 511.103"/>
+      <line class="fae2f4d6-9d00-4dbf-b5c1-31cd9cea21e4" x1="250.876" y1="511.103" x2="289.698" y2="511.103"/>
+      <line class="fe8b3d7b-dab7-430d-91bc-08b725d5ce5b" x1="291.136" y1="511.103" x2="292.636" y2="511.103"/>
+      <polygon class="f7f4fd66-806f-4b5a-82c1-ce1f2ca81fdd" points="201.134 285.468 192.499 280.482 201.134 275.496 201.134 285.468"/>
+      <polygon class="f7f4fd66-806f-4b5a-82c1-ce1f2ca81fdd" points="291.177 516.089 299.812 511.103 291.177 506.117 291.177 516.089"/>
+    </g>
+    <g>
+      <line class="fe8b3d7b-dab7-430d-91bc-08b725d5ce5b" x1="560.075" y1="280.347" x2="558.575" y2="280.319"/>
+      <line class="ab3895b6-8249-49aa-a437-36ed923c09e5" x1="555.62" y1="280.264" x2="515.727" y2="279.516"/>
+      <polyline class="fe8b3d7b-dab7-430d-91bc-08b725d5ce5b" points="514.25 279.488 512.75 279.46 512.75 280.96"/>
+      <line class="bf95a289-cd9b-4184-9878-bb183c46b696" x1="512.75" y1="283.93" x2="512.75" y2="508.118"/>
+      <polyline class="fe8b3d7b-dab7-430d-91bc-08b725d5ce5b" points="512.75 509.603 512.75 511.103 511.25 511.103"/>
+      <line class="fdeb836e-6ca9-4597-8b48-11f270f9d40b" x1="508.412" y1="511.103" x2="470.095" y2="511.103"/>
+      <line class="fe8b3d7b-dab7-430d-91bc-08b725d5ce5b" x1="468.676" y1="511.103" x2="467.176" y2="511.103"/>
+      <polygon class="f7f4fd66-806f-4b5a-82c1-ce1f2ca81fdd" points="558.71 275.335 567.25 280.482 558.523 285.306 558.71 275.335"/>
+      <polygon class="f7f4fd66-806f-4b5a-82c1-ce1f2ca81fdd" points="468.635 506.117 460 511.103 468.635 516.089 468.635 506.117"/>
+    </g>
+    <text class="b4a34bf4-aef2-4483-9b80-eb41b75bef3b" transform="translate(554.5 200.62)">Broker B</text>
+    <rect class="f7f4fd66-806f-4b5a-82c1-ce1f2ca81fdd" x="569.75" y="252.982" width="155" height="35" transform="translate(1294.5 540.964) rotate(-180)"/>
+    <text class="b1f97da6-cc62-4529-b37e-a70ba0b24844" transform="translate(621.684 273.767)">multicast</text>
+    <text class="b4a34bf4-aef2-4483-9b80-eb41b75bef3b" transform="translate(569.563 242.186)">Addresses</text>
+    <g>
+      <line class="ad07fdac-b3ad-4030-8a04-257df8cc501e" x1="647.25" y1="327.945" x2="647.25" y2="287.982"/>
+      <polygon class="baee49b4-6612-4764-8ac7-7b0ce9bfc4b9" points="652.236 326.486 647.25 335.121 642.264 326.486 652.236 326.486"/>
+    </g>
+    <g>
+      <line class="fe8b3d7b-dab7-430d-91bc-08b725d5ce5b" x1="560.074" y1="265.482" x2="558.574" y2="265.482"/>
+      <line class="b2996134-2bef-401a-8187-bfed94966fa6" x1="555.57" y1="265.482" x2="202.676" y2="265.482"/>
+      <line class="fe8b3d7b-dab7-430d-91bc-08b725d5ce5b" x1="201.175" y1="265.482" x2="199.675" y2="265.482"/>
+      <polygon class="f7f4fd66-806f-4b5a-82c1-ce1f2ca81fdd" points="558.615 260.496 567.25 265.482 558.615 270.468 558.615 260.496"/>
+      <polygon class="f7f4fd66-806f-4b5a-82c1-ce1f2ca81fdd" points="201.134 260.496 192.499 265.482 201.134 270.468 201.134 260.496"/>
+    </g>
+    <rect class="b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7" x="20" y="337.621" width="185.5" height="35" transform="translate(225.5 710.242) rotate(-180)"/>
+    <text class="b2661b6f-e6ab-4469-8d07-920852dc9a98" transform="translate(90.622 358.406)">Queue 1</text>
+    <rect class="b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7" x="554.5" y="337.621" width="185.5" height="35" transform="translate(1294.5 710.242) rotate(-180)"/>
+    <text class="b2661b6f-e6ab-4469-8d07-920852dc9a98" transform="translate(623.754 358.406)">Queue 2</text>
+    <rect class="a1490200-4d3a-4228-a655-716dbbc76663" x="20" y="62" width="185.5" height="35"/>
+    <text class="b4a34bf4-aef2-4483-9b80-eb41b75bef3b" transform="translate(81.521 82.824)">Producer 1</text>
+    <g>
+      <rect class="a1490200-4d3a-4228-a655-716dbbc76663" x="20" y="461.175" width="185.5" height="35"/>
+      <text class="b4a34bf4-aef2-4483-9b80-eb41b75bef3b" transform="translate(78.952 481.999)">Consumer 1</text>
+    </g>
+    <g>
+      <rect class="a1490200-4d3a-4228-a655-716dbbc76663" x="554.5" y="461.175" width="185.5" height="35"/>
+      <text class="b4a34bf4-aef2-4483-9b80-eb41b75bef3b" transform="translate(612.181 481.999)">Consumer 2</text>
+    </g>
+    <rect class="a1490200-4d3a-4228-a655-716dbbc76663" x="554.5" y="62" width="185.5" height="35"/>
+    <text class="b4a34bf4-aef2-4483-9b80-eb41b75bef3b" transform="translate(614.749 82.824)">Producer 2</text>
+    <g>
+      <line class="ad07fdac-b3ad-4030-8a04-257df8cc501e" x1="112.75" y1="243.306" x2="112.75" y2="97"/>
+      <polygon class="baee49b4-6612-4764-8ac7-7b0ce9bfc4b9" points="117.736 241.847 112.75 250.482 107.764 241.847 117.736 241.847"/>
+    </g>
+    <g>
+      <line class="ad07fdac-b3ad-4030-8a04-257df8cc501e" x1="647.25" y1="243.306" x2="647.25" y2="97"/>
+      <polygon class="baee49b4-6612-4764-8ac7-7b0ce9bfc4b9" points="652.236 241.847 647.25 250.482 642.264 241.847 652.236 241.847"/>
+    </g>
+    <rect class="b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7" x="77.163" y="132.824" width="71.174" height="30.699"/>
+    <g>
+      <text class="a9a155d9-a66b-48ad-ba50-c1d10f88bac1" transform="translate(91.51 156.756)">Message 1</text>
+      <g>
+        <polygon class="acc10b11-381b-42d7-9cf8-3d3702664538" points="124.5 141.703 101 141.703 101 115.495 106.875 109.671 124.5 109.671 124.5 141.703"/>
+        <polygon class="b69993f5-d487-4c18-a55c-adce08c93f52" points="106.875 115.495 101 115.495 106.875 109.671 106.875 115.495"/>
+        <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="105.406" y1="119.863" x2="112.75" y2="119.863"/>
+        <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="105.406" y1="124.231" x2="120.094" y2="124.231"/>
+        <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="105.406" y1="128.599" x2="120.094" y2="128.599"/>
+        <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="105.406" y1="132.967" x2="120.094" y2="132.967"/>
+      </g>
+    </g>
+    <rect class="b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7" x="611.663" y="132.824" width="71.174" height="30.699"/>
+    <g>
+      <text class="a9a155d9-a66b-48ad-ba50-c1d10f88bac1" transform="translate(624.984 156.756)">Message 2</text>
+      <g>
+        <polygon class="acc10b11-381b-42d7-9cf8-3d3702664538" points="659 141.703 635.5 141.703 635.5 115.495 641.375 109.671 659 109.671 659 141.703"/>
+        <polygon class="b69993f5-d487-4c18-a55c-adce08c93f52" points="641.375 115.495 635.5 115.495 641.375 109.671 641.375 115.495"/>
+        <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="639.907" y1="119.863" x2="647.25" y2="119.863"/>
+        <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="639.907" y1="124.231" x2="654.594" y2="124.231"/>
+        <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="639.907" y1="128.599" x2="654.594" y2="128.599"/>
+        <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="639.907" y1="132.967" x2="654.594" y2="132.967"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <line class="a37d923c-5853-4416-882a-8abc0980503e" x1="647.25" y1="372.608" x2="647.25" y2="451.575"/>
+        <polygon class="baee49b4-6612-4764-8ac7-7b0ce9bfc4b9" points="642.264 450.116 647.25 458.751 652.236 450.116 642.264 450.116"/>
+      </g>
+      <rect class="b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7" x="611.663" y="408.932" width="71.174" height="30.699"/>
+      <g>
+        <text class="a9a155d9-a66b-48ad-ba50-c1d10f88bac1" transform="translate(621.2 432.864)">Message 1-3</text>
+        <g>
+          <polygon class="acc10b11-381b-42d7-9cf8-3d3702664538" points="659 417.811 635.5 417.811 635.5 391.604 641.375 385.78 659 385.78 659 417.811"/>
+          <polygon class="b69993f5-d487-4c18-a55c-adce08c93f52" points="641.375 391.604 635.5 391.604 641.375 385.78 641.375 391.604"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="639.907" y1="395.972" x2="647.25" y2="395.972"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="639.907" y1="400.34" x2="654.594" y2="400.34"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="639.907" y1="404.707" x2="654.594" y2="404.707"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="639.907" y1="409.075" x2="654.594" y2="409.075"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <line class="a37d923c-5853-4416-882a-8abc0980503e" x1="112.75" y1="372.608" x2="112.75" y2="451.575"/>
+        <polygon class="baee49b4-6612-4764-8ac7-7b0ce9bfc4b9" points="107.764 450.116 112.75 458.751 117.736 450.116 107.764 450.116"/>
+      </g>
+      <rect class="b509a3b7-f253-4e33-81bc-9fbbb3ceb6d7" x="77.163" y="408.932" width="71.174" height="30.699"/>
+      <g>
+        <text class="a9a155d9-a66b-48ad-ba50-c1d10f88bac1" transform="translate(86.7 432.864)">Message 1-3</text>
+        <g>
+          <polygon class="acc10b11-381b-42d7-9cf8-3d3702664538" points="124.501 417.811 101.001 417.811 101.001 391.604 106.876 385.78 124.501 385.78 124.501 417.811"/>
+          <polygon class="b69993f5-d487-4c18-a55c-adce08c93f52" points="106.876 391.604 101.001 391.604 106.876 385.78 106.876 391.604"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="105.407" y1="395.972" x2="112.751" y2="395.972"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="105.407" y1="400.34" x2="120.094" y2="400.34"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="105.407" y1="404.707" x2="120.094" y2="404.707"/>
+          <line class="b69993f5-d487-4c18-a55c-adce08c93f52" x1="105.407" y1="409.075" x2="120.094" y2="409.075"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <line class="fe8b3d7b-dab7-430d-91bc-08b725d5ce5b" x1="30.134" y1="24" x2="28.634" y2="24"/>
+    <line class="edc74d6d-a6e8-4649-8be8-dd2894fdcf64" x1="25.783" y1="24" x2="10.102" y2="24"/>
+    <line class="fe8b3d7b-dab7-430d-91bc-08b725d5ce5b" x1="8.676" y1="24" x2="7.176" y2="24"/>
+    <polygon class="f7f4fd66-806f-4b5a-82c1-ce1f2ca81fdd" points="28.675 19.013 37.31 24 28.675 28.986 28.675 19.013"/>
+    <polygon class="f7f4fd66-806f-4b5a-82c1-ce1f2ca81fdd" points="8.635 19.013 0 24 8.635 28.986 8.635 19.013"/>
+  </g>
+  <text class="a2c8bb45-d20a-48f8-bb4a-9985811185a5" transform="translate(45 27.324)">Symmetric Address Federation</text>
+  <line class="a071b28f-6203-4296-b659-58c9e002088c" y1="44.943" x2="760" y2="44.943"/>
+</svg>

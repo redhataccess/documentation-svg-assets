@@ -1,0 +1,116 @@
+<svg id="b333d9d2-6ee0-4cd4-9b60-17d0f0a92ba3" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="318.855" viewBox="0 0 760 318.855">
+  <defs>
+    <style>
+      .b466474e-8e68-4a74-8901-31cbf2fa3291, .fd28642f-d4a7-4f77-b420-4b27fc49ff18 {
+        fill: #f3f3f3;
+      }
+
+      .b466474e-8e68-4a74-8901-31cbf2fa3291 {
+        font-size: 10px;
+      }
+
+      .a9f3bda6-9998-4e7b-bd62-36b9696180b6, .b466474e-8e68-4a74-8901-31cbf2fa3291 {
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .eb67748f-a753-4923-9e95-d2a15190c68a, .f8fba13b-a727-4313-a6bf-7a74b6b0efa9 {
+        fill: none;
+      }
+
+      .a4edd7d7-a30f-42df-8ab8-dfcb11e23fe0 {
+        fill: #e8e8e8;
+      }
+
+      .e035eada-ba47-4863-b252-343ce30e0f7d, .f54a0b5a-9a8e-4dd7-88cb-f414a8a9d108 {
+        font-size: 14px;
+      }
+
+      .e035eada-ba47-4863-b252-343ce30e0f7d, .f0a0f25e-2171-49c7-8916-3696c6bfa965, .f54a0b5a-9a8e-4dd7-88cb-f414a8a9d108, .f640565b-f6b2-4c5d-8580-ff8199d0fb7c {
+        fill: #151515;
+      }
+
+      .e035eada-ba47-4863-b252-343ce30e0f7d, .f0a0f25e-2171-49c7-8916-3696c6bfa965 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .afae2104-113b-46ff-9647-4cd440626d7e {
+        fill: #fff;
+      }
+
+      .e8801e4b-0886-4ee7-95db-8a06ce8003be {
+        fill: #06c;
+      }
+
+      .f54a0b5a-9a8e-4dd7-88cb-f414a8a9d108 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .f8fba13b-a727-4313-a6bf-7a74b6b0efa9 {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a9f3bda6-9998-4e7b-bd62-36b9696180b6 {
+        font-weight: 400;
+      }
+
+      .f0a0f25e-2171-49c7-8916-3696c6bfa965 {
+        font-size: 16px;
+      }
+    </style>
+  </defs>
+  <rect class="fd28642f-d4a7-4f77-b420-4b27fc49ff18" x="0.209" y="80.784" width="760" height="198" transform="translate(760.418 359.568) rotate(-180)"/>
+  <g>
+    <text class="b466474e-8e68-4a74-8901-31cbf2fa3291" transform="translate(696.961 301.873)">104_RHI_1020</text>
+    <polygon class="eb67748f-a753-4923-9e95-d2a15190c68a" points="0 318.855 760 318.855 760 278.855 15 278.855 0 318.855"/>
+  </g>
+  <g>
+    <rect class="a4edd7d7-a30f-42df-8ab8-dfcb11e23fe0" x="520" y="100.855" width="220" height="126"/>
+    <text class="e035eada-ba47-4863-b252-343ce30e0f7d" transform="translate(540 131.887)">Kafka Connect</text>
+    <g>
+      <rect class="afae2104-113b-46ff-9647-4cd440626d7e" x="540.5" y="147.355" width="179" height="59"/>
+      <path class="e8801e4b-0886-4ee7-95db-8a06ce8003be" d="M719,147.855v58H541v-58H719m1-1H540v60H720v-60Z"/>
+    </g>
+    <text class="f54a0b5a-9a8e-4dd7-88cb-f414a8a9d108" transform="translate(588.567 173.234)">Camel Kafka<tspan x="-6.622" y="15">sink connector</tspan></text>
+  </g>
+  <g>
+    <line class="f8fba13b-a727-4313-a6bf-7a74b6b0efa9" x1="260.324" y1="163.855" x2="235" y2="163.855"/>
+    <polygon class="f640565b-f6b2-4c5d-8580-ff8199d0fb7c" points="258.865 158.869 267.5 163.855 258.865 168.841 258.865 158.869"/>
+  </g>
+  <g>
+    <line class="f8fba13b-a727-4313-a6bf-7a74b6b0efa9" x1="130" y1="60.855" x2="130" y2="91.179"/>
+    <polygon class="f640565b-f6b2-4c5d-8580-ff8199d0fb7c" points="125.013 89.72 130 98.355 134.986 89.72 125.013 89.72"/>
+  </g>
+  <g>
+    <line class="f8fba13b-a727-4313-a6bf-7a74b6b0efa9" x1="629.994" y1="60.855" x2="629.994" y2="91.179"/>
+    <polygon class="f640565b-f6b2-4c5d-8580-ff8199d0fb7c" points="625.007 89.72 629.994 98.355 634.98 89.72 625.007 89.72"/>
+  </g>
+  <g>
+    <line class="f8fba13b-a727-4313-a6bf-7a74b6b0efa9" x1="511.324" y1="163.855" x2="486" y2="163.855"/>
+    <polygon class="f640565b-f6b2-4c5d-8580-ff8199d0fb7c" points="509.865 158.869 518.5 163.855 509.865 168.841 509.865 158.869"/>
+  </g>
+  <g>
+    <rect class="a4edd7d7-a30f-42df-8ab8-dfcb11e23fe0" x="270" y="100.855" width="220" height="126"/>
+    <g>
+      <rect class="afae2104-113b-46ff-9647-4cd440626d7e" x="290.5" y="147.355" width="179" height="59"/>
+      <path class="e8801e4b-0886-4ee7-95db-8a06ce8003be" d="M469,147.855v58H291v-58H469m1-1H290v60H470v-60Z"/>
+    </g>
+    <text class="e035eada-ba47-4863-b252-343ce30e0f7d" transform="translate(290 131.887)">Kafka cluster</text>
+    <text class="f54a0b5a-9a8e-4dd7-88cb-f414a8a9d108" transform="translate(342.6 181.234)">Kafka topic</text>
+  </g>
+  <rect class="a4edd7d7-a30f-42df-8ab8-dfcb11e23fe0" x="36.5" y="0.855" width="180" height="60"/>
+  <text class="f54a0b5a-9a8e-4dd7-88cb-f414a8a9d108" transform="translate(73.847 27.331)">External system<tspan class="a9f3bda6-9998-4e7b-bd62-36b9696180b6"><tspan x="26.019" y="15">(source)</tspan></tspan></text>
+  <rect class="a4edd7d7-a30f-42df-8ab8-dfcb11e23fe0" x="539.994" y="0.855" width="180" height="60"/>
+  <text class="f54a0b5a-9a8e-4dd7-88cb-f414a8a9d108" transform="translate(577.341 27.331)">External system<tspan class="a9f3bda6-9998-4e7b-bd62-36b9696180b6"><tspan x="35.027" y="15">(sink)</tspan></tspan></text>
+  <rect class="a4edd7d7-a30f-42df-8ab8-dfcb11e23fe0" x="20" y="100.855" width="220" height="126"/>
+  <g>
+    <rect class="afae2104-113b-46ff-9647-4cd440626d7e" x="40.5" y="147.355" width="179" height="59"/>
+    <path class="e8801e4b-0886-4ee7-95db-8a06ce8003be" d="M219,147.855v58H41v-58H219m1-1H40v60H220v-60Z"/>
+  </g>
+  <text class="f54a0b5a-9a8e-4dd7-88cb-f414a8a9d108" transform="translate(88.567 173.233)">Camel Kafka<tspan x="-15.679" y="15">source connector</tspan></text>
+  <text class="e035eada-ba47-4863-b252-343ce30e0f7d" transform="translate(40 131.887)">Kafka Connect</text>
+  <text class="f0a0f25e-2171-49c7-8916-3696c6bfa965" transform="translate(20.533 257.826)">AMQ Streams</text>
+</svg>

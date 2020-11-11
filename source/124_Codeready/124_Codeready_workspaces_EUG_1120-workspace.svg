@@ -1,0 +1,219 @@
+<svg id="e9cc0aff-8d5a-4edb-9176-4ab5c031c17a" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="663.095" viewBox="0 0 760 663.095">
+  <defs>
+    <style>
+      .ae1a9c51-8cc8-4f92-8560-819c6474005d {
+        fill: #e8e8e8;
+      }
+
+      .ff2fbe5b-ebee-4b4c-a2ff-bb260cbfb415 {
+        fill: #06c;
+      }
+
+      .a8ed803d-1b25-4175-9ba8-23261f084349 {
+        font-size: 14px;
+      }
+
+      .a0f708e6-eacc-4317-b485-eae233fef801, .a7e1f25a-5c4f-4953-a3e7-f9105ff0ed5e, .a8ed803d-1b25-4175-9ba8-23261f084349, .aae8fa3c-4181-4db3-84fa-b687267c0008, .b9258f43-dcdd-4440-bb0a-75bf6383b075, .e481f048-b2bd-46c3-a38b-eec0a7b01bf5 {
+        fill: #151515;
+      }
+
+      .a7e1f25a-5c4f-4953-a3e7-f9105ff0ed5e, .a8ed803d-1b25-4175-9ba8-23261f084349, .b9258f43-dcdd-4440-bb0a-75bf6383b075 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .a0f708e6-eacc-4317-b485-eae233fef801, .a7e1f25a-5c4f-4953-a3e7-f9105ff0ed5e, .e481f048-b2bd-46c3-a38b-eec0a7b01bf5 {
+        font-size: 11px;
+      }
+
+      .a0f708e6-eacc-4317-b485-eae233fef801 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .e9be48c9-f78f-43b6-886a-e8e981d3726c {
+        fill: #fff;
+      }
+
+      .a1ce0d34-4b46-47fe-a9d9-5385c82980a2, .b9258f43-dcdd-4440-bb0a-75bf6383b075 {
+        font-size: 12px;
+      }
+
+      .a4cc2a09-0738-4dd6-b321-334c0b614017, .eb2626aa-763e-49fa-9ce9-5dc7bdfb45df {
+        fill: #f3f3f3;
+      }
+
+      .ac6dc3f2-f4a3-4676-9161-f0c5964ddb68, .ae493e8a-2f5c-4d25-938d-244f3617af91, .afa70d02-f784-4ccb-9777-8772311ed42a, .bb417a5a-3cef-46d9-a25a-8d833e949245, .bd4d2167-a066-4b2c-92b5-8bf131bb3d12, .e2f6f820-405c-433b-9156-d741b7b1f396, .ed94dbba-d063-4926-a3e7-3458631f60ad, .ff41825e-1b9c-467a-9c12-c65b4082b685 {
+        fill: none;
+      }
+
+      .bb417a5a-3cef-46d9-a25a-8d833e949245, .ff41825e-1b9c-467a-9c12-c65b4082b685 {
+        stroke: #06c;
+      }
+
+      .ac6dc3f2-f4a3-4676-9161-f0c5964ddb68, .ae493e8a-2f5c-4d25-938d-244f3617af91, .bb417a5a-3cef-46d9-a25a-8d833e949245, .bd4d2167-a066-4b2c-92b5-8bf131bb3d12, .e2f6f820-405c-433b-9156-d741b7b1f396, .ed94dbba-d063-4926-a3e7-3458631f60ad, .ff41825e-1b9c-467a-9c12-c65b4082b685 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .ff41825e-1b9c-467a-9c12-c65b4082b685 {
+        stroke-dasharray: 2.991 2.991;
+      }
+
+      .ed94dbba-d063-4926-a3e7-3458631f60ad {
+        stroke: #fff;
+        stroke-width: 8px;
+      }
+
+      .e2f6f820-405c-433b-9156-d741b7b1f396 {
+        stroke: #151515;
+      }
+
+      .e01212d5-7d59-4d2f-b287-21a628db4ffb {
+        font-size: 16px;
+      }
+
+      .a1ce0d34-4b46-47fe-a9d9-5385c82980a2, .a4cc2a09-0738-4dd6-b321-334c0b614017 {
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .a1ce0d34-4b46-47fe-a9d9-5385c82980a2 {
+        font-weight: 400;
+      }
+
+      .a4cc2a09-0738-4dd6-b321-334c0b614017 {
+        font-size: 10px;
+      }
+
+      .ac6dc3f2-f4a3-4676-9161-f0c5964ddb68, .ae493e8a-2f5c-4d25-938d-244f3617af91, .bd4d2167-a066-4b2c-92b5-8bf131bb3d12 {
+        stroke: #e8e8e8;
+      }
+
+      .ae493e8a-2f5c-4d25-938d-244f3617af91 {
+        stroke-dasharray: 2.96 2.96;
+      }
+
+      .ac6dc3f2-f4a3-4676-9161-f0c5964ddb68 {
+        stroke-dasharray: 3 3;
+      }
+
+      .e481f048-b2bd-46c3-a38b-eec0a7b01bf5 {
+        font-family: RedHatText-Italic, Red Hat Text;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <rect class="ae1a9c51-8cc8-4f92-8560-819c6474005d" x="9.936" y="196.083" width="740.128" height="417.076"/>
+  <path class="ff2fbe5b-ebee-4b4c-a2ff-bb260cbfb415" d="M758.5,187.647V621.6H1.5V187.647h757m1.5-1.5H0V623.1H760V186.147Z"/>
+  <path class="ae1a9c51-8cc8-4f92-8560-819c6474005d" d="M759,17V145.364H1V17H759m1-1H0V146.364H760V16Z"/>
+  <text class="a8ed803d-1b25-4175-9ba8-23261f084349" transform="translate(19.999 46.66)">Workspaces</text>
+  <g>
+    <rect class="ae1a9c51-8cc8-4f92-8560-819c6474005d" x="84.936" y="75.968" width="160" height="50.064"/>
+    <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(124.875 104.222)">Project sources</text>
+  </g>
+  <g>
+    <rect class="ae1a9c51-8cc8-4f92-8560-819c6474005d" x="514.564" y="75.968" width="160" height="50.064"/>
+    <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(562.577 104.222)">App runtime</text>
+  </g>
+  <rect class="e9be48c9-f78f-43b6-886a-e8e981d3726c" x="29.936" y="297.795" width="255" height="295" transform="translate(314.872 890.59) rotate(-180)"/>
+  <text class="b9258f43-dcdd-4440-bb0a-75bf6383b075" transform="translate(44.936 322.145)">Built-in IDE</text>
+  <rect class="e9be48c9-f78f-43b6-886a-e8e981d3726c" x="54.936" y="347.795" width="100" height="50" transform="translate(209.872 745.59) rotate(-180)"/>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="54.936" y="347.795" width="100" height="50"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(88.942 375.842)">Editor</text>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="54.936" y="402.795" width="100" height="50"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(87.804 430.841)">Panels</text>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="159.936" y="457.795" width="100" height="50"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(183.454 479.842)">Command<tspan x="7.854" y="12">palette</tspan></text>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="54.936" y="457.795" width="100" height="50"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(76.496 485.842)">Debuggers</text>
+  <path class="e9be48c9-f78f-43b6-886a-e8e981d3726c" d="M729.064,298.8v293h-128v-293h128m1-1h-130v295h130v-295Z"/>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="54.936" y="512.795" width="205" height="50"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(108.85 540.842)">Other components</text>
+  <rect class="e9be48c9-f78f-43b6-886a-e8e981d3726c" x="615.064" y="312.199" width="100" height="50" transform="translate(1330.128 674.398) rotate(-180)"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(647.277 334.246)">IntelliJ<tspan x="4.823" y="12">IDEA</tspan></text>
+  <rect class="e9be48c9-f78f-43b6-886a-e8e981d3726c" x="615.064" y="366.943" width="100" height="50" transform="translate(1330.128 783.886) rotate(-180)"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(649.813 388.99)">Other<tspan x="3.487" y="12">IDEs</tspan></text>
+  <g>
+    <line class="bb417a5a-3cef-46d9-a25a-8d833e949245" x1="0.5" y1="186.147" x2="1.975" y2="185.873"/>
+    <line class="ff41825e-1b9c-467a-9c12-c65b4082b685" x1="4.916" y1="185.328" x2="297.554" y2="131.046"/>
+    <line class="bb417a5a-3cef-46d9-a25a-8d833e949245" x1="299.025" y1="130.774" x2="300.5" y2="130.5"/>
+  </g>
+  <g>
+    <line class="bb417a5a-3cef-46d9-a25a-8d833e949245" x1="459.5" y1="130.5" x2="460.975" y2="130.774"/>
+    <line class="ff41825e-1b9c-467a-9c12-c65b4082b685" x1="463.916" y1="131.319" x2="756.555" y2="185.6"/>
+    <line class="bb417a5a-3cef-46d9-a25a-8d833e949245" x1="758.025" y1="185.873" x2="759.5" y2="186.147"/>
+  </g>
+  <line class="ed94dbba-d063-4926-a3e7-3458631f60ad" x1="394.904" y1="180.268" x2="394.904" y2="190.155"/>
+  <line class="ed94dbba-d063-4926-a3e7-3458631f60ad" x1="365.096" y1="180.268" x2="365.096" y2="190.155"/>
+  <line class="ed94dbba-d063-4926-a3e7-3458631f60ad" x1="380" y1="180.268" x2="380" y2="190.155"/>
+  <g>
+    <line class="e2f6f820-405c-433b-9156-d741b7b1f396" x1="380" y1="131" x2="380" y2="288.126"/>
+    <polygon class="aae8fa3c-4181-4db3-84fa-b687267c0008" points="375.013 286.667 380 295.302 384.986 286.667 375.013 286.667"/>
+  </g>
+  <g>
+    <polyline class="e2f6f820-405c-433b-9156-d741b7b1f396" points="157.436 287.926 157.436 218.083 364.846 218.083 364.846 131"/>
+    <polygon class="aae8fa3c-4181-4db3-84fa-b687267c0008" points="162.422 286.467 157.436 295.102 152.45 286.467 162.422 286.467"/>
+  </g>
+  <g>
+    <polyline class="e2f6f820-405c-433b-9156-d741b7b1f396" points="665.064 287.926 665.064 218.083 394.904 218.083 394.904 131"/>
+    <polygon class="aae8fa3c-4181-4db3-84fa-b687267c0008" points="670.05 286.467 665.064 295.102 660.077 286.467 670.05 286.467"/>
+  </g>
+  <path class="ff2fbe5b-ebee-4b4c-a2ff-bb260cbfb415" d="M458.5,72.5v57h-157v-57h157M460,71H300v60H460V71Z"/>
+  <rect class="ae1a9c51-8cc8-4f92-8560-819c6474005d" x="304.968" y="75.968" width="150.064" height="50.064"/>
+  <text class="a7e1f25a-5c4f-4953-a3e7-f9105ff0ed5e" transform="translate(370.452 104.047)">IDE</text>
+  <text class="a8ed803d-1b25-4175-9ba8-23261f084349" transform="translate(29.808 227.055)">IDE<tspan class="e01212d5-7d59-4d2f-b287-21a628db4ffb" x="24.304" y="0"> </tspan><tspan class="a1ce0d34-4b46-47fe-a9d9-5385c82980a2" x="27.744" y="0">(zoom in)</tspan></text>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="159.936" y="402.795" width="100" height="50"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(181.562 430.842)">Languages</text>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="159.936" y="347.795" width="100" height="50"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(192.853 375.842)">Menus</text>
+  <g>
+    <text class="a4cc2a09-0738-4dd6-b321-334c0b614017" transform="translate(667.802 645.812)">124_Codeready_1120</text>
+    <rect class="afa70d02-f784-4ccb-9777-8772311ed42a" y="622.795" width="760" height="40"/>
+  </g>
+  <g>
+    <polyline class="bd4d2167-a066-4b2c-92b5-8bf131bb3d12" points="44.936 576.295 44.936 577.795 46.436 577.795"/>
+    <line class="ae493e8a-2f5c-4d25-938d-244f3617af91" x1="49.396" y1="577.795" x2="266.956" y2="577.795"/>
+    <polyline class="bd4d2167-a066-4b2c-92b5-8bf131bb3d12" points="268.436 577.795 269.936 577.795 269.936 576.295"/>
+    <line class="ac6dc3f2-f4a3-4676-9161-f0c5964ddb68" x1="269.936" y1="573.295" x2="269.936" y2="340.795"/>
+    <polyline class="bd4d2167-a066-4b2c-92b5-8bf131bb3d12" points="269.936 339.295 269.936 337.795 268.436 337.795"/>
+    <line class="ae493e8a-2f5c-4d25-938d-244f3617af91" x1="265.476" y1="337.795" x2="47.916" y2="337.795"/>
+    <polyline class="bd4d2167-a066-4b2c-92b5-8bf131bb3d12" points="46.436 337.795 44.936 337.795 44.936 339.295"/>
+    <line class="ac6dc3f2-f4a3-4676-9161-f0c5964ddb68" x1="44.936" y1="342.295" x2="44.936" y2="574.795"/>
+  </g>
+  <rect class="e9be48c9-f78f-43b6-886a-e8e981d3726c" x="95.062" y="570.442" width="124.748" height="17.964"/>
+  <text class="e481f048-b2bd-46c3-a38b-eec0a7b01bf5" transform="translate(100.385 581.426)">Extensible with plug-ins</text>
+  <rect class="e9be48c9-f78f-43b6-886a-e8e981d3726c" x="314.75" y="297.795" width="255" height="295" transform="translate(884.5 890.59) rotate(-180)"/>
+  <text class="b9258f43-dcdd-4440-bb0a-75bf6383b075" transform="translate(329.75 322.145)">Custom IDE</text>
+  <rect class="e9be48c9-f78f-43b6-886a-e8e981d3726c" x="339.75" y="347.795" width="100" height="50" transform="translate(779.5 745.59) rotate(-180)"/>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="339.75" y="347.795" width="100" height="50"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(369.554 369.842)">Custom<tspan x="4.576" y="12">editor</tspan></text>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="339.75" y="457.795" width="100" height="50"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(369.554 479.841)">Custom<tspan x="7.32" y="12">tools</tspan></text>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="339.75" y="512.795" width="205" height="50"/>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="339.75" y="402.795" width="100" height="50"/>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="444.75" y="457.795" width="100" height="50"/>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="444.75" y="402.795" width="100" height="50"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(474.554 424.842)">Custom<tspan x="-2.843" y="12">branding</tspan></text>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(474.554 479.842)">Custom<tspan x="4.064" y="12">layout</tspan></text>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(393.664 540.841)">Other components</text>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(369.554 424.842)">Custom<tspan x="3.438" y="12">panels</tspan></text>
+  <rect class="eb2626aa-763e-49fa-9ce9-5dc7bdfb45df" x="444.75" y="347.795" width="100" height="50"/>
+  <text class="a0f708e6-eacc-4317-b485-eae233fef801" transform="translate(474.554 369.842)">Custom<tspan x="3.19" y="12">menus</tspan></text>
+  <g>
+    <polyline class="bd4d2167-a066-4b2c-92b5-8bf131bb3d12" points="330 576.295 330 577.795 331.5 577.795"/>
+    <line class="ae493e8a-2f5c-4d25-938d-244f3617af91" x1="334.46" y1="577.795" x2="552.02" y2="577.795"/>
+    <polyline class="bd4d2167-a066-4b2c-92b5-8bf131bb3d12" points="553.5 577.795 555 577.795 555 576.295"/>
+    <line class="ac6dc3f2-f4a3-4676-9161-f0c5964ddb68" x1="555" y1="573.295" x2="555" y2="340.795"/>
+    <polyline class="bd4d2167-a066-4b2c-92b5-8bf131bb3d12" points="555 339.295 555 337.795 553.5 337.795"/>
+    <line class="ae493e8a-2f5c-4d25-938d-244f3617af91" x1="550.54" y1="337.795" x2="332.98" y2="337.795"/>
+    <polyline class="bd4d2167-a066-4b2c-92b5-8bf131bb3d12" points="331.5 337.795 330 337.795 330 339.295"/>
+    <line class="ac6dc3f2-f4a3-4676-9161-f0c5964ddb68" x1="330" y1="342.295" x2="330" y2="574.795"/>
+  </g>
+  <rect class="e9be48c9-f78f-43b6-886a-e8e981d3726c" x="381.192" y="570.442" width="122.617" height="17.964"/>
+  <text class="e481f048-b2bd-46c3-a38b-eec0a7b01bf5" transform="translate(385.45 581.426)">Extensible with plug-ins</text>
+  <rect class="ae1a9c51-8cc8-4f92-8560-819c6474005d" x="92.162" y="243.778" width="479.847" height="31.602"/>
+  <rect class="ae1a9c51-8cc8-4f92-8560-819c6474005d" x="614.223" y="248.778" width="101.681" height="21.602"/>
+  <text class="e481f048-b2bd-46c3-a38b-eec0a7b01bf5" transform="translate(118.485 257.49)">Use default IDE <tspan x="-20.146" y="12">and extend with plug-ins</tspan></text>
+  <text class="e481f048-b2bd-46c3-a38b-eec0a7b01bf5" transform="translate(618.266 262.703)">Use third-party IDE</text>
+  <text class="e481f048-b2bd-46c3-a38b-eec0a7b01bf5" transform="translate(292.943 257.491)">Build custom IDE with Eclipse Theia <tspan x="27.665" y="12">and extend with plug-ins</tspan></text>
+</svg>

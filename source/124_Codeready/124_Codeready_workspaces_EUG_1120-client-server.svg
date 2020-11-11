@@ -1,0 +1,115 @@
+<svg id="a8682e74-24d3-4691-84b8-bf73ef96de53" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="306.128" viewBox="0 0 760 306.128">
+  <defs>
+    <style>
+      .b2bf904d-2ac2-46a4-8251-f5249a6c6571 {
+        fill: #e8e8e8;
+      }
+
+      .b30099dd-ff73-47ee-9ac1-50213ddffbea {
+        font-size: 16px;
+      }
+
+      .a05e1dc7-dea0-42b4-9512-01b67be3a851, .a3a555f9-78aa-41b6-a243-2e8cc51bb93f, .b30099dd-ff73-47ee-9ac1-50213ddffbea, .b9e59d28-6675-42db-9183-8c439532a3e4, .e3d967a2-cc90-4faf-ba4a-1ac40f5e4042 {
+        fill: #151515;
+      }
+
+      .b30099dd-ff73-47ee-9ac1-50213ddffbea, .e3d967a2-cc90-4faf-ba4a-1ac40f5e4042 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .bdceb91e-298f-4386-8692-0f7b61607d48, .e3d2c72e-d252-42b7-884c-2cf3bae36e69, .fc3150d8-4e9c-4e70-8fc8-9e6c2ec3bfe1 {
+        fill: none;
+      }
+
+      .fc3150d8-4e9c-4e70-8fc8-9e6c2ec3bfe1 {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .f1813401-186e-4d4d-af92-68d74ece3648 {
+        fill: #fff;
+      }
+
+      .a69140f5-535f-4134-becd-e68545a2fa95 {
+        fill: #06c;
+      }
+
+      .e3d2c72e-d252-42b7-884c-2cf3bae36e69 {
+        stroke: #f3f3f3;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .a3a555f9-78aa-41b6-a243-2e8cc51bb93f, .e3d967a2-cc90-4faf-ba4a-1ac40f5e4042 {
+        font-size: 12px;
+      }
+
+      .a3a555f9-78aa-41b6-a243-2e8cc51bb93f {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .b9e59d28-6675-42db-9183-8c439532a3e4 {
+        font-size: 11px;
+        font-family: RedHatText-Italic, Red Hat Text;
+        font-style: italic;
+      }
+
+      .a1dcd7f6-177f-4f4b-9313-6c279458fd79 {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <rect class="b2bf904d-2ac2-46a4-8251-f5249a6c6571" x="72.436" y="16" width="245.064" height="250.128"/>
+  <text class="b30099dd-ff73-47ee-9ac1-50213ddffbea" transform="translate(92.5 49.536)">Browser</text>
+  <g>
+    <line class="fc3150d8-4e9c-4e70-8fc8-9e6c2ec3bfe1" x1="327.176" y1="143.064" x2="432.803" y2="143.064"/>
+    <polygon class="a05e1dc7-dea0-42b4-9512-01b67be3a851" points="328.635 148.05 320 143.064 328.635 138.078 328.635 148.05"/>
+    <polygon class="a05e1dc7-dea0-42b4-9512-01b67be3a851" points="431.344 148.05 439.979 143.064 431.344 138.078 431.344 148.05"/>
+  </g>
+  <g>
+    <rect class="f1813401-186e-4d4d-af92-68d74ece3648" x="93" y="130.058" width="204" height="115.5"/>
+    <path class="a69140f5-535f-4134-becd-e68545a2fa95" d="M296.5,130.558v114.5H93.5v-114.5h203m1-1H92.5v116.5h205v-116.5Z"/>
+  </g>
+  <polyline class="e3d2c72e-d252-42b7-884c-2cf3bae36e69" points="282.5 181.058 282.5 231.058 117.5 231.058"/>
+  <polyline class="e3d2c72e-d252-42b7-884c-2cf3bae36e69" points="277.5 176.058 277.5 226.058 112.5 226.058"/>
+  <rect class="b2bf904d-2ac2-46a4-8251-f5249a6c6571" x="107.5" y="171.058" width="165" height="50"/>
+  <text class="e3d967a2-cc90-4faf-ba4a-1ac40f5e4042" transform="translate(107.5 154.662)">Web worker</text>
+  <text class="a3a555f9-78aa-41b6-a243-2e8cc51bb93f" transform="translate(166.619 199.383)">Plug-ins</text>
+  <rect class="f1813401-186e-4d4d-af92-68d74ece3648" x="92.5" y="69.628" width="205" height="50"/>
+  <text class="a3a555f9-78aa-41b6-a243-2e8cc51bb93f" transform="translate(140.923 97.953)">Extension manager</text>
+  <g>
+    <polyline class="fc3150d8-4e9c-4e70-8fc8-9e6c2ec3bfe1" points="62.76 93.064 28.75 93.064 28.75 196.058 82.824 196.058"/>
+    <polygon class="a05e1dc7-dea0-42b4-9512-01b67be3a851" points="61.301 88.078 69.936 93.064 61.301 98.05 61.301 88.078"/>
+    <polygon class="a05e1dc7-dea0-42b4-9512-01b67be3a851" points="81.365 201.044 90 196.058 81.365 191.072 81.365 201.044"/>
+  </g>
+  <rect class="f1813401-186e-4d4d-af92-68d74ece3648" x="15.686" y="134.955" width="26.129" height="19.212"/>
+  <text class="b9e59d28-6675-42db-9183-8c439532a3e4" transform="translate(1.265 147.685)">Plug-in API</text>
+  <text class="b9e59d28-6675-42db-9183-8c439532a3e4" transform="translate(352.765 136.188)">JSON RPC</text>
+  <rect class="b2bf904d-2ac2-46a4-8251-f5249a6c6571" x="442.479" y="16" width="245.064" height="250.128"/>
+  <text class="b30099dd-ff73-47ee-9ac1-50213ddffbea" transform="translate(462.543 49.536)">Server</text>
+  <g>
+    <rect class="f1813401-186e-4d4d-af92-68d74ece3648" x="463.043" y="130.058" width="204" height="115.5"/>
+    <path class="a69140f5-535f-4134-becd-e68545a2fa95" d="M666.543,130.558v114.5h-203v-114.5h203m1-1h-205v116.5h205v-116.5Z"/>
+  </g>
+  <polyline class="e3d2c72e-d252-42b7-884c-2cf3bae36e69" points="652.543 181.058 652.543 231.058 487.543 231.058"/>
+  <polyline class="e3d2c72e-d252-42b7-884c-2cf3bae36e69" points="647.543 176.058 647.543 226.058 482.543 226.058"/>
+  <rect class="b2bf904d-2ac2-46a4-8251-f5249a6c6571" x="477.543" y="171.058" width="165" height="50"/>
+  <text class="e3d967a2-cc90-4faf-ba4a-1ac40f5e4042" transform="translate(477.543 154.662)">Node.js</text>
+  <text class="a3a555f9-78aa-41b6-a243-2e8cc51bb93f" transform="translate(536.662 199.383)">Plug-ins</text>
+  <g>
+    <polyline class="fc3150d8-4e9c-4e70-8fc8-9e6c2ec3bfe1" points="697.283 93.064 731.293 93.064 731.293 196.058 677.219 196.058"/>
+    <polygon class="a05e1dc7-dea0-42b4-9512-01b67be3a851" points="698.742 98.05 690.107 93.064 698.742 88.078 698.742 98.05"/>
+    <polygon class="a05e1dc7-dea0-42b4-9512-01b67be3a851" points="678.678 191.072 670.043 196.058 678.678 201.044 678.678 191.072"/>
+  </g>
+  <rect class="f1813401-186e-4d4d-af92-68d74ece3648" x="718.229" y="134.955" width="26.129" height="19.212"/>
+  <text class="b9e59d28-6675-42db-9183-8c439532a3e4" transform="translate(704.397 147.685)">Plug-in API</text>
+  <g>
+    <text class="a1dcd7f6-177f-4f4b-9313-6c279458fd79" transform="translate(668.302 289.145)">124_Codeready_1120</text>
+    <rect class="bdceb91e-298f-4386-8692-0f7b61607d48" y="266.128" width="760" height="40"/>
+  </g>
+</svg>

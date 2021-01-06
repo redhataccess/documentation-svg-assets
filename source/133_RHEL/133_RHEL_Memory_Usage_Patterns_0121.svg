@@ -1,0 +1,88 @@
+<svg id="b88e027b-0910-47c8-a09f-11de86834c16" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="232.509" viewBox="0 0 760 232.509">
+  <defs>
+    <style>
+      .a7759cbf-281e-4d1b-ac7d-c6d9a6aaab4d {
+        fill: #e8e8e8;
+      }
+
+      .a899f516-680e-4a09-97db-d7b3491696ff {
+        font-size: 16px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .a899f516-680e-4a09-97db-d7b3491696ff, .b3f9ef94-4d0e-47d4-b666-2260151a86d1 {
+        fill: #151515;
+      }
+
+      .f5de4808-0513-4dae-a263-f956dbc4e818 {
+        fill: #fff;
+      }
+
+      .b3f9ef94-4d0e-47d4-b666-2260151a86d1 {
+        font-size: 12px;
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .b9947882-7193-4211-bb80-cdeb996c713d {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .ab73c050-b3f2-4aeb-a551-af00a55d83b9, .b66caf9b-6262-41f5-ba27-51e2dd950d12, .e148c61f-b3cd-4605-83ff-45fc76695267, .ecdc72ab-c1a8-45af-b43a-33ce3f50146b {
+        fill: none;
+      }
+
+      .bd036703-17e5-426c-8864-af205d6b04f9 {
+        fill: #d9e8f7;
+      }
+
+      .b66caf9b-6262-41f5-ba27-51e2dd950d12, .e148c61f-b3cd-4605-83ff-45fc76695267, .ecdc72ab-c1a8-45af-b43a-33ce3f50146b {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .ecdc72ab-c1a8-45af-b43a-33ce3f50146b {
+        stroke-dasharray: 3.011 3.011;
+      }
+
+      .e148c61f-b3cd-4605-83ff-45fc76695267 {
+        stroke-dasharray: 2.913 2.913;
+      }
+    </style>
+  </defs>
+  <rect class="a7759cbf-281e-4d1b-ac7d-c6d9a6aaab4d" y="20" width="760" height="172.5"/>
+  <text class="a899f516-680e-4a09-97db-d7b3491696ff" transform="translate(25.5 56.532)">RAM</text>
+  <rect class="f5de4808-0513-4dae-a263-f956dbc4e818" x="25.5" y="77.5" width="125" height="90" transform="translate(176 245) rotate(-180)"/>
+  <text class="b3f9ef94-4d0e-47d4-b666-2260151a86d1" transform="translate(69.754 125.824)">Kernel</text>
+  <rect class="f5de4808-0513-4dae-a263-f956dbc4e818" x="609.5" y="77.5" width="125" height="90" transform="translate(1344 245) rotate(-180)"/>
+  <text class="b3f9ef94-4d0e-47d4-b666-2260151a86d1" transform="translate(658.962 125.824)">Free</text>
+  <g>
+    <text class="b9947882-7193-4211-bb80-cdeb996c713d" transform="translate(691.812 215.526)">133_RHEL_0121</text>
+    <rect class="ab73c050-b3f2-4aeb-a551-af00a55d83b9" y="192.509" width="760" height="40"/>
+  </g>
+  <rect class="f5de4808-0513-4dae-a263-f956dbc4e818" x="168" y="77.5" width="424" height="90" transform="translate(760 245) rotate(-180)"/>
+  <rect class="bd036703-17e5-426c-8864-af205d6b04f9" x="323" y="92.5" width="125" height="60" transform="translate(771 245) rotate(-180)"/>
+  <g>
+    <polyline class="b66caf9b-6262-41f5-ba27-51e2dd950d12" points="318 156 318 157.5 319.5 157.5"/>
+    <line class="ecdc72ab-c1a8-45af-b43a-33ce3f50146b" x1="322.511" y1="157.5" x2="579.994" y2="157.5"/>
+    <polyline class="b66caf9b-6262-41f5-ba27-51e2dd950d12" points="581.5 157.5 583 157.5 583 156"/>
+    <line class="e148c61f-b3cd-4605-83ff-45fc76695267" x1="583" y1="153.087" x2="583" y2="90.457"/>
+    <polyline class="b66caf9b-6262-41f5-ba27-51e2dd950d12" points="583 89 583 87.5 581.5 87.5"/>
+    <line class="ecdc72ab-c1a8-45af-b43a-33ce3f50146b" x1="578.489" y1="87.5" x2="321.006" y2="87.5"/>
+    <polyline class="b66caf9b-6262-41f5-ba27-51e2dd950d12" points="319.5 87.5 318 87.5 318 89"/>
+    <line class="e148c61f-b3cd-4605-83ff-45fc76695267" x1="318" y1="91.913" x2="318" y2="154.543"/>
+  </g>
+  <text class="b3f9ef94-4d0e-47d4-b666-2260151a86d1" transform="translate(375.248 119.324)">File<tspan x="-12.72" y="13">mapped</tspan></text>
+  <rect class="bd036703-17e5-426c-8864-af205d6b04f9" x="453" y="92.5" width="125" height="60" transform="translate(1031 245) rotate(-180)"/>
+  <text class="b3f9ef94-4d0e-47d4-b666-2260151a86d1" transform="translate(505.248 119.324)">File<tspan x="-19.704" y="13">unmapped</tspan></text>
+  <rect class="bd036703-17e5-426c-8864-af205d6b04f9" x="183" y="92.5" width="125" height="60" transform="translate(491 245) rotate(-180)"/>
+  <text class="b3f9ef94-4d0e-47d4-b666-2260151a86d1" transform="translate(212.328 119.324)">Anonymous<tspan x="10.2" y="13">mapped</tspan></text>
+  <g>
+    <text class="b3f9ef94-4d0e-47d4-b666-2260151a86d1" transform="translate(527.357 61.85)">Page cache</text>
+    <line class="b66caf9b-6262-41f5-ba27-51e2dd950d12" x1="522.889" y1="57.698" x2="490.062" y2="87.324"/>
+  </g>
+</svg>

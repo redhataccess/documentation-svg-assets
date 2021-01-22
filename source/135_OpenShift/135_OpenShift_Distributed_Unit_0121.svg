@@ -1,0 +1,74 @@
+<svg id="bb6b8a64-8f51-4025-bd23-a987cc715d52" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="217.136" viewBox="0 0 760 217.136">
+  <defs>
+    <style>
+      .b41427c6-6291-4380-9d3a-65bb52b0defb {
+        fill: #e8e8e8;
+      }
+
+      .a93b0b8d-b18a-428f-8260-865ca045d9da {
+        font-size: 14px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .a661f964-97fe-42a8-af33-d49ae491aff5, .a93b0b8d-b18a-428f-8260-865ca045d9da, .b030f6f9-7ff7-4cff-a60f-8a678d2cb485 {
+        fill: #151515;
+      }
+
+      .b6b9ac2e-4a3f-4c5c-b5e9-66fcadc4be31 {
+        fill: #fff;
+      }
+
+      .a661f964-97fe-42a8-af33-d49ae491aff5 {
+        font-size: 11px;
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .a3b3675e-7168-4df6-9206-f8e78dbdec8b {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .ae929c2c-d754-4da6-a697-2af6749ad2ed, .af96bacb-42c2-4fb5-92c3-2090573e259c {
+        fill: none;
+      }
+
+      .af96bacb-42c2-4fb5-92c3-2090573e259c {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <rect class="b41427c6-6291-4380-9d3a-65bb52b0defb" y="20" width="620" height="180"/>
+  <text class="a93b0b8d-b18a-428f-8260-865ca045d9da" transform="translate(25 56.788)">RAN boundary</text>
+  <rect class="b6b9ac2e-4a3f-4c5c-b5e9-66fcadc4be31" x="415" y="45" width="180" height="60" transform="translate(1010 150) rotate(-180)"/>
+  <text class="a661f964-97fe-42a8-af33-d49ae491aff5" transform="translate(459.395 72.047)">Central unit (CU),<tspan x="11.764" y="12">control plane</tspan></text>
+  <rect class="b6b9ac2e-4a3f-4c5c-b5e9-66fcadc4be31" x="415" y="115" width="180" height="60" transform="translate(1010 290) rotate(-180)"/>
+  <text class="a661f964-97fe-42a8-af33-d49ae491aff5" transform="translate(459.395 142.047)">Central unit (CU),<tspan x="17.858" y="12">user plane </tspan></text>
+  <g>
+    <text class="a3b3675e-7168-4df6-9206-f8e78dbdec8b" transform="translate(671.531 200.153)">135_OpenShift_0121</text>
+    <rect class="ae929c2c-d754-4da6-a697-2af6749ad2ed" y="177.136" width="760" height="40"/>
+  </g>
+  <g>
+    <polyline class="af96bacb-42c2-4fb5-92c3-2090573e259c" points="405.324 75 390 75 390 102.5 372.176 102.5"/>
+    <polygon class="b030f6f9-7ff7-4cff-a60f-8a678d2cb485" points="403.865 70.014 412.5 75 403.865 79.986 403.865 70.014"/>
+    <polygon class="b030f6f9-7ff7-4cff-a60f-8a678d2cb485" points="373.635 97.514 365 102.5 373.635 107.486 373.635 97.514"/>
+  </g>
+  <g>
+    <polyline class="af96bacb-42c2-4fb5-92c3-2090573e259c" points="405.324 145 390 145 390 117.5 372.176 117.5"/>
+    <polygon class="b030f6f9-7ff7-4cff-a60f-8a678d2cb485" points="403.865 140.014 412.5 145 403.865 149.986 403.865 140.014"/>
+    <polygon class="b030f6f9-7ff7-4cff-a60f-8a678d2cb485" points="373.635 112.514 365 117.5 373.635 122.486 373.635 112.514"/>
+  </g>
+  <g>
+    <line class="af96bacb-42c2-4fb5-92c3-2090573e259c" x1="202.837" y1="110" x2="184.689" y2="110"/>
+    <polygon class="b030f6f9-7ff7-4cff-a60f-8a678d2cb485" points="201.378 105.014 210.013 110 201.378 114.986 201.378 105.014"/>
+    <polygon class="b030f6f9-7ff7-4cff-a60f-8a678d2cb485" points="186.148 105.014 177.513 110 186.148 114.986 186.148 105.014"/>
+  </g>
+  <rect class="b6b9ac2e-4a3f-4c5c-b5e9-66fcadc4be31" x="212.5" y="80" width="150" height="60" transform="translate(575 220) rotate(-180)"/>
+  <text class="a661f964-97fe-42a8-af33-d49ae491aff5" transform="translate(233.046 112.547)">Distributed unit (DU)</text>
+  <rect class="b6b9ac2e-4a3f-4c5c-b5e9-66fcadc4be31" x="25" y="80" width="150" height="60" transform="translate(200 220) rotate(-180)"/>
+  <text class="a661f964-97fe-42a8-af33-d49ae491aff5" transform="translate(60.45 112.547)">Radio unit (RU)</text>
+</svg>

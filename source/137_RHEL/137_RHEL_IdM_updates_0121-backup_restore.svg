@@ -1,0 +1,91 @@
+<svg id="f5454786-ad46-4281-9b9c-8e91fa283402" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="760" height="134.5" viewBox="0 0 760 134.5">
+  <defs>
+    <style>
+      .be1caac8-2fee-4ecd-af06-1d77dd0ca11c {
+        fill: #e8e8e8;
+      }
+
+      .a8615968-2796-45b8-af1e-1c8063392b73, .edfbd892-4647-40af-b6e4-cb6eb81d58f2 {
+        fill: #f3f3f3;
+      }
+
+      .efeb208c-b6dc-4a30-8fb3-a70a30987d4f {
+        font-size: 11px;
+        font-family: RedHatText-Italic, Red Hat Text;
+        font-style: italic;
+      }
+
+      .a73cfef1-71b1-447f-bc0c-4b062b566fa9, .efeb208c-b6dc-4a30-8fb3-a70a30987d4f, .fd24e4e8-7995-4b52-993f-1732594fcd1d {
+        fill: #151515;
+      }
+
+      .e347f4a6-92ee-4167-b51b-43f59dc9c99e, .e5e23086-d981-4791-97a6-e704bbabf743 {
+        fill: none;
+      }
+
+      .e5e23086-d981-4791-97a6-e704bbabf743 {
+        stroke: #06c;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-dasharray: 3 3;
+      }
+
+      .ef4e1ff5-3465-45ae-8826-3a935fa2b29e {
+        fill: #06c;
+      }
+
+      .a73cfef1-71b1-447f-bc0c-4b062b566fa9 {
+        font-size: 14px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .edfbd892-4647-40af-b6e4-cb6eb81d58f2, .fd24e4e8-7995-4b52-993f-1732594fcd1d {
+        font-size: 10px;
+      }
+
+      .fd24e4e8-7995-4b52-993f-1732594fcd1d {
+        font-family: LiberationMono, Liberation Mono;
+        letter-spacing: -0.02em;
+      }
+
+      .edfbd892-4647-40af-b6e4-cb6eb81d58f2 {
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <rect class="be1caac8-2fee-4ecd-af06-1d77dd0ca11c" x="594.292" width="165.5" height="94.5"/>
+  <rect class="be1caac8-2fee-4ecd-af06-1d77dd0ca11c" x="305.793" width="173" height="94.5"/>
+  <rect class="be1caac8-2fee-4ecd-af06-1d77dd0ca11c" width="158" height="94.5"/>
+  <rect class="a8615968-2796-45b8-af1e-1c8063392b73" x="15" y="56.631" width="128" height="23"/>
+  <rect class="a8615968-2796-45b8-af1e-1c8063392b73" x="609.292" y="56.631" width="133" height="23"/>
+  <rect class="a8615968-2796-45b8-af1e-1c8063392b73" x="320.792" y="56.631" width="143" height="23"/>
+  <text class="efeb208c-b6dc-4a30-8fb3-a70a30987d4f" transform="translate(179.158 71.525)">Certificate replication<tspan x="23.699" y="12">agreements</tspan></text>
+  <text class="efeb208c-b6dc-4a30-8fb3-a70a30987d4f" transform="translate(193.37 17.222)">Data replication<tspan x="9.487" y="12">agreements</tspan></text>
+  <g>
+    <line class="e5e23086-d981-4791-97a6-e704bbabf743" x1="166.676" y1="37.25" x2="296.72" y2="37.25"/>
+    <polygon class="ef4e1ff5-3465-45ae-8826-3a935fa2b29e" points="168.135 42.236 159.5 37.25 168.135 32.264 168.135 42.236"/>
+    <polygon class="ef4e1ff5-3465-45ae-8826-3a935fa2b29e" points="295.261 42.236 303.896 37.25 295.261 32.264 295.261 42.236"/>
+  </g>
+  <g>
+    <line class="e5e23086-d981-4791-97a6-e704bbabf743" x1="166.676" y1="57.25" x2="296.72" y2="57.25"/>
+    <polygon class="ef4e1ff5-3465-45ae-8826-3a935fa2b29e" points="168.135 62.236 159.5 57.25 168.135 52.264 168.135 62.236"/>
+    <polygon class="ef4e1ff5-3465-45ae-8826-3a935fa2b29e" points="295.261 62.236 303.896 57.25 295.261 52.264 295.261 62.236"/>
+  </g>
+  <text class="efeb208c-b6dc-4a30-8fb3-a70a30987d4f" transform="translate(498.766 17.222)">Data replication<tspan x="9.487" y="12">agreements</tspan></text>
+  <g>
+    <line class="e5e23086-d981-4791-97a6-e704bbabf743" x1="489.573" y1="37.25" x2="584.616" y2="37.25"/>
+    <polygon class="ef4e1ff5-3465-45ae-8826-3a935fa2b29e" points="491.031 42.236 482.396 37.25 491.031 32.263 491.031 42.236"/>
+    <polygon class="ef4e1ff5-3465-45ae-8826-3a935fa2b29e" points="583.157 42.236 591.792 37.25 583.157 32.263 583.157 42.236"/>
+  </g>
+  <text class="a73cfef1-71b1-447f-bc0c-4b062b566fa9" transform="translate(320.792 26.788)">IdM CA Replica<tspan x="0" y="15">Server</tspan></text>
+  <text class="a73cfef1-71b1-447f-bc0c-4b062b566fa9" transform="translate(14.999 26.788)">IdM Server</text>
+  <text class="fd24e4e8-7995-4b52-993f-1732594fcd1d" transform="translate(23.89 72.276)">server1.example.com</text>
+  <text class="fd24e4e8-7995-4b52-993f-1732594fcd1d" transform="translate(328.48 72.276)">caReplica2.example.com</text>
+  <text class="fd24e4e8-7995-4b52-993f-1732594fcd1d" transform="translate(617.782 72.276)">replica3.example.com</text>
+  <text class="a73cfef1-71b1-447f-bc0c-4b062b566fa9" transform="translate(609.292 26.788)">IdM Replica Server </text>
+  <g>
+    <text class="edfbd892-4647-40af-b6e4-cb6eb81d58f2" transform="translate(692.091 117.517)">137_RHEL_0121</text>
+    <rect class="e347f4a6-92ee-4167-b51b-43f59dc9c99e" y="94.5" width="760" height="40"/>
+  </g>
+</svg>

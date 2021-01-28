@@ -1,0 +1,205 @@
+<svg id="bac186a0-a24d-42f6-850d-ec349946444f" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="760" height="548.485" viewBox="0 0 760 548.485">
+  <defs>
+    <style>
+      .a43f6a33-ee99-41f2-9578-f7fb9665dec5, .a472cd3f-a27a-4e55-9101-85844e000079, .a8a028d9-5cee-4740-80ae-16c7f98e238a, .b1f52d29-4b39-441a-aa1a-77a2f298d57c, .bbc8f9cc-2e5d-4ed2-bc44-3416dd82f2bb, .e05fa2af-5507-4472-95d8-057f4f7fcf33, .e1836bf8-a0bb-4baa-ab29-ff2b518f20c5, .e4933180-a3b4-4c09-83c6-5d8225d0a701, .f825bfe6-30fe-4349-8b2e-0f67705d6fd7 {
+        fill: none;
+      }
+
+      .a472cd3f-a27a-4e55-9101-85844e000079 {
+        stroke: #f3f3f3;
+        stroke-miterlimit: 10;
+      }
+
+      .a472cd3f-a27a-4e55-9101-85844e000079, .aa37d3f0-02ce-4ccf-b2b9-f345f1b3a293 {
+        stroke-width: 1.5px;
+      }
+
+      .a43f6a33-ee99-41f2-9578-f7fb9665dec5, .a8a028d9-5cee-4740-80ae-16c7f98e238a, .b1f52d29-4b39-441a-aa1a-77a2f298d57c, .bbc8f9cc-2e5d-4ed2-bc44-3416dd82f2bb, .e05fa2af-5507-4472-95d8-057f4f7fcf33, .e1836bf8-a0bb-4baa-ab29-ff2b518f20c5, .f825bfe6-30fe-4349-8b2e-0f67705d6fd7 {
+        stroke: #151515;
+      }
+
+      .a43f6a33-ee99-41f2-9578-f7fb9665dec5, .a8a028d9-5cee-4740-80ae-16c7f98e238a, .aa37d3f0-02ce-4ccf-b2b9-f345f1b3a293, .b1f52d29-4b39-441a-aa1a-77a2f298d57c, .bbc8f9cc-2e5d-4ed2-bc44-3416dd82f2bb, .e05fa2af-5507-4472-95d8-057f4f7fcf33, .e1836bf8-a0bb-4baa-ab29-ff2b518f20c5, .f825bfe6-30fe-4349-8b2e-0f67705d6fd7 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a43f6a33-ee99-41f2-9578-f7fb9665dec5 {
+        stroke-dasharray: 3.4 3.4;
+      }
+
+      .e05fa2af-5507-4472-95d8-057f4f7fcf33 {
+        stroke-dasharray: 3.007 3.007;
+      }
+
+      .a0913683-333a-4c5a-9b45-8eed640c2439, .adf1b6e8-2fef-443e-9d0d-12b97679dc23, .ffcbb9bb-a638-40ac-ae4f-6e0aa0e10773 {
+        fill: #151515;
+      }
+
+      .e1836bf8-a0bb-4baa-ab29-ff2b518f20c5 {
+        stroke-dasharray: 3;
+      }
+
+      .e0b56b7a-2436-47fb-9d30-4c47f24e9401 {
+        fill: #e8e8e8;
+      }
+
+      .a6225247-0b35-4fff-b607-651c3e53445f, .adf1b6e8-2fef-443e-9d0d-12b97679dc23 {
+        font-size: 12px;
+      }
+
+      .a6225247-0b35-4fff-b607-651c3e53445f, .adf1b6e8-2fef-443e-9d0d-12b97679dc23, .ffcbb9bb-a638-40ac-ae4f-6e0aa0e10773 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .ad2c3f11-df0f-41ff-83e9-e1bf0c3abf71, .bd434027-a38f-49a5-bcb4-7f854cdba701 {
+        font-size: 10px;
+      }
+
+      .a6225247-0b35-4fff-b607-651c3e53445f, .aa37d3f0-02ce-4ccf-b2b9-f345f1b3a293, .ad2c3f11-df0f-41ff-83e9-e1bf0c3abf71 {
+        fill: #fff;
+      }
+
+      .ad2c3f11-df0f-41ff-83e9-e1bf0c3abf71 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .ffcbb9bb-a638-40ac-ae4f-6e0aa0e10773 {
+        font-size: 11px;
+      }
+
+      .aa37d3f0-02ce-4ccf-b2b9-f345f1b3a293 {
+        stroke: #5b5b5b;
+      }
+
+      .bbc8f9cc-2e5d-4ed2-bc44-3416dd82f2bb {
+        stroke-dasharray: 2.811 2.811;
+      }
+
+      .a8a028d9-5cee-4740-80ae-16c7f98e238a {
+        stroke-dasharray: 3.155 3.155;
+      }
+
+      .b1f52d29-4b39-441a-aa1a-77a2f298d57c {
+        stroke-dasharray: 3.155 3.155;
+      }
+
+      .b1cf80bf-39df-41fb-8beb-f7d5872d839d {
+        fill: #353789;
+      }
+
+      .bd434027-a38f-49a5-bcb4-7f854cdba701 {
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="a472cd3f-a27a-4e55-9101-85844e000079" points="744.531 161.485 744.531 241.485 644.531 241.485"/>
+    <polyline class="a472cd3f-a27a-4e55-9101-85844e000079" points="739.531 156.485 739.531 236.485 639.531 236.485"/>
+    <g>
+      <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="684.532" y1="231.485" x2="684.532" y2="232.985"/>
+      <line class="a43f6a33-ee99-41f2-9578-f7fb9665dec5" x1="684.532" y1="236.385" x2="684.532" y2="248.285"/>
+      <polyline class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" points="684.532 249.985 684.532 251.485 683.032 251.485"/>
+      <line class="e05fa2af-5507-4472-95d8-057f4f7fcf33" x1="680.024" y1="251.485" x2="68.003" y2="251.485"/>
+      <polyline class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" points="66.499 251.485 64.999 251.485 64.999 249.985"/>
+      <line class="a43f6a33-ee99-41f2-9578-f7fb9665dec5" x1="64.999" y1="246.585" x2="64.999" y2="234.685"/>
+      <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="64.999" y1="232.985" x2="64.999" y2="231.485"/>
+    </g>
+    <g>
+      <polyline class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" points="684.532 141.809 684.532 128.985 64.999 128.985 64.999 141.809"/>
+      <polygon class="a0913683-333a-4c5a-9b45-8eed640c2439" points="689.518 140.35 684.532 148.985 679.546 140.35 689.518 140.35"/>
+      <polygon class="a0913683-333a-4c5a-9b45-8eed640c2439" points="60.013 140.35 64.999 148.985 69.986 140.35 60.013 140.35"/>
+    </g>
+    <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="374.688" y1="128.985" x2="374.688" y2="84.545"/>
+    <line class="e1836bf8-a0bb-4baa-ab29-ff2b518f20c5" x1="220" y1="231.485" x2="220" y2="251.485"/>
+    <line class="e1836bf8-a0bb-4baa-ab29-ff2b518f20c5" x1="374.688" y1="231.485" x2="374.688" y2="251.485"/>
+    <line class="e1836bf8-a0bb-4baa-ab29-ff2b518f20c5" x1="529.531" y1="231.485" x2="529.531" y2="251.485"/>
+    <g>
+      <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="220" y1="128.985" x2="220" y2="141.809"/>
+      <polygon class="a0913683-333a-4c5a-9b45-8eed640c2439" points="215.014 140.35 220 148.985 224.987 140.35 215.014 140.35"/>
+    </g>
+    <g>
+      <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="374.688" y1="128.985" x2="374.688" y2="141.809"/>
+      <polygon class="a0913683-333a-4c5a-9b45-8eed640c2439" points="369.701 140.35 374.688 148.985 379.674 140.35 369.701 140.35"/>
+    </g>
+    <g>
+      <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="529.531" y1="128.985" x2="529.531" y2="141.809"/>
+      <polygon class="a0913683-333a-4c5a-9b45-8eed640c2439" points="524.544 140.35 529.531 148.985 534.517 140.35 524.544 140.35"/>
+    </g>
+    <rect class="e0b56b7a-2436-47fb-9d30-4c47f24e9401" x="15" y="151.485" width="100" height="80"/>
+    <text class="adf1b6e8-2fef-443e-9d0d-12b97679dc23" transform="translate(40.899 188.309)">Network<tspan x="-0.444" y="13">mapping</tspan></text>
+    <g>
+      <rect class="e0b56b7a-2436-47fb-9d30-4c47f24e9401" x="479.531" y="151.485" width="100" height="80"/>
+      <text class="adf1b6e8-2fef-443e-9d0d-12b97679dc23" transform="translate(510.464 188.309)">Target<tspan x="-4.764" y="13">provider</tspan></text>
+    </g>
+    <rect class="e0b56b7a-2436-47fb-9d30-4c47f24e9401" x="634.531" y="151.485" width="100" height="80"/>
+    <text class="adf1b6e8-2fef-443e-9d0d-12b97679dc23" transform="translate(665.692 188.309)">Virtual<tspan x="-7.662" y="13">machines</tspan></text>
+    <g>
+      <path class="a0913683-333a-4c5a-9b45-8eed640c2439" d="M383.688,104.266a9,9,0,1,1-9-9A9,9,0,0,1,383.688,104.266Z"/>
+      <text class="ad2c3f11-df0f-41ff-83e9-e1bf0c3abf71" transform="translate(372.762 107.55)">1</text>
+    </g>
+    <g>
+      <text class="ffcbb9bb-a638-40ac-ae4f-6e0aa0e10773" transform="translate(362.73 80.817)">User</text>
+      <g>
+        <path class="aa37d3f0-02ce-4ccf-b2b9-f345f1b3a293" d="M396.329,64.25a21.642,21.642,0,1,0-43.283,0Z"/>
+        <ellipse class="aa37d3f0-02ce-4ccf-b2b9-f345f1b3a293" cx="374.688" cy="31.651" rx="10.865" ry="10.902"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="424.687" y1="351.425" x2="426.187" y2="351.425"/>
+        <line class="bbc8f9cc-2e5d-4ed2-bc44-3416dd82f2bb" x1="428.998" y1="351.425" x2="466.95" y2="351.425"/>
+        <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="468.355" y1="351.425" x2="469.855" y2="351.425"/>
+        <polygon class="a0913683-333a-4c5a-9b45-8eed640c2439" points="468.396 356.412 477.031 351.425 468.396 346.439 468.396 356.412"/>
+      </g>
+      <g>
+        <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="374.687" y1="251.485" x2="374.687" y2="252.985"/>
+        <line class="a8a028d9-5cee-4740-80ae-16c7f98e238a" x1="374.687" y1="256.14" x2="374.687" y2="298.732"/>
+        <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="374.687" y1="300.309" x2="374.687" y2="301.809"/>
+        <polygon class="a0913683-333a-4c5a-9b45-8eed640c2439" points="369.7 300.35 374.687 308.985 379.673 300.35 369.7 300.35"/>
+      </g>
+      <g>
+        <rect class="e0b56b7a-2436-47fb-9d30-4c47f24e9401" x="634.531" y="451.485" width="100" height="80"/>
+        <text class="adf1b6e8-2fef-443e-9d0d-12b97679dc23" transform="translate(662.92 481.809)">Virtual-<tspan x="-4.872" y="13">Machine-</tspan><tspan x="2.598" y="26">Import</tspan></text>
+        <g>
+          <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="684.531" y1="391.425" x2="684.531" y2="392.925"/>
+          <line class="b1f52d29-4b39-441a-aa1a-77a2f298d57c" x1="684.531" y1="396.08" x2="684.531" y2="438.672"/>
+          <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="684.531" y1="440.249" x2="684.531" y2="441.749"/>
+          <polygon class="a0913683-333a-4c5a-9b45-8eed640c2439" points="679.545 440.29 684.531 448.925 689.518 440.29 679.545 440.29"/>
+        </g>
+        <g>
+          <path class="a0913683-333a-4c5a-9b45-8eed640c2439" d="M693.531,416.456a9,9,0,1,1-9-9A9,9,0,0,1,693.531,416.456Z"/>
+          <text class="ad2c3f11-df0f-41ff-83e9-e1bf0c3abf71" transform="translate(681.081 419.741)">4</text>
+        </g>
+        <rect class="b1cf80bf-39df-41fb-8beb-f7d5872d839d" x="634.531" y="311.425" width="100" height="80"/>
+        <text class="a6225247-0b35-4fff-b607-651c3e53445f" transform="translate(657.292 348.472)">Migration<tspan x="-1.428" y="13">Controller</tspan></text>
+      </g>
+      <rect class="e0b56b7a-2436-47fb-9d30-4c47f24e9401" x="324.687" y="311.425" width="100" height="80"/>
+      <text class="adf1b6e8-2fef-443e-9d0d-12b97679dc23" transform="translate(362.309 354.749)">Plan</text>
+      <g>
+        <path class="a0913683-333a-4c5a-9b45-8eed640c2439" d="M383.687,275.706a9,9,0,1,1-9-9A9,9,0,0,1,383.687,275.706Z"/>
+        <text class="ad2c3f11-df0f-41ff-83e9-e1bf0c3abf71" transform="translate(371.701 278.991)">2</text>
+      </g>
+      <g>
+        <line class="f825bfe6-30fe-4349-8b2e-0f67705d6fd7" x1="579.531" y1="351.425" x2="624.7" y2="351.425"/>
+        <polygon class="a0913683-333a-4c5a-9b45-8eed640c2439" points="623.241 356.412 631.876 351.425 623.241 346.439 623.241 356.412"/>
+      </g>
+      <rect class="e0b56b7a-2436-47fb-9d30-4c47f24e9401" x="479.531" y="311.425" width="100" height="80"/>
+      <text class="adf1b6e8-2fef-443e-9d0d-12b97679dc23" transform="translate(502.292 354.749)">Migration</text>
+      <g>
+        <path class="a0913683-333a-4c5a-9b45-8eed640c2439" d="M456.109,351.426a9,9,0,1,1-9-9A9,9,0,0,1,456.109,351.426Z"/>
+        <text class="ad2c3f11-df0f-41ff-83e9-e1bf0c3abf71" transform="translate(443.943 354.711)">3</text>
+      </g>
+    </g>
+    <rect class="e0b56b7a-2436-47fb-9d30-4c47f24e9401" x="170" y="151.485" width="100" height="80"/>
+    <text class="adf1b6e8-2fef-443e-9d0d-12b97679dc23" transform="translate(197.357 188.309)">Storage<tspan x="-1.902" y="13">mapping</tspan></text>
+    <rect class="e0b56b7a-2436-47fb-9d30-4c47f24e9401" x="324.688" y="151.485" width="100" height="80"/>
+    <text class="adf1b6e8-2fef-443e-9d0d-12b97679dc23" transform="translate(354.852 188.309)">Source<tspan x="-3.996" y="13">provider</tspan></text>
+    <g>
+      <text class="bd434027-a38f-49a5-bcb4-7f854cdba701" transform="translate(0 531.502)">136_0121</text>
+      <rect class="e4933180-a3b4-4c09-83c6-5d8225d0a701" y="508.485" width="760" height="40"/>
+    </g>
+  </g>
+</svg>

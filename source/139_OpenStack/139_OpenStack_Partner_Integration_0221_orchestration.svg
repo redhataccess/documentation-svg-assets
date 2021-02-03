@@ -1,0 +1,184 @@
+<svg id="f4da5a00-82cb-4112-b5c0-05089f1952dc" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="515.5" viewBox="0 0 760 515.5">
+  <defs>
+    <style>
+      .aa3f18f2-f2fe-4493-9ca7-5274d1a58fc4 {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .a641aa64-5a40-4fed-b53a-ea55d364555f, .a98824e3-a164-442f-8a09-e2310ca6121b, .ab7b051e-db0b-481e-b159-e6fdb2df50eb, .b479c598-f751-45d3-a159-0d4d5ce0d517, .b8ba62f1-9c7a-49be-8dfe-0ba411ba7857, .ba39bbdf-7e8d-4c5b-b46c-adb18c0b86ce, .f4a449fd-71b2-47fb-942e-a243ae6932eb {
+        fill: none;
+      }
+
+      .f990ac5d-cd73-481d-8474-2088e389a713 {
+        fill: #e8e8e8;
+      }
+
+      .ac22f127-9b46-43d0-9d21-5308b77ac55c {
+        font-size: 14px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .a3ba033a-a656-489f-82ed-8da891932a70, .a3f98397-9412-4ad9-943e-bd3cba00117c, .ac22f127-9b46-43d0-9d21-5308b77ac55c, .b6d037ef-8cf1-419f-ada3-e9063c16b207, .e3b8a726-eaa6-4172-9f68-ddbc703e7515 {
+        fill: #151515;
+      }
+
+      .b6d037ef-8cf1-419f-ada3-e9063c16b207, .e3b8a726-eaa6-4172-9f68-ddbc703e7515 {
+        font-size: 11px;
+      }
+
+      .b6d037ef-8cf1-419f-ada3-e9063c16b207 {
+        font-family: RedHatText-Italic, Red Hat Text;
+        font-style: italic;
+      }
+
+      .a98824e3-a164-442f-8a09-e2310ca6121b, .ba39bbdf-7e8d-4c5b-b46c-adb18c0b86ce, .f4a449fd-71b2-47fb-942e-a243ae6932eb {
+        stroke: #adadad;
+      }
+
+      .a7b3d0bc-9a23-4216-b21b-cb6761aeba5e, .a98824e3-a164-442f-8a09-e2310ca6121b, .ab7b051e-db0b-481e-b159-e6fdb2df50eb, .b479c598-f751-45d3-a159-0d4d5ce0d517, .b8ba62f1-9c7a-49be-8dfe-0ba411ba7857, .ba39bbdf-7e8d-4c5b-b46c-adb18c0b86ce, .f4a449fd-71b2-47fb-942e-a243ae6932eb {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a98824e3-a164-442f-8a09-e2310ca6121b {
+        stroke-dasharray: 2.986 2.986;
+      }
+
+      .f4a449fd-71b2-47fb-942e-a243ae6932eb {
+        stroke-dasharray: 3.02 3.02;
+      }
+
+      .a7b3d0bc-9a23-4216-b21b-cb6761aeba5e, .acdf4cea-baa8-4498-a88c-a5d721961231, .f0692af2-b968-4b2f-9d30-2f3b9476a0e4 {
+        fill: #fff;
+      }
+
+      .a3ba033a-a656-489f-82ed-8da891932a70, .f0692af2-b968-4b2f-9d30-2f3b9476a0e4 {
+        font-size: 12px;
+      }
+
+      .a3ba033a-a656-489f-82ed-8da891932a70, .e3b8a726-eaa6-4172-9f68-ddbc703e7515, .f0692af2-b968-4b2f-9d30-2f3b9476a0e4 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .ab7b051e-db0b-481e-b159-e6fdb2df50eb {
+        stroke: #262626;
+      }
+
+      .b479c598-f751-45d3-a159-0d4d5ce0d517, .b8ba62f1-9c7a-49be-8dfe-0ba411ba7857 {
+        stroke: #151515;
+      }
+
+      .b479c598-f751-45d3-a159-0d4d5ce0d517 {
+        stroke-width: 2px;
+      }
+
+      .a5d22ea1-1e6f-4bcc-8042-dedc80b0c716 {
+        fill: #06c;
+      }
+
+      .a7b3d0bc-9a23-4216-b21b-cb6761aeba5e {
+        stroke: #5b5b5b;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="aa3f18f2-f2fe-4493-9ca7-5274d1a58fc4" transform="translate(649.842 498.517)">139_OpenStack_0221</text>
+    <rect class="a641aa64-5a40-4fed-b53a-ea55d364555f" y="475.5" width="760" height="40"/>
+  </g>
+  <rect class="f990ac5d-cd73-481d-8474-2088e389a713" y="103" width="270" height="372.5"/>
+  <text class="ac22f127-9b46-43d0-9d21-5308b77ac55c" transform="translate(25 139.788)">Compute node</text>
+  <text class="b6d037ef-8cf1-419f-ada3-e9063c16b207" transform="translate(132.493 198.106)">Created infrastructure</text>
+  <g>
+    <polyline class="ba39bbdf-7e8d-4c5b-b46c-adb18c0b86ce" points="240 210.844 240 209.344 238.5 209.344"/>
+    <line class="a98824e3-a164-442f-8a09-e2310ca6121b" x1="235.514" y1="209.344" x2="27.993" y2="209.344"/>
+    <polyline class="ba39bbdf-7e8d-4c5b-b46c-adb18c0b86ce" points="26.5 209.344 25 209.344 25 210.844"/>
+    <line class="f4a449fd-71b2-47fb-942e-a243ae6932eb" x1="25" y1="213.864" x2="25" y2="357.334"/>
+    <polyline class="ba39bbdf-7e8d-4c5b-b46c-adb18c0b86ce" points="25 358.844 25 360.344 26.5 360.344"/>
+    <line class="a98824e3-a164-442f-8a09-e2310ca6121b" x1="29.486" y1="360.344" x2="237.007" y2="360.344"/>
+    <polyline class="ba39bbdf-7e8d-4c5b-b46c-adb18c0b86ce" points="238.5 360.344 240 360.344 240 358.844"/>
+    <line class="f4a449fd-71b2-47fb-942e-a243ae6932eb" x1="240" y1="355.824" x2="240" y2="212.354"/>
+  </g>
+  <rect class="acdf4cea-baa8-4498-a88c-a5d721961231" x="35" y="219.344" width="195" height="91"/>
+  <text class="a3ba033a-a656-489f-82ed-8da891932a70" transform="translate(50 244.448)">Compute service</text>
+  <line class="ab7b051e-db0b-481e-b159-e6fdb2df50eb" x1="129.534" y1="195.685" x2="117.946" y2="208.987"/>
+  <polyline class="b479c598-f751-45d3-a159-0d4d5ce0d517" points="90 295.344 90 320.344 175 320.344 175 295.344"/>
+  <polyline class="b479c598-f751-45d3-a159-0d4d5ce0d517" points="132.5 320.344 132.5 425.5 185 425.5"/>
+  <rect class="f990ac5d-cd73-481d-8474-2088e389a713" x="50" y="260.344" width="80" height="35"/>
+  <text class="a3ba033a-a656-489f-82ed-8da891932a70" transform="translate(63.3 281.168)">New VM 1</text>
+  <rect class="f990ac5d-cd73-481d-8474-2088e389a713" x="135" y="260.344" width="80" height="35"/>
+  <rect class="f990ac5d-cd73-481d-8474-2088e389a713" x="92.5" y="332.803" width="80" height="18.083"/>
+  <text class="a3ba033a-a656-489f-82ed-8da891932a70" transform="translate(146.932 281.168)">New VM 2</text>
+  <rect class="f990ac5d-cd73-481d-8474-2088e389a713" x="285" y="103" width="460" height="372.5"/>
+  <text class="ac22f127-9b46-43d0-9d21-5308b77ac55c" transform="translate(310 139.788)">Cloud controller node</text>
+  <rect class="acdf4cea-baa8-4498-a88c-a5d721961231" x="535" y="128" width="185" height="50"/>
+  <text class="a3ba033a-a656-489f-82ed-8da891932a70" transform="translate(575.951 156.324)">Dashboard service</text>
+  <rect class="a5d22ea1-1e6f-4bcc-8042-dedc80b0c716" x="535" y="218" width="185" height="50"/>
+  <text class="f0692af2-b968-4b2f-9d30-2f3b9476a0e4" transform="translate(571.217 246.324)">OpenStack heat API</text>
+  <rect class="acdf4cea-baa8-4498-a88c-a5d721961231" x="310" y="219.344" width="185" height="50"/>
+  <text class="a3ba033a-a656-489f-82ed-8da891932a70" transform="translate(359.686 246.324)">Identity service</text>
+  <g>
+    <text class="e3b8a726-eaa6-4172-9f68-ddbc703e7515" transform="translate(590.162 435.332)">Orchestration <tspan x="13.486" y="12">database</tspan></text>
+    <g>
+      <path class="a7b3d0bc-9a23-4216-b21b-cb6761aeba5e" d="M609.052,398.309V408.5c0,5.629,8.26,10.192,18.449,10.192s18.449-4.563,18.449-10.192V398.309"/>
+      <path class="a7b3d0bc-9a23-4216-b21b-cb6761aeba5e" d="M609.052,388.117v10.192c0,5.63,8.26,10.193,18.449,10.193s18.449-4.563,18.449-10.193V388.117"/>
+      <ellipse class="a7b3d0bc-9a23-4216-b21b-cb6761aeba5e" cx="627.501" cy="388.117" rx="18.449" ry="10.192"/>
+    </g>
+  </g>
+  <polyline class="b479c598-f751-45d3-a159-0d4d5ce0d517" points="370 425.5 403 425.5 403 361"/>
+  <rect class="acdf4cea-baa8-4498-a88c-a5d721961231" x="185" y="400.5" width="185" height="50"/>
+  <text class="a3ba033a-a656-489f-82ed-8da891932a70" transform="translate(246.049 422.324)">OpenStack<tspan x="-22.668" y="13">Networking service</tspan></text>
+  <g>
+    <line class="b8ba62f1-9c7a-49be-8dfe-0ba411ba7857" x1="300.323" y1="336" x2="249.676" y2="336"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="298.865 331.014 307.5 336 298.865 340.986 298.865 331.014"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="251.135 331.014 242.5 336 251.135 340.986 251.135 331.014"/>
+  </g>
+  <g>
+    <line class="b8ba62f1-9c7a-49be-8dfe-0ba411ba7857" x1="627.5" y1="208.324" x2="627.5" y2="187.676"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="632.486 206.865 627.5 215.5 622.514 206.865 632.486 206.865"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="632.486 189.135 627.5 180.5 622.514 189.135 632.486 189.135"/>
+  </g>
+  <g>
+    <line class="b8ba62f1-9c7a-49be-8dfe-0ba411ba7857" x1="627.5" y1="118.324" x2="627.5" y2="87.676"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="632.486 116.865 627.5 125.5 622.514 116.865 632.486 116.865"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="632.486 89.135 627.5 80.5 622.514 89.135 632.486 89.135"/>
+  </g>
+  <g>
+    <line class="b8ba62f1-9c7a-49be-8dfe-0ba411ba7857" x1="525.324" y1="243.546" x2="504.676" y2="243.546"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="523.865 238.56 532.5 243.546 523.865 248.532 523.865 238.56"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="506.135 238.56 497.5 243.546 506.135 248.532 506.135 238.56"/>
+  </g>
+  <g>
+    <polyline class="b8ba62f1-9c7a-49be-8dfe-0ba411ba7857" points="729.676 243.546 760 243.546 760 41.406 682.938 41.406"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="731.135 248.532 722.5 243.546 731.135 238.56 731.135 248.532"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="684.397 36.42 675.762 41.406 684.397 46.392 684.397 36.42"/>
+  </g>
+  <g>
+    <polyline class="b8ba62f1-9c7a-49be-8dfe-0ba411ba7857" points="504.676 343 627.5 343 627.5 367.335"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="506.135 347.986 497.5 343 506.135 338.014 506.135 347.986"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="622.514 365.876 627.5 374.511 632.486 365.876 622.514 365.876"/>
+  </g>
+  <g>
+    <polyline class="b8ba62f1-9c7a-49be-8dfe-0ba411ba7857" points="504.676 328 627.501 328 627.501 277.676"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="506.135 332.986 497.5 328 506.135 323.014 506.135 332.986"/>
+    <polygon class="a3f98397-9412-4ad9-943e-bd3cba00117c" points="632.487 279.135 627.501 270.5 622.514 279.135 632.487 279.135"/>
+  </g>
+  <rect class="a5d22ea1-1e6f-4bcc-8042-dedc80b0c716" x="310" y="311" width="185" height="50"/>
+  <text class="f0692af2-b968-4b2f-9d30-2f3b9476a0e4" transform="translate(336.61 339.324)">OpenStack heat engine</text>
+  <text class="e3b8a726-eaa6-4172-9f68-ddbc703e7515" transform="translate(612.909 75.818)">Users</text>
+  <g>
+    <g>
+      <path class="a7b3d0bc-9a23-4216-b21b-cb6761aeba5e" d="M674.731,59.25a21.192,21.192,0,1,0-42.384,0Z"/>
+      <ellipse class="a7b3d0bc-9a23-4216-b21b-cb6761aeba5e" cx="653.539" cy="27.401" rx="10.639" ry="10.651"/>
+    </g>
+    <g>
+      <path class="a7b3d0bc-9a23-4216-b21b-cb6761aeba5e" d="M622.653,59.25a21.192,21.192,0,1,0-42.384,0Z"/>
+      <ellipse class="a7b3d0bc-9a23-4216-b21b-cb6761aeba5e" cx="601.461" cy="27.401" rx="10.639" ry="10.651"/>
+    </g>
+  </g>
+  <text class="e3b8a726-eaa6-4172-9f68-ddbc703e7515" transform="translate(85.564 345.844)">New local network</text>
+</svg>

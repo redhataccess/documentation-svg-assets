@@ -1,0 +1,102 @@
+<svg id="bd801b7a-cf54-4feb-a2de-fbd8bc76d924" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="384.99" viewBox="0 0 760 384.99">
+  <defs>
+    <style>
+      .ee512d8f-17b1-493a-ac45-317f17eab1f9 {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .a1859df4-9a22-46c3-9218-58070ea6d8fa, .a2fc6b9c-5c5a-4c44-9a3f-3334e95567ab, .aaf84d20-aef3-465e-beba-8e7e2df3a57d, .e643d7e9-4a89-4b1a-b543-e2470b42b03f, .e88b6d1b-6c73-4c85-bd40-1f928835d496, .ef898b61-2618-4456-a1f8-caf5559560ba {
+        fill: none;
+      }
+
+      .e88b6d1b-6c73-4c85-bd40-1f928835d496, .ef898b61-2618-4456-a1f8-caf5559560ba {
+        stroke: #00b9e4;
+      }
+
+      .a2fc6b9c-5c5a-4c44-9a3f-3334e95567ab, .aaf84d20-aef3-465e-beba-8e7e2df3a57d, .afd4c58f-938d-4b75-89b3-eeb43ab9c8e5, .e643d7e9-4a89-4b1a-b543-e2470b42b03f, .e88b6d1b-6c73-4c85-bd40-1f928835d496, .ef898b61-2618-4456-a1f8-caf5559560ba {
+        stroke-linejoin: round;
+      }
+
+      .a2fc6b9c-5c5a-4c44-9a3f-3334e95567ab, .aaf84d20-aef3-465e-beba-8e7e2df3a57d, .e88b6d1b-6c73-4c85-bd40-1f928835d496, .ef898b61-2618-4456-a1f8-caf5559560ba {
+        stroke-width: 2px;
+      }
+
+      .a2fc6b9c-5c5a-4c44-9a3f-3334e95567ab {
+        stroke: #f7823c;
+      }
+
+      .a2fc6b9c-5c5a-4c44-9a3f-3334e95567ab, .aaf84d20-aef3-465e-beba-8e7e2df3a57d, .afd4c58f-938d-4b75-89b3-eeb43ab9c8e5, .e643d7e9-4a89-4b1a-b543-e2470b42b03f, .ef898b61-2618-4456-a1f8-caf5559560ba {
+        stroke-linecap: round;
+      }
+
+      .ba7ff90b-464b-4b24-9b7b-250c782e0ca5 {
+        font-size: 12px;
+        fill: #151515;
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .afd4c58f-938d-4b75-89b3-eeb43ab9c8e5 {
+        fill: #fff;
+      }
+
+      .aaf84d20-aef3-465e-beba-8e7e2df3a57d, .afd4c58f-938d-4b75-89b3-eeb43ab9c8e5, .e643d7e9-4a89-4b1a-b543-e2470b42b03f {
+        stroke: #5b5b5b;
+      }
+
+      .aa8961e3-aecb-434d-960f-3ab1018ce849 {
+        fill: #e5f0fa;
+      }
+
+      .ae746448-70e0-4e47-9fff-84be106afdfd {
+        fill: #e8e8e8;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="ee512d8f-17b1-493a-ac45-317f17eab1f9" transform="translate(693.731 368.007)">141_Ceph_0221</text>
+    <rect class="a1859df4-9a22-46c3-9218-58070ea6d8fa" y="344.99" width="760" height="40"/>
+  </g>
+  <line class="e88b6d1b-6c73-4c85-bd40-1f928835d496" y1="111" x2="760" y2="111"/>
+  <line class="a2fc6b9c-5c5a-4c44-9a3f-3334e95567ab" x1="1" y1="345.008" x2="759" y2="345.008"/>
+  <text class="ba7ff90b-464b-4b24-9b7b-250c782e0ca5" transform="translate(0.001 364.112)">Private network (40 Gb/s)</text>
+  <text class="ba7ff90b-464b-4b24-9b7b-250c782e0ca5" transform="translate(0.001 98.544)">Public network (10 Gb/s)</text>
+  <line class="ef898b61-2618-4456-a1f8-caf5559560ba" x1="64" y1="140.513" x2="64" y2="111"/>
+  <g>
+    <line class="ef898b61-2618-4456-a1f8-caf5559560ba" x1="254" y1="111" x2="254" y2="81.487"/>
+    <g>
+      <text class="ba7ff90b-464b-4b24-9b7b-250c782e0ca5" transform="translate(222.141 75.117)">Ceph client</text>
+      <g>
+        <rect class="afd4c58f-938d-4b75-89b3-eeb43ab9c8e5" x="229.75" y="20.5" width="48.5" height="37.18"/>
+        <line class="aaf84d20-aef3-465e-beba-8e7e2df3a57d" x1="272.654" y1="26.081" x2="272.654" y2="26.081"/>
+        <line class="aaf84d20-aef3-465e-beba-8e7e2df3a57d" x1="268.923" y1="26.081" x2="268.923" y2="26.081"/>
+        <line class="aaf84d20-aef3-465e-beba-8e7e2df3a57d" x1="265.192" y1="26.081" x2="265.192" y2="26.081"/>
+        <line class="e643d7e9-4a89-4b1a-b543-e2470b42b03f" x1="235.346" y1="26.081" x2="250.269" y2="26.081"/>
+      </g>
+    </g>
+  </g>
+  <rect class="aa8961e3-aecb-434d-960f-3ab1018ce849" y="140.513" width="128" height="75"/>
+  <text class="ba7ff90b-464b-4b24-9b7b-250c782e0ca5" transform="translate(18.574 173.337)">Ceph MDS node<tspan x="23.334" y="20">(active)</tspan></text>
+  <line class="ef898b61-2618-4456-a1f8-caf5559560ba" x1="212" y1="140.513" x2="212" y2="111"/>
+  <rect class="ae746448-70e0-4e47-9fff-84be106afdfd" x="148" y="140.513" width="128" height="75"/>
+  <text class="ba7ff90b-464b-4b24-9b7b-250c782e0ca5" transform="translate(167.673 168.337)">Ceph Monitor / <tspan x="15.113" y="13">Manager/ </tspan><tspan x="5.771" y="26">Grafana node</tspan></text>
+  <line class="ef898b61-2618-4456-a1f8-caf5559560ba" x1="696" y1="140.513" x2="696" y2="111"/>
+  <rect class="aa8961e3-aecb-434d-960f-3ab1018ce849" x="632" y="140.513" width="128" height="75"/>
+  <text class="ba7ff90b-464b-4b24-9b7b-250c782e0ca5" transform="translate(650.574 173.337)">Ceph MDS node<tspan x="17.761" y="20">(standby)</tspan></text>
+  <line class="ef898b61-2618-4456-a1f8-caf5559560ba" x1="548" y1="140.513" x2="548" y2="111"/>
+  <rect class="ae746448-70e0-4e47-9fff-84be106afdfd" x="484" y="140.513" width="128" height="75"/>
+  <text class="ba7ff90b-464b-4b24-9b7b-250c782e0ca5" transform="translate(503.673 168.337)">Ceph Monitor / <tspan x="15.113" y="13">Manager/ </tspan><tspan x="5.771" y="26">Grafana node</tspan></text>
+  <line class="ef898b61-2618-4456-a1f8-caf5559560ba" x1="380" y1="140.513" x2="380" y2="111"/>
+  <rect class="ae746448-70e0-4e47-9fff-84be106afdfd" x="316" y="140.513" width="128" height="75"/>
+  <text class="ba7ff90b-464b-4b24-9b7b-250c782e0ca5" transform="translate(335.673 168.337)">Ceph Monitor / <tspan x="15.113" y="13">Manager/ </tspan><tspan x="5.771" y="26">Grafana node</tspan></text>
+  <line class="ef898b61-2618-4456-a1f8-caf5559560ba" x1="464" y1="240.513" x2="464" y2="111"/>
+  <line class="ef898b61-2618-4456-a1f8-caf5559560ba" x1="296" y1="240.513" x2="296" y2="111"/>
+  <line class="a2fc6b9c-5c5a-4c44-9a3f-3334e95567ab" x1="296" y1="345.008" x2="296" y2="315.495"/>
+  <line class="a2fc6b9c-5c5a-4c44-9a3f-3334e95567ab" x1="464" y1="345.008" x2="464" y2="315.495"/>
+  <rect class="ae746448-70e0-4e47-9fff-84be106afdfd" x="232" y="240.513" width="128" height="75"/>
+  <text class="ba7ff90b-464b-4b24-9b7b-250c782e0ca5" transform="translate(251.049 273.336)">Ceph OSD node<tspan x="33.138" y="20">(x3)</tspan></text>
+  <rect class="ae746448-70e0-4e47-9fff-84be106afdfd" x="400" y="240.513" width="128" height="75"/>
+  <text class="ba7ff90b-464b-4b24-9b7b-250c782e0ca5" transform="translate(419.05 273.337)">Ceph OSD node<tspan x="33.138" y="20">(x3)</tspan></text>
+</svg>

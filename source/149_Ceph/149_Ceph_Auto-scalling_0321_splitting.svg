@@ -1,0 +1,287 @@
+<svg id="a70ffad0-8c04-4e0a-880b-60e3b93b6cfe" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="462.347" viewBox="0 0 760 462.347">
+  <defs>
+    <style>
+      .b57f4a8b-62a0-4755-a1f1-ab3158cd19f9 {
+        fill: #d0d0d0;
+      }
+
+      .a7196209-b487-439c-9746-776b8d7f0c7e {
+        fill: #fff;
+      }
+
+      .ba42c348-5fb3-483b-8f72-9fc790cd1edf {
+        fill: #06c;
+      }
+
+      .ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3 {
+        fill: #e8e8e8;
+      }
+
+      .a4411cc1-ef0d-4838-814f-cad8c17febeb, .b1a4b02a-e97c-472f-a3e3-303c855e93ab {
+        font-size: 11px;
+      }
+
+      .a4411cc1-ef0d-4838-814f-cad8c17febeb, .b1a4b02a-e97c-472f-a3e3-303c855e93ab, .f757331a-d33e-4e40-9e8a-e5eb0b9d6956, .fbf57740-9196-4477-b0c9-79aba23e8dae {
+        fill: #151515;
+      }
+
+      .a4411cc1-ef0d-4838-814f-cad8c17febeb, .fbf57740-9196-4477-b0c9-79aba23e8dae {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .b1a4b02a-e97c-472f-a3e3-303c855e93ab {
+        font-family: LiberationMono-Bold, Liberation Mono;
+        font-weight: 700;
+      }
+
+      .af5c7fee-524d-4f8a-b9a8-06230ddec139, .e3b87a51-2954-411e-877a-2c2ea5f95ab8 {
+        fill: none;
+      }
+
+      .af5c7fee-524d-4f8a-b9a8-06230ddec139 {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b12f2087-c300-4590-9a5c-6524015f1303, .fbf57740-9196-4477-b0c9-79aba23e8dae {
+        font-size: 10px;
+      }
+
+      .f4df28dd-b3c2-4ae1-94af-859d144ca643 {
+        letter-spacing: -0.015em;
+      }
+
+      .ff52adf8-9d75-4773-9813-bb63f1366936 {
+        letter-spacing: 0em;
+      }
+
+      .a04e318c-268d-467e-89e6-1d5abebd0b19 {
+        letter-spacing: -0.024em;
+      }
+
+      .b12f2087-c300-4590-9a5c-6524015f1303 {
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <path class="b57f4a8b-62a0-4755-a1f1-ab3158cd19f9" d="M759,288.6v133H1v-133H759m1-1H0v135H760v-135Z"/>
+  <path class="b57f4a8b-62a0-4755-a1f1-ab3158cd19f9" d="M759,53.594v203H1v-203H759m1-1H0v205H760v-205Z"/>
+  <g>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="20.5" y="308.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M99,308.6v43H21v-43H99m1-1H20v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="25" y="312.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(39.37 333.15)">Object 1</text>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="105.5" y="308.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M184,308.6v43H106v-43h78m1-1H105v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="110" y="312.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(122.912 333.15)">Object 3</text>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="20.5" y="358.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M99,358.6v43H21v-43H99m1-1H20v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="25" y="362.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(38.116 383.15)">Object 2</text>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="105.5" y="358.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M184,358.6v43H106v-43h78m1-1H105v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="110" y="362.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(122.065 383.15)">Object N</text>
+  </g>
+  <g>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="63" y="73.099" width="79" height="164"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M141.5,73.6v163h-78V73.6h78m1-1h-80v165h80V72.6Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="67.5" y="77.598" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(81.87 98.145)">Object 1</text>
+    <g>
+      <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="67.5" y="117.598" width="70" height="35"/>
+      <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(80.616 138.145)">Object 2</text>
+    </g>
+    <g>
+      <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="67.5" y="157.598" width="70" height="35"/>
+      <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(80.412 178.145)">Object 3</text>
+    </g>
+    <g>
+      <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="67.5" y="197.598" width="70" height="35"/>
+      <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(79.565 218.145)">Object N</text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="248" y="73.099" width="79" height="164"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M326.5,73.6v163h-78V73.6h78m1-1h-80v165h80V72.6Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="252.5" y="77.598" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(266.87 98.145)">Object 1</text>
+    <g>
+      <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="252.5" y="117.598" width="70" height="35"/>
+      <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(265.616 138.145)">Object 2</text>
+    </g>
+    <g>
+      <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="252.5" y="157.598" width="70" height="35"/>
+      <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(265.412 178.145)">Object 3</text>
+    </g>
+    <g>
+      <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="252.5" y="197.598" width="70" height="35"/>
+      <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(264.565 218.145)">Object N</text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="433" y="73.099" width="79" height="164"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M511.5,73.6v163h-78V73.6h78m1-1h-80v165h80V72.6Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="437.5" y="77.598" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(451.87 98.145)">Object 1</text>
+    <g>
+      <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="437.5" y="117.598" width="70" height="35"/>
+      <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(450.616 138.145)">Object 2</text>
+    </g>
+    <g>
+      <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="437.5" y="157.598" width="70" height="35"/>
+      <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(450.412 178.145)">Object 3</text>
+    </g>
+    <g>
+      <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="437.5" y="197.598" width="70" height="35"/>
+      <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(449.565 218.145)">Object N</text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="618" y="73.099" width="79" height="164"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M696.5,73.6v163h-78V73.6h78m1-1h-80v165h80V72.6Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="622.5" y="77.598" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(636.869 98.145)">Object 1</text>
+    <g>
+      <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="622.5" y="117.598" width="70" height="35"/>
+      <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(635.616 138.145)">Object 2</text>
+    </g>
+    <g>
+      <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="622.5" y="157.598" width="70" height="35"/>
+      <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(635.412 178.145)">Object 3</text>
+    </g>
+    <g>
+      <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="622.5" y="197.598" width="70" height="35"/>
+      <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(634.565 218.145)">Object N</text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="205.5" y="308.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M284,308.6v43H206v-43h78m1-1H205v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="210" y="312.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(224.37 333.15)">Object 1</text>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="290.5" y="308.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M369,308.6v43H291v-43h78m1-1H290v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="295" y="312.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(307.912 333.15)">Object 3</text>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="205.5" y="358.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M284,358.6v43H206v-43h78m1-1H205v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="210" y="362.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(223.116 383.15)">Object 2</text>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="290.5" y="358.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M369,358.6v43H291v-43h78m1-1H290v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="295" y="362.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(307.065 383.15)">Object N</text>
+  </g>
+  <g>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="390.5" y="308.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M469,308.6v43H391v-43h78m1-1H390v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="395" y="312.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(409.37 333.15)">Object 1</text>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="475.5" y="308.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M554,308.6v43H476v-43h78m1-1H475v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="480" y="312.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(492.912 333.15)">Object 3</text>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="390.5" y="358.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M469,358.6v43H391v-43h78m1-1H390v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="395" y="362.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(408.116 383.15)">Object 2</text>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="475.5" y="358.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M554,358.6v43H476v-43h78m1-1H475v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="480" y="362.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(492.065 383.15)">Object N</text>
+  </g>
+  <g>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="575.5" y="308.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M654,308.6v43H576v-43h78m1-1H575v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="580" y="312.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(594.37 333.15)">Object 1</text>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="660.5" y="308.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M739,308.6v43H661v-43h78m1-1H660v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="665" y="312.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(677.912 333.15)">Object 3</text>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="575.5" y="358.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M654,358.6v43H576v-43h78m1-1H575v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="580" y="362.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(593.116 383.15)">Object 2</text>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="660.5" y="358.104" width="79" height="44"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M739,358.6v43H661v-43h78m1-1H660v45h80v-45Z"/>
+    </g>
+    <rect class="ba35a6ba-e10c-406f-ad4a-f4dffc39bfc3" x="665" y="362.603" width="70" height="35"/>
+    <text class="a4411cc1-ef0d-4838-814f-cad8c17febeb" transform="translate(677.066 383.15)">Object N</text>
+  </g>
+  <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="340.95" y="47.525" width="78.1" height="13.156"/>
+  <text class="b1a4b02a-e97c-472f-a3e3-303c855e93ab" transform="translate(346.995 55.128)">pg_num = 4</text>
+  <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="338.421" y="279.525" width="83.158" height="16.156"/>
+  <text class="b1a4b02a-e97c-472f-a3e3-303c855e93ab" transform="translate(343.694 290.128)">pg_num = 16</text>
+  <g>
+    <line class="af5c7fee-524d-4f8a-b9a8-06230ddec139" x1="657.499" y1="237.037" x2="657.499" y2="297.927"/>
+    <polygon class="f757331a-d33e-4e40-9e8a-e5eb0b9d6956" points="652.513 296.468 657.499 305.103 662.486 296.468 652.513 296.468"/>
+  </g>
+  <g>
+    <line class="af5c7fee-524d-4f8a-b9a8-06230ddec139" x1="472.5" y1="237.037" x2="472.5" y2="297.927"/>
+    <polygon class="f757331a-d33e-4e40-9e8a-e5eb0b9d6956" points="467.514 296.468 472.5 305.103 477.486 296.468 467.514 296.468"/>
+  </g>
+  <g>
+    <line class="af5c7fee-524d-4f8a-b9a8-06230ddec139" x1="287.5" y1="237.037" x2="287.5" y2="297.927"/>
+    <polygon class="f757331a-d33e-4e40-9e8a-e5eb0b9d6956" points="282.514 296.468 287.5 305.103 292.486 296.468 282.514 296.468"/>
+  </g>
+  <g>
+    <line class="af5c7fee-524d-4f8a-b9a8-06230ddec139" x1="102.5" y1="237.037" x2="102.5" y2="297.927"/>
+    <polygon class="f757331a-d33e-4e40-9e8a-e5eb0b9d6956" points="97.514 296.468 102.5 305.103 107.486 296.468 97.514 296.468"/>
+  </g>
+  <g>
+    <g>
+      <rect class="a7196209-b487-439c-9746-776b8d7f0c7e" x="0.5" y="18.008" width="13.997" height="13.997"/>
+      <path class="ba42c348-5fb3-483b-8f72-9fc790cd1edf" d="M1,18.505l13,.006L14,31.505H1v-13m-1-1v15l0,0H14.994L15,17.512,0,17.505Z"/>
+    </g>
+    <text class="fbf57740-9196-4477-b0c9-79aba23e8dae" transform="translate(20.927 28.29)">Pla<tspan class="f4df28dd-b3c2-4ae1-94af-859d144ca643" x="14.81" y="0">c</tspan><tspan x="19.89" y="0">eme</tspan><tspan class="f4df28dd-b3c2-4ae1-94af-859d144ca643" x="40.109" y="0">n</tspan><tspan class="ff52adf8-9d75-4773-9813-bb63f1366936" x="45.779" y="0">t G</tspan><tspan class="a04e318c-268d-467e-89e6-1d5abebd0b19" x="60.189" y="0">r</tspan><tspan x="63.879" y="0">oup</tspan></text>
+  </g>
+  <g>
+    <text class="b12f2087-c300-4590-9a5c-6524015f1303" transform="translate(690.231 445.616)">149_Ceph_0321</text>
+    <rect class="e3b87a51-2954-411e-877a-2c2ea5f95ab8" y="422.598" width="760" height="40"/>
+  </g>
+</svg>

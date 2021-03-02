@@ -1,0 +1,141 @@
+<svg id="f7ce0aca-fd7a-468b-af70-364e5064a213" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="535.01" viewBox="0 0 760 535.01">
+  <defs>
+    <style>
+      .be4af18f-aafa-481d-8c37-7f6cd26f0dcc {
+        fill: #e8e8e8;
+      }
+
+      .b26e292b-00f9-493f-91a1-d2604ba3926a {
+        font-size: 12px;
+      }
+
+      .a1e216fc-79d8-44e3-9d57-bda1b5c70d21, .a90ffb34-95f3-4c29-8c9b-92ab42a8bcf2, .b26e292b-00f9-493f-91a1-d2604ba3926a, .ef75d894-3c33-4acc-81ea-5de1cc7be963 {
+        fill: #151515;
+      }
+
+      .a1e216fc-79d8-44e3-9d57-bda1b5c70d21, .b26e292b-00f9-493f-91a1-d2604ba3926a {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .a1e216fc-79d8-44e3-9d57-bda1b5c70d21 {
+        font-size: 14px;
+      }
+
+      .e71eae5e-0b02-47e1-8d5c-a6353a91d298, .efdede5e-a422-4374-a07b-1c6e42bfe370 {
+        fill: #fff;
+      }
+
+      .ef75d894-3c33-4acc-81ea-5de1cc7be963 {
+        font-size: 11px;
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .b7eb53a6-8554-4c32-ac29-362ec132ff48 {
+        fill: #06c;
+      }
+
+      .a4f83486-cf33-4d86-85e6-0f19ba210ef3, .aca3ab15-1921-468d-9748-9153e2d3ab59 {
+        fill: none;
+      }
+
+      .a4f83486-cf33-4d86-85e6-0f19ba210ef3 {
+        stroke: #151515;
+      }
+
+      .a4f83486-cf33-4d86-85e6-0f19ba210ef3, .efdede5e-a422-4374-a07b-1c6e42bfe370 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .efdede5e-a422-4374-a07b-1c6e42bfe370 {
+        stroke: #5b5b5b;
+        stroke-width: 1.5px;
+      }
+
+      .a36e79b0-d718-49aa-bd3d-99ed11cf8862 {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <rect class="be4af18f-aafa-481d-8c37-7f6cd26f0dcc" x="20.053" y="203.233" width="450" height="295"/>
+  <rect class="be4af18f-aafa-481d-8c37-7f6cd26f0dcc" x="20" y="70" width="175" height="100"/>
+  <text class="b26e292b-00f9-493f-91a1-d2604ba3926a" transform="translate(35 93.911)">Image service</text>
+  <text class="a1e216fc-79d8-44e3-9d57-bda1b5c70d21" transform="translate(20 50.911)">OpenStack</text>
+  <rect class="be4af18f-aafa-481d-8c37-7f6cd26f0dcc" x="293.917" y="70" width="175" height="103"/>
+  <text class="b26e292b-00f9-493f-91a1-d2604ba3926a" transform="translate(308.917 93.911)">Block Storage service</text>
+  <rect class="e71eae5e-0b02-47e1-8d5c-a6353a91d298" x="308.917" y="108.136" width="145" height="50"/>
+  <text class="ef75d894-3c33-4acc-81ea-5de1cc7be963" transform="translate(361.738 136.183)">Volume</text>
+  <path class="b7eb53a6-8554-4c32-ac29-362ec132ff48" d="M489,20.5V517H1V20.5H489m1-1H0V518H490V19.5Z"/>
+  <g>
+    <rect class="e71eae5e-0b02-47e1-8d5c-a6353a91d298" x="172.553" y="333.233" width="145" height="50"/>
+    <text class="ef75d894-3c33-4acc-81ea-5de1cc7be963" transform="translate(223.163 361.28)">Instance</text>
+  </g>
+  <text class="b26e292b-00f9-493f-91a1-d2604ba3926a" transform="translate(35.053 479.573)">Compute service</text>
+  <g>
+    <line class="a4f83486-cf33-4d86-85e6-0f19ba210ef3" x1="245.053" y1="392.983" x2="245.053" y2="408.211"/>
+    <polygon class="a90ffb34-95f3-4c29-8c9b-92ab42a8bcf2" points="240.066 394.442 245.053 385.807 250.039 394.442 240.066 394.442"/>
+    <polygon class="a90ffb34-95f3-4c29-8c9b-92ab42a8bcf2" points="240.066 406.752 245.053 415.387 250.039 406.752 240.066 406.752"/>
+  </g>
+  <g>
+    <line class="a4f83486-cf33-4d86-85e6-0f19ba210ef3" x1="107.5" y1="155.733" x2="107.5" y2="219.28"/>
+    <polygon class="a90ffb34-95f3-4c29-8c9b-92ab42a8bcf2" points="102.514 217.821 107.5 226.456 112.486 217.821 102.514 217.821"/>
+  </g>
+  <g>
+    <line class="a4f83486-cf33-4d86-85e6-0f19ba210ef3" x1="245.053" y1="299.766" x2="245.053" y2="323.557"/>
+    <polygon class="a90ffb34-95f3-4c29-8c9b-92ab42a8bcf2" points="240.066 301.225 245.053 292.589 250.039 301.225 240.066 301.225"/>
+    <polygon class="a90ffb34-95f3-4c29-8c9b-92ab42a8bcf2" points="240.066 322.098 245.053 330.733 250.039 322.098 240.066 322.098"/>
+  </g>
+  <g>
+    <polyline class="a4f83486-cf33-4d86-85e6-0f19ba210ef3" points="230.053 323.557 230.053 312.589 107.5 312.589 107.5 299.766"/>
+    <polygon class="a90ffb34-95f3-4c29-8c9b-92ab42a8bcf2" points="235.039 322.098 230.053 330.733 225.067 322.098 235.039 322.098"/>
+    <polygon class="a90ffb34-95f3-4c29-8c9b-92ab42a8bcf2" points="112.486 301.225 107.5 292.589 102.513 301.225 112.486 301.225"/>
+  </g>
+  <g>
+    <polyline class="a4f83486-cf33-4d86-85e6-0f19ba210ef3" points="260.053 323.557 260.053 312.589 382.606 312.589 382.606 299.766"/>
+    <polygon class="a90ffb34-95f3-4c29-8c9b-92ab42a8bcf2" points="265.039 322.098 260.053 330.733 255.066 322.098 265.039 322.098"/>
+    <polygon class="a90ffb34-95f3-4c29-8c9b-92ab42a8bcf2" points="387.593 301.225 382.606 292.589 377.62 301.225 387.593 301.225"/>
+  </g>
+  <g>
+    <polyline class="a4f83486-cf33-4d86-85e6-0f19ba210ef3" points="245.053 219.28 245.053 188.233 381.417 188.233 381.417 168.001"/>
+    <polygon class="a90ffb34-95f3-4c29-8c9b-92ab42a8bcf2" points="250.039 217.821 245.053 226.456 240.067 217.821 250.039 217.821"/>
+    <polygon class="a90ffb34-95f3-4c29-8c9b-92ab42a8bcf2" points="386.403 169.46 381.417 160.825 376.431 169.46 386.403 169.46"/>
+  </g>
+  <g>
+    <text class="ef75d894-3c33-4acc-81ea-5de1cc7be963" transform="translate(61.977 274.422)">Image-based disk<tspan x="31.608" y="12">(vda)</tspan></text>
+    <g>
+      <path class="efdede5e-a422-4374-a07b-1c6e42bfe370" d="M89.05,239.149v8.442c0,5.629,8.26,10.192,18.449,10.192s18.449-4.563,18.449-10.192v-8.442"/>
+      <path class="efdede5e-a422-4374-a07b-1c6e42bfe370" d="M125.948,239.149c0,5.629-8.259,10.192-18.449,10.192S89.05,244.778,89.05,239.149s8.26-9.693,18.449-9.693S125.948,233.52,125.948,239.149Z"/>
+    </g>
+  </g>
+  <g>
+    <text class="ef75d894-3c33-4acc-81ea-5de1cc7be963" transform="translate(195.719 274.422)">Volume-based disk<tspan x="35.084" y="12">(vdb)</tspan></text>
+    <g>
+      <path class="efdede5e-a422-4374-a07b-1c6e42bfe370" d="M226.6,239.149v8.442c0,5.629,8.26,10.192,18.449,10.192S263.5,253.22,263.5,247.591v-8.442"/>
+      <path class="efdede5e-a422-4374-a07b-1c6e42bfe370" d="M263.5,239.149c0,5.629-8.26,10.192-18.449,10.192S226.6,244.778,226.6,239.149s8.26-9.693,18.449-9.693S263.5,233.52,263.5,239.149Z"/>
+    </g>
+  </g>
+  <g>
+    <text class="ef75d894-3c33-4acc-81ea-5de1cc7be963" transform="translate(213.319 463.442)">Config drive<tspan x="18.678" y="12">(sr0)</tspan></text>
+    <g>
+      <path class="efdede5e-a422-4374-a07b-1c6e42bfe370" d="M226.6,428.169v8.442c0,5.629,8.26,10.192,18.449,10.192S263.5,442.24,263.5,436.611v-8.442"/>
+      <path class="efdede5e-a422-4374-a07b-1c6e42bfe370" d="M263.5,428.169c0,5.629-8.26,10.192-18.449,10.192S226.6,433.8,226.6,428.169s8.26-9.693,18.449-9.693S263.5,422.54,263.5,428.169Z"/>
+    </g>
+  </g>
+  <g>
+    <text class="ef75d894-3c33-4acc-81ea-5de1cc7be963" transform="translate(342.049 274.422)">Ephemeral disk<tspan x="25.602" y="12">(vdc)</tspan></text>
+    <g>
+      <path class="efdede5e-a422-4374-a07b-1c6e42bfe370" d="M362.967,239.149v8.442c0,5.629,8.26,10.192,18.449,10.192s18.449-4.563,18.449-10.192v-8.442"/>
+      <path class="efdede5e-a422-4374-a07b-1c6e42bfe370" d="M399.865,239.149c0,5.629-8.259,10.192-18.449,10.192s-18.449-4.563-18.449-10.192,8.26-9.693,18.449-9.693S399.865,233.52,399.865,239.149Z"/>
+    </g>
+  </g>
+  <rect class="e71eae5e-0b02-47e1-8d5c-a6353a91d298" x="35" y="105.733" width="145" height="50"/>
+  <text class="ef75d894-3c33-4acc-81ea-5de1cc7be963" transform="translate(91.633 133.78)">Image</text>
+  <g>
+    <text class="a36e79b0-d718-49aa-bd3d-99ed11cf8862" transform="translate(664.632 518.027)">145_OpenStack_0321</text>
+    <rect class="aca3ab15-1921-468d-9748-9153e2d3ab59" y="495.01" width="760" height="40"/>
+  </g>
+</svg>

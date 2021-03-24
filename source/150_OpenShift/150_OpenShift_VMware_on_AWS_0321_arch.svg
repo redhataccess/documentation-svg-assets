@@ -1,0 +1,215 @@
+<svg id="af599583-8f7c-4d39-81fa-01ee3e70621d" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="632" viewBox="0 0 760 632">
+  <defs>
+    <style>
+      .aac06e60-537c-4892-8737-839479b532ee, .ade56f40-ec0d-45ff-8745-eee7a4050a22, .aee22aac-5020-4163-bb96-f4e5ec519370, .b16eaf23-3375-4ae2-a14f-5f8c72b3761d, .b1c633a7-b30c-4652-89eb-c7987bbb3627, .b26e95b2-14f7-4732-9700-a55a801966ce, .b56e02ed-034b-4d60-a013-72c07ec4d1eb, .b9320a21-4d9d-4996-aa38-8c299cce6565, .bb702203-d999-421c-99f1-3201cf970a1b, .bd38a36e-5c46-4a0f-84ea-d3a181d6b760, .e97d0968-7ba7-4d12-acf0-9fae498f9f03, .f4886633-784b-41aa-a012-41e1582a5cd4 {
+        fill: none;
+      }
+
+      .aee22aac-5020-4163-bb96-f4e5ec519370, .b9320a21-4d9d-4996-aa38-8c299cce6565, .e97d0968-7ba7-4d12-acf0-9fae498f9f03 {
+        stroke: #c4c4c4;
+      }
+
+      .aac06e60-537c-4892-8737-839479b532ee, .ade56f40-ec0d-45ff-8745-eee7a4050a22, .aee22aac-5020-4163-bb96-f4e5ec519370, .b1c633a7-b30c-4652-89eb-c7987bbb3627, .b26e95b2-14f7-4732-9700-a55a801966ce, .b56e02ed-034b-4d60-a013-72c07ec4d1eb, .b9320a21-4d9d-4996-aa38-8c299cce6565, .bb702203-d999-421c-99f1-3201cf970a1b, .e97d0968-7ba7-4d12-acf0-9fae498f9f03 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .aee22aac-5020-4163-bb96-f4e5ec519370 {
+        stroke-dasharray: 2.988 2.988;
+      }
+
+      .b9320a21-4d9d-4996-aa38-8c299cce6565 {
+        stroke-dasharray: 3.024 3.024;
+      }
+
+      .acbc63a0-fdc8-4843-befe-7d64d31fdac6 {
+        fill: #e8e8e8;
+      }
+
+      .aeeb00ec-8e82-48e5-bdc8-827a13cea504 {
+        fill: #fff;
+      }
+
+      .e1c2c7b7-d5ff-4b2a-a43a-6d1c24f639b0 {
+        fill: #06c;
+      }
+
+      .ab3d0b8c-3fdb-444b-867a-9d989ee045a9, .add0dcfc-031c-4f69-8fb1-665202889a78 {
+        font-size: 11px;
+      }
+
+      .a4b15b00-a93d-4ceb-b441-3b38e016ac9d, .ab3d0b8c-3fdb-444b-867a-9d989ee045a9, .add0dcfc-031c-4f69-8fb1-665202889a78, .b7298c53-4eec-4b9d-ab99-42d0d421e5af {
+        fill: #151515;
+      }
+
+      .add0dcfc-031c-4f69-8fb1-665202889a78 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .bd38a36e-5c46-4a0f-84ea-d3a181d6b760 {
+        stroke: #d0d0d0;
+      }
+
+      .bd38a36e-5c46-4a0f-84ea-d3a181d6b760, .f4886633-784b-41aa-a012-41e1582a5cd4 {
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .b7298c53-4eec-4b9d-ab99-42d0d421e5af {
+        font-size: 14px;
+      }
+
+      .ab3d0b8c-3fdb-444b-867a-9d989ee045a9, .b7298c53-4eec-4b9d-ab99-42d0d421e5af {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .b6f46f6e-e754-4f5f-b51d-bb91a7b9cae3 {
+        fill: #f3f3f3;
+      }
+
+      .b56e02ed-034b-4d60-a013-72c07ec4d1eb {
+        stroke: #151515;
+      }
+
+      .ade56f40-ec0d-45ff-8745-eee7a4050a22, .b26e95b2-14f7-4732-9700-a55a801966ce {
+        stroke: #fff;
+      }
+
+      .ade56f40-ec0d-45ff-8745-eee7a4050a22 {
+        stroke-width: 10px;
+      }
+
+      .b26e95b2-14f7-4732-9700-a55a801966ce {
+        stroke-width: 8px;
+      }
+
+      .aac06e60-537c-4892-8737-839479b532ee, .b1c633a7-b30c-4652-89eb-c7987bbb3627, .bb702203-d999-421c-99f1-3201cf970a1b {
+        stroke: #06c;
+      }
+
+      .bb702203-d999-421c-99f1-3201cf970a1b {
+        stroke-dasharray: 2.984 2.984;
+      }
+
+      .aac06e60-537c-4892-8737-839479b532ee {
+        stroke-dasharray: 2.726 2.726;
+      }
+
+      .fe2fc44d-1f4d-4c65-b108-03c9b9e336cc {
+        font-size: 10px;
+        fill: #dcdcdc;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .f4886633-784b-41aa-a012-41e1582a5cd4 {
+        stroke: #ececec;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="e97d0968-7ba7-4d12-acf0-9fae498f9f03" points="759.5 611.489 759.5 612.989 758 612.989"/>
+    <line class="aee22aac-5020-4163-bb96-f4e5ec519370" x1="755.012" y1="612.989" x2="3.494" y2="612.989"/>
+    <polyline class="e97d0968-7ba7-4d12-acf0-9fae498f9f03" points="2 612.989 0.5 612.989 0.5 611.489"/>
+    <line class="b9320a21-4d9d-4996-aa38-8c299cce6565" x1="0.5" y1="608.465" x2="0.5" y2="337.842"/>
+    <polyline class="e97d0968-7ba7-4d12-acf0-9fae498f9f03" points="0.5 336.33 0.5 334.83 2 334.83"/>
+    <line class="aee22aac-5020-4163-bb96-f4e5ec519370" x1="4.988" y1="334.83" x2="756.506" y2="334.83"/>
+    <polyline class="e97d0968-7ba7-4d12-acf0-9fae498f9f03" points="758 334.83 759.5 334.83 759.5 336.33"/>
+    <line class="b9320a21-4d9d-4996-aa38-8c299cce6565" x1="759.5" y1="339.353" x2="759.5" y2="609.977"/>
+  </g>
+  <rect class="acbc63a0-fdc8-4843-befe-7d64d31fdac6" x="15.5" y="16" width="729" height="303.659"/>
+  <g>
+    <rect class="aeeb00ec-8e82-48e5-bdc8-827a13cea504" x="551.98" y="250.159" width="161" height="49"/>
+    <path class="e1c2c7b7-d5ff-4b2a-a43a-6d1c24f639b0" d="M712.48,250.659v48h-160v-48h160m1-1h-162v50h162v-50Z"/>
+  </g>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(603.759 277.706)">RWO PVCs</text>
+  <polyline class="bd38a36e-5c46-4a0f-84ea-d3a181d6b760" points="723.48 289.659 723.48 239.659 561.48 239.659"/>
+  <polyline class="bd38a36e-5c46-4a0f-84ea-d3a181d6b760" points="718.48 294.659 718.48 244.659 556.48 244.659"/>
+  <rect class="acbc63a0-fdc8-4843-befe-7d64d31fdac6" x="15.5" y="424.83" width="729" height="173.159"/>
+  <polyline class="bd38a36e-5c46-4a0f-84ea-d3a181d6b760" points="510.98 209.659 510.98 144.659 40.48 144.659"/>
+  <polyline class="bd38a36e-5c46-4a0f-84ea-d3a181d6b760" points="515.98 204.659 515.98 139.659 45.48 139.659"/>
+  <text class="b7298c53-4eec-4b9d-ab99-42d0d421e5af" transform="translate(35.5 577.788)">VMware Cloud on AWS</text>
+  <text class="b7298c53-4eec-4b9d-ab99-42d0d421e5af" transform="translate(35.5 46.701)">OpenShift</text>
+  <g>
+    <rect class="aeeb00ec-8e82-48e5-bdc8-827a13cea504" x="35.98" y="500.33" width="510" height="49"/>
+    <path class="e1c2c7b7-d5ff-4b2a-a43a-6d1c24f639b0" d="M545.48,500.83v48h-509v-48h509m1-1h-511v50h511v-50Z"/>
+  </g>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(265.015 527.876)">vSphere 7</text>
+  <g>
+    <rect class="aeeb00ec-8e82-48e5-bdc8-827a13cea504" x="35.98" y="250.159" width="469.5" height="49"/>
+    <path class="e1c2c7b7-d5ff-4b2a-a43a-6d1c24f639b0" d="M504.98,250.659v48H36.48v-48h468.5m1-1H35.48v50h470.5v-50Z"/>
+  </g>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(229.672 277.706)">OpenShift SDN</text>
+  <rect class="b6f46f6e-e754-4f5f-b51d-bb91a7b9cae3" x="35.48" y="64.659" width="470.5" height="50"/>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(147.817 92.706)">OpenShift integrated load balancer and ingress</text>
+  <rect class="b6f46f6e-e754-4f5f-b51d-bb91a7b9cae3" x="35.48" y="444.83" width="253" height="50"/>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(144.386 472.783)">NSX-T</text>
+  <g>
+    <rect class="aeeb00ec-8e82-48e5-bdc8-827a13cea504" x="293.98" y="445.33" width="252" height="49"/>
+    <path class="e1c2c7b7-d5ff-4b2a-a43a-6d1c24f639b0" d="M545.48,445.83v48h-251v-48h251m1-1h-253v50h253v-50Z"/>
+  </g>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(404.624 472.783)">VSAN</text>
+  <rect class="b6f46f6e-e754-4f5f-b51d-bb91a7b9cae3" x="551.48" y="444.83" width="173" height="105"/>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(617.081 500.376)">vCenter</text>
+  <rect class="aeeb00ec-8e82-48e5-bdc8-827a13cea504" x="35.48" y="149.659" width="470.5" height="65"/>
+  <text class="ab3d0b8c-3fdb-444b-867a-9d989ee045a9" transform="translate(45.5 168.921)">Containers</text>
+  <rect class="acbc63a0-fdc8-4843-befe-7d64d31fdac6" x="45.151" y="179.659" width="147" height="25"/>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(108.097 195.206)">App</text>
+  <rect class="acbc63a0-fdc8-4843-befe-7d64d31fdac6" x="197.576" y="179.659" width="147" height="25"/>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(260.521 195.206)">App</text>
+  <rect class="acbc63a0-fdc8-4843-befe-7d64d31fdac6" x="350" y="179.659" width="147" height="25"/>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(412.946 195.206)">App</text>
+  <rect class="acbc63a0-fdc8-4843-befe-7d64d31fdac6" x="35.48" y="359.659" width="143" height="50"/>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(62.073 387.706)">Control plane VM</text>
+  <rect class="acbc63a0-fdc8-4843-befe-7d64d31fdac6" x="199.23" y="359.659" width="143" height="50"/>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(247.343 387.706)">Infra VM</text>
+  <rect class="acbc63a0-fdc8-4843-befe-7d64d31fdac6" x="362.98" y="359.659" width="143" height="50"/>
+  <text class="add0dcfc-031c-4f69-8fb1-665202889a78" transform="translate(405.628 387.706)">Worker VM</text>
+  <g>
+    <line class="b56e02ed-034b-4d60-a013-72c07ec4d1eb" x1="271.076" y1="224.336" x2="271.076" y2="239.983"/>
+    <polygon class="a4b15b00-a93d-4ceb-b441-3b38e016ac9d" points="266.089 225.794 271.076 217.159 276.062 225.794 266.089 225.794"/>
+    <polygon class="a4b15b00-a93d-4ceb-b441-3b38e016ac9d" points="266.089 238.524 271.076 247.159 276.062 238.524 266.089 238.524"/>
+  </g>
+  <line class="ade56f40-ec0d-45ff-8745-eee7a4050a22" x1="529.399" y1="326.474" x2="529.399" y2="345.374"/>
+  <line class="b26e95b2-14f7-4732-9700-a55a801966ce" x1="434.48" y1="326.474" x2="434.48" y2="345.374"/>
+  <line class="b26e95b2-14f7-4732-9700-a55a801966ce" x1="270.73" y1="325.609" x2="270.73" y2="341.239"/>
+  <line class="b26e95b2-14f7-4732-9700-a55a801966ce" x1="106.98" y1="325.609" x2="106.98" y2="341.24"/>
+  <g>
+    <line class="b1c633a7-b30c-4652-89eb-c7987bbb3627" x1="529.399" y1="444.827" x2="529.399" y2="443.327"/>
+    <line class="bb702203-d999-421c-99f1-3201cf970a1b" x1="529.399" y1="440.343" x2="529.399" y2="280.698"/>
+    <polyline class="b1c633a7-b30c-4652-89eb-c7987bbb3627" points="529.399 279.206 529.399 277.706 530.899 277.706"/>
+    <line class="aac06e60-537c-4892-8737-839479b532ee" x1="533.625" y1="277.706" x2="548.617" y2="277.706"/>
+    <line class="b1c633a7-b30c-4652-89eb-c7987bbb3627" x1="549.98" y1="277.706" x2="551.48" y2="277.706"/>
+  </g>
+  <g>
+    <line class="b56e02ed-034b-4d60-a013-72c07ec4d1eb" x1="270.73" y1="124.336" x2="270.73" y2="139.983"/>
+    <polygon class="a4b15b00-a93d-4ceb-b441-3b38e016ac9d" points="265.744 125.794 270.73 117.159 275.716 125.794 265.744 125.794"/>
+    <polygon class="a4b15b00-a93d-4ceb-b441-3b38e016ac9d" points="265.744 138.524 270.73 147.159 275.716 138.524 265.744 138.524"/>
+  </g>
+  <g>
+    <text class="fe2fc44d-1f4d-4c65-b108-03c9b9e336cc" transform="translate(632.502 580.349)">150_OpenShift_0321</text>
+    <rect class="b16eaf23-3375-4ae2-a14f-5f8c72b3761d" x="-15.5" y="557.989" width="760" height="40"/>
+  </g>
+  <polyline class="f4886633-784b-41aa-a012-41e1582a5cd4" points="183.48 404.659 183.48 354.659 40.48 354.659"/>
+  <polyline class="f4886633-784b-41aa-a012-41e1582a5cd4" points="188.48 399.659 188.48 349.659 45.48 349.659"/>
+  <polyline class="f4886633-784b-41aa-a012-41e1582a5cd4" points="347.23 404.659 347.23 354.659 204.23 354.659"/>
+  <polyline class="f4886633-784b-41aa-a012-41e1582a5cd4" points="352.23 399.659 352.23 349.659 209.23 349.659"/>
+  <polyline class="f4886633-784b-41aa-a012-41e1582a5cd4" points="510.98 404.659 510.98 354.659 367.98 354.659"/>
+  <polyline class="f4886633-784b-41aa-a012-41e1582a5cd4" points="515.98 399.659 515.98 349.659 372.98 349.659"/>
+  <g>
+    <line class="b56e02ed-034b-4d60-a013-72c07ec4d1eb" x1="106.98" y1="309.336" x2="106.98" y2="349.983"/>
+    <polygon class="a4b15b00-a93d-4ceb-b441-3b38e016ac9d" points="101.994 310.794 106.98 302.159 111.966 310.794 101.994 310.794"/>
+    <polygon class="a4b15b00-a93d-4ceb-b441-3b38e016ac9d" points="101.994 348.524 106.98 357.159 111.966 348.524 101.994 348.524"/>
+  </g>
+  <g>
+    <line class="b56e02ed-034b-4d60-a013-72c07ec4d1eb" x1="434.48" y1="309.336" x2="434.48" y2="349.983"/>
+    <polygon class="a4b15b00-a93d-4ceb-b441-3b38e016ac9d" points="429.494 310.794 434.48 302.159 439.466 310.794 429.494 310.794"/>
+    <polygon class="a4b15b00-a93d-4ceb-b441-3b38e016ac9d" points="429.494 348.524 434.48 357.159 439.466 348.524 429.494 348.524"/>
+  </g>
+  <g>
+    <line class="b56e02ed-034b-4d60-a013-72c07ec4d1eb" x1="270.73" y1="309.336" x2="270.73" y2="349.983"/>
+    <polygon class="a4b15b00-a93d-4ceb-b441-3b38e016ac9d" points="265.744 310.794 270.73 302.159 275.716 310.794 265.744 310.794"/>
+    <polygon class="a4b15b00-a93d-4ceb-b441-3b38e016ac9d" points="265.744 348.524 270.73 357.159 275.716 348.524 265.744 348.524"/>
+  </g>
+</svg>

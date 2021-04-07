@@ -1,0 +1,104 @@
+<svg id="fae5c4a3-828e-4196-9d69-b50c0e781900" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="760" height="495.122" viewBox="0 0 760 495.122">
+  <defs>
+    <style>
+      .e722de04-723d-4ad4-8d2e-c40551657fb9 {
+        fill: #c4c4c4;
+      }
+
+      .b9d8dd15-373e-40d6-9323-3c769ccfdd18 {
+        font-size: 14px;
+      }
+
+      .b14b84cd-937f-4e76-9714-2884dabd4a81, .b5910796-4ca2-4f84-88b6-95d8d771bbca, .b9d8dd15-373e-40d6-9323-3c769ccfdd18 {
+        fill: #151515;
+      }
+
+      .b14b84cd-937f-4e76-9714-2884dabd4a81, .b9d8dd15-373e-40d6-9323-3c769ccfdd18 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .a8f8ecb0-6543-4419-8b56-d13934fdfa4a, .b5910796-4ca2-4f84-88b6-95d8d771bbca {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .bdbaba1f-fd53-4811-9fb6-b200ee241a61 {
+        fill: #e8e8e8;
+      }
+
+      .b14b84cd-937f-4e76-9714-2884dabd4a81, .b5910796-4ca2-4f84-88b6-95d8d771bbca {
+        font-size: 11px;
+      }
+
+      .b8dcbdca-1d44-446b-a25f-f9a68e008d32 {
+        fill: #fff;
+      }
+
+      .f96f7701-e86f-4c50-8a94-840c81cdbccd {
+        fill: #06c;
+      }
+
+      .a87a29d6-0292-414f-8c70-1b8c00f55616 {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .b090e204-d816-4db3-917d-9b1e4815a8d1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path class="e722de04-723d-4ad4-8d2e-c40551657fb9" d="M216,20.963V454.122H1V20.963H216m1-1H0V455.122H217V19.963Z"/>
+  <text class="b9d8dd15-373e-40d6-9323-3c769ccfdd18" transform="translate(20.001 51.751)">Nova<tspan x="0" y="16">availability zone 1</tspan><tspan class="a8f8ecb0-6543-4419-8b56-d13934fdfa4a"><tspan x="0" y="32">(AZ 1)</tspan></tspan></text>
+  <rect class="bdbaba1f-fd53-4811-9fb6-b200ee241a61" x="20" y="99.963" width="177" height="335"/>
+  <text class="b14b84cd-937f-4e76-9714-2884dabd4a81" transform="translate(35 124.225)">OpenStack<tspan x="0" y="12">compute node</tspan></text>
+  <g>
+    <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="35.5" y="150.463" width="146" height="49"/>
+    <path class="f96f7701-e86f-4c50-8a94-840c81cdbccd" d="M181,150.963v48H36v-48H181m1-1H35v50H182v-50Z"/>
+  </g>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(81.699 171.786)">OpenShift<tspan x="-9.031" y="12">control node 1</tspan></text>
+  <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="35" y="204.963" width="147" height="50"/>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(81.699 227.286)">OpenShift<tspan x="-18.309" y="12">worker node VM 1</tspan></text>
+  <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="35" y="259.963" width="147" height="50"/>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(81.699 282.286)">OpenShift<tspan x="-20.008" y="12">worker node VM 4</tspan></text>
+  <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="35" y="314.963" width="147" height="50"/>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(81.698 337.286)">OpenShift<tspan x="-19.646" y="12">worker node VM 7</tspan></text>
+  <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="35" y="369.963" width="147" height="50"/>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(81.698 392.286)">OpenShift<tspan x="-22.016" y="12">worker node VM 10</tspan></text>
+  <path class="e722de04-723d-4ad4-8d2e-c40551657fb9" d="M458,20.963V454.122H243V20.963H458m1-1H242V455.122H459V19.963Z"/>
+  <text class="b9d8dd15-373e-40d6-9323-3c769ccfdd18" transform="translate(262.001 51.751)">Nova<tspan x="0" y="16">availability zone 2</tspan><tspan class="a8f8ecb0-6543-4419-8b56-d13934fdfa4a"><tspan x="0" y="32">(AZ 2)</tspan></tspan></text>
+  <rect class="bdbaba1f-fd53-4811-9fb6-b200ee241a61" x="262" y="99.963" width="177" height="335"/>
+  <text class="b14b84cd-937f-4e76-9714-2884dabd4a81" transform="translate(277 124.225)">OpenStack<tspan x="0" y="12">compute node</tspan></text>
+  <g>
+    <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="277.5" y="150.463" width="146" height="49"/>
+    <path class="f96f7701-e86f-4c50-8a94-840c81cdbccd" d="M423,150.963v48H278v-48H423m1-1H277v50H424v-50Z"/>
+  </g>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(323.699 171.786)">OpenShift<tspan x="-10.285" y="12">control node 2</tspan></text>
+  <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="277" y="204.963" width="147" height="50"/>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(323.699 227.286)">OpenShift<tspan x="-19.563" y="12">worker node VM 2</tspan></text>
+  <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="277" y="259.963" width="147" height="50"/>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(323.699 282.286)">OpenShift<tspan x="-19.679" y="12">worker node VM 5</tspan></text>
+  <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="277" y="314.963" width="147" height="50"/>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(323.698 337.286)">OpenShift<tspan x="-19.866" y="12">worker node VM 8</tspan></text>
+  <path class="e722de04-723d-4ad4-8d2e-c40551657fb9" d="M700,20.963V454.122H485V20.963H700m1-1H484V455.122H701V19.963Z"/>
+  <text class="b9d8dd15-373e-40d6-9323-3c769ccfdd18" transform="translate(504 51.751)">Nova<tspan x="0" y="16">availability zone 3</tspan><tspan class="a8f8ecb0-6543-4419-8b56-d13934fdfa4a"><tspan x="0" y="32">(AZ 3)</tspan></tspan></text>
+  <rect class="bdbaba1f-fd53-4811-9fb6-b200ee241a61" x="504" y="99.963" width="177" height="335"/>
+  <text class="b14b84cd-937f-4e76-9714-2884dabd4a81" transform="translate(519 124.225)">OpenStack<tspan x="0" y="12">compute node</tspan></text>
+  <g>
+    <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="519.5" y="150.463" width="146" height="49"/>
+    <path class="f96f7701-e86f-4c50-8a94-840c81cdbccd" d="M665,150.963v48H520v-48H665m1-1H519v50H666v-50Z"/>
+  </g>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(565.699 171.786)">OpenShift<tspan x="-10.488" y="12">control node 3</tspan></text>
+  <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="519" y="204.963" width="147" height="50"/>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(565.699 227.286)">OpenShift<tspan x="-19.767" y="12">worker node VM 3</tspan></text>
+  <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="519" y="259.963" width="147" height="50"/>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(565.699 282.286)">OpenShift<tspan x="-19.915" y="12">worker node VM 6</tspan></text>
+  <rect class="b8dcbdca-1d44-446b-a25f-f9a68e008d32" x="519" y="314.963" width="147" height="50"/>
+  <text class="b5910796-4ca2-4f84-88b6-95d8d771bbca" transform="translate(565.698 337.286)">OpenShift<tspan x="-19.898" y="12">worker node VM 9</tspan></text>
+  <g>
+    <text class="a87a29d6-0292-414f-8c70-1b8c00f55616" transform="translate(612.212 477.482)">151_OpenShift_0421</text>
+    <rect class="b090e204-d816-4db3-917d-9b1e4815a8d1" y="455.122" width="760" height="40"/>
+  </g>
+</svg>

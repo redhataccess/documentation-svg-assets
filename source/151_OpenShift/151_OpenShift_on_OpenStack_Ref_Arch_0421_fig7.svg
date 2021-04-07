@@ -1,0 +1,98 @@
+<svg id="bbb06d83-f6f2-43d5-bbfe-69e9a5425b2a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="760" height="522.417" viewBox="0 0 760 522.417">
+  <defs>
+    <style>
+      .f314a682-acee-46c6-9cee-95d6b5e10d76 {
+        fill: #e8e8e8;
+      }
+
+      .a0711cc7-1920-4f4c-b492-2a3d3f49caa3 {
+        font-size: 12px;
+      }
+
+      .a0711cc7-1920-4f4c-b492-2a3d3f49caa3, .be848eb5-89f2-4f08-830c-ce94563719a2, .f7110921-7bfd-4a9b-87b7-167ba228c066, .fc2b1513-c526-4b37-979d-ae9fad202fe1 {
+        fill: #151515;
+      }
+
+      .a0711cc7-1920-4f4c-b492-2a3d3f49caa3, .f396ed87-c731-4f04-aab3-0fa7975c5034, .fc2b1513-c526-4b37-979d-ae9fad202fe1 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .be848eb5-89f2-4f08-830c-ce94563719a2, .eee0ccd3-5167-4e92-95d4-62ed35a9378d {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .e33a9a3b-5896-4261-8735-37245cf7b5c8, .f396ed87-c731-4f04-aab3-0fa7975c5034 {
+        fill: #fff;
+      }
+
+      .be848eb5-89f2-4f08-830c-ce94563719a2, .f396ed87-c731-4f04-aab3-0fa7975c5034, .fc2b1513-c526-4b37-979d-ae9fad202fe1 {
+        font-size: 11px;
+      }
+
+      .b45ff8aa-5bbf-4c8d-926a-911abbf1d9ec {
+        fill: #06c;
+      }
+
+      .f52a8671-0cca-4a45-b382-dbd548c70c98 {
+        fill: #adadad;
+      }
+
+      .acc8f3d3-2bce-4ee4-8e9b-b0ea7bb4a298, .fbcef703-e187-4b4a-9cd2-834988d01f3b {
+        fill: none;
+      }
+
+      .fbcef703-e187-4b4a-9cd2-834988d01f3b {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b3f29756-d3ef-45b1-b59a-6d7e7a3055e3 {
+        font-size: 10px;
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <rect class="f314a682-acee-46c6-9cee-95d6b5e10d76" y="19.963" width="429" height="485"/>
+  <text class="a0711cc7-1920-4f4c-b492-2a3d3f49caa3" transform="translate(15 44.225)">Shared filesystems <tspan class="eee0ccd3-5167-4e92-95d4-62ed35a9378d" x="116.002" y="0">(Manila)</tspan></text>
+  <rect class="e33a9a3b-5896-4261-8735-37245cf7b5c8" x="15" y="59.963" width="399" height="50"/>
+  <text class="be848eb5-89f2-4f08-830c-ce94563719a2" transform="translate(161.426 88.01)">Container workloads</text>
+  <rect class="e33a9a3b-5896-4261-8735-37245cf7b5c8" x="15" y="114.963" width="399" height="50"/>
+  <text class="be848eb5-89f2-4f08-830c-ce94563719a2" transform="translate(176.963 143.009)">RWX/RWO PV</text>
+  <rect class="e33a9a3b-5896-4261-8735-37245cf7b5c8" x="15" y="169.963" width="399" height="50"/>
+  <text class="be848eb5-89f2-4f08-830c-ce94563719a2" transform="translate(187.341 198.287)">Manila CSI</text>
+  <rect class="e33a9a3b-5896-4261-8735-37245cf7b5c8" x="25" y="374.963" width="172" height="50"/>
+  <text class="be848eb5-89f2-4f08-830c-ce94563719a2" transform="translate(63.888 397.01)">3rd party certified<tspan x="35.937" y="12">NFS</tspan></text>
+  <rect class="e33a9a3b-5896-4261-8735-37245cf7b5c8" x="232" y="374.963" width="172" height="50"/>
+  <text class="be848eb5-89f2-4f08-830c-ce94563719a2" transform="translate(282.938 403.01)">Ganesha NFS</text>
+  <rect class="e33a9a3b-5896-4261-8735-37245cf7b5c8" x="25" y="429.963" width="172" height="50"/>
+  <text class="be848eb5-89f2-4f08-830c-ce94563719a2" transform="translate(63.888 452.01)">3rd party certified<tspan x="4.042" y="12">storage backend</tspan></text>
+  <rect class="e33a9a3b-5896-4261-8735-37245cf7b5c8" x="232" y="429.963" width="172" height="50"/>
+  <text class="be848eb5-89f2-4f08-830c-ce94563719a2" transform="translate(280.804 458.01)">RHCS CephFS</text>
+  <path class="b45ff8aa-5bbf-4c8d-926a-911abbf1d9ec" d="M412,326.963v161H224v-161H412m2-2H222v165H414v-165Z"/>
+  <path class="f52a8671-0cca-4a45-b382-dbd548c70c98" d="M206,325.963v163H16v-163H206m1-1H15v165H207v-165Z"/>
+  <text class="fc2b1513-c526-4b37-979d-ae9fad202fe1" transform="translate(231 344.225)">Tech Preview<tspan class="eee0ccd3-5167-4e92-95d4-62ed35a9378d"><tspan x="0" y="14">(Available via support exception)</tspan></tspan></text>
+  <g>
+    <g>
+      <polyline class="fbcef703-e187-4b4a-9cd2-834988d01f3b" points="318 315.287 318 302.463 218 302.463"/>
+      <polygon class="f7110921-7bfd-4a9b-87b7-167ba228c066" points="322.986 313.828 318 322.463 313.013 313.828 322.986 313.828"/>
+    </g>
+    <g>
+      <polyline class="fbcef703-e187-4b4a-9cd2-834988d01f3b" points="111 315.287 111 302.463 214.5 302.463 214.5 274.963"/>
+      <polygon class="f7110921-7bfd-4a9b-87b7-167ba228c066" points="115.986 313.828 111 322.463 106.014 313.828 115.986 313.828"/>
+    </g>
+  </g>
+  <rect class="e33a9a3b-5896-4261-8735-37245cf7b5c8" x="15" y="224.963" width="399" height="50"/>
+  <text class="be848eb5-89f2-4f08-830c-ce94563719a2" transform="translate(197.582 253.01)">Manila</text>
+  <g>
+    <circle class="f7110921-7bfd-4a9b-87b7-167ba228c066" cx="214.5" cy="302.477" r="10"/>
+    <text class="f396ed87-c731-4f04-aab3-0fa7975c5034" transform="translate(208.415 305.262)">or</text>
+  </g>
+  <g>
+    <text class="b3f29756-d3ef-45b1-b59a-6d7e7a3055e3" transform="translate(671.212 504.776)">151_OpenShift_0421</text>
+    <rect class="acc8f3d3-2bce-4ee4-8e9b-b0ea7bb4a298" y="482.417" width="760" height="40"/>
+  </g>
+</svg>

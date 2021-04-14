@@ -1,166 +1,164 @@
-<svg id="b0ded52f-1e36-4132-8c7e-052e78f0f13c" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="320.394" viewBox="0 0 760 320.394">
+<svg id="b9689a03-efeb-4d6f-9bea-8a3e30e69606" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="320.394" viewBox="0 0 760 320.394">
   <defs>
     <style>
-      .a006d6ce-5646-4890-a8a5-db4f0df50067, .a1986457-d864-4f2c-972b-1a3e3e5ea5b3, .a82b833e-be90-491e-8fec-8f9f5a854feb, .a8d8f199-de79-4d8f-a26e-7fb737e60ddd, .af71c0ff-b72d-48d7-8b41-3accdbcd6f36, .affe08a3-5eda-4789-8884-2f1e538aa828, .e78897a4-5a4b-4f1a-8e5f-44c28b32613e, .f3e7f623-dff0-4331-af28-51b87280a5b3, .f6b46837-901a-42d5-bf02-1ae9f7d475ef, .f837d55c-1488-4734-bcab-6ee58f1807e9 {
+      .a22994db-289b-4546-9d86-01e950191c79, .a2e6a53e-6fa6-4036-b047-8628628205ca, .a7b16e91-0345-4b19-b58c-87a3571c57e6, .aa47cf2c-85ff-4113-afe2-c13bc7b74336, .ac37f419-5541-4a36-9a8a-29137d44b77e, .b531aa9d-6445-46b9-b8dd-f488fba2905d, .bbe0634a-fdec-41ec-8eb4-4830674a5143, .bbff3ec2-11ac-4ccb-9b51-004ae65b81c2, .e886720c-6aaa-4577-babe-9072294f859a, .f2d0ca51-aca0-481a-8f3d-74f779433c24 {
         fill: none;
       }
 
-      .a1986457-d864-4f2c-972b-1a3e3e5ea5b3, .a82b833e-be90-491e-8fec-8f9f5a854feb, .b5607a65-1146-4715-8c15-56f6c19dbfb0 {
+      .aa47cf2c-85ff-4113-afe2-c13bc7b74336, .e886720c-6aaa-4577-babe-9072294f859a, .f985766a-82d7-4ac9-b291-cc589cfd52ee {
         stroke: #06c;
       }
 
-      .a006d6ce-5646-4890-a8a5-db4f0df50067, .a1986457-d864-4f2c-972b-1a3e3e5ea5b3, .a82b833e-be90-491e-8fec-8f9f5a854feb, .a8d8f199-de79-4d8f-a26e-7fb737e60ddd, .af71c0ff-b72d-48d7-8b41-3accdbcd6f36, .affe08a3-5eda-4789-8884-2f1e538aa828, .b5607a65-1146-4715-8c15-56f6c19dbfb0, .bd605af6-3651-42d2-a7f3-baad60a8ca2d, .e78897a4-5a4b-4f1a-8e5f-44c28b32613e, .f3e7f623-dff0-4331-af28-51b87280a5b3, .f6b46837-901a-42d5-bf02-1ae9f7d475ef {
+      .a22994db-289b-4546-9d86-01e950191c79, .a2e6a53e-6fa6-4036-b047-8628628205ca, .a7b16e91-0345-4b19-b58c-87a3571c57e6, .aa47cf2c-85ff-4113-afe2-c13bc7b74336, .ac37f419-5541-4a36-9a8a-29137d44b77e, .bbe0634a-fdec-41ec-8eb4-4830674a5143, .bbff3ec2-11ac-4ccb-9b51-004ae65b81c2, .bd9e4dc6-8f67-449a-ad2a-ede3d6ae86c3, .e886720c-6aaa-4577-babe-9072294f859a, .f2d0ca51-aca0-481a-8f3d-74f779433c24, .f985766a-82d7-4ac9-b291-cc589cfd52ee {
         stroke-linecap: round;
         stroke-linejoin: round;
       }
 
-      .a1986457-d864-4f2c-972b-1a3e3e5ea5b3, .a82b833e-be90-491e-8fec-8f9f5a854feb, .affe08a3-5eda-4789-8884-2f1e538aa828, .b5607a65-1146-4715-8c15-56f6c19dbfb0, .e78897a4-5a4b-4f1a-8e5f-44c28b32613e, .f3e7f623-dff0-4331-af28-51b87280a5b3 {
+      .aa47cf2c-85ff-4113-afe2-c13bc7b74336, .bbe0634a-fdec-41ec-8eb4-4830674a5143, .bbff3ec2-11ac-4ccb-9b51-004ae65b81c2, .e886720c-6aaa-4577-babe-9072294f859a, .f2d0ca51-aca0-481a-8f3d-74f779433c24, .f985766a-82d7-4ac9-b291-cc589cfd52ee {
         stroke-width: 2px;
       }
 
-      .a69f771b-3071-48fd-99b2-55e5a9bea72f, .bf04526b-93bd-4915-822a-784e6e6eaba0 {
+      .af1e998d-46ff-4e39-938d-c099ff6ad944, .b372db49-6618-49aa-929b-1340e4334cef {
         font-size: 11px;
       }
 
-      .a068bd1b-d509-4d1b-8a00-02dd1eadc8be, .a69f771b-3071-48fd-99b2-55e5a9bea72f, .ada5e7b3-ce8a-484b-a17a-d96bead721fe, .bf04526b-93bd-4915-822a-784e6e6eaba0 {
+      .af1e998d-46ff-4e39-938d-c099ff6ad944, .b372db49-6618-49aa-929b-1340e4334cef, .b5cb3d70-9c54-480b-873e-a82c6e6980ba, .ba2cc54e-3235-48fe-8719-3a4baeffcefe {
         fill: #151515;
       }
 
-      .bf04526b-93bd-4915-822a-784e6e6eaba0 {
+      .af1e998d-46ff-4e39-938d-c099ff6ad944 {
         font-family: RedHatText-Medium, Red Hat Text;
         font-weight: 500;
       }
 
-      .affe08a3-5eda-4789-8884-2f1e538aa828, .f3e7f623-dff0-4331-af28-51b87280a5b3 {
+      .bbff3ec2-11ac-4ccb-9b51-004ae65b81c2, .f2d0ca51-aca0-481a-8f3d-74f779433c24 {
         stroke: #4cb6d6;
       }
 
-      .a922b0e1-f520-4f2e-8e9c-e104e8df5f49, .b5607a65-1146-4715-8c15-56f6c19dbfb0, .bd605af6-3651-42d2-a7f3-baad60a8ca2d {
-        fill: #fff;
-      }
-
-      .a8d8f199-de79-4d8f-a26e-7fb737e60ddd, .bd605af6-3651-42d2-a7f3-baad60a8ca2d, .e78897a4-5a4b-4f1a-8e5f-44c28b32613e {
-        stroke: #5b5b5b;
-      }
-
-      .a8d8f199-de79-4d8f-a26e-7fb737e60ddd, .bd605af6-3651-42d2-a7f3-baad60a8ca2d {
-        stroke-width: 1.5px;
-      }
-
-      .a1986457-d864-4f2c-972b-1a3e3e5ea5b3, .f3e7f623-dff0-4331-af28-51b87280a5b3 {
+      .aa47cf2c-85ff-4113-afe2-c13bc7b74336, .f2d0ca51-aca0-481a-8f3d-74f779433c24 {
         stroke-dasharray: 3.727 3.727;
       }
 
-      .f6b46837-901a-42d5-bf02-1ae9f7d475ef {
+      .ac37f419-5541-4a36-9a8a-29137d44b77e {
         stroke: #fff;
         stroke-width: 8px;
       }
 
-      .a006d6ce-5646-4890-a8a5-db4f0df50067, .af71c0ff-b72d-48d7-8b41-3accdbcd6f36 {
+      .a2e6a53e-6fa6-4036-b047-8628628205ca, .a7b16e91-0345-4b19-b58c-87a3571c57e6 {
         stroke: #151515;
       }
 
-      .af71c0ff-b72d-48d7-8b41-3accdbcd6f36 {
+      .a7b16e91-0345-4b19-b58c-87a3571c57e6 {
         stroke-dasharray: 3.3 3.3;
       }
 
-      .f7535de6-050c-4e63-8129-39993c0c84c1 {
+      .a1a353d1-c4d7-4cac-a580-f31b1c364c87, .bd9e4dc6-8f67-449a-ad2a-ede3d6ae86c3, .f985766a-82d7-4ac9-b291-cc589cfd52ee {
+        fill: #fff;
+      }
+
+      .f260d0b4-2416-4bde-8908-cdc1a8975fc5 {
         fill: #e8e8e8;
       }
 
-      .a068bd1b-d509-4d1b-8a00-02dd1eadc8be {
+      .b5cb3d70-9c54-480b-873e-a82c6e6980ba {
         font-size: 12px;
         font-family: RedHatText-Bold, Red Hat Text;
         font-weight: 700;
       }
 
-      .a69f771b-3071-48fd-99b2-55e5a9bea72f {
+      .b372db49-6618-49aa-929b-1340e4334cef {
         font-family: RedHatText-Italic, Red Hat Text;
         font-style: italic;
       }
 
-      .aeaa7839-436d-4d1d-a2f9-a764e512ff4a {
+      .e8a921c3-5de0-46d8-b7c7-c8fea9e16044 {
         font-size: 10px;
         fill: #f3f3f3;
         font-family: RedHatText-Regular, Red Hat Text;
       }
+
+      .a22994db-289b-4546-9d86-01e950191c79, .bbe0634a-fdec-41ec-8eb4-4830674a5143, .bd9e4dc6-8f67-449a-ad2a-ede3d6ae86c3 {
+        stroke: #5b5b5b;
+      }
+
+      .a22994db-289b-4546-9d86-01e950191c79, .bd9e4dc6-8f67-449a-ad2a-ede3d6ae86c3 {
+        stroke-width: 1.5px;
+      }
     </style>
   </defs>
-  <line class="a82b833e-be90-491e-8fec-8f9f5a854feb" y1="164.017" x2="760" y2="164.017"/>
-  <text class="bf04526b-93bd-4915-822a-784e6e6eaba0" transform="translate(0 156.849)">Baremetal network</text>
-  <line class="a82b833e-be90-491e-8fec-8f9f5a854feb" x1="145.736" y1="119.017" x2="145.736" y2="164.017"/>
-  <line class="affe08a3-5eda-4789-8884-2f1e538aa828" x1="145.736" y1="38.672" x2="145.736" y2="83.672"/>
+  <line class="e886720c-6aaa-4577-babe-9072294f859a" y1="164.017" x2="760" y2="164.017"/>
+  <text class="af1e998d-46ff-4e39-938d-c099ff6ad944" transform="translate(0 156.849)">Baremetal network</text>
+  <line class="e886720c-6aaa-4577-babe-9072294f859a" x1="145.736" y1="119.017" x2="145.736" y2="164.017"/>
+  <line class="bbff3ec2-11ac-4ccb-9b51-004ae65b81c2" x1="145.736" y1="38.672" x2="145.736" y2="83.672"/>
   <g>
-    <text class="bf04526b-93bd-4915-822a-784e6e6eaba0" transform="translate(127.96 114.017)">Router</text>
+    <line class="e886720c-6aaa-4577-babe-9072294f859a" x1="495.553" y1="119.017" x2="495.553" y2="121.017"/>
+    <line class="aa47cf2c-85ff-4113-afe2-c13bc7b74336" x1="495.553" y1="124.745" x2="495.553" y2="160.154"/>
+    <line class="e886720c-6aaa-4577-babe-9072294f859a" x1="495.553" y1="162.017" x2="495.553" y2="164.017"/>
+  </g>
+  <g>
+    <line class="bbff3ec2-11ac-4ccb-9b51-004ae65b81c2" x1="495.553" y1="39.493" x2="495.553" y2="41.493"/>
+    <line class="f2d0ca51-aca0-481a-8f3d-74f779433c24" x1="495.553" y1="45.22" x2="495.553" y2="80.629"/>
+    <line class="bbff3ec2-11ac-4ccb-9b51-004ae65b81c2" x1="495.553" y1="82.493" x2="495.553" y2="84.493"/>
+  </g>
+  <line class="bbff3ec2-11ac-4ccb-9b51-004ae65b81c2" y1="38.672" x2="760" y2="38.672"/>
+  <text class="af1e998d-46ff-4e39-938d-c099ff6ad944" transform="translate(0.5 31.504)">Internet access</text>
+  <g>
+    <line class="ac37f419-5541-4a36-9a8a-29137d44b77e" x1="290.986" y1="173.726" x2="290.986" y2="207"/>
     <g>
-      <rect class="bd605af6-3651-42d2-a7f3-baad60a8ca2d" x="118.236" y="83.672" width="55" height="13.75"/>
-      <line class="e78897a4-5a4b-4f1a-8e5f-44c28b32613e" x1="167.357" y1="89.569" x2="167.357" y2="89.569"/>
-      <line class="a8d8f199-de79-4d8f-a26e-7fb737e60ddd" x1="124.129" y1="88.535" x2="124.129" y2="92.499"/>
-      <line class="a8d8f199-de79-4d8f-a26e-7fb737e60ddd" x1="130.022" y1="88.535" x2="130.022" y2="92.499"/>
-      <line class="a8d8f199-de79-4d8f-a26e-7fb737e60ddd" x1="135.915" y1="88.535" x2="135.915" y2="92.499"/>
-      <line class="a8d8f199-de79-4d8f-a26e-7fb737e60ddd" x1="141.807" y1="88.535" x2="141.807" y2="92.499"/>
-      <line class="a8d8f199-de79-4d8f-a26e-7fb737e60ddd" x1="147.7" y1="88.535" x2="147.7" y2="92.499"/>
-      <line class="a8d8f199-de79-4d8f-a26e-7fb737e60ddd" x1="153.593" y1="88.535" x2="153.593" y2="92.499"/>
+      <line class="a2e6a53e-6fa6-4036-b047-8628628205ca" x1="290.986" y1="173.726" x2="290.986" y2="175.226"/>
+      <line class="a7b16e91-0345-4b19-b58c-87a3571c57e6" x1="290.986" y1="178.526" x2="290.986" y2="196.674"/>
+      <line class="a2e6a53e-6fa6-4036-b047-8628628205ca" x1="290.986" y1="198.324" x2="290.986" y2="199.824"/>
+      <polygon class="ba2cc54e-3235-48fe-8719-3a4baeffcefe" points="285.999 198.365 290.986 207 295.972 198.365 285.999 198.365"/>
     </g>
-  </g>
-  <g>
-    <line class="a82b833e-be90-491e-8fec-8f9f5a854feb" x1="495.553" y1="119.017" x2="495.553" y2="121.017"/>
-    <line class="a1986457-d864-4f2c-972b-1a3e3e5ea5b3" x1="495.553" y1="124.745" x2="495.553" y2="160.154"/>
-    <line class="a82b833e-be90-491e-8fec-8f9f5a854feb" x1="495.553" y1="162.017" x2="495.553" y2="164.017"/>
-  </g>
-  <g>
-    <line class="affe08a3-5eda-4789-8884-2f1e538aa828" x1="495.553" y1="39.493" x2="495.553" y2="41.493"/>
-    <line class="f3e7f623-dff0-4331-af28-51b87280a5b3" x1="495.553" y1="45.22" x2="495.553" y2="80.629"/>
-    <line class="affe08a3-5eda-4789-8884-2f1e538aa828" x1="495.553" y1="82.493" x2="495.553" y2="84.493"/>
-  </g>
-  <g>
-    <text class="bf04526b-93bd-4915-822a-784e6e6eaba0" transform="translate(443.739 114.838)">External NTP server</text>
-    <g>
-      <rect class="bd605af6-3651-42d2-a7f3-baad60a8ca2d" x="467.985" y="84.493" width="55" height="13.75"/>
-      <line class="e78897a4-5a4b-4f1a-8e5f-44c28b32613e" x1="517.106" y1="90.39" x2="517.106" y2="90.39"/>
-      <line class="a8d8f199-de79-4d8f-a26e-7fb737e60ddd" x1="474.721" y1="92.35" x2="482.971" y2="92.35"/>
-    </g>
-  </g>
-  <line class="affe08a3-5eda-4789-8884-2f1e538aa828" y1="38.672" x2="760" y2="38.672"/>
-  <text class="bf04526b-93bd-4915-822a-784e6e6eaba0" transform="translate(0.5 31.504)">Internet access</text>
-  <g>
-    <line class="f6b46837-901a-42d5-bf02-1ae9f7d475ef" x1="290.986" y1="173.726" x2="290.986" y2="207"/>
-    <g>
-      <line class="a006d6ce-5646-4890-a8a5-db4f0df50067" x1="290.986" y1="173.726" x2="290.986" y2="175.226"/>
-      <line class="af71c0ff-b72d-48d7-8b41-3accdbcd6f36" x1="290.986" y1="178.526" x2="290.986" y2="196.674"/>
-      <line class="a006d6ce-5646-4890-a8a5-db4f0df50067" x1="290.986" y1="198.324" x2="290.986" y2="199.824"/>
-      <polygon class="ada5e7b3-ce8a-484b-a17a-d96bead721fe" points="285.999 198.365 290.986 207 295.972 198.365 285.999 198.365"/>
-    </g>
-    <circle class="b5607a65-1146-4715-8c15-56f6c19dbfb0" cx="290.986" cy="163.371" r="9.355"/>
-    <text class="bf04526b-93bd-4915-822a-784e6e6eaba0" transform="translate(262.001 148.016)">Ingress VIP</text>
+    <circle class="f985766a-82d7-4ac9-b291-cc589cfd52ee" cx="290.986" cy="163.371" r="9.355"/>
+    <text class="af1e998d-46ff-4e39-938d-c099ff6ad944" transform="translate(262.001 148.016)">Ingress VIP</text>
   </g>
   <g>
     <g>
-      <line class="a006d6ce-5646-4890-a8a5-db4f0df50067" x1="220.986" y1="173.726" x2="220.986" y2="175.226"/>
-      <line class="af71c0ff-b72d-48d7-8b41-3accdbcd6f36" x1="220.986" y1="178.526" x2="220.986" y2="196.674"/>
-      <line class="a006d6ce-5646-4890-a8a5-db4f0df50067" x1="220.986" y1="198.324" x2="220.986" y2="199.824"/>
-      <polygon class="ada5e7b3-ce8a-484b-a17a-d96bead721fe" points="215.999 198.365 220.986 207 225.972 198.365 215.999 198.365"/>
+      <line class="a2e6a53e-6fa6-4036-b047-8628628205ca" x1="220.986" y1="173.726" x2="220.986" y2="175.226"/>
+      <line class="a7b16e91-0345-4b19-b58c-87a3571c57e6" x1="220.986" y1="178.526" x2="220.986" y2="196.674"/>
+      <line class="a2e6a53e-6fa6-4036-b047-8628628205ca" x1="220.986" y1="198.324" x2="220.986" y2="199.824"/>
+      <polygon class="ba2cc54e-3235-48fe-8719-3a4baeffcefe" points="215.999 198.365 220.986 207 225.972 198.365 215.999 198.365"/>
     </g>
-    <circle class="b5607a65-1146-4715-8c15-56f6c19dbfb0" cx="220.986" cy="163.371" r="9.355"/>
-    <text class="bf04526b-93bd-4915-822a-784e6e6eaba0" transform="translate(201.566 148.016)">API VIP</text>
+    <circle class="f985766a-82d7-4ac9-b291-cc589cfd52ee" cx="220.986" cy="163.371" r="9.355"/>
+    <text class="af1e998d-46ff-4e39-938d-c099ff6ad944" transform="translate(201.566 148.016)">API VIP</text>
   </g>
-  <line class="a82b833e-be90-491e-8fec-8f9f5a854feb" x1="495.486" y1="164.017" x2="495.486" y2="209.5"/>
-  <rect class="f7535de6-050c-4e63-8129-39993c0c84c1" x="145.486" y="209.5" width="221" height="93.5"/>
-  <text class="a068bd1b-d509-4d1b-8a00-02dd1eadc8be" transform="translate(160.486 234.604)"><tspan xml:space="preserve">Control plane nodes  x3</tspan></text>
-  <rect class="f7535de6-050c-4e63-8129-39993c0c84c1" x="384.986" y="209.5" width="221" height="93.5"/>
-  <text class="a068bd1b-d509-4d1b-8a00-02dd1eadc8be" transform="translate(399.986 234.604)"><tspan xml:space="preserve">Worker nodes  xN</tspan></text>
-  <rect class="a922b0e1-f520-4f2e-8e9c-e104e8df5f49" x="160.486" y="250" width="191" height="38"/>
-  <text class="bf04526b-93bd-4915-822a-784e6e6eaba0" transform="translate(225.835 272.047)">NTP server </text>
+  <line class="e886720c-6aaa-4577-babe-9072294f859a" x1="495.486" y1="164.017" x2="495.486" y2="209.5"/>
+  <rect class="f260d0b4-2416-4bde-8908-cdc1a8975fc5" x="145.486" y="209.5" width="221" height="93.5"/>
+  <text class="b5cb3d70-9c54-480b-873e-a82c6e6980ba" transform="translate(160.486 234.604)"><tspan xml:space="preserve">Control plane nodes  x3</tspan></text>
+  <rect class="f260d0b4-2416-4bde-8908-cdc1a8975fc5" x="384.986" y="209.5" width="221" height="93.5"/>
+  <text class="b5cb3d70-9c54-480b-873e-a82c6e6980ba" transform="translate(399.986 234.604)"><tspan xml:space="preserve">Worker nodes  xN</tspan></text>
+  <rect class="a1a353d1-c4d7-4cac-a580-f31b1c364c87" x="160.486" y="250" width="191" height="38"/>
+  <text class="af1e998d-46ff-4e39-938d-c099ff6ad944" transform="translate(225.835 272.047)">NTP server </text>
   <g>
-    <rect class="a922b0e1-f520-4f2e-8e9c-e104e8df5f49" x="399.986" y="250" width="191" height="38"/>
-    <text class="bf04526b-93bd-4915-822a-784e6e6eaba0" transform="translate(468.536 272.047)">NTP client</text>
+    <rect class="a1a353d1-c4d7-4cac-a580-f31b1c364c87" x="399.986" y="250" width="191" height="38"/>
+    <text class="af1e998d-46ff-4e39-938d-c099ff6ad944" transform="translate(468.536 272.047)">NTP client</text>
   </g>
-  <text class="a69f771b-3071-48fd-99b2-55e5a9bea72f" transform="translate(519.106 63.988)">Optional</text>
-  <line class="a006d6ce-5646-4890-a8a5-db4f0df50067" x1="516.65" y1="60.446" x2="497.553" y2="70.195"/>
-  <text class="a69f771b-3071-48fd-99b2-55e5a9bea72f" transform="translate(519.106 142.488)">Optional</text>
-  <line class="a006d6ce-5646-4890-a8a5-db4f0df50067" x1="516.65" y1="138.946" x2="497.553" y2="148.695"/>
+  <text class="b372db49-6618-49aa-929b-1340e4334cef" transform="translate(519.106 63.988)">Optional</text>
+  <line class="a2e6a53e-6fa6-4036-b047-8628628205ca" x1="516.65" y1="60.446" x2="497.553" y2="70.195"/>
+  <text class="b372db49-6618-49aa-929b-1340e4334cef" transform="translate(519.106 142.488)">Optional</text>
+  <line class="a2e6a53e-6fa6-4036-b047-8628628205ca" x1="516.65" y1="138.946" x2="497.553" y2="148.695"/>
   <g>
-    <text class="aeaa7839-436d-4d1d-a2f9-a764e512ff4a" transform="translate(668.802 303.411)">152_OpenShift_0421</text>
-    <rect class="f837d55c-1488-4734-bcab-6ee58f1807e9" y="280.394" width="760" height="40"/>
+    <text class="e8a921c3-5de0-46d8-b7c7-c8fea9e16044" transform="translate(668.802 303.411)">152_OpenShift_0421</text>
+    <rect class="b531aa9d-6445-46b9-b8dd-f488fba2905d" y="280.394" width="760" height="40"/>
+  </g>
+  <g>
+    <text class="af1e998d-46ff-4e39-938d-c099ff6ad944" transform="translate(443.739 114.838)">External NTP server</text>
+    <g>
+      <rect class="bd9e4dc6-8f67-449a-ad2a-ede3d6ae86c3" x="477.036" y="83.993" width="36.898" height="14.25"/>
+      <line class="bbe0634a-fdec-41ec-8eb4-4830674a5143" x1="508.048" y1="90.975" x2="508.048" y2="90.975"/>
+      <line class="a22994db-289b-4546-9d86-01e950191c79" x1="482.673" y1="91.1" x2="491.389" y2="91.1"/>
+    </g>
+  </g>
+  <g>
+    <text class="af1e998d-46ff-4e39-938d-c099ff6ad944" transform="translate(127.96 114.017)">Router</text>
+    <g>
+      <rect class="bd9e4dc6-8f67-449a-ad2a-ede3d6ae86c3" x="127.287" y="83.172" width="36.898" height="14.25"/>
+      <line class="bbe0634a-fdec-41ec-8eb4-4830674a5143" x1="158.298" y1="90.154" x2="158.298" y2="90.154"/>
+      <line class="a22994db-289b-4546-9d86-01e950191c79" x1="137.281" y1="93.137" x2="137.281" y2="87.296"/>
+      <line class="a22994db-289b-4546-9d86-01e950191c79" x1="133.054" y1="93.137" x2="133.054" y2="87.296"/>
+      <line class="a22994db-289b-4546-9d86-01e950191c79" x1="141.509" y1="93.137" x2="141.509" y2="87.296"/>
+      <line class="a22994db-289b-4546-9d86-01e950191c79" x1="145.736" y1="93.137" x2="145.736" y2="87.296"/>
+    </g>
   </g>
 </svg>

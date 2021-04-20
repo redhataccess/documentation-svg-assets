@@ -1,0 +1,106 @@
+<svg id="fde3bb86-291a-4908-9991-a8faf47ae4b0" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="760" height="180" viewBox="0 0 760 180">
+  <defs>
+    <style>
+      .b1d9d229-ba06-4aa9-80a4-7eabede7b62b {
+        font-size: 10px;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .b1d9d229-ba06-4aa9-80a4-7eabede7b62b, .ba663b8f-c6d7-493a-adf1-6f58f6512b99 {
+        fill: #e8e8e8;
+      }
+
+      .b321c3cd-a707-4918-b207-640fa68149c3, .b410bf6d-9c55-4e08-8da8-6510df78f9f7, .b82612fc-aa40-456a-9a35-8c9a591eb27e {
+        fill: none;
+      }
+
+      .a743e29f-ed82-492f-8440-56985b5d5219, .b7fa954c-f111-497e-992e-32086b06c34a, .ba594aab-2645-43c7-8b8f-311f3710a4e9 {
+        font-size: 12px;
+      }
+
+      .a743e29f-ed82-492f-8440-56985b5d5219, .aa5036d5-6684-448b-a4e1-182a592585fc, .ba594aab-2645-43c7-8b8f-311f3710a4e9 {
+        fill: #151515;
+      }
+
+      .b7fa954c-f111-497e-992e-32086b06c34a, .ba594aab-2645-43c7-8b8f-311f3710a4e9 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .ad806863-6e33-44c4-b79d-10f5ad93bb89 {
+        fill: #d5d5d5;
+      }
+
+      .a9961ecb-5ee9-4f7f-a530-665a1c96b315 {
+        fill: #06c;
+      }
+
+      .b7fa954c-f111-497e-992e-32086b06c34a {
+        fill: #fff;
+      }
+
+      .b410bf6d-9c55-4e08-8da8-6510df78f9f7 {
+        stroke: #151515;
+      }
+
+      .b410bf6d-9c55-4e08-8da8-6510df78f9f7, .b82612fc-aa40-456a-9a35-8c9a591eb27e {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a743e29f-ed82-492f-8440-56985b5d5219 {
+        font-family: RedHatText-Italic, Red Hat Text;
+        font-style: italic;
+      }
+
+      .b82612fc-aa40-456a-9a35-8c9a591eb27e {
+        stroke: #06c;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="b1d9d229-ba06-4aa9-80a4-7eabede7b62b" transform="translate(667.191 163.017)">160_OpenShift_0421</text>
+    <rect class="b321c3cd-a707-4918-b207-640fa68149c3" y="140" width="760" height="40"/>
+  </g>
+  <rect class="ba663b8f-c6d7-493a-adf1-6f58f6512b99" x="240.25" y="49.396" width="279.5" height="79"/>
+  <text class="ba594aab-2645-43c7-8b8f-311f3710a4e9" transform="translate(255.25 74.5)">Partition offsets</text>
+  <rect class="ad806863-6e33-44c4-b79d-10f5ad93bb89" x="255.25" y="84.396" width="29" height="29"/>
+  <text class="ba594aab-2645-43c7-8b8f-311f3710a4e9" transform="translate(265.706 102.22)">0</text>
+  <rect class="ad806863-6e33-44c4-b79d-10f5ad93bb89" x="286.75" y="84.396" width="29" height="29"/>
+  <text class="ba594aab-2645-43c7-8b8f-311f3710a4e9" transform="translate(299.198 102.22)">1</text>
+  <rect class="ad806863-6e33-44c4-b79d-10f5ad93bb89" x="318.25" y="84.396" width="29" height="29"/>
+  <text class="ba594aab-2645-43c7-8b8f-311f3710a4e9" transform="translate(329.33 102.22)">2</text>
+  <rect class="ad806863-6e33-44c4-b79d-10f5ad93bb89" x="349.75" y="84.396" width="29" height="29"/>
+  <text class="ba594aab-2645-43c7-8b8f-311f3710a4e9" transform="translate(360.608 102.22)">3</text>
+  <g>
+    <rect class="ad806863-6e33-44c4-b79d-10f5ad93bb89" x="381.75" y="84.896" width="28" height="28"/>
+    <path class="a9961ecb-5ee9-4f7f-a530-665a1c96b315" d="M409.25,85.4v27h-27v-27h27m1-1h-29v29h29v-29Z"/>
+  </g>
+  <text class="ba594aab-2645-43c7-8b8f-311f3710a4e9" transform="translate(391.844 102.22)">4</text>
+  <rect class="a9961ecb-5ee9-4f7f-a530-665a1c96b315" x="412.75" y="84.396" width="29" height="29"/>
+  <text class="b7fa954c-f111-497e-992e-32086b06c34a" transform="translate(423.704 102.22)">5</text>
+  <rect class="a9961ecb-5ee9-4f7f-a530-665a1c96b315" x="444.25" y="84.396" width="29" height="29"/>
+  <text class="b7fa954c-f111-497e-992e-32086b06c34a" transform="translate(454.946 102.22)">6</text>
+  <rect class="a9961ecb-5ee9-4f7f-a530-665a1c96b315" x="475.75" y="84.396" width="29" height="29"/>
+  <text class="b7fa954c-f111-497e-992e-32086b06c34a" transform="translate(486.74 102.22)">7</text>
+  <g>
+    <polyline class="b410bf6d-9c55-4e08-8da8-6510df78f9f7" points="490.25 123.072 490.25 148.396 72 148.396 72 123.896"/>
+    <polygon class="aa5036d5-6684-448b-a4e1-182a592585fc" points="485.264 124.531 490.25 115.896 495.236 124.531 485.264 124.531"/>
+  </g>
+  <text class="a743e29f-ed82-492f-8440-56985b5d5219" transform="translate(270.385 161.779)">write</text>
+  <g>
+    <polyline class="b82612fc-aa40-456a-9a35-8c9a591eb27e" points="688 73.896 688 34.404 395.75 34.404 395.75 74.728"/>
+    <polygon class="a9961ecb-5ee9-4f7f-a530-665a1c96b315" points="390.764 73.269 395.75 81.904 400.736 73.269 390.764 73.269"/>
+  </g>
+  <text class="a743e29f-ed82-492f-8440-56985b5d5219" transform="translate(556.02 27.904)">read</text>
+  <g>
+    <rect class="ba663b8f-c6d7-493a-adf1-6f58f6512b99" x="616" y="73.896" width="144" height="50"/>
+    <text class="ba594aab-2645-43c7-8b8f-311f3710a4e9" transform="translate(659.165 102.22)">Consumer</text>
+  </g>
+  <g>
+    <rect class="ba663b8f-c6d7-493a-adf1-6f58f6512b99" y="73.896" width="144" height="50"/>
+    <text class="ba594aab-2645-43c7-8b8f-311f3710a4e9" transform="translate(45.895 102.22)">Producer</text>
+  </g>
+  <polyline class="b410bf6d-9c55-4e08-8da8-6510df78f9f7" points="490.25 84.396 490.25 74.404 427.25 74.404 427.25 84.396"/>
+  <text class="a743e29f-ed82-492f-8440-56985b5d5219" transform="translate(450.944 67.904)">lag</text>
+</svg>

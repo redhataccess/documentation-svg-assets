@@ -1,0 +1,149 @@
+<svg id="e6845d39-7adf-42a4-9a09-4ba16e05d080" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="760" height="284" viewBox="0 0 760 284">
+  <defs>
+    <style>
+      .a9511fba-4f88-4f8a-8326-a198c3b81ba0 {
+        font-size: 10px;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .a28eeb74-347a-49f7-a31c-5f5551baa76d, .a9511fba-4f88-4f8a-8326-a198c3b81ba0 {
+        fill: #e8e8e8;
+      }
+
+      .ad7939fa-d760-4199-a405-d1c6e817dbdf, .bdb07a4d-98ef-4bf5-98ca-5224326bd759, .e0e35545-5252-4221-b758-50c17adb63cf, .e5c8002f-1a17-4520-9f43-3e5781cccc94, .f8fedebd-aa98-46bb-8fa8-3d43759ca8a3, .fca24c32-febc-4c54-b969-b291e65ff561 {
+        fill: none;
+      }
+
+      .ad7939fa-d760-4199-a405-d1c6e817dbdf, .bdb07a4d-98ef-4bf5-98ca-5224326bd759, .e5c8002f-1a17-4520-9f43-3e5781cccc94 {
+        stroke: #c4c4c4;
+      }
+
+      .ad7939fa-d760-4199-a405-d1c6e817dbdf, .bdb07a4d-98ef-4bf5-98ca-5224326bd759, .e5c8002f-1a17-4520-9f43-3e5781cccc94, .fca24c32-febc-4c54-b969-b291e65ff561 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .ad7939fa-d760-4199-a405-d1c6e817dbdf {
+        stroke-dasharray: 2.966 2.966;
+      }
+
+      .bdb07a4d-98ef-4bf5-98ca-5224326bd759 {
+        stroke-dasharray: 2.968 2.968;
+      }
+
+      .a2854722-257a-4285-8485-6016e5b0d502 {
+        fill: #fff;
+      }
+
+      .ea2134ad-113d-4e73-ad4a-5ed4f4ddd7f8 {
+        fill: #06c;
+      }
+
+      .a4c780f7-9896-4358-94e2-91e8b78fcce9, .b4ecaaa6-8874-46c7-bef0-2a4a7952147d {
+        font-size: 12px;
+      }
+
+      .a4c780f7-9896-4358-94e2-91e8b78fcce9, .ab121ff3-8732-418e-82ef-f5c639009660, .b4ecaaa6-8874-46c7-bef0-2a4a7952147d, .fa8ed103-a9e6-4699-9104-0a58510037b2 {
+        fill: #151515;
+      }
+
+      .ab121ff3-8732-418e-82ef-f5c639009660, .b4ecaaa6-8874-46c7-bef0-2a4a7952147d {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .a4c780f7-9896-4358-94e2-91e8b78fcce9 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .ab121ff3-8732-418e-82ef-f5c639009660 {
+        font-size: 11px;
+      }
+
+      .f8fedebd-aa98-46bb-8fa8-3d43759ca8a3, .fca24c32-febc-4c54-b969-b291e65ff561 {
+        stroke: #151515;
+      }
+
+      .f8fedebd-aa98-46bb-8fa8-3d43759ca8a3 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="a9511fba-4f88-4f8a-8326-a198c3b81ba0" transform="translate(667.191 267.017)">160_OpenShift_0421</text>
+    <rect class="e0e35545-5252-4221-b758-50c17adb63cf" y="244" width="760" height="40"/>
+  </g>
+  <g>
+    <polyline class="e5c8002f-1a17-4520-9f43-3e5781cccc94" points="178.5 242.5 178.5 244 177 244"/>
+    <line class="ad7939fa-d760-4199-a405-d1c6e817dbdf" x1="174.034" y1="244" x2="3.483" y2="244"/>
+    <polyline class="e5c8002f-1a17-4520-9f43-3e5781cccc94" points="2 244 0.5 244 0.5 242.5"/>
+    <line class="bdb07a4d-98ef-4bf5-98ca-5224326bd759" x1="0.5" y1="239.532" x2="0.5" y2="56.984"/>
+    <polyline class="e5c8002f-1a17-4520-9f43-3e5781cccc94" points="0.5 55.5 0.5 54 2 54"/>
+    <line class="ad7939fa-d760-4199-a405-d1c6e817dbdf" x1="4.966" y1="54" x2="175.517" y2="54"/>
+    <polyline class="e5c8002f-1a17-4520-9f43-3e5781cccc94" points="177 54 178.5 54 178.5 55.5"/>
+    <line class="bdb07a4d-98ef-4bf5-98ca-5224326bd759" x1="178.5" y1="58.468" x2="178.5" y2="241.016"/>
+  </g>
+  <g>
+    <rect class="a2854722-257a-4285-8485-6016e5b0d502" x="16" y="69.5" width="147" height="49"/>
+    <path class="ea2134ad-113d-4e73-ad4a-5ed4f4ddd7f8" d="M162.5,70v48H16.5V70h146m1-1H15.5v50h148V69Z"/>
+  </g>
+  <text class="b4ecaaa6-8874-46c7-bef0-2a4a7952147d" transform="translate(53.8 97.324)">Web console</text>
+  <g>
+    <rect class="a2854722-257a-4285-8485-6016e5b0d502" x="16" y="124.5" width="147" height="49"/>
+    <path class="ea2134ad-113d-4e73-ad4a-5ed4f4ddd7f8" d="M162.5,125v48H16.5V125h146m1-1H15.5v50h148V124Z"/>
+  </g>
+  <text class="b4ecaaa6-8874-46c7-bef0-2a4a7952147d" transform="translate(67.228 152.324)">CLI tool</text>
+  <g>
+    <rect class="a2854722-257a-4285-8485-6016e5b0d502" x="16" y="179.5" width="147" height="49"/>
+    <path class="ea2134ad-113d-4e73-ad4a-5ed4f4ddd7f8" d="M162.5,180v48H16.5V180h146m1-1H15.5v50h148V179Z"/>
+  </g>
+  <text class="b4ecaaa6-8874-46c7-bef0-2a4a7952147d" transform="translate(59.824 207.324)">REST APIs</text>
+  <rect class="a28eeb74-347a-49f7-a31c-5f5551baa76d" x="291" y="54" width="178" height="190"/>
+  <text class="a4c780f7-9896-4358-94e2-91e8b78fcce9" transform="translate(306 77.843)">OpenShift</text>
+  <rect class="a2854722-257a-4285-8485-6016e5b0d502" x="306" y="124" width="148" height="50"/>
+  <text class="b4ecaaa6-8874-46c7-bef0-2a4a7952147d" transform="translate(338.6 152.324)">Kafka instance</text>
+  <g>
+    <polyline class="e5c8002f-1a17-4520-9f43-3e5781cccc94" points="759.5 242.5 759.5 244 758 244"/>
+    <line class="ad7939fa-d760-4199-a405-d1c6e817dbdf" x1="755.034" y1="244" x2="584.483" y2="244"/>
+    <polyline class="e5c8002f-1a17-4520-9f43-3e5781cccc94" points="583 244 581.5 244 581.5 242.5"/>
+    <line class="bdb07a4d-98ef-4bf5-98ca-5224326bd759" x1="581.5" y1="239.532" x2="581.5" y2="56.984"/>
+    <polyline class="e5c8002f-1a17-4520-9f43-3e5781cccc94" points="581.5 55.5 581.5 54 583 54"/>
+    <line class="ad7939fa-d760-4199-a405-d1c6e817dbdf" x1="585.966" y1="54" x2="756.517" y2="54"/>
+    <polyline class="e5c8002f-1a17-4520-9f43-3e5781cccc94" points="758 54 759.5 54 759.5 55.5"/>
+    <line class="bdb07a4d-98ef-4bf5-98ca-5224326bd759" x1="759.5" y1="58.468" x2="759.5" y2="241.016"/>
+  </g>
+  <rect class="a28eeb74-347a-49f7-a31c-5f5551baa76d" x="596.5" y="69" width="148" height="50"/>
+  <text class="b4ecaaa6-8874-46c7-bef0-2a4a7952147d" transform="translate(636.054 90.824)">Kafka Client<tspan x="3.275" y="13">application</tspan></text>
+  <rect class="a28eeb74-347a-49f7-a31c-5f5551baa76d" x="597" y="179" width="148" height="50"/>
+  <text class="b4ecaaa6-8874-46c7-bef0-2a4a7952147d" transform="translate(632.01 207.324)">Kafka utilities</text>
+  <g>
+    <text class="ab121ff3-8732-418e-82ef-f5c639009660" transform="translate(96.436 42.805)">Managing Kafka</text>
+    <line class="fca24c32-febc-4c54-b969-b291e65ff561" x1="91.693" y1="39.324" x2="71.4" y2="54"/>
+  </g>
+  <g>
+    <text class="ab121ff3-8732-418e-82ef-f5c639009660" transform="translate(646.79 29.604)">Producing/consuming<tspan x="0" y="13.2">messages from Kafka</tspan></text>
+    <line class="fca24c32-febc-4c54-b969-b291e65ff561" x1="641.884" y1="34.287" x2="614.713" y2="53.937"/>
+  </g>
+  <g>
+    <line class="f8fedebd-aa98-46bb-8fa8-3d43759ca8a3" x1="173.176" y1="149" x2="296.324" y2="149"/>
+    <polygon class="fa8ed103-a9e6-4699-9104-0a58510037b2" points="174.635 153.986 166 149 174.635 144.014 174.635 153.986"/>
+    <polygon class="fa8ed103-a9e6-4699-9104-0a58510037b2" points="294.865 153.986 303.5 149 294.865 144.014 294.865 153.986"/>
+  </g>
+  <g>
+    <polyline class="f8fedebd-aa98-46bb-8fa8-3d43759ca8a3" points="173.176 94 199 94 199 204 173.176 204"/>
+    <polygon class="fa8ed103-a9e6-4699-9104-0a58510037b2" points="174.635 98.986 166 94 174.635 89.014 174.635 98.986"/>
+    <polygon class="fa8ed103-a9e6-4699-9104-0a58510037b2" points="174.635 199.014 166 204 174.635 208.986 174.635 199.014"/>
+  </g>
+  <g>
+    <g>
+      <line class="f8fedebd-aa98-46bb-8fa8-3d43759ca8a3" x1="561" y1="149" x2="463.676" y2="149"/>
+      <polygon class="fa8ed103-a9e6-4699-9104-0a58510037b2" points="465.135 144.014 456.5 149 465.135 153.986 465.135 144.014"/>
+    </g>
+    <g>
+      <polyline class="f8fedebd-aa98-46bb-8fa8-3d43759ca8a3" points="586.824 94 561 94 561 204 586.824 204"/>
+      <polygon class="fa8ed103-a9e6-4699-9104-0a58510037b2" points="585.365 89.014 594 94 585.365 98.986 585.365 89.014"/>
+      <polygon class="fa8ed103-a9e6-4699-9104-0a58510037b2" points="585.365 208.986 594 204 585.365 199.014 585.365 208.986"/>
+    </g>
+  </g>
+</svg>

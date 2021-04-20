@@ -1,0 +1,278 @@
+<svg id="bdd57798-1e72-4739-a5ec-98e74bbed4aa" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="760" height="438" viewBox="0 0 760 438">
+  <defs>
+    <style>
+      .a14feed8-4942-41a3-89ce-923c49ecc1dc, .f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0 {
+        fill: #e8e8e8;
+      }
+
+      .fc8bf562-d771-4414-816f-66ddb427b091 {
+        font-size: 14px;
+      }
+
+      .afc812a4-4948-4019-8c15-cdb5b7709030, .b5e99da1-3f2f-4cec-ae5b-498aaba4dc42, .f801fae5-8bd8-4021-bd87-ca98c8908e2a, .fc8bf562-d771-4414-816f-66ddb427b091 {
+        fill: #151515;
+      }
+
+      .f801fae5-8bd8-4021-bd87-ca98c8908e2a, .fc8bf562-d771-4414-816f-66ddb427b091 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .aeae931c-8c0f-451e-b936-e84983b5ffeb {
+        fill: #fff;
+      }
+
+      .afc812a4-4948-4019-8c15-cdb5b7709030, .f801fae5-8bd8-4021-bd87-ca98c8908e2a {
+        font-size: 12px;
+      }
+
+      .afc812a4-4948-4019-8c15-cdb5b7709030, .b5e99da1-3f2f-4cec-ae5b-498aaba4dc42 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .bad7f98e-3cf9-4f4e-8d71-e580690c27e7 {
+        fill: #d0d0d0;
+      }
+
+      .b5e99da1-3f2f-4cec-ae5b-498aaba4dc42 {
+        font-size: 11px;
+      }
+
+      .af67ffe0-9bdd-43a0-a61a-e978d6728d75 {
+        fill: #d9e8f7;
+      }
+
+      .bff4e7d8-5993-4b69-a2d5-bfb1b3dee17b {
+        fill: #06c;
+      }
+
+      .e0f3aeee-c032-488b-a135-2a6e935ab5fd {
+        fill: #b2d1f0;
+      }
+
+      .a14feed8-4942-41a3-89ce-923c49ecc1dc {
+        font-size: 10px;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .beb917c7-f75e-490a-ac34-7fd3f3154dcc {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0" d="M758,50V396H2V50H758m2-2H0V398H760V48Z"/>
+  <text class="fc8bf562-d771-4414-816f-66ddb427b091" transform="translate(20 79.971)">Kafka Cluster</text>
+  <g>
+    <rect class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0" x="20" y="95" width="229.5" height="283"/>
+    <rect class="aeae931c-8c0f-451e-b936-e84983b5ffeb" x="35" y="134" width="199.5" height="229"/>
+    <text class="f801fae5-8bd8-4021-bd87-ca98c8908e2a" transform="translate(34.5 120.343)">Broker</text>
+    <text class="afc812a4-4948-4019-8c15-cdb5b7709030" transform="translate(45.001 157.104)">Topic 1</text>
+    <g>
+      <rect class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0" x="45" y="232.081" width="179.5" height="58"/>
+      <text class="afc812a4-4948-4019-8c15-cdb5b7709030" transform="translate(55 252.186)">Partition 1</text>
+      <g>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="55" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(60.181 274.911)">0</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="75.246" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(82.253 274.911)">1</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="95.492" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(101.245 274.911)">2</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="115.738" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(121.288 274.911)">3</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="135.985" y="262.304" width="17.777" height="17.777"/>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="156.231" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(161.867 274.911)">5</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="176.477" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(181.878 274.911)">6</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="196.723" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(202.394 274.911)">7</text>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(141.292 274.911)">4</text>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect class="af67ffe0-9bdd-43a0-a61a-e978d6728d75" x="45.5" y="169.5" width="178.5" height="57"/>
+        <path class="bff4e7d8-5993-4b69-a2d5-bfb1b3dee17b" d="M223.5,170v56H46V170H223.5m1-1H45v58H224.5V169Z"/>
+      </g>
+      <text class="afc812a4-4948-4019-8c15-cdb5b7709030" transform="translate(55 189.104)">Partition 0</text>
+      <g>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="55" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(60.181 211.829)">0</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="75.246" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(82.253 211.829)">1</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="95.492" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(101.245 211.829)">2</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="115.738" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(121.288 211.829)">3</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="135.985" y="199.223" width="17.777" height="17.777"/>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="156.231" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(161.867 211.829)">5</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="176.477" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(181.878 211.829)">6</text>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(141.292 211.829)">4</text>
+      </g>
+    </g>
+    <g>
+      <rect class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0" x="45" y="295.081" width="179.5" height="58"/>
+      <text class="afc812a4-4948-4019-8c15-cdb5b7709030" transform="translate(55 315.186)">Partition 2</text>
+      <g>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="55" y="325.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(60.181 337.911)">0</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="75.246" y="325.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(82.253 337.911)">1</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="95.492" y="325.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(101.245 337.911)">2</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="115.738" y="325.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(121.288 337.911)">3</text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0" x="510.5" y="95" width="229.5" height="283"/>
+    <rect class="aeae931c-8c0f-451e-b936-e84983b5ffeb" x="525.5" y="134" width="199.5" height="229"/>
+    <text class="f801fae5-8bd8-4021-bd87-ca98c8908e2a" transform="translate(525 120.343)">Broker</text>
+    <text class="afc812a4-4948-4019-8c15-cdb5b7709030" transform="translate(535.501 157.104)">Topic 1</text>
+    <g>
+      <rect class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0" x="535.5" y="232.081" width="179.5" height="58"/>
+      <text class="afc812a4-4948-4019-8c15-cdb5b7709030" transform="translate(545.5 252.186)">Partition 1</text>
+      <g>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="545.5" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(550.681 274.911)">0</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="565.746" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(572.753 274.911)">1</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="585.992" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(591.745 274.911)">2</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="606.238" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(611.788 274.911)">3</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="626.485" y="262.304" width="17.777" height="17.777"/>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="646.731" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(652.367 274.911)">5</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="666.977" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(672.378 274.911)">6</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="687.223" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(692.894 274.911)">7</text>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(631.792 274.911)">4</text>
+      </g>
+    </g>
+    <g>
+      <rect class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0" x="535.5" y="169" width="179.5" height="58"/>
+      <text class="afc812a4-4948-4019-8c15-cdb5b7709030" transform="translate(545.5 189.104)">Partition 0</text>
+      <g>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="545.5" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(550.681 211.829)">0</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="565.746" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(572.753 211.829)">1</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="585.992" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(591.745 211.829)">2</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="606.238" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(611.788 211.829)">3</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="626.485" y="199.223" width="17.777" height="17.777"/>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="646.731" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(652.367 211.829)">5</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="666.977" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(672.378 211.829)">6</text>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(631.792 211.829)">4</text>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect class="af67ffe0-9bdd-43a0-a61a-e978d6728d75" x="536" y="295.582" width="178.5" height="57"/>
+        <path class="bff4e7d8-5993-4b69-a2d5-bfb1b3dee17b" d="M714,296.081v56H536.5v-56H714m1-1H535.5v58H715v-58Z"/>
+      </g>
+      <text class="afc812a4-4948-4019-8c15-cdb5b7709030" transform="translate(545.5 315.186)">Partition 2</text>
+      <g>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="545.5" y="325.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(550.681 337.911)">0</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="565.746" y="325.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(572.753 337.911)">1</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="585.992" y="325.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(591.745 337.911)">2</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="606.238" y="325.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(611.788 337.911)">3</text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0" x="265.25" y="95" width="229.5" height="283"/>
+    <rect class="aeae931c-8c0f-451e-b936-e84983b5ffeb" x="280.25" y="134" width="199.5" height="229"/>
+    <text class="f801fae5-8bd8-4021-bd87-ca98c8908e2a" transform="translate(279.75 120.343)">Broker</text>
+    <text class="afc812a4-4948-4019-8c15-cdb5b7709030" transform="translate(290.251 157.104)">Topic 1</text>
+    <g>
+      <g>
+        <rect class="af67ffe0-9bdd-43a0-a61a-e978d6728d75" x="290.75" y="232.582" width="178.5" height="57"/>
+        <path class="bff4e7d8-5993-4b69-a2d5-bfb1b3dee17b" d="M468.75,233.081v56H291.25v-56h177.5m1-1H290.25v58h179.5v-58Z"/>
+      </g>
+      <text class="afc812a4-4948-4019-8c15-cdb5b7709030" transform="translate(300.25 252.186)">Partition 1</text>
+      <g>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="300.25" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(305.431 274.911)">0</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="320.496" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(327.503 274.911)">1</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="340.742" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(346.495 274.911)">2</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="360.988" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(366.538 274.911)">3</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="381.235" y="262.304" width="17.777" height="17.777"/>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="401.481" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(407.117 274.911)">5</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="421.727" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(427.128 274.911)">6</text>
+        <rect class="e0f3aeee-c032-488b-a135-2a6e935ab5fd" x="441.973" y="262.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(447.644 274.911)">7</text>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(386.542 274.911)">4</text>
+      </g>
+    </g>
+    <g>
+      <rect class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0" x="290.25" y="169" width="179.5" height="58"/>
+      <text class="afc812a4-4948-4019-8c15-cdb5b7709030" transform="translate(300.25 189.104)">Partition 0</text>
+      <g>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="300.25" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(305.431 211.829)">0</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="320.496" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(327.503 211.829)">1</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="340.742" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(346.495 211.829)">2</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="360.988" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(366.538 211.829)">3</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="381.235" y="199.223" width="17.777" height="17.777"/>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="401.481" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(407.117 211.829)">5</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="421.727" y="199.223" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(427.128 211.829)">6</text>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(386.542 211.829)">4</text>
+      </g>
+    </g>
+    <g>
+      <rect class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0" x="290.25" y="295.081" width="179.5" height="58"/>
+      <text class="afc812a4-4948-4019-8c15-cdb5b7709030" transform="translate(300.25 315.186)">Partition 2</text>
+      <g>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="300.25" y="325.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(305.431 337.911)">0</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="320.496" y="325.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(327.503 337.911)">1</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="340.742" y="325.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(346.495 337.911)">2</text>
+        <rect class="bad7f98e-3cf9-4f4e-8d71-e580690c27e7" x="360.988" y="325.304" width="17.777" height="17.777"/>
+        <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(366.538 337.911)">3</text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g>
+      <g>
+        <rect class="af67ffe0-9bdd-43a0-a61a-e978d6728d75" x="590.986" y="20.503" width="11.997" height="11.997"/>
+        <path class="bff4e7d8-5993-4b69-a2d5-bfb1b3dee17b" d="M591.486,21l11,0,0,11h-11V21m-1-1V33l0,0h12.993l0-12.994-13-.006Z"/>
+      </g>
+      <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(609.413 29.786)">Leader</text>
+    </g>
+    <g>
+      <polygon class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0" points="685.689 20.006 672.689 20 672.689 32.998 672.691 33 685.684 33 685.689 20.006"/>
+      <text class="b5e99da1-3f2f-4cec-ae5b-498aaba4dc42" transform="translate(691.616 29.786)">Follower</text>
+    </g>
+  </g>
+  <g>
+    <text class="a14feed8-4942-41a3-89ce-923c49ecc1dc" transform="translate(667.191 421.017)">160_OpenShift_0421</text>
+    <rect class="beb917c7-f75e-490a-ac34-7fd3f3154dcc" y="398" width="760" height="40"/>
+  </g>
+</svg>

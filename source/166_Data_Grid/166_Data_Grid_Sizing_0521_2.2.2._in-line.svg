@@ -1,0 +1,172 @@
+<svg id="b6d15b38-4ca3-458d-894e-2bca76a3d058" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="760" height="420.77" viewBox="0 0 760 420.77">
+  <defs>
+    <style>
+      .a369c10f-05bd-4d66-b71f-e15d445f4c65, .b39cf0c3-4dfd-423b-8562-5ccfc274e2b4, .b4a322b1-60e5-418a-9432-a0b5ef64af2c, .b5bc793f-6698-45a9-b2c7-8f91a20e3f64, .e96c8ee2-564c-4b6d-b794-648b537a9a4f, .ed00b5c6-116e-4b40-98f4-c1c609edb748, .f643d9a1-aef1-4915-96f7-9e92902e6637 {
+        fill: none;
+      }
+
+      .b39cf0c3-4dfd-423b-8562-5ccfc274e2b4, .b5bc793f-6698-45a9-b2c7-8f91a20e3f64 {
+        stroke: #c4c4c4;
+      }
+
+      .b39cf0c3-4dfd-423b-8562-5ccfc274e2b4, .b4a322b1-60e5-418a-9432-a0b5ef64af2c, .e96c8ee2-564c-4b6d-b794-648b537a9a4f, .ed00b5c6-116e-4b40-98f4-c1c609edb748, .f643d9a1-aef1-4915-96f7-9e92902e6637 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b9857e10-b04d-4585-9bf0-68ea2106abc4 {
+        fill: #e8e8e8;
+      }
+
+      .fcfe1eaa-4c6f-41a4-84b8-0681b2c269f3 {
+        font-size: 14px;
+      }
+
+      .a5181ddc-af98-4a77-abc8-9bcf406c91ed, .a5da3aa6-088c-45ad-b28b-39431a6129d0, .f8a845ff-9025-498e-be8a-5b34e9755091, .fcfe1eaa-4c6f-41a4-84b8-0681b2c269f3 {
+        fill: #151515;
+      }
+
+      .f60d5f44-c165-4d57-94c6-6fe25928d4af, .fcfe1eaa-4c6f-41a4-84b8-0681b2c269f3 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .a98270e9-f103-481b-8e87-8d3582b5275b {
+        fill: #d9e8f7;
+      }
+
+      .e96c8ee2-564c-4b6d-b794-648b537a9a4f, .ed00b5c6-116e-4b40-98f4-c1c609edb748 {
+        stroke: #151515;
+      }
+
+      .e96c8ee2-564c-4b6d-b794-648b537a9a4f {
+        stroke-dasharray: 3 3;
+      }
+
+      .a5181ddc-af98-4a77-abc8-9bcf406c91ed, .a5da3aa6-088c-45ad-b28b-39431a6129d0, .f60d5f44-c165-4d57-94c6-6fe25928d4af {
+        font-size: 11px;
+      }
+
+      .a5da3aa6-088c-45ad-b28b-39431a6129d0 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .b9a94ea3-734f-4cad-b4d7-b92020ce5380, .f60d5f44-c165-4d57-94c6-6fe25928d4af {
+        fill: #fff;
+      }
+
+      .a5181ddc-af98-4a77-abc8-9bcf406c91ed, .aa542b19-ba8a-4b2d-8eb2-5dc6db165ec3 {
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .b58e3d8a-323e-4769-976b-486a34854ad8 {
+        fill: #06c;
+      }
+
+      .b5bc793f-6698-45a9-b2c7-8f91a20e3f64 {
+        stroke-miterlimit: 10;
+      }
+
+      .b4a322b1-60e5-418a-9432-a0b5ef64af2c, .f643d9a1-aef1-4915-96f7-9e92902e6637 {
+        stroke: #06c;
+      }
+
+      .b4a322b1-60e5-418a-9432-a0b5ef64af2c {
+        stroke-dasharray: 3.036 3.036;
+      }
+
+      .aa542b19-ba8a-4b2d-8eb2-5dc6db165ec3 {
+        font-size: 10px;
+        fill: #f3f3f3;
+      }
+    </style>
+  </defs>
+  <line class="b39cf0c3-4dfd-423b-8562-5ccfc274e2b4" x1="0.5" y1="212" x2="759.5" y2="212"/>
+  <rect class="b9857e10-b04d-4585-9bf0-68ea2106abc4" x="270" y="20" width="220" height="162.5"/>
+  <text class="fcfe1eaa-4c6f-41a4-84b8-0681b2c269f3" transform="translate(285 46.532)">Data Grid cluster</text>
+  <rect class="a98270e9-f103-481b-8e87-8d3582b5275b" x="285" y="62.5" width="190" height="50" transform="translate(760 175) rotate(-180)"/>
+  <g>
+    <line class="e96c8ee2-564c-4b6d-b794-648b537a9a4f" x1="275.324" y1="137.503" x2="190" y2="137.441"/>
+    <polygon class="f8a845ff-9025-498e-be8a-5b34e9755091" points="273.868 132.516 282.5 137.509 273.861 142.489 273.868 132.516"/>
+  </g>
+  <g>
+    <line class="ed00b5c6-116e-4b40-98f4-c1c609edb748" x1="549.824" y1="87.5" x2="475" y2="87.439"/>
+    <polygon class="f8a845ff-9025-498e-be8a-5b34e9755091" points="548.369 82.513 557 87.506 548.361 92.486 548.369 82.513"/>
+  </g>
+  <text class="a5da3aa6-088c-45ad-b28b-39431a6129d0" transform="translate(363.77 90.547)">Cache</text>
+  <rect class="b9a94ea3-734f-4cad-b4d7-b92020ce5380" x="285" y="112.5" width="190" height="50" transform="translate(760 275) rotate(-180)"/>
+  <text class="a5da3aa6-088c-45ad-b28b-39431a6129d0" transform="translate(346.165 140.547)">Cache loader</text>
+  <text class="a5181ddc-af98-4a77-abc8-9bcf406c91ed" transform="translate(214.581 129.475)">Read</text>
+  <g>
+    <circle class="b58e3d8a-323e-4769-976b-486a34854ad8" cx="448" cy="88" r="13"/>
+    <text class="f60d5f44-c165-4d57-94c6-6fe25928d4af" transform="translate(441.823 92.047)">K1</text>
+  </g>
+  <g>
+    <polyline class="b5bc793f-6698-45a9-b2c7-8f91a20e3f64" points="569.5 122.5 759.5 122.5 759.5 72.5"/>
+    <polyline class="b5bc793f-6698-45a9-b2c7-8f91a20e3f64" points="564.5 117.5 754.5 117.5 754.5 67.5"/>
+    <rect class="b9857e10-b04d-4585-9bf0-68ea2106abc4" x="559.5" y="62.5" width="190" height="50"/>
+    <text class="a5da3aa6-088c-45ad-b28b-39431a6129d0" transform="translate(622.485 90.546)">Applications</text>
+  </g>
+  <path class="b58e3d8a-323e-4769-976b-486a34854ad8" d="M474,63.5v98H286v-98H474m1-1H285v100H475V62.5Z"/>
+  <g>
+    <line class="f643d9a1-aef1-4915-96f7-9e92902e6637" x1="285.894" y1="112.484" x2="287.394" y2="112.484"/>
+    <line class="b4a322b1-60e5-418a-9432-a0b5ef64af2c" x1="290.43" y1="112.484" x2="471.088" y2="112.516"/>
+    <line class="f643d9a1-aef1-4915-96f7-9e92902e6637" x1="472.606" y1="112.516" x2="474.106" y2="112.516"/>
+  </g>
+  <g>
+    <rect class="b9857e10-b04d-4585-9bf0-68ea2106abc4" y="112.5" width="190" height="50"/>
+    <text class="a5da3aa6-088c-45ad-b28b-39431a6129d0" transform="translate(32.267 140.546)">Persistent storage</text>
+    <g>
+      <circle class="b58e3d8a-323e-4769-976b-486a34854ad8" cx="162.938" cy="137.5" r="13"/>
+      <text class="f60d5f44-c165-4d57-94c6-6fe25928d4af" transform="translate(156.76 141.547)">K1</text>
+    </g>
+  </g>
+  <rect class="b9857e10-b04d-4585-9bf0-68ea2106abc4" x="270" y="241.5" width="220" height="162.5"/>
+  <text class="fcfe1eaa-4c6f-41a4-84b8-0681b2c269f3" transform="translate(285 268.032)">Data Grid cluster</text>
+  <rect class="a98270e9-f103-481b-8e87-8d3582b5275b" x="285" y="284" width="190" height="50" transform="translate(760 618) rotate(-180)"/>
+  <g>
+    <line class="e96c8ee2-564c-4b6d-b794-648b537a9a4f" x1="275.324" y1="359.003" x2="199.676" y2="358.946"/>
+    <polygon class="f8a845ff-9025-498e-be8a-5b34e9755091" points="273.869 354.016 282.5 359.009 273.861 363.989 273.869 354.016"/>
+    <polygon class="f8a845ff-9025-498e-be8a-5b34e9755091" points="201.139 353.961 192.5 358.941 201.131 363.934 201.139 353.961"/>
+  </g>
+  <g>
+    <line class="ed00b5c6-116e-4b40-98f4-c1c609edb748" x1="549.824" y1="309" x2="484.676" y2="308.945"/>
+    <polygon class="f8a845ff-9025-498e-be8a-5b34e9755091" points="548.369 304.013 557 309.006 548.361 313.985 548.369 304.013"/>
+    <polygon class="f8a845ff-9025-498e-be8a-5b34e9755091" points="486.139 303.96 477.5 308.939 486.131 313.932 486.139 303.96"/>
+  </g>
+  <text class="a5da3aa6-088c-45ad-b28b-39431a6129d0" transform="translate(363.77 312.047)">Cache</text>
+  <rect class="b9a94ea3-734f-4cad-b4d7-b92020ce5380" x="285" y="334" width="190" height="50" transform="translate(760 718) rotate(-180)"/>
+  <text class="a5da3aa6-088c-45ad-b28b-39431a6129d0" transform="translate(349.019 362.047)">Cache store</text>
+  <text class="a5181ddc-af98-4a77-abc8-9bcf406c91ed" transform="translate(217.581 338.975)">Read<tspan x="-9.839" y="12">and write</tspan></text>
+  <g>
+    <circle class="b58e3d8a-323e-4769-976b-486a34854ad8" cx="448" cy="309.5" r="13"/>
+    <text class="f60d5f44-c165-4d57-94c6-6fe25928d4af" transform="translate(440.657 313.547)">K2</text>
+  </g>
+  <polyline class="b5bc793f-6698-45a9-b2c7-8f91a20e3f64" points="569.5 344 759.5 344 759.5 294"/>
+  <polyline class="b5bc793f-6698-45a9-b2c7-8f91a20e3f64" points="564.5 339 754.5 339 754.5 289"/>
+  <rect class="b9857e10-b04d-4585-9bf0-68ea2106abc4" x="559.5" y="284" width="190" height="50"/>
+  <text class="a5da3aa6-088c-45ad-b28b-39431a6129d0" transform="translate(622.485 312.046)">Applications</text>
+  <path class="b58e3d8a-323e-4769-976b-486a34854ad8" d="M474,285v98H286V285H474m1-1H285V384H475V284Z"/>
+  <g>
+    <line class="f643d9a1-aef1-4915-96f7-9e92902e6637" x1="285.894" y1="333.984" x2="287.394" y2="333.984"/>
+    <line class="b4a322b1-60e5-418a-9432-a0b5ef64af2c" x1="290.43" y1="333.984" x2="471.088" y2="334.016"/>
+    <line class="f643d9a1-aef1-4915-96f7-9e92902e6637" x1="472.606" y1="334.016" x2="474.106" y2="334.016"/>
+  </g>
+  <g>
+    <rect class="b9857e10-b04d-4585-9bf0-68ea2106abc4" y="334" width="190" height="50"/>
+    <text class="a5da3aa6-088c-45ad-b28b-39431a6129d0" transform="translate(32.267 362.046)">Persistent storage</text>
+    <g>
+      <circle class="b58e3d8a-323e-4769-976b-486a34854ad8" cx="162.938" cy="359" r="13"/>
+      <text class="f60d5f44-c165-4d57-94c6-6fe25928d4af" transform="translate(155.594 363.047)">K2</text>
+    </g>
+  </g>
+  <g>
+    <circle class="b58e3d8a-323e-4769-976b-486a34854ad8" cx="726.5" cy="309.5" r="13"/>
+    <text class="f60d5f44-c165-4d57-94c6-6fe25928d4af" transform="translate(719.157 313.547)">K2</text>
+  </g>
+  <g>
+    <text class="aa542b19-ba8a-4b2d-8eb2-5dc6db165ec3" transform="translate(668.851 403.787)">166_Data_Grid_0521</text>
+    <rect class="a369c10f-05bd-4d66-b71f-e15d445f4c65" y="380.77" width="760" height="40"/>
+  </g>
+</svg>

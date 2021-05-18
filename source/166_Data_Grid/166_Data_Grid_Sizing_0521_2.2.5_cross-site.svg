@@ -1,0 +1,184 @@
+<svg id="a64f25fd-e6cd-428a-b7c5-7dc9863326ce" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="760" height="307.973" viewBox="0 0 760 307.973">
+  <defs>
+    <style>
+      .a8e8b1f5-43a0-4c17-a178-46ffc0a61256, .ad4602ff-a347-47e7-91ff-1a0a07dc5a86, .af909c74-976b-4c97-9b48-bf29ca2ba401, .b26d81d4-3b43-46b7-bb0f-893f5bea6a9b, .be891421-a863-4b9b-a176-8e6261cd441f, .e4ff4ed8-7679-4c0a-8ab2-16030ad1c4ce, .e9712d37-ad14-45f6-ac51-88fc5afe4938, .efc6ceb7-eba7-429d-908d-687c2ccc86df {
+        fill: none;
+      }
+
+      .b26d81d4-3b43-46b7-bb0f-893f5bea6a9b, .e4ff4ed8-7679-4c0a-8ab2-16030ad1c4ce, .efc6ceb7-eba7-429d-908d-687c2ccc86df {
+        stroke: #adadad;
+      }
+
+      .a8e8b1f5-43a0-4c17-a178-46ffc0a61256, .b26d81d4-3b43-46b7-bb0f-893f5bea6a9b, .be891421-a863-4b9b-a176-8e6261cd441f, .e4ff4ed8-7679-4c0a-8ab2-16030ad1c4ce, .e9712d37-ad14-45f6-ac51-88fc5afe4938, .efc6ceb7-eba7-429d-908d-687c2ccc86df {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .b26d81d4-3b43-46b7-bb0f-893f5bea6a9b {
+        stroke-dasharray: 2.991 2.991;
+      }
+
+      .e4ff4ed8-7679-4c0a-8ab2-16030ad1c4ce {
+        stroke-dasharray: 3.019 3.019;
+      }
+
+      .be136d4c-da9d-4c9f-bfd6-27fa01475b8f {
+        fill: #e8e8e8;
+      }
+
+      .b1633130-49ca-402d-9286-cf4289b691f1 {
+        font-size: 14px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .a4fa216a-a6af-4cdc-abe4-00dcb65666b3, .a8222f7d-e386-457a-9d7b-bdf2a9995c67, .b1633130-49ca-402d-9286-cf4289b691f1, .fa1ab549-6682-46ff-b9dd-584d06c4cbb2 {
+        fill: #151515;
+      }
+
+      .a8e8b1f5-43a0-4c17-a178-46ffc0a61256, .e9712d37-ad14-45f6-ac51-88fc5afe4938 {
+        stroke: #151515;
+      }
+
+      .b1e559b7-669c-419b-8c47-928b257f3b68 {
+        fill: #fff;
+      }
+
+      .a8222f7d-e386-457a-9d7b-bdf2a9995c67, .fa1ab549-6682-46ff-b9dd-584d06c4cbb2 {
+        font-size: 11px;
+      }
+
+      .a8222f7d-e386-457a-9d7b-bdf2a9995c67 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .af909c74-976b-4c97-9b48-bf29ca2ba401 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .e9712d37-ad14-45f6-ac51-88fc5afe4938 {
+        stroke-dasharray: 2.929 2.929;
+      }
+
+      .be891421-a863-4b9b-a176-8e6261cd441f {
+        stroke: #e8e8e8;
+        stroke-width: 8px;
+      }
+
+      .fa1ab549-6682-46ff-b9dd-584d06c4cbb2, .fae41417-193d-4314-99cf-1ae0c6e39fcf {
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .fae41417-193d-4314-99cf-1ae0c6e39fcf {
+        font-size: 10px;
+        fill: #f3f3f3;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="efc6ceb7-eba7-429d-908d-687c2ccc86df" points="0.5 22 0.5 20.5 2 20.5"/>
+    <line class="b26d81d4-3b43-46b7-bb0f-893f5bea6a9b" x1="4.991" y1="20.5" x2="332.504" y2="20.5"/>
+    <polyline class="efc6ceb7-eba7-429d-908d-687c2ccc86df" points="334 20.5 335.5 20.5 335.5 22"/>
+    <line class="e4ff4ed8-7679-4c0a-8ab2-16030ad1c4ce" x1="335.5" y1="25.019" x2="335.5" y2="264.991"/>
+    <polyline class="efc6ceb7-eba7-429d-908d-687c2ccc86df" points="335.5 266.5 335.5 268 334 268"/>
+    <line class="b26d81d4-3b43-46b7-bb0f-893f5bea6a9b" x1="331.009" y1="268" x2="3.496" y2="268"/>
+    <polyline class="efc6ceb7-eba7-429d-908d-687c2ccc86df" points="2 268 0.5 268 0.5 266.5"/>
+    <line class="e4ff4ed8-7679-4c0a-8ab2-16030ad1c4ce" x1="0.5" y1="263.482" x2="0.5" y2="23.509"/>
+  </g>
+  <rect class="be136d4c-da9d-4c9f-bfd6-27fa01475b8f" x="15.5" y="35.5" width="305" height="217.5"/>
+  <text class="b1633130-49ca-402d-9286-cf4289b691f1" transform="translate(30.5 62.032)">Data Grid cluster</text>
+  <g>
+    <line class="a8e8b1f5-43a0-4c17-a178-46ffc0a61256" x1="150.176" y1="212.976" x2="185.824" y2="213.024"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="151.629 217.964 143 212.966 151.642 207.992 151.629 217.964"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="184.358 218.008 193 213.034 184.371 208.036 184.358 218.008"/>
+  </g>
+  <g>
+    <polyline class="a8e8b1f5-43a0-4c17-a178-46ffc0a61256" points="85.516 178.324 85.462 150.85 160.5 150.85 160.5 136.651"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="90.5 176.855 85.53 185.5 80.527 176.875 90.5 176.855"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="165.486 138.11 160.5 129.475 155.514 138.11 165.486 138.11"/>
+  </g>
+  <g>
+    <polyline class="a8e8b1f5-43a0-4c17-a178-46ffc0a61256" points="250.484 178.324 250.538 150.85 175.5 150.85 175.5 136.651"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="255.473 176.875 250.47 185.5 245.5 176.855 255.473 176.875"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="180.486 138.11 175.5 129.475 170.514 138.11 180.486 138.11"/>
+  </g>
+  <rect class="b1e559b7-669c-419b-8c47-928b257f3b68" x="30.5" y="188" width="110" height="50" transform="translate(171 426) rotate(-180)"/>
+  <text class="a8222f7d-e386-457a-9d7b-bdf2a9995c67" transform="translate(67.147 216.047)">Node 2</text>
+  <rect class="b1e559b7-669c-419b-8c47-928b257f3b68" x="195.5" y="188" width="110" height="50" transform="translate(501 426) rotate(-180)"/>
+  <text class="a8222f7d-e386-457a-9d7b-bdf2a9995c67" transform="translate(231.096 216.047)">Node N</text>
+  <rect class="b1e559b7-669c-419b-8c47-928b257f3b68" x="117.306" y="260.61" width="101.388" height="14.727" transform="translate(336 535.946) rotate(-180)"/>
+  <g>
+    <rect class="b1e559b7-669c-419b-8c47-928b257f3b68" x="113" y="78" width="110" height="50" transform="translate(336 206) rotate(-180)"/>
+    <text class="a8222f7d-e386-457a-9d7b-bdf2a9995c67" transform="translate(150.901 106.047)">Node 1</text>
+  </g>
+  <text class="a8222f7d-e386-457a-9d7b-bdf2a9995c67" transform="translate(119.662 270.871)">Data center (LON)</text>
+  <g>
+    <polyline class="efc6ceb7-eba7-429d-908d-687c2ccc86df" points="424.5 22 424.5 20.5 426 20.5"/>
+    <line class="b26d81d4-3b43-46b7-bb0f-893f5bea6a9b" x1="428.991" y1="20.5" x2="756.504" y2="20.5"/>
+    <polyline class="efc6ceb7-eba7-429d-908d-687c2ccc86df" points="758 20.5 759.5 20.5 759.5 22"/>
+    <line class="e4ff4ed8-7679-4c0a-8ab2-16030ad1c4ce" x1="759.5" y1="25.019" x2="759.5" y2="264.991"/>
+    <polyline class="efc6ceb7-eba7-429d-908d-687c2ccc86df" points="759.5 266.5 759.5 268 758 268"/>
+    <line class="b26d81d4-3b43-46b7-bb0f-893f5bea6a9b" x1="755.009" y1="268" x2="427.496" y2="268"/>
+    <polyline class="efc6ceb7-eba7-429d-908d-687c2ccc86df" points="426 268 424.5 268 424.5 266.5"/>
+    <line class="e4ff4ed8-7679-4c0a-8ab2-16030ad1c4ce" x1="424.5" y1="263.482" x2="424.5" y2="23.509"/>
+  </g>
+  <rect class="be136d4c-da9d-4c9f-bfd6-27fa01475b8f" x="439.5" y="35.5" width="305" height="217.5"/>
+  <text class="b1633130-49ca-402d-9286-cf4289b691f1" transform="translate(454.5 62.032)">Data Grid cluster</text>
+  <g>
+    <line class="a8e8b1f5-43a0-4c17-a178-46ffc0a61256" x1="574.176" y1="212.976" x2="609.824" y2="213.024"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="575.629 217.964 567 212.966 575.642 207.992 575.629 217.964"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="608.358 218.008 617 213.034 608.371 208.036 608.358 218.008"/>
+  </g>
+  <g>
+    <line class="a8e8b1f5-43a0-4c17-a178-46ffc0a61256" x1="574.176" y1="102.976" x2="609.824" y2="103.024"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="575.629 107.964 567 102.966 575.642 97.992 575.629 107.964"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="608.358 108.009 617 103.034 608.371 98.036 608.358 108.009"/>
+  </g>
+  <line class="af909c74-976b-4c97-9b48-bf29ca2ba401" x1="331.96" y1="144.216" x2="428.04" y2="144.284"/>
+  <g>
+    <line class="a8e8b1f5-43a0-4c17-a178-46ffc0a61256" x1="330.176" y1="144.22" x2="331.676" y2="144.221"/>
+    <line class="e9712d37-ad14-45f6-ac51-88fc5afe4938" x1="334.605" y1="144.223" x2="426.86" y2="144.278"/>
+    <line class="a8e8b1f5-43a0-4c17-a178-46ffc0a61256" x1="428.324" y1="144.279" x2="429.824" y2="144.28"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="331.632 149.208 323 144.216 331.638 139.235 331.632 149.208"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="428.362 149.265 437 144.284 428.368 139.292 428.362 149.265"/>
+  </g>
+  <g>
+    <line class="a8e8b1f5-43a0-4c17-a178-46ffc0a61256" x1="502.025" y1="178.324" x2="501.975" y2="137.676"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="507.01 176.859 502.034 185.5 497.037 176.871 507.01 176.859"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="506.963 139.129 501.966 130.5 496.99 139.141 506.963 139.129"/>
+  </g>
+  <g>
+    <line class="a8e8b1f5-43a0-4c17-a178-46ffc0a61256" x1="682.025" y1="178.324" x2="681.975" y2="137.676"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="687.01 176.859 682.034 185.5 677.037 176.871 687.01 176.859"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="686.963 139.129 681.966 130.5 676.99 139.141 686.963 139.129"/>
+  </g>
+  <rect class="b1e559b7-669c-419b-8c47-928b257f3b68" x="454.5" y="188" width="110" height="50" transform="translate(1019 426) rotate(-180)"/>
+  <text class="a8222f7d-e386-457a-9d7b-bdf2a9995c67" transform="translate(491.147 216.047)">Node 2</text>
+  <rect class="b1e559b7-669c-419b-8c47-928b257f3b68" x="619.5" y="188" width="110" height="50" transform="translate(1349 426) rotate(-180)"/>
+  <text class="a8222f7d-e386-457a-9d7b-bdf2a9995c67" transform="translate(655.096 216.047)">Node N</text>
+  <rect class="b1e559b7-669c-419b-8c47-928b257f3b68" x="454.5" y="78" width="110" height="50" transform="translate(1019 206) rotate(-180)"/>
+  <rect class="b1e559b7-669c-419b-8c47-928b257f3b68" x="541.861" y="260.61" width="100.278" height="14.727" transform="translate(1184 535.946) rotate(-180)"/>
+  <text class="a8222f7d-e386-457a-9d7b-bdf2a9995c67" transform="translate(492.401 106.047)">Node 1</text>
+  <rect class="b1e559b7-669c-419b-8c47-928b257f3b68" x="619.5" y="78" width="110" height="50" transform="translate(1349 206) rotate(-180)"/>
+  <text class="a8222f7d-e386-457a-9d7b-bdf2a9995c67" transform="translate(655.944 106.047)">Node 3</text>
+  <text class="a8222f7d-e386-457a-9d7b-bdf2a9995c67" transform="translate(543.798 270.871)">Data center (NYC)</text>
+  <g>
+    <polyline class="a8e8b1f5-43a0-4c17-a178-46ffc0a61256" points="517.034 138.036 517.034 165.53 667.034 165.462 667.034 178.324"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="512.048 139.495 517.034 130.86 522.02 139.495 512.048 139.495"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="662.048 176.865 667.034 185.5 672.02 176.865 662.048 176.865"/>
+  </g>
+  <line class="be891421-a863-4b9b-a176-8e6261cd441f" x1="532.034" y1="175.87" x2="532.034" y2="149.834"/>
+  <text class="fa1ab549-6682-46ff-b9dd-584d06c4cbb2" transform="translate(358.447 124.251)">JGroups<tspan x="1.056" y="12">RELAY2</tspan></text>
+  <g>
+    <text class="fae41417-193d-4314-99cf-1ae0c6e39fcf" transform="translate(668.852 290.99)">166_Data_Grid_0521</text>
+    <rect class="ad4602ff-a347-47e7-91ff-1a0a07dc5a86" y="267.973" width="760" height="40"/>
+  </g>
+  <g>
+    <polyline class="a8e8b1f5-43a0-4c17-a178-46ffc0a61256" points="532.034 178.324 532.034 150.83 667.034 150.898 667.034 138.036"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="537.02 176.865 532.034 185.5 527.048 176.865 537.02 176.865"/>
+    <polygon class="a4fa216a-a6af-4cdc-abe4-00dcb65666b3" points="672.02 139.495 667.034 130.86 662.048 139.495 672.02 139.495"/>
+  </g>
+</svg>

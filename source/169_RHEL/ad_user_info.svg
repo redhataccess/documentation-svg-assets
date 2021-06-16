@@ -1,0 +1,183 @@
+<svg id="b56ea49a-34fb-4668-84ca-9706e08afb6c" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="546.513" viewBox="0 0 760 546.513">
+  <defs>
+    <style>
+      .ed8580ef-1a06-4da2-9663-8661c871019f {
+        fill: #c4c4c4;
+      }
+
+      .b329541f-7c3a-469e-a627-3f7d8c47cca2 {
+        fill: #e8e8e8;
+      }
+
+      .a4f60fdd-8191-44e1-a1c9-76bfd45ca60a, .a76cb40d-8d1f-4d11-b569-ebfa80a93242, .eb15deb3-c43a-420b-a035-88e8adf5e92e {
+        fill: #fff;
+      }
+
+      .b4a037a7-3f88-4bd7-83df-6a2b71dcf917 {
+        font-size: 14px;
+      }
+
+      .b4a037a7-3f88-4bd7-83df-6a2b71dcf917, .bd6f6bbf-2715-4b48-8418-ba95b8ae3f73, .e0bf032a-9e42-42c0-b027-7c249e7cbcf9, .f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c {
+        fill: #151515;
+      }
+
+      .b4a037a7-3f88-4bd7-83df-6a2b71dcf917, .e0bf032a-9e42-42c0-b027-7c249e7cbcf9, .eb15deb3-c43a-420b-a035-88e8adf5e92e {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .a09bddb5-6264-404d-8656-835016ea2c4b, .a0ea5673-fb20-4c48-b9de-a64e613ea797, .b2b63008-e2ef-456e-825f-35396bbee550, .eb5c1331-db54-4421-bebf-44fe128f76d8 {
+        fill: none;
+      }
+
+      .a0ea5673-fb20-4c48-b9de-a64e613ea797 {
+        stroke: #151515;
+      }
+
+      .a09bddb5-6264-404d-8656-835016ea2c4b, .a0ea5673-fb20-4c48-b9de-a64e613ea797, .b2b63008-e2ef-456e-825f-35396bbee550 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .eb15deb3-c43a-420b-a035-88e8adf5e92e {
+        font-size: 11px;
+      }
+
+      .a09bddb5-6264-404d-8656-835016ea2c4b, .b2b63008-e2ef-456e-825f-35396bbee550 {
+        stroke: #fff;
+      }
+
+      .b2b63008-e2ef-456e-825f-35396bbee550 {
+        stroke-width: 8px;
+      }
+
+      .a09bddb5-6264-404d-8656-835016ea2c4b {
+        stroke-width: 2px;
+      }
+
+      .a4f60fdd-8191-44e1-a1c9-76bfd45ca60a, .e0bf032a-9e42-42c0-b027-7c249e7cbcf9 {
+        font-size: 12px;
+      }
+
+      .bb8e881e-6618-4458-b019-b866db9f931b {
+        font-size: 10px;
+        fill: #ececec;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .bd6f6bbf-2715-4b48-8418-ba95b8ae3f73 {
+        font-size: 9px;
+        font-family: LiberationMono, Liberation Mono;
+      }
+
+      .a9a60171-9176-4fb1-9b8b-5afb35abe7c8 {
+        font-family: LiberationMono-Italic, Liberation Mono;
+        font-style: italic;
+      }
+
+      .a53a30f4-c18b-496c-9c96-1c2a43dfe9e1 {
+        fill: #06c;
+      }
+
+      .a4f60fdd-8191-44e1-a1c9-76bfd45ca60a {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <path class="ed8580ef-1a06-4da2-9663-8661c871019f" d="M609,27.013v47H1v-47H609m1-1H0v49H610v-49Z"/>
+  <rect class="b329541f-7c3a-469e-a627-3f7d8c47cca2" x="210" y="100.513" width="190" height="416"/>
+  <rect class="a76cb40d-8d1f-4d11-b569-ebfa80a93242" x="225" y="378.013" width="160" height="123.5"/>
+  <rect class="b329541f-7c3a-469e-a627-3f7d8c47cca2" y="100.513" width="190" height="416"/>
+  <rect class="b329541f-7c3a-469e-a627-3f7d8c47cca2" x="420" y="100.513" width="190" height="416"/>
+  <text class="b4a037a7-3f88-4bd7-83df-6a2b71dcf917" transform="translate(434.999 127.802)">Active Directory <tspan x="0" y="15">domain controller</tspan></text>
+  <g>
+    <polyline class="a0ea5673-fb20-4c48-b9de-a64e613ea797" points="70 323.013 70 469.013 225.324 469.013"/>
+    <polygon class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" points="223.865 474 232.5 469.013 223.865 464.027 223.865 474"/>
+  </g>
+  <g>
+    <circle class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" cx="70" cy="353.481" r="13"/>
+    <text class="eb15deb3-c43a-420b-a035-88e8adf5e92e" transform="translate(66.467 357.266)">2</text>
+  </g>
+  <g>
+    <polyline class="a0ea5673-fb20-4c48-b9de-a64e613ea797" points="120 332.69 120 454.013 235 454.013"/>
+    <polygon class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" points="115.014 334.149 120 325.513 124.986 334.149 115.014 334.149"/>
+  </g>
+  <g>
+    <circle class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" cx="120" cy="353.481" r="13"/>
+    <text class="eb15deb3-c43a-420b-a035-88e8adf5e92e" transform="translate(116.351 357.266)">7</text>
+  </g>
+  <text class="b4a037a7-3f88-4bd7-83df-6a2b71dcf917" transform="translate(224.999 127.802)">IdM server</text>
+  <line class="b2b63008-e2ef-456e-825f-35396bbee550" x1="69.768" y1="73.531" x2="69.768" y2="85.806"/>
+  <g>
+    <line class="a09bddb5-6264-404d-8656-835016ea2c4b" x1="119.767" y1="77.62" x2="119.767" y2="85.069"/>
+    <polygon class="a76cb40d-8d1f-4d11-b569-ebfa80a93242" points="109.795 80.538 119.767 63.267 129.74 80.538 109.795 80.538"/>
+  </g>
+  <g>
+    <line class="a0ea5673-fb20-4c48-b9de-a64e613ea797" x1="70" y1="70" x2="70" y2="223.337"/>
+    <polygon class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" points="65.014 221.878 70 230.513 74.986 221.878 65.014 221.878"/>
+  </g>
+  <g>
+    <line class="a0ea5673-fb20-4c48-b9de-a64e613ea797" x1="120" y1="233.013" x2="120" y2="79.176"/>
+    <polygon class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" points="124.986 80.635 120 72 115.014 80.635 124.986 80.635"/>
+  </g>
+  <g>
+    <circle class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" cx="70" cy="200.513" r="13"/>
+    <text class="eb15deb3-c43a-420b-a035-88e8adf5e92e" transform="translate(67.633 204.299)">1</text>
+  </g>
+  <g>
+    <circle class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" cx="120" cy="200.513" r="13"/>
+    <text class="eb15deb3-c43a-420b-a035-88e8adf5e92e" transform="translate(116.241 204.299)">8</text>
+  </g>
+  <rect class="b329541f-7c3a-469e-a627-3f7d8c47cca2" x="35.226" y="114.013" width="53.548" height="18.099"/>
+  <text class="b4a037a7-3f88-4bd7-83df-6a2b71dcf917" transform="translate(15 127.802)">IdM client</text>
+  <rect class="a76cb40d-8d1f-4d11-b569-ebfa80a93242" x="20" y="242.109" width="53.548" height="12.752"/>
+  <rect class="a76cb40d-8d1f-4d11-b569-ebfa80a93242" x="15" y="233.013" width="160" height="90"/>
+  <text class="e0bf032a-9e42-42c0-b027-7c249e7cbcf9" transform="translate(25 251.618)">SSSD</text>
+  <g>
+    <polyline class="a0ea5673-fb20-4c48-b9de-a64e613ea797" points="522 223.337 522 160.513 279.5 160.513 279.5 233.013"/>
+    <polygon class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" points="526.986 221.878 522 230.513 517.014 221.878 526.986 221.878"/>
+  </g>
+  <g>
+    <polyline class="a0ea5673-fb20-4c48-b9de-a64e613ea797" points="507 233.013 507 175.513 329.5 175.513 329.5 223.337"/>
+    <polygon class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" points="324.514 221.878 329.5 230.513 334.486 221.878 324.514 221.878"/>
+  </g>
+  <g>
+    <circle class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" cx="329.5" cy="200.513" r="13"/>
+    <text class="eb15deb3-c43a-420b-a035-88e8adf5e92e" transform="translate(325.862 204.299)">5</text>
+  </g>
+  <g>
+    <circle class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" cx="279.75" cy="200.513" r="13"/>
+    <text class="eb15deb3-c43a-420b-a035-88e8adf5e92e" transform="translate(275.705 204.299)">4</text>
+  </g>
+  <g>
+    <line class="a0ea5673-fb20-4c48-b9de-a64e613ea797" x1="279.5" y1="332.69" x2="279.5" y2="431.513"/>
+    <polygon class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" points="274.514 334.149 279.5 325.513 284.486 334.149 274.514 334.149"/>
+  </g>
+  <g>
+    <line class="a0ea5673-fb20-4c48-b9de-a64e613ea797" x1="329.5" y1="323.013" x2="329.5" y2="421.837"/>
+    <polygon class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" points="324.514 420.378 329.5 429.013 334.486 420.378 324.514 420.378"/>
+  </g>
+  <g>
+    <circle class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" cx="329.5" cy="353.481" r="13"/>
+    <text class="eb15deb3-c43a-420b-a035-88e8adf5e92e" transform="translate(325.67 357.266)">6</text>
+  </g>
+  <g>
+    <circle class="f13883e7-8e4d-4bed-9cfd-8fe03dfd7b0c" cx="279.75" cy="353.481" r="13"/>
+    <text class="eb15deb3-c43a-420b-a035-88e8adf5e92e" transform="translate(276.019 357.266)">3</text>
+  </g>
+  <rect class="a76cb40d-8d1f-4d11-b569-ebfa80a93242" x="225" y="233.013" width="160" height="90"/>
+  <text class="e0bf032a-9e42-42c0-b027-7c249e7cbcf9" transform="translate(235 251.618)">SSSD</text>
+  <rect class="a76cb40d-8d1f-4d11-b569-ebfa80a93242" x="435" y="233.013" width="160" height="90"/>
+  <text class="e0bf032a-9e42-42c0-b027-7c249e7cbcf9" transform="translate(445 251.618)">LDAP <tspan x="0" y="13">Directory Server</tspan></text>
+  <rect class="a76cb40d-8d1f-4d11-b569-ebfa80a93242" x="230" y="400.11" width="110.472" height="12.752"/>
+  <text class="e0bf032a-9e42-42c0-b027-7c249e7cbcf9" transform="translate(235 396.618)">LDAP <tspan x="0" y="13">Directory Server</tspan></text>
+  <g>
+    <text class="bb8e881e-6618-4458-b019-b866db9f931b" transform="translate(688.031 516.531)">169_RHEL_0621</text>
+    <rect class="eb5c1331-db54-4421-bebf-44fe128f76d8" y="493.513" width="760" height="40"/>
+  </g>
+  <rect class="b329541f-7c3a-469e-a627-3f7d8c47cca2" x="5" y="31.013" width="600" height="39" transform="translate(610 101.027) rotate(-180)"/>
+  <text class="bd6f6bbf-2715-4b48-8418-ba95b8ae3f73" transform="translate(15 53.837)">[user@client ~]$ getent passwd <tspan class="a9a60171-9176-4fb1-9b8b-5afb35abe7c8" x="167.427" y="0">&lt;ad_user_name&gt;@ad.example.com</tspan></text>
+  <rect class="a53a30f4-c18b-496c-9c96-1c2a43dfe9e1" x="235" y="431.513" width="140" height="60"/>
+  <text class="a4f60fdd-8191-44e1-a1c9-76bfd45ca60a" transform="translate(284.714 452.837)">IdM DS<tspan x="-20.508" y="12">extdom_extop</tspan><tspan x="2.958" y="24">plugin</tspan></text>
+</svg>

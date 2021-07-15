@@ -1,0 +1,171 @@
+<svg id="a24e26ae-bc38-4555-a021-17e5e8d0e12d" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="483.999" viewBox="0 0 760 483.999">
+  <defs>
+    <style>
+      .a4b23025-4025-4fbd-8d88-e20c56858cc3 {
+        fill: #e8e8e8;
+      }
+
+      .a23f72f0-26d9-4cdc-9adc-8fcda22686ba {
+        font-size: 14px;
+      }
+
+      .a23f72f0-26d9-4cdc-9adc-8fcda22686ba, .b8456720-106a-44ef-a796-b57b94069c83, .bb32819f-9755-4495-95ec-ac25d45a2c06, .f660e625-73a7-487d-8db0-afeaab6974fb {
+        fill: #151515;
+      }
+
+      .a23f72f0-26d9-4cdc-9adc-8fcda22686ba, .bddbb00d-761d-4020-bc2e-788b100d3bd5 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .aebdf118-8837-49f9-baa1-69df5d496130, .ed363ad3-ebf7-4234-9368-e5139bd1e9c6, .f660e625-73a7-487d-8db0-afeaab6974fb {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .aab82d39-c0a9-4330-ad75-19158507f109, .bddbb00d-761d-4020-bc2e-788b100d3bd5, .ed363ad3-ebf7-4234-9368-e5139bd1e9c6 {
+        fill: #fff;
+      }
+
+      .aaa21b3b-7b56-411b-abf8-fb675a4e6d25 {
+        fill: #06c;
+      }
+
+      .ed363ad3-ebf7-4234-9368-e5139bd1e9c6, .f660e625-73a7-487d-8db0-afeaab6974fb {
+        font-size: 12px;
+      }
+
+      .a08430b0-53d2-427e-b169-27081b9058c0, .a98dd84c-9b34-40ce-bdfb-6b31e47bf164, .afb26bd8-5616-4eb2-b2c6-be30965462f7 {
+        fill: none;
+      }
+
+      .a08430b0-53d2-427e-b169-27081b9058c0, .afb26bd8-5616-4eb2-b2c6-be30965462f7 {
+        stroke: #151515;
+      }
+
+      .afb26bd8-5616-4eb2-b2c6-be30965462f7 {
+        stroke-miterlimit: 10;
+      }
+
+      .a4e9d997-a96e-4b67-8098-d363302d107a, .bb32819f-9755-4495-95ec-ac25d45a2c06 {
+        font-size: 10px;
+      }
+
+      .bb32819f-9755-4495-95ec-ac25d45a2c06 {
+        font-family: LiberationMono, Liberation Mono;
+      }
+
+      .a08430b0-53d2-427e-b169-27081b9058c0 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .bddbb00d-761d-4020-bc2e-788b100d3bd5 {
+        font-size: 11px;
+      }
+
+      .a4e9d997-a96e-4b67-8098-d363302d107a {
+        fill: #ececec;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <rect class="a4b23025-4025-4fbd-8d88-e20c56858cc3" x="15.5" y="19.724" width="276" height="367"/>
+  <text class="a23f72f0-26d9-4cdc-9adc-8fcda22686ba" transform="translate(35.5 51.512)">Application logic<tspan class="aebdf118-8837-49f9-baa1-69df5d496130"><tspan x="0" y="17">Namespace 1</tspan></tspan></text>
+  <g>
+    <rect class="aab82d39-c0a9-4330-ad75-19158507f109" x="36" y="87.224" width="235" height="49"/>
+    <path class="aaa21b3b-7b56-411b-abf8-fb675a4e6d25" d="M270.5,87.724v48H36.5v-48h234m1-1H35.5v50h236v-50Z"/>
+  </g>
+  <text class="f660e625-73a7-487d-8db0-afeaab6974fb" transform="translate(93.297 115.048)">Application container</text>
+  <rect class="aaa21b3b-7b56-411b-abf8-fb675a4e6d25" x="35.5" y="206.724" width="236" height="50"/>
+  <text class="ed363ad3-ebf7-4234-9368-e5139bd1e9c6" transform="translate(114.885 235.048)">Sidecar proxy</text>
+  <g>
+    <line class="afb26bd8-5616-4eb2-b2c6-be30965462f7" x1="153.5" y1="136.724" x2="153.5" y2="197.048"/>
+    <polygon class="b8456720-106a-44ef-a796-b57b94069c83" points="148.514 195.589 153.5 204.224 158.486 195.589 148.514 195.589"/>
+  </g>
+  <text class="bb32819f-9755-4495-95ec-ac25d45a2c06" transform="translate(302.3 201.002)">lb, policy <tspan x="0" y="13">tracing/</tspan><tspan x="0" y="26">tap mTLS</tspan></text>
+  <line class="a08430b0-53d2-427e-b169-27081b9058c0" x1="297.3" y1="211.724" x2="279.725" y2="227.68"/>
+  <text class="bb32819f-9755-4495-95ec-ac25d45a2c06" transform="translate(168.5 166.132)">plaintext<tspan x="0" y="13">http, h2, tcp</tspan></text>
+  <g>
+    <circle class="b8456720-106a-44ef-a796-b57b94069c83" cx="153.5" cy="169.224" r="10"/>
+    <text class="bddbb00d-761d-4020-bc2e-788b100d3bd5" transform="translate(151.133 173.009)">1</text>
+  </g>
+  <g>
+    <rect class="a4b23025-4025-4fbd-8d88-e20c56858cc3" x="283.651" y="416.935" width="116" height="50"/>
+    <text class="f660e625-73a7-487d-8db0-afeaab6974fb" transform="translate(328.037 445.259)">OVN</text>
+  </g>
+  <g>
+    <line class="afb26bd8-5616-4eb2-b2c6-be30965462f7" x1="153.5" y1="256.724" x2="153.5" y2="307.048"/>
+    <polygon class="b8456720-106a-44ef-a796-b57b94069c83" points="148.514 305.589 153.5 314.224 158.486 305.589 148.514 305.589"/>
+  </g>
+  <g>
+    <circle class="b8456720-106a-44ef-a796-b57b94069c83" cx="271.5" cy="231.724" r="10"/>
+    <text class="bddbb00d-761d-4020-bc2e-788b100d3bd5" transform="translate(267.967 235.51)">2</text>
+  </g>
+  <rect class="a4b23025-4025-4fbd-8d88-e20c56858cc3" x="391.801" y="19.724" width="276" height="367"/>
+  <text class="a23f72f0-26d9-4cdc-9adc-8fcda22686ba" transform="translate(411.801 51.512)">Application userdb<tspan class="aebdf118-8837-49f9-baa1-69df5d496130"><tspan x="0" y="17">Namespace 2</tspan></tspan></text>
+  <g>
+    <rect class="aab82d39-c0a9-4330-ad75-19158507f109" x="412.302" y="87.224" width="235" height="49"/>
+    <path class="aaa21b3b-7b56-411b-abf8-fb675a4e6d25" d="M646.8,87.724v48h-234v-48h234m1-1h-236v50h236v-50Z"/>
+  </g>
+  <text class="f660e625-73a7-487d-8db0-afeaab6974fb" transform="translate(469.599 115.048)">Application container</text>
+  <rect class="aaa21b3b-7b56-411b-abf8-fb675a4e6d25" x="411.801" y="206.724" width="236" height="50"/>
+  <text class="ed363ad3-ebf7-4234-9368-e5139bd1e9c6" transform="translate(491.186 235.048)">Sidecar proxy</text>
+  <g>
+    <line class="afb26bd8-5616-4eb2-b2c6-be30965462f7" x1="529.802" y1="146.4" x2="529.802" y2="206.724"/>
+    <polygon class="b8456720-106a-44ef-a796-b57b94069c83" points="524.815 147.859 529.802 139.224 534.788 147.859 524.815 147.859"/>
+  </g>
+  <text class="bb32819f-9755-4495-95ec-ac25d45a2c06" transform="translate(678.602 201.002)">tracing/<tspan x="0" y="13">tap auth </tspan><tspan x="0" y="26">policy mTLS</tspan></text>
+  <line class="a08430b0-53d2-427e-b169-27081b9058c0" x1="673.602" y1="211.724" x2="656.027" y2="227.68"/>
+  <text class="bb32819f-9755-4495-95ec-ac25d45a2c06" transform="translate(544.802 171.132)">plaintext<tspan x="0" y="13">http, h2, tcp</tspan></text>
+  <g>
+    <circle class="b8456720-106a-44ef-a796-b57b94069c83" cx="529.801" cy="174.224" r="10"/>
+    <text class="bddbb00d-761d-4020-bc2e-788b100d3bd5" transform="translate(526.042 178.009)">8</text>
+  </g>
+  <rect class="aab82d39-c0a9-4330-ad75-19158507f109" x="411.802" y="316.724" width="236" height="50"/>
+  <text class="f660e625-73a7-487d-8db0-afeaab6974fb" transform="translate(490.424 345.048)">Pod Eth (CNI)</text>
+  <g>
+    <line class="afb26bd8-5616-4eb2-b2c6-be30965462f7" x1="529.802" y1="266.4" x2="529.802" y2="316.724"/>
+    <polygon class="b8456720-106a-44ef-a796-b57b94069c83" points="524.815 267.859 529.802 259.224 534.788 267.859 524.815 267.859"/>
+  </g>
+  <g>
+    <polyline class="a08430b0-53d2-427e-b169-27081b9058c0" points="153.5 366.724 153.5 439.224 273.974 439.224"/>
+    <polygon class="b8456720-106a-44ef-a796-b57b94069c83" points="272.515 444.211 281.151 439.224 272.515 434.238 272.515 444.211"/>
+  </g>
+  <g>
+    <polyline class="a08430b0-53d2-427e-b169-27081b9058c0" points="529.802 376.4 529.802 441.724 399.651 441.724"/>
+    <polygon class="b8456720-106a-44ef-a796-b57b94069c83" points="524.815 377.859 529.802 369.224 534.788 377.859 524.815 377.859"/>
+  </g>
+  <g>
+    <text class="bb32819f-9755-4495-95ec-ac25d45a2c06" transform="translate(168.5 290.132)">https, h2/s, tls</text>
+    <g>
+      <circle class="b8456720-106a-44ef-a796-b57b94069c83" cx="153.5" cy="286.724" r="10"/>
+      <text class="bddbb00d-761d-4020-bc2e-788b100d3bd5" transform="translate(149.768 290.51)">3</text>
+    </g>
+  </g>
+  <g>
+    <text class="bb32819f-9755-4495-95ec-ac25d45a2c06" transform="translate(544.802 290.132)">https, h2/s, tls</text>
+    <g>
+      <circle class="b8456720-106a-44ef-a796-b57b94069c83" cx="529.801" cy="286.724" r="10"/>
+      <text class="bddbb00d-761d-4020-bc2e-788b100d3bd5" transform="translate(525.971 290.51)">6</text>
+    </g>
+  </g>
+  <g>
+    <circle class="b8456720-106a-44ef-a796-b57b94069c83" cx="529.801" cy="412.974" r="10"/>
+    <text class="bddbb00d-761d-4020-bc2e-788b100d3bd5" transform="translate(526.163 416.76)">5</text>
+  </g>
+  <g>
+    <circle class="b8456720-106a-44ef-a796-b57b94069c83" cx="647.801" cy="231.724" r="10"/>
+    <text class="bddbb00d-761d-4020-bc2e-788b100d3bd5" transform="translate(644.152 235.51)">7</text>
+  </g>
+  <g>
+    <circle class="b8456720-106a-44ef-a796-b57b94069c83" cx="153.25" cy="412.974" r="10"/>
+    <text class="bddbb00d-761d-4020-bc2e-788b100d3bd5" transform="translate(149.205 416.76)">4</text>
+  </g>
+  <rect class="aab82d39-c0a9-4330-ad75-19158507f109" x="35.5" y="316.724" width="236" height="50"/>
+  <text class="f660e625-73a7-487d-8db0-afeaab6974fb" transform="translate(114.124 345.048)">Pod Eth (CNI)</text>
+  <g>
+    <text class="a4e9d997-a96e-4b67-8098-d363302d107a" transform="translate(668.691 467.016)">165_OpenShift_0721</text>
+    <rect class="a98dd84c-9b34-40ce-bdfb-6b31e47bf164" y="443.999" width="760" height="40"/>
+  </g>
+</svg>

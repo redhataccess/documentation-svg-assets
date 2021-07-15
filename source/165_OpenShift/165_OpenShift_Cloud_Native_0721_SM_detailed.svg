@@ -1,0 +1,232 @@
+<svg id="ed691419-ba37-4f81-838f-febb8e211982" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="709.202" viewBox="0 0 760 709.202">
+  <defs>
+    <style>
+      .a1bb6044-df58-46de-aaf8-b9b47860f5c0, .af3d4099-7ea0-4330-9a21-f3f3726175f5, .f0593ebd-5fe8-418d-a9f8-ac9ff788e2ed, .ff18722d-44da-41cd-9150-98cbcfd2d63a {
+        fill: none;
+      }
+
+      .af3d4099-7ea0-4330-9a21-f3f3726175f5 {
+        stroke: #c4c4c4;
+      }
+
+      .af3d4099-7ea0-4330-9a21-f3f3726175f5, .f0593ebd-5fe8-418d-a9f8-ac9ff788e2ed {
+        stroke-miterlimit: 10;
+      }
+
+      .f0593ebd-5fe8-418d-a9f8-ac9ff788e2ed, .ff18722d-44da-41cd-9150-98cbcfd2d63a {
+        stroke: #151515;
+      }
+
+      .a743f154-25d8-412a-bce2-6fc8ee2dd4d9, .ff18722d-44da-41cd-9150-98cbcfd2d63a {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a25c8b92-013b-426a-925a-d2bbd2a23acb, .be65ca50-c64e-4160-9a0e-6e8f0a25b4eb, .eece406a-3e6d-4106-bce1-3caa01d693b2, .fca65bc0-2f72-4f43-9031-284b6f2e984d {
+        fill: #151515;
+      }
+
+      .be65ca50-c64e-4160-9a0e-6e8f0a25b4eb {
+        font-size: 11px;
+      }
+
+      .a62bb7ae-1c59-496d-9422-e5dc8b8360d6, .be65ca50-c64e-4160-9a0e-6e8f0a25b4eb, .eece406a-3e6d-4106-bce1-3caa01d693b2 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .a62bb7ae-1c59-496d-9422-e5dc8b8360d6, .a743f154-25d8-412a-bce2-6fc8ee2dd4d9, .f24cd39f-6ba1-46fb-8e3a-aab4db39df1e {
+        fill: #fff;
+      }
+
+      .a743f154-25d8-412a-bce2-6fc8ee2dd4d9 {
+        stroke: #5b5b5b;
+        stroke-width: 1.5px;
+      }
+
+      .ab3d2a13-7746-4486-93f3-a92df69fefa0 {
+        fill: #e8e8e8;
+      }
+
+      .a25c8b92-013b-426a-925a-d2bbd2a23acb {
+        font-size: 14px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .e5d8d34c-9beb-4e64-8e10-2f29ed2f6a5a {
+        fill: #06c;
+      }
+
+      .a62bb7ae-1c59-496d-9422-e5dc8b8360d6, .eece406a-3e6d-4106-bce1-3caa01d693b2 {
+        font-size: 12px;
+      }
+
+      .fc193812-acbb-42b3-9542-ff34bb25345e {
+        font-size: 10px;
+        fill: #ececec;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <polyline class="af3d4099-7ea0-4330-9a21-f3f3726175f5" points="494.534 542.435 494.534 592.435 378.534 592.435"/>
+  <polyline class="af3d4099-7ea0-4330-9a21-f3f3726175f5" points="499.534 547.435 499.534 597.435 383.534 597.435"/>
+  <polyline class="af3d4099-7ea0-4330-9a21-f3f3726175f5" points="142 547.435 142 597.435 26 597.435"/>
+  <polyline class="af3d4099-7ea0-4330-9a21-f3f3726175f5" points="137 542.435 137 592.435 21 592.435"/>
+  <g>
+    <polyline class="ff18722d-44da-41cd-9150-98cbcfd2d63a" points="349.651 459.935 349.651 489.935 431.535 489.935 431.535 527.836"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="426.548 526.377 431.535 535.012 436.521 526.377 426.548 526.377"/>
+  </g>
+  <g>
+    <line class="ff18722d-44da-41cd-9150-98cbcfd2d63a" x1="252.767" y1="587.435" x2="252.767" y2="609.526"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="247.781 608.067 252.767 616.702 257.753 608.067 247.781 608.067"/>
+  </g>
+  <g>
+    <line class="ff18722d-44da-41cd-9150-98cbcfd2d63a" x1="74" y1="587.435" x2="74" y2="609.526"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="69.014 608.067 74 616.702 78.986 608.067 69.014 608.067"/>
+  </g>
+  <g>
+    <line class="ff18722d-44da-41cd-9150-98cbcfd2d63a" x1="610.302" y1="597.034" x2="610.302" y2="619.125"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="605.315 598.493 610.302 589.857 615.288 598.493 605.315 598.493"/>
+  </g>
+  <g>
+    <line class="ff18722d-44da-41cd-9150-98cbcfd2d63a" x1="431.534" y1="587.435" x2="431.534" y2="609.526"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="426.548 608.067 431.534 616.702 436.521 608.067 426.548 608.067"/>
+  </g>
+  <g>
+    <polyline class="ff18722d-44da-41cd-9150-98cbcfd2d63a" points="364.651 459.935 364.651 474.935 610.302 474.935 610.302 527.836"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="605.315 526.377 610.302 535.012 615.288 526.377 605.315 526.377"/>
+  </g>
+  <g>
+    <polyline class="ff18722d-44da-41cd-9150-98cbcfd2d63a" points="334.651 459.935 334.651 489.935 252.766 489.935 252.766 527.836"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="247.78 526.377 252.766 535.012 257.753 526.377 247.78 526.377"/>
+  </g>
+  <g>
+    <polyline class="ff18722d-44da-41cd-9150-98cbcfd2d63a" points="319.651 459.935 319.651 474.935 74 474.935 74 527.759"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="69.013 526.3 74 534.935 78.986 526.3 69.013 526.3"/>
+  </g>
+  <g>
+    <text class="be65ca50-c64e-4160-9a0e-6e8f0a25b4eb" transform="translate(225.07 664.918)">Database 1</text>
+    <g>
+      <path class="a743f154-25d8-412a-bce2-6fc8ee2dd4d9" d="M234.317,629.645v8.442c0,5.629,8.26,10.192,18.449,10.192s18.449-4.563,18.449-10.192v-8.442"/>
+      <path class="a743f154-25d8-412a-bce2-6fc8ee2dd4d9" d="M271.215,629.645c0,5.629-8.259,10.192-18.449,10.192s-18.449-4.563-18.449-10.192,8.26-9.693,18.449-9.693S271.215,624.016,271.215,629.645Z"/>
+    </g>
+  </g>
+  <g>
+    <text class="be65ca50-c64e-4160-9a0e-6e8f0a25b4eb" transform="translate(402.583 664.918)">Database 2</text>
+    <g>
+      <path class="a743f154-25d8-412a-bce2-6fc8ee2dd4d9" d="M413.085,629.645v8.442c0,5.629,8.259,10.192,18.449,10.192s18.449-4.563,18.449-10.192v-8.442"/>
+      <path class="a743f154-25d8-412a-bce2-6fc8ee2dd4d9" d="M449.983,629.645c0,5.629-8.26,10.192-18.449,10.192s-18.449-4.563-18.449-10.192,8.259-9.693,18.449-9.693S449.983,624.016,449.983,629.645Z"/>
+    </g>
+  </g>
+  <rect class="ab3d2a13-7746-4486-93f3-a92df69fefa0" x="16" y="19.724" width="276" height="360"/>
+  <text class="a25c8b92-013b-426a-925a-d2bbd2a23acb" transform="translate(36 51.512)">Engress flow</text>
+  <g>
+    <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="36.5" y="70.224" width="235" height="49"/>
+    <path class="e5d8d34c-9beb-4e64-8e10-2f29ed2f6a5a" d="M271,70.724v48H37v-48H271m1-1H36v50H272v-50Z"/>
+  </g>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(93.797 98.048)">Application container</text>
+  <rect class="e5d8d34c-9beb-4e64-8e10-2f29ed2f6a5a" x="36" y="219.724" width="236" height="50"/>
+  <text class="a62bb7ae-1c59-496d-9422-e5dc8b8360d6" transform="translate(115.385 248.048)">Sidecar proxy</text>
+  <rect class="ab3d2a13-7746-4486-93f3-a92df69fefa0" x="16" y="537.435" width="116" height="50"/>
+  <rect class="ab3d2a13-7746-4486-93f3-a92df69fefa0" x="552.301" y="537.435" width="116" height="50"/>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(60.831 565.759)">Pilot</text>
+  <g>
+    <rect class="ab3d2a13-7746-4486-93f3-a92df69fefa0" x="373.534" y="537.435" width="116" height="50"/>
+    <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(389.361 565.759)">Trace collector</text>
+  </g>
+  <g>
+    <rect class="ab3d2a13-7746-4486-93f3-a92df69fefa0" x="194.767" y="537.435" width="116" height="50"/>
+    <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(218.274 565.759)">Prometheus</text>
+  </g>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(590.058 565.759)">Citadel</text>
+  <rect class="ab3d2a13-7746-4486-93f3-a92df69fefa0" x="16" y="619.202" width="116" height="50"/>
+  <rect class="ab3d2a13-7746-4486-93f3-a92df69fefa0" x="552.301" y="619.202" width="116" height="50"/>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(48.909 647.526)">kube-api</text>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(573.78 641.026)">Intermediate<tspan x="-1.458" y="13">CA cert &amp; key</tspan></text>
+  <g>
+    <line class="f0593ebd-5fe8-418d-a9f8-ac9ff788e2ed" x1="154" y1="119.724" x2="154" y2="210.048"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="149.014 208.589 154 217.224 158.986 208.589 149.014 208.589"/>
+  </g>
+  <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="36" y="309.724" width="116" height="50"/>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(62.573 331.548)">Other NICs<tspan x="5.124" y="13">(SR-IOV)</tspan></text>
+  <g>
+    <rect class="ab3d2a13-7746-4486-93f3-a92df69fefa0" x="284.151" y="409.935" width="116" height="50"/>
+    <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(328.537 438.259)">OVN</text>
+  </g>
+  <g>
+    <line class="f0593ebd-5fe8-418d-a9f8-ac9ff788e2ed" x1="214" y1="269.724" x2="214" y2="300.048"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="209.014 298.589 214 307.224 218.986 298.589 209.014 298.589"/>
+  </g>
+  <rect class="ab3d2a13-7746-4486-93f3-a92df69fefa0" x="392.301" y="19.724" width="276" height="360"/>
+  <text class="a25c8b92-013b-426a-925a-d2bbd2a23acb" transform="translate(412.301 51.512)">Ingress flow</text>
+  <g>
+    <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="412.802" y="70.224" width="235" height="49"/>
+    <path class="e5d8d34c-9beb-4e64-8e10-2f29ed2f6a5a" d="M647.3,70.724v48h-234v-48h234m1-1h-236v50h236v-50Z"/>
+  </g>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(470.099 98.048)">Application container</text>
+  <g>
+    <rect class="e5d8d34c-9beb-4e64-8e10-2f29ed2f6a5a" x="412.301" y="144.724" width="236" height="50"/>
+    <text class="a62bb7ae-1c59-496d-9422-e5dc8b8360d6" transform="translate(481.687 173.048)">Sidecar proxy</text>
+  </g>
+  <g>
+    <line class="f0593ebd-5fe8-418d-a9f8-ac9ff788e2ed" x1="530.302" y1="129.4" x2="530.302" y2="144.724"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="525.315 130.859 530.302 122.224 535.288 130.859 525.315 130.859"/>
+  </g>
+  <g>
+    <polyline class="f0593ebd-5fe8-418d-a9f8-ac9ff788e2ed" points="530.302 205.451 530.302 289.724 470.301 289.724 470.301 309.724"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="525.315 206.909 530.302 198.274 535.288 206.909 525.315 206.909"/>
+  </g>
+  <g>
+    <polyline class="ff18722d-44da-41cd-9150-98cbcfd2d63a" points="214 359.724 214 432.224 274.474 432.224"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="273.015 437.211 281.651 432.224 273.015 427.238 273.015 437.211"/>
+  </g>
+  <g>
+    <polyline class="ff18722d-44da-41cd-9150-98cbcfd2d63a" points="470.301 369.4 470.301 434.724 400.151 434.724"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="465.315 370.859 470.301 362.224 475.288 370.859 465.315 370.859"/>
+  </g>
+  <g>
+    <polyline class="ff18722d-44da-41cd-9150-98cbcfd2d63a" points="36 94.724 0.5 94.724 0.5 334.724 26.324 334.724"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="24.865 339.711 33.5 334.724 24.865 329.738 24.865 339.711"/>
+  </g>
+  <g>
+    <polyline class="ff18722d-44da-41cd-9150-98cbcfd2d63a" points="272 169.724 307.5 169.724 307.5 334.724 281.676 334.724"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="283.135 329.738 274.5 334.724 283.135 339.711 283.135 329.738"/>
+  </g>
+  <g>
+    <polyline class="ff18722d-44da-41cd-9150-98cbcfd2d63a" points="648.302 94.724 683.802 94.724 683.802 334.724 657.978 334.724"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="659.437 329.738 650.802 334.724 659.437 339.711 659.437 329.738"/>
+  </g>
+  <g>
+    <polyline class="ff18722d-44da-41cd-9150-98cbcfd2d63a" points="412.306 244.724 376.806 244.724 376.806 94.724 402.629 94.724"/>
+    <polygon class="fca65bc0-2f72-4f43-9031-284b6f2e984d" points="401.17 99.711 409.806 94.724 401.17 89.738 401.17 99.711"/>
+  </g>
+  <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="532.301" y="309.724" width="116" height="50"/>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(558.874 331.548)">Other NICs<tspan x="5.124" y="13">(SR-IOV)</tspan></text>
+  <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="412.301" y="309.724" width="116" height="50"/>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(447.809 331.548)">Pod Eth<tspan x="6.96" y="13">(CNI)</tspan></text>
+  <g>
+    <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="412.301" y="219.724" width="236" height="50"/>
+    <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(521.86 248.048)">nft</text>
+  </g>
+  <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="156" y="309.724" width="116" height="50"/>
+  <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="156" y="388.141" width="106" height="17.253"/>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(191.507 331.548)">Pod Eth<tspan x="6.96" y="13">(CNI)</tspan></text>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(189.389 401.092)">10.10.1.41</text>
+  <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="383.534" y="499.048" width="96" height="17.253"/>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(400.077 511.999)">10.10.129.15</text>
+  <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="204.767" y="499.048" width="96" height="17.253"/>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(219.702 511.999)">10.10.129.29</text>
+  <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="26" y="499.048" width="96" height="17.253"/>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(44.235 511.999)">10.10.129.4</text>
+  <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="562.302" y="499.048" width="96" height="17.253"/>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(578.97 511.999)">10.10.129.21</text>
+  <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="422.301" y="388.141" width="96" height="17.253"/>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(442.725 401.092)">10.10.7.20</text>
+  <rect class="f24cd39f-6ba1-46fb-8e3a-aab4db39df1e" x="36" y="144.724" width="236" height="50"/>
+  <text class="eece406a-3e6d-4106-bce1-3caa01d693b2" transform="translate(145.558 173.048)">nft</text>
+  <g>
+    <text class="fc193812-acbb-42b3-9542-ff34bb25345e" transform="translate(668.691 692.22)">165_OpenShift_0721</text>
+    <rect class="a1bb6044-df58-46de-aaf8-b9b47860f5c0" y="669.202" width="760" height="40"/>
+  </g>
+</svg>

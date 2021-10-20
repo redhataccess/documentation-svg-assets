@@ -1,0 +1,169 @@
+<svg id="b14b5af0-6a87-4b4f-9845-b7243b360c48" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="520.107" viewBox="0 0 760 520.107">
+  <defs>
+    <style>
+      .b0bef269-1796-4615-99cb-4783202cfa9a {
+        fill: #e8e8e8;
+      }
+
+      .a01e20e4-a59a-4f3c-83b3-5080b0562f4b, .ae27f5c3-6d80-4894-a05b-b68f39abd414, .afe146c6-7fa3-4b73-b850-4475002cdc9e, .b44593f7-16b6-4a93-80ed-81740c41cf91, .ea2ef0de-9ef9-4eb0-a179-e665eff7a374 {
+        fill: none;
+      }
+
+      .ea2ef0de-9ef9-4eb0-a179-e665eff7a374 {
+        stroke: #151515;
+      }
+
+      .ae27f5c3-6d80-4894-a05b-b68f39abd414, .afe146c6-7fa3-4b73-b850-4475002cdc9e, .b44593f7-16b6-4a93-80ed-81740c41cf91, .ea2ef0de-9ef9-4eb0-a179-e665eff7a374, .f73825bf-3332-4c0a-a917-a7d8dbd47ac2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a2441b4c-b54d-410c-b6ec-6c7920ff3000, .a492a650-cffe-4fd7-b939-c6f739afa894, .a5c49360-24a3-4aa2-ba54-9d0e7e863a85, .abfb7cef-2e20-4d93-8c7a-2a7aabad64fb {
+        fill: #151515;
+      }
+
+      .a2441b4c-b54d-410c-b6ec-6c7920ff3000, .abfb7cef-2e20-4d93-8c7a-2a7aabad64fb {
+        font-size: 11px;
+      }
+
+      .abfb7cef-2e20-4d93-8c7a-2a7aabad64fb {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .eb63c775-8059-44bd-859b-622049a8dda7, .f73825bf-3332-4c0a-a917-a7d8dbd47ac2 {
+        fill: #fff;
+      }
+
+      .f73825bf-3332-4c0a-a917-a7d8dbd47ac2 {
+        stroke: #5b5b5b;
+        stroke-width: 1.5px;
+      }
+
+      .fb392db5-7c11-447b-a3e6-0775b404aa51 {
+        fill: #06c;
+      }
+
+      .a2441b4c-b54d-410c-b6ec-6c7920ff3000, .a492a650-cffe-4fd7-b939-c6f739afa894 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .f322d169-ab70-482b-8bf2-420ab8810c7b {
+        fill: #d9e8f7;
+      }
+
+      .a492a650-cffe-4fd7-b939-c6f739afa894 {
+        font-size: 14px;
+      }
+
+      .bb95f4be-8802-47bc-9375-6f68782879ff, .e5468b94-b364-4318-a498-0a2edc1a8cd8 {
+        fill: #f3f3f3;
+      }
+
+      .ae27f5c3-6d80-4894-a05b-b68f39abd414, .afe146c6-7fa3-4b73-b850-4475002cdc9e, .b44593f7-16b6-4a93-80ed-81740c41cf91 {
+        stroke: #06c;
+      }
+
+      .ae27f5c3-6d80-4894-a05b-b68f39abd414 {
+        stroke-dasharray: 3.003 3.003;
+      }
+
+      .b44593f7-16b6-4a93-80ed-81740c41cf91 {
+        stroke-dasharray: 3.018 3.018;
+      }
+
+      .bb95f4be-8802-47bc-9375-6f68782879ff {
+        font-size: 10px;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <path class="b0bef269-1796-4615-99cb-4783202cfa9a" d="M758,18.5V441H2V18.5H758m2-2H0V443H760V16.5Z"/>
+  <rect class="b0bef269-1796-4615-99cb-4783202cfa9a" x="375.5" y="84" width="162" height="334"/>
+  <rect class="b0bef269-1796-4615-99cb-4783202cfa9a" x="25" y="84" width="330.5" height="334"/>
+  <rect class="b0bef269-1796-4615-99cb-4783202cfa9a" x="557.5" y="84" width="162" height="334"/>
+  <g>
+    <polyline class="ea2ef0de-9ef9-4eb0-a179-e665eff7a374" points="190.25 427.676 190.25 473.402 638.5 473.402 638.5 427.676"/>
+    <polygon class="a5c49360-24a3-4aa2-ba54-9d0e7e863a85" points="185.264 429.135 190.25 420.5 195.236 429.135 185.264 429.135"/>
+    <polygon class="a5c49360-24a3-4aa2-ba54-9d0e7e863a85" points="643.486 429.135 638.5 420.5 633.513 429.135 643.486 429.135"/>
+  </g>
+  <g>
+    <line class="ea2ef0de-9ef9-4eb0-a179-e665eff7a374" x1="456.5" y1="473.402" x2="456.5" y2="427.676"/>
+    <polygon class="a5c49360-24a3-4aa2-ba54-9d0e7e863a85" points="461.486 429.135 456.5 420.5 451.513 429.135 461.486 429.135"/>
+  </g>
+  <text class="abfb7cef-2e20-4d93-8c7a-2a7aabad64fb" transform="translate(435.743 504.023)">Storage</text>
+  <g>
+    <path class="f73825bf-3332-4c0a-a917-a7d8dbd47ac2" d="M438.051,467v10.193c0,5.629,8.26,10.192,18.449,10.192s18.449-4.563,18.449-10.192V467"/>
+    <ellipse class="f73825bf-3332-4c0a-a917-a7d8dbd47ac2" cx="456.5" cy="467" rx="18.449" ry="10.192"/>
+  </g>
+  <g>
+    <rect class="eb63c775-8059-44bd-859b-622049a8dda7" x="391" y="99.562" width="131" height="86"/>
+    <path class="fb392db5-7c11-447b-a3e6-0775b404aa51" d="M521.5,100.062v85h-130v-85h130m1-1h-132v87h132v-87Z"/>
+  </g>
+  <text class="a2441b4c-b54d-410c-b6ec-6c7920ff3000" transform="translate(405.499 123.324)">Worker VM 1</text>
+  <rect class="f322d169-ab70-482b-8bf2-420ab8810c7b" x="405.5" y="136" width="102" height="35"/>
+  <text class="a492a650-cffe-4fd7-b939-c6f739afa894" transform="translate(390.5 402.799)">oVirt host</text>
+  <text class="a492a650-cffe-4fd7-b939-c6f739afa894" transform="translate(208.5 68.288)">OKD cluster</text>
+  <text class="a492a650-cffe-4fd7-b939-c6f739afa894" transform="translate(25 47.788)">oVirt cluster</text>
+  <text class="abfb7cef-2e20-4d93-8c7a-2a7aabad64fb" transform="translate(431.871 156.547)">Workload</text>
+  <g>
+    <rect class="eb63c775-8059-44bd-859b-622049a8dda7" x="391" y="201.562" width="131" height="156"/>
+    <path class="fb392db5-7c11-447b-a3e6-0775b404aa51" d="M521.5,202.062v155h-130v-155h130m1-1h-132v157h132v-157Z"/>
+  </g>
+  <text class="a2441b4c-b54d-410c-b6ec-6c7920ff3000" transform="translate(405.499 225.324)">Master VM 1</text>
+  <rect class="f322d169-ab70-482b-8bf2-420ab8810c7b" x="405.5" y="238" width="102" height="50"/>
+  <text class="abfb7cef-2e20-4d93-8c7a-2a7aabad64fb" transform="translate(421.559 260.324)">Control plane<tspan x="24.937" y="12">pod</tspan></text>
+  <rect class="f322d169-ab70-482b-8bf2-420ab8810c7b" x="405.5" y="293" width="102" height="50"/>
+  <text class="abfb7cef-2e20-4d93-8c7a-2a7aabad64fb" transform="translate(421.559 315.324)">Control plane<tspan x="24.937" y="12">pod</tspan></text>
+  <rect class="eb63c775-8059-44bd-859b-622049a8dda7" x="40" y="99.062" width="132" height="87"/>
+  <text class="a2441b4c-b54d-410c-b6ec-6c7920ff3000" transform="translate(55 123.324)">Engine VM</text>
+  <text class="a492a650-cffe-4fd7-b939-c6f739afa894" transform="translate(40 402.799)">oVirt host</text>
+  <rect class="e5468b94-b364-4318-a498-0a2edc1a8cd8" x="40" y="201.062" width="132" height="157"/>
+  <text class="a2441b4c-b54d-410c-b6ec-6c7920ff3000" transform="translate(55 225.324)">Bootstrap VM</text>
+  <rect class="b0bef269-1796-4615-99cb-4783202cfa9a" x="55" y="238" width="102" height="105"/>
+  <text class="abfb7cef-2e20-4d93-8c7a-2a7aabad64fb" transform="translate(77.565 281.824)">Temporary<tspan x="-6.506" y="12">Control plane</tspan><tspan x="18.43" y="24">pod</tspan></text>
+  <g>
+    <rect class="eb63c775-8059-44bd-859b-622049a8dda7" x="209" y="99.562" width="131" height="86"/>
+    <path class="fb392db5-7c11-447b-a3e6-0775b404aa51" d="M339.5,100.062v85h-130v-85h130m1-1h-132v87h132v-87Z"/>
+  </g>
+  <text class="a2441b4c-b54d-410c-b6ec-6c7920ff3000" transform="translate(223.5 123.324)">Worker VM 0</text>
+  <rect class="f322d169-ab70-482b-8bf2-420ab8810c7b" x="223.5" y="136" width="102" height="35"/>
+  <text class="abfb7cef-2e20-4d93-8c7a-2a7aabad64fb" transform="translate(249.871 156.547)">Workload</text>
+  <g>
+    <rect class="eb63c775-8059-44bd-859b-622049a8dda7" x="209" y="201.562" width="131" height="156"/>
+    <path class="fb392db5-7c11-447b-a3e6-0775b404aa51" d="M339.5,202.062v155h-130v-155h130m1-1h-132v157h132v-157Z"/>
+  </g>
+  <text class="a2441b4c-b54d-410c-b6ec-6c7920ff3000" transform="translate(223.5 225.324)">Master VM 0</text>
+  <rect class="f322d169-ab70-482b-8bf2-420ab8810c7b" x="223.5" y="238" width="102" height="50"/>
+  <text class="abfb7cef-2e20-4d93-8c7a-2a7aabad64fb" transform="translate(239.559 260.324)">Control plane<tspan x="24.937" y="12">pod</tspan></text>
+  <rect class="f322d169-ab70-482b-8bf2-420ab8810c7b" x="223.5" y="293" width="102" height="50"/>
+  <text class="abfb7cef-2e20-4d93-8c7a-2a7aabad64fb" transform="translate(239.559 315.324)">Control plane<tspan x="24.937" y="12">pod</tspan></text>
+  <g>
+    <rect class="eb63c775-8059-44bd-859b-622049a8dda7" x="573" y="99.562" width="131" height="86"/>
+    <path class="fb392db5-7c11-447b-a3e6-0775b404aa51" d="M703.5,100.062v85h-130v-85h130m1-1h-132v87h132v-87Z"/>
+  </g>
+  <text class="a2441b4c-b54d-410c-b6ec-6c7920ff3000" transform="translate(587.499 123.324)">Worker VM 2</text>
+  <rect class="f322d169-ab70-482b-8bf2-420ab8810c7b" x="587.5" y="136" width="102" height="35"/>
+  <text class="a492a650-cffe-4fd7-b939-c6f739afa894" transform="translate(572.5 402.799)">oVirt host</text>
+  <text class="abfb7cef-2e20-4d93-8c7a-2a7aabad64fb" transform="translate(613.871 156.547)">Workload</text>
+  <g>
+    <rect class="eb63c775-8059-44bd-859b-622049a8dda7" x="573" y="201.562" width="131" height="156"/>
+    <path class="fb392db5-7c11-447b-a3e6-0775b404aa51" d="M703.5,202.062v155h-130v-155h130m1-1h-132v157h132v-157Z"/>
+  </g>
+  <text class="a2441b4c-b54d-410c-b6ec-6c7920ff3000" transform="translate(587.499 225.324)">Master VM 2</text>
+  <rect class="f322d169-ab70-482b-8bf2-420ab8810c7b" x="587.5" y="238" width="102" height="50"/>
+  <text class="abfb7cef-2e20-4d93-8c7a-2a7aabad64fb" transform="translate(603.559 260.324)">Control plane<tspan x="24.937" y="12">pod</tspan></text>
+  <g>
+    <polyline class="afe146c6-7fa3-4b73-b850-4475002cdc9e" points="734.5 372 734.5 373.5 733 373.5"/>
+    <line class="ae27f5c3-6d80-4894-a05b-b68f39abd414" x1="729.997" y1="373.5" x2="197.001" y2="373.5"/>
+    <polyline class="afe146c6-7fa3-4b73-b850-4475002cdc9e" points="195.5 373.5 194 373.5 194 372"/>
+    <line class="b44593f7-16b6-4a93-80ed-81740c41cf91" x1="194" y1="368.982" x2="194" y2="44.509"/>
+    <polyline class="afe146c6-7fa3-4b73-b850-4475002cdc9e" points="194 43 194 41.5 195.5 41.5"/>
+    <line class="ae27f5c3-6d80-4894-a05b-b68f39abd414" x1="198.503" y1="41.5" x2="731.498" y2="41.5"/>
+    <polyline class="afe146c6-7fa3-4b73-b850-4475002cdc9e" points="733 41.5 734.5 41.5 734.5 43"/>
+    <line class="b44593f7-16b6-4a93-80ed-81740c41cf91" x1="734.5" y1="46.018" x2="734.5" y2="370.491"/>
+  </g>
+  <text class="bb95f4be-8802-47bc-9375-6f68782879ff" transform="translate(722.091 502.467)">193_1021</text>
+  <rect class="a01e20e4-a59a-4f3c-83b3-5080b0562f4b" y="480.107" width="760" height="40"/>
+</svg>

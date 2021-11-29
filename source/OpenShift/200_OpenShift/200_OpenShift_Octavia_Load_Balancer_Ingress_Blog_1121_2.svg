@@ -1,0 +1,182 @@
+<svg id="e63e1678-295f-42db-9a8b-a3ce1aed7952" data-name="artwork" xmlns="http://www.w3.org/2000/svg" width="760" height="514.5" viewBox="0 0 760 514.5">
+  <defs>
+    <style>
+      .bcc96f77-61ab-44e6-8ec3-6e2f00776866, .f76c92bb-ac01-4d00-a6e1-2d18336bb706 {
+        font-size: 12px;
+      }
+
+      .a27ed513-5854-4847-a8b4-e26729faf2b2, .aab68594-07fe-4e34-aa24-ea975cd81eda, .bcc96f77-61ab-44e6-8ec3-6e2f00776866, .bfb09305-974a-47f0-ac21-cbc3f83f6b06, .f76c92bb-ac01-4d00-a6e1-2d18336bb706 {
+        fill: #151515;
+      }
+
+      .a27ed513-5854-4847-a8b4-e26729faf2b2, .bcc96f77-61ab-44e6-8ec3-6e2f00776866 {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .a5db0050-4a65-417d-9cfc-4b94a97df450, .a5efa730-4f74-4c99-b7f6-df561e80ad2c, .ac45dae9-0808-46a7-9699-9692904a9584, .b15327d4-c6bb-4c60-a76b-61ffd4bb1caa, .b9ff242e-cea9-4730-8e7b-f087ddfe2dca, .e3e08270-5ece-4192-a88b-fb623bcb651f, .e5da3be2-2c1c-4f04-b356-ada92e4c3839, .e89a5518-a494-4dc8-a898-5e9ddc404c32, .ebbd2f07-02cd-4e76-8d20-3868c804bdef {
+        fill: none;
+      }
+
+      .a5efa730-4f74-4c99-b7f6-df561e80ad2c {
+        stroke: #4cb6d6;
+      }
+
+      .a5efa730-4f74-4c99-b7f6-df561e80ad2c, .ac45dae9-0808-46a7-9699-9692904a9584, .b15327d4-c6bb-4c60-a76b-61ffd4bb1caa, .b9ff242e-cea9-4730-8e7b-f087ddfe2dca, .e3e08270-5ece-4192-a88b-fb623bcb651f, .e5da3be2-2c1c-4f04-b356-ada92e4c3839, .e89a5518-a494-4dc8-a898-5e9ddc404c32, .ea3bed61-d539-441b-ac8c-862ebe35aa32, .ebbd2f07-02cd-4e76-8d20-3868c804bdef {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a5efa730-4f74-4c99-b7f6-df561e80ad2c, .e5da3be2-2c1c-4f04-b356-ada92e4c3839, .e89a5518-a494-4dc8-a898-5e9ddc404c32 {
+        stroke-width: 2px;
+      }
+
+      .b9ff242e-cea9-4730-8e7b-f087ddfe2dca, .e3e08270-5ece-4192-a88b-fb623bcb651f, .ebbd2f07-02cd-4e76-8d20-3868c804bdef {
+        stroke: #06c;
+      }
+
+      .e3e08270-5ece-4192-a88b-fb623bcb651f {
+        stroke-dasharray: 2.992 2.992;
+      }
+
+      .b9ff242e-cea9-4730-8e7b-f087ddfe2dca {
+        stroke-dasharray: 2.913 2.913;
+      }
+
+      .e89ce7f9-d445-44d1-a019-50f80f220004 {
+        fill: #e8e8e8;
+      }
+
+      .a27ed513-5854-4847-a8b4-e26729faf2b2 {
+        font-size: 11px;
+      }
+
+      .be435eee-b32d-4b9f-971d-7cc66ef8bb89, .ea3bed61-d539-441b-ac8c-862ebe35aa32 {
+        fill: #fff;
+      }
+
+      .ac45dae9-0808-46a7-9699-9692904a9584, .e5da3be2-2c1c-4f04-b356-ada92e4c3839, .ea3bed61-d539-441b-ac8c-862ebe35aa32 {
+        stroke: #5b5b5b;
+      }
+
+      .ac45dae9-0808-46a7-9699-9692904a9584, .ea3bed61-d539-441b-ac8c-862ebe35aa32 {
+        stroke-width: 1.5px;
+      }
+
+      .aab68594-07fe-4e34-aa24-ea975cd81eda {
+        font-size: 14px;
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .b15327d4-c6bb-4c60-a76b-61ffd4bb1caa {
+        stroke: #151515;
+      }
+
+      .e89a5518-a494-4dc8-a898-5e9ddc404c32 {
+        stroke: #fff;
+      }
+
+      .b2e3b96c-34d5-4cde-9eb6-26d5501914b3, .f76c92bb-ac01-4d00-a6e1-2d18336bb706 {
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+
+      .b2e3b96c-34d5-4cde-9eb6-26d5501914b3 {
+        font-size: 10px;
+        fill: #ececec;
+      }
+    </style>
+  </defs>
+  <text class="bcc96f77-61ab-44e6-8ec3-6e2f00776866" transform="translate(0 497.419)">Floating IP</text>
+  <line class="a5efa730-4f74-4c99-b7f6-df561e80ad2c" x1="1.041" y1="483.315" x2="394.442" y2="483.315"/>
+  <g>
+    <polyline class="ebbd2f07-02cd-4e76-8d20-3868c804bdef" points="381.041 339.5 381.041 341 379.541 341"/>
+    <line class="e3e08270-5ece-4192-a88b-fb623bcb651f" x1="376.549" y1="341" x2="19.037" y2="341"/>
+    <polyline class="ebbd2f07-02cd-4e76-8d20-3868c804bdef" points="17.541 341 16.041 341 16.041 339.5"/>
+    <line class="b9ff242e-cea9-4730-8e7b-f087ddfe2dca" x1="16.041" y1="336.587" x2="16.041" y2="273.957"/>
+    <polyline class="ebbd2f07-02cd-4e76-8d20-3868c804bdef" points="16.041 272.5 16.041 271 17.541 271"/>
+    <line class="e3e08270-5ece-4192-a88b-fb623bcb651f" x1="20.533" y1="271" x2="378.045" y2="271"/>
+    <polyline class="ebbd2f07-02cd-4e76-8d20-3868c804bdef" points="379.541 271 381.041 271 381.041 272.5"/>
+    <line class="b9ff242e-cea9-4730-8e7b-f087ddfe2dca" x1="381.041" y1="275.413" x2="381.041" y2="338.043"/>
+  </g>
+  <text class="bcc96f77-61ab-44e6-8ec3-6e2f00776866" transform="translate(15.542 261)">OpenStack resources</text>
+  <rect class="e89ce7f9-d445-44d1-a019-50f80f220004" x="16.041" y="16" width="365" height="205.5"/>
+  <text class="a27ed513-5854-4847-a8b4-e26729faf2b2" transform="translate(142.794 458.246)">Octavia load balancer</text>
+  <rect class="ea3bed61-d539-441b-ac8c-862ebe35aa32" x="180.092" y="427.401" width="36.898" height="14.25"/>
+  <line class="e5da3be2-2c1c-4f04-b356-ada92e4c3839" x1="211.103" y1="434.383" x2="211.103" y2="434.383"/>
+  <line class="ac45dae9-0808-46a7-9699-9692904a9584" x1="190.086" y1="437.366" x2="190.086" y2="431.525"/>
+  <line class="ac45dae9-0808-46a7-9699-9692904a9584" x1="185.859" y1="437.366" x2="185.859" y2="431.525"/>
+  <line class="ac45dae9-0808-46a7-9699-9692904a9584" x1="194.314" y1="437.366" x2="194.314" y2="431.525"/>
+  <line class="ac45dae9-0808-46a7-9699-9692904a9584" x1="198.541" y1="437.366" x2="198.541" y2="431.525"/>
+  <text class="aab68594-07fe-4e34-aa24-ea975cd81eda" transform="translate(36.041 46.472)">Kubernetes cluster</text>
+  <g>
+    <line class="b15327d4-c6bb-4c60-a76b-61ffd4bb1caa" x1="281.041" y1="126.176" x2="281.041" y2="141.824"/>
+    <polygon class="bfb09305-974a-47f0-ac21-cbc3f83f6b06" points="276.055 127.635 281.041 119 286.027 127.635 276.055 127.635"/>
+    <polygon class="bfb09305-974a-47f0-ac21-cbc3f83f6b06" points="276.055 140.365 281.041 149 286.027 140.365 276.055 140.365"/>
+  </g>
+  <g>
+    <line class="e89a5518-a494-4dc8-a898-5e9ddc404c32" x1="394.041" y1="306" x2="380.893" y2="306"/>
+    <polygon class="be435eee-b32d-4b9f-971d-7cc66ef8bb89" points="383.811 296.027 366.541 306 383.811 315.973 383.811 296.027"/>
+  </g>
+  <g>
+    <line class="e89a5518-a494-4dc8-a898-5e9ddc404c32" x1="8.041" y1="306" x2="16.189" y2="306"/>
+    <polygon class="be435eee-b32d-4b9f-971d-7cc66ef8bb89" points="13.271 315.973 30.541 306 13.271 296.027 13.271 315.973"/>
+  </g>
+  <g>
+    <polyline class="b15327d4-c6bb-4c60-a76b-61ffd4bb1caa" points="370.717 91.5 396.041 91.5 396.041 306 380.717 306"/>
+    <polygon class="bfb09305-974a-47f0-ac21-cbc3f83f6b06" points="372.176 96.486 363.541 91.5 372.176 86.514 372.176 96.486"/>
+    <polygon class="bfb09305-974a-47f0-ac21-cbc3f83f6b06" points="382.176 301.014 373.541 306 382.176 310.986 382.176 301.014"/>
+  </g>
+  <g>
+    <line class="b15327d4-c6bb-4c60-a76b-61ffd4bb1caa" x1="116.041" y1="126.176" x2="116.041" y2="141.824"/>
+    <polygon class="bfb09305-974a-47f0-ac21-cbc3f83f6b06" points="111.055 127.635 116.041 119 121.027 127.635 111.055 127.635"/>
+    <polygon class="bfb09305-974a-47f0-ac21-cbc3f83f6b06" points="111.055 140.365 116.041 149 121.027 140.365 111.055 140.365"/>
+  </g>
+  <g>
+    <line class="e89a5518-a494-4dc8-a898-5e9ddc404c32" x1="81.791" y1="349" x2="81.791" y2="340.852"/>
+    <polygon class="be435eee-b32d-4b9f-971d-7cc66ef8bb89" points="91.764 343.77 81.791 326.5 71.818 343.77 91.764 343.77"/>
+  </g>
+  <g>
+    <line class="e89a5518-a494-4dc8-a898-5e9ddc404c32" x1="315.291" y1="340.852" x2="315.291" y2="349"/>
+    <polygon class="be435eee-b32d-4b9f-971d-7cc66ef8bb89" points="305.318 343.77 315.291 326.5 325.264 343.77 305.318 343.77"/>
+  </g>
+  <g>
+    <line class="e89a5518-a494-4dc8-a898-5e9ddc404c32" x1="198.541" y1="340.852" x2="198.541" y2="406.5"/>
+    <polygon class="be435eee-b32d-4b9f-971d-7cc66ef8bb89" points="188.568 343.77 198.541 326.5 208.514 343.77 188.568 343.77"/>
+  </g>
+  <g>
+    <polyline class="b15327d4-c6bb-4c60-a76b-61ffd4bb1caa" points="315.291 340.676 315.291 356 81.791 356 81.791 340.676"/>
+    <polygon class="bfb09305-974a-47f0-ac21-cbc3f83f6b06" points="310.305 342.135 315.291 333.5 320.277 342.135 310.305 342.135"/>
+    <polygon class="bfb09305-974a-47f0-ac21-cbc3f83f6b06" points="86.777 342.135 81.791 333.5 76.805 342.135 86.777 342.135"/>
+  </g>
+  <g>
+    <line class="b15327d4-c6bb-4c60-a76b-61ffd4bb1caa" x1="198.541" y1="340.676" x2="198.541" y2="416.324"/>
+    <polygon class="bfb09305-974a-47f0-ac21-cbc3f83f6b06" points="193.555 342.135 198.541 333.5 203.527 342.135 193.555 342.135"/>
+    <polygon class="bfb09305-974a-47f0-ac21-cbc3f83f6b06" points="193.555 414.865 198.541 423.5 203.527 414.865 193.555 414.865"/>
+  </g>
+  <line class="a5efa730-4f74-4c99-b7f6-df561e80ad2c" x1="198.541" y1="463.315" x2="198.541" y2="483.315"/>
+  <g>
+    <polyline class="b15327d4-c6bb-4c60-a76b-61ffd4bb1caa" points="26.365 91.5 1.041 91.5 1.041 306 16.365 306"/>
+    <polygon class="bfb09305-974a-47f0-ac21-cbc3f83f6b06" points="24.906 86.514 33.541 91.5 24.906 96.486 24.906 86.514"/>
+    <polygon class="bfb09305-974a-47f0-ac21-cbc3f83f6b06" points="14.906 310.986 23.541 306 14.906 301.014 14.906 310.986"/>
+  </g>
+  <rect class="be435eee-b32d-4b9f-971d-7cc66ef8bb89" x="36.041" y="66.5" width="325" height="50"/>
+  <text class="bcc96f77-61ab-44e6-8ec3-6e2f00776866" transform="translate(177.583 94.825)">Service</text>
+  <rect class="be435eee-b32d-4b9f-971d-7cc66ef8bb89" x="36.041" y="151.5" width="160" height="50"/>
+  <text class="bcc96f77-61ab-44e6-8ec3-6e2f00776866" transform="translate(101.317 179.825)">Pod 1</text>
+  <rect class="be435eee-b32d-4b9f-971d-7cc66ef8bb89" x="201.041" y="151.5" width="160" height="50"/>
+  <text class="bcc96f77-61ab-44e6-8ec3-6e2f00776866" transform="translate(264.949 179.825)">Pod 2</text>
+  <rect class="e89ce7f9-d445-44d1-a019-50f80f220004" x="26.041" y="281" width="111.5" height="50"/>
+  <text class="bcc96f77-61ab-44e6-8ec3-6e2f00776866" transform="translate(57.786 309.325)">Worker 1</text>
+  <rect class="e89ce7f9-d445-44d1-a019-50f80f220004" x="142.541" y="281" width="112" height="50"/>
+  <rect class="be435eee-b32d-4b9f-971d-7cc66ef8bb89" x="142.541" y="377.929" width="112" height="17.294"/>
+  <text class="bcc96f77-61ab-44e6-8ec3-6e2f00776866" transform="translate(173.167 309.325)">Worker 2</text>
+  <text class="f76c92bb-ac01-4d00-a6e1-2d18336bb706" transform="translate(110.031 389.984)">Exposed port in machines subnet</text>
+  <rect class="e89ce7f9-d445-44d1-a019-50f80f220004" x="259.541" y="281" width="111.5" height="50"/>
+  <text class="bcc96f77-61ab-44e6-8ec3-6e2f00776866" transform="translate(289.695 309.325)">Worker 3</text>
+  <line class="b15327d4-c6bb-4c60-a76b-61ffd4bb1caa" x1="140.004" y1="257.497" x2="152.195" y2="271"/>
+  <g>
+    <text class="b2e3b96c-34d5-4cde-9eb6-26d5501914b3" transform="translate(671.012 497.517)">200_OpenShift_1121</text>
+    <rect class="a5db0050-4a65-417d-9cfc-4b94a97df450" y="474.5" width="760" height="40"/>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 90">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #06c;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: RedHatTextRoman-Bold, 'Red Hat Text';
+        font-size: 12px;
+        font-variation-settings: 'wght' 700;
+      }
+
+      .cls-4 {
+        fill: #06c;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <line class="cls-1" x1="50" y1="45" x2="247.75" y2="45"/>
+  <circle class="cls-4" cx="25" cy="45" r="25"/>
+  <text class="cls-3" transform="translate(15.51 48.5)"><tspan class="cls-2" x="0" y="0">L</tspan><tspan class="cls-9" x="7.73" y="0">i</tspan><tspan x="11.25" y="0">b</tspan></text>
+  <circle class="cls-4" cx="132.75" cy="45" r="25"/>
+  <text class="cls-3" transform="translate(121.14 48.5)"><tspan class="cls-7" x="0" y="0">D</tspan><tspan class="cls-8" x="9.14" y="0">e</tspan><tspan x="16.11" y="0">v</tspan></text>
+  <circle class="cls-4" cx="202.75" cy="45" r="25"/>
+  <text class="cls-3" transform="translate(193.38 48.5)"><tspan class="cls-10" x="0" y="0">Q</tspan><tspan class="cls-6" x="9.85" y="0">A</tspan></text>
+  <circle class="cls-4" cx="272.75" cy="45" r="25"/>
+  <text class="cls-3" transform="translate(258.43 48.5)"><tspan class="cls-5" x="0" y="0">P</tspan><tspan class="cls-11" x="8.42" y="0">r</tspan><tspan x="13.52" y="0">od</tspan></text>
+</svg>

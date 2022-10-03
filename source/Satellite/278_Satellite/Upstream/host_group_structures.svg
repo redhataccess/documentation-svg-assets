@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 392.51">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #151515;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-size: 12px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: #151515;
+      }
+
+      .cls-3, .cls-6 {
+        font-family: RedHatTextRoman-Bold, 'Red Hat Text';
+        font-variation-settings: 'wght' 700;
+      }
+
+      .cls-7 {
+        fill: #e8e8e8;
+      }
+
+      .cls-4, .cls-8 {
+        font-family: RedHatTextRoman-Regular, 'Red Hat Text';
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-8 {
+        fill: #ececec;
+        font-size: 10px;
+      }
+
+      .cls-5 {
+        font-family: RedHatTextRoman-Medium, 'Red Hat Text';
+        font-variation-settings: 'wght' 500;
+      }
+
+      .cls-6 {
+        font-size: 14px;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <text class="cls-6" transform="translate(0 31.9)"><tspan x="0" y="0">Flat</tspan></text>
+      <polyline class="cls-2" points="1.5 43.29 1.5 144.52 15 144.52"/>
+      <line class="cls-2" x1="1.5" y1="104.52" x2="15" y2="104.52"/>
+      <line class="cls-2" x1="1.5" y1="64.52" x2="15" y2="64.52"/>
+      <g>
+        <rect class="cls-7" x="15" y="47.02" width="135" height="35"/>
+        <text class="cls-5" transform="translate(25 69.02)"><tspan x="0" y="0">dev-infra-git-rhel7</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="15" y="87.02" width="135" height="35"/>
+        <text class="cls-5" transform="translate(25 109.02)"><tspan x="0" y="0">qa-infra-git-rhel7</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="15" y="127.02" width="135" height="35"/>
+        <text class="cls-5" transform="translate(25 149.02)"><tspan x="0" y="0">prod-infra-git-rhel7</tspan></text>
+      </g>
+    </g>
+    <g>
+      <text class="cls-6" transform="translate(183.33 31.9)"><tspan x="0" y="0">LC Environment Based</tspan></text>
+      <polyline class="cls-2" points="184.83 43.29 184.83 334.52 198.33 334.52"/>
+      <line class="cls-2" x1="209.83" y1="114.52" x2="223.33" y2="114.52"/>
+      <line class="cls-2" x1="184.83" y1="64.52" x2="198.33" y2="64.52"/>
+      <polyline class="cls-2" points="209.83 82.02 209.83 244.52 223.33 244.52"/>
+      <line class="cls-2" x1="234.83" y1="154.52" x2="248.33" y2="154.52"/>
+      <polyline class="cls-2" points="234.83 132.02 234.83 194.52 248.33 194.52"/>
+      <g>
+        <rect class="cls-7" x="198.33" y="47.02" width="155" height="35"/>
+        <text class="cls-3" transform="translate(208.33 69.02)"><tspan x="0" y="0">DEV</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="198.33" y="317.02" width="155" height="35"/>
+        <text class="cls-3" transform="translate(208.33 339.02)"><tspan x="0" y="0">QA</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="223.33" y="97.02" width="130" height="35"/>
+        <text class="cls-5" transform="translate(233.33 119.02)"><tspan x="0" y="0">RHEL 7</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="248.33" y="137.02" width="105" height="35"/>
+        <text class="cls-4" transform="translate(258.33 159.02)"><tspan x="0" y="0">git</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="248.33" y="177.02" width="105" height="35"/>
+        <text class="cls-4" transform="translate(258.33 199.02)"><tspan x="0" y="0">container</tspan></text>
+      </g>
+      <polyline class="cls-2" points="234.83 262.02 234.83 284.52 248.33 284.52"/>
+      <g>
+        <rect class="cls-7" x="223.33" y="227.02" width="130" height="35"/>
+        <text class="cls-5" transform="translate(233.33 249.02)"><tspan x="0" y="0">RHEL 6</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="248.33" y="267.02" width="105" height="35"/>
+        <text class="cls-4" transform="translate(258.33 289.02)"><tspan x="0" y="0">loghost</tspan></text>
+      </g>
+    </g>
+    <g>
+      <text class="cls-6" transform="translate(386.67 31.9)"><tspan x="0" y="0">Application Based</tspan></text>
+      <polyline class="cls-2" points="388.17 43.29 388.17 334.52 401.67 334.52"/>
+      <line class="cls-2" x1="413.17" y1="114.52" x2="426.67" y2="114.52"/>
+      <line class="cls-2" x1="388.17" y1="64.52" x2="401.67" y2="64.52"/>
+      <polyline class="cls-2" points="413.17 82.02 413.17 244.52 426.67 244.52"/>
+      <line class="cls-2" x1="438.17" y1="154.52" x2="451.67" y2="154.52"/>
+      <polyline class="cls-2" points="438.17 132.02 438.17 194.52 451.67 194.52"/>
+      <g>
+        <rect class="cls-7" x="401.67" y="47.02" width="155" height="35"/>
+        <text class="cls-3" transform="translate(411.67 69.02)"><tspan x="0" y="0">acmeweb</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="401.67" y="317.02" width="155" height="35"/>
+        <text class="cls-3" transform="translate(411.67 339.02)"><tspan x="0" y="0">infra</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="426.67" y="97.02" width="130" height="35"/>
+        <text class="cls-5" transform="translate(436.67 119.02)"><tspan x="0" y="0">frontend</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="451.67" y="137.02" width="105" height="35"/>
+        <text class="cls-4" transform="translate(461.67 159.02)"><tspan x="0" y="0">web-dev</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="451.67" y="177.02" width="105" height="35"/>
+        <text class="cls-4" transform="translate(461.67 199.02)"><tspan x="0" y="0">web-qa</tspan></text>
+      </g>
+      <polyline class="cls-2" points="438.17 262.02 438.17 284.52 451.67 284.52"/>
+      <g>
+        <rect class="cls-7" x="426.67" y="227.02" width="130" height="35"/>
+        <text class="cls-5" transform="translate(436.67 249.02)"><tspan x="0" y="0">backend</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="451.67" y="267.02" width="105" height="35"/>
+        <text class="cls-4" transform="translate(461.67 289.02)"><tspan x="0" y="0">web-dev</tspan></text>
+      </g>
+    </g>
+    <g>
+      <text class="cls-6" transform="translate(590 31.9)"><tspan x="0" y="0">Location Base</tspan></text>
+      <polyline class="cls-2" points="591.5 43.29 591.5 334.52 605 334.52"/>
+      <line class="cls-2" x1="616.5" y1="114.52" x2="630" y2="114.52"/>
+      <line class="cls-2" x1="591.5" y1="64.52" x2="605" y2="64.52"/>
+      <polyline class="cls-2" points="616.5 82.02 616.5 244.52 630 244.52"/>
+      <line class="cls-2" x1="641.5" y1="154.52" x2="655" y2="154.52"/>
+      <polyline class="cls-2" points="641.5 132.02 641.5 194.52 655 194.52"/>
+      <g>
+        <rect class="cls-7" x="605" y="47.02" width="155" height="35"/>
+        <text class="cls-3" transform="translate(615 69.02)"><tspan x="0" y="0">Munich</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="605" y="317.02" width="155" height="35"/>
+        <text class="cls-3" transform="translate(615 339.02)"><tspan x="0" y="0">Boston</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="630" y="97.02" width="130" height="35"/>
+        <text class="cls-5" transform="translate(640 119.02)"><tspan x="0" y="0">web-dev</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="655" y="137.02" width="105" height="35"/>
+        <text class="cls-4" transform="translate(665 159.02)"><tspan x="0" y="0">web-frontend</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="655" y="177.02" width="105" height="35"/>
+        <text class="cls-4" transform="translate(665 199.02)"><tspan x="0" y="0">web-backend</tspan></text>
+      </g>
+      <polyline class="cls-2" points="641.5 262.02 641.5 284.52 655 284.52"/>
+      <g>
+        <rect class="cls-7" x="630" y="227.02" width="130" height="35"/>
+        <text class="cls-5" transform="translate(640 249.02)"><tspan x="0" y="0">web-qa</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-7" x="655" y="267.02" width="105" height="35"/>
+        <text class="cls-4" transform="translate(665 289.02)"><tspan x="0" y="0">web-frontend</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(714.48 375.06)"><tspan x="0" y="0">278_0922</tspan></text>
+    <rect class="cls-1" x="0" y="352.04" width="760" height="40"/>
+  </g>
+</svg>

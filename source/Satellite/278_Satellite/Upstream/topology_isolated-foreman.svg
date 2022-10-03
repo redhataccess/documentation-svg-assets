@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 715.79">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-15, .cls-16, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-6, .cls-7, .cls-15, .cls-16, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-5 {
+        stroke: #f7823c;
+      }
+
+      .cls-3, .cls-4, .cls-6, .cls-7, .cls-8, .cls-9, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke: #151515;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 0 0 3.46 3.46;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 0 0 2.94 2.94;
+      }
+
+      .cls-17 {
+        font-size: 12px;
+      }
+
+      .cls-17, .cls-18, .cls-19, .cls-20 {
+        fill: #151515;
+      }
+
+      .cls-17, .cls-20 {
+        font-family: RedHatTextRoman-Bold, 'Red Hat Text';
+        font-variation-settings: 'wght' 700;
+      }
+
+      .cls-21 {
+        fill: #06c;
+      }
+
+      .cls-22, .cls-23 {
+        fill: #f7823c;
+      }
+
+      .cls-24, .cls-16, .cls-25 {
+        fill: #fff;
+      }
+
+      .cls-26 {
+        fill: #e8e8e8;
+      }
+
+      .cls-27 {
+        fill: #e5e5e5;
+      }
+
+      .cls-28, .cls-15, .cls-29 {
+        fill: #cce0f5;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 0 0 3 3;
+      }
+
+      .cls-30 {
+        fill: #fef6ed;
+        mix-blend-mode: multiply;
+      }
+
+      .cls-31 {
+        fill: #ececec;
+        font-family: RedHatTextRoman-Regular, 'Red Hat Text';
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-31, .cls-19, .cls-23 {
+        font-size: 10px;
+      }
+
+      .cls-15, .cls-16 {
+        stroke-dasharray: 0 3;
+      }
+
+      .cls-15, .cls-29, .cls-10 {
+        stroke: #fff;
+      }
+
+      .cls-16, .cls-25 {
+        stroke: #e8e8e8;
+      }
+
+      .cls-8 {
+        stroke-dasharray: 0 0 3.37 3.37;
+      }
+
+      .cls-9 {
+        stroke-dasharray: 0 0 3.27 3.27;
+      }
+
+      .cls-25, .cls-29 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10 {
+        stroke-width: 8px;
+      }
+
+      .cls-19, .cls-23 {
+        font-family: RedHatTextRoman-Medium, 'Red Hat Text';
+        font-variation-settings: 'wght' 500;
+      }
+
+      .cls-11 {
+        stroke-dasharray: 0 0 3.23 3.23;
+      }
+
+      .cls-12 {
+        stroke-dasharray: 0 0 2.89 2.89;
+      }
+
+      .cls-13 {
+        stroke-dasharray: 0 0 2.98 2.98;
+      }
+
+      .cls-14 {
+        stroke-dasharray: 0 0 3.01 3.01;
+      }
+
+      .cls-32 {
+        isolation: isolate;
+      }
+
+      .cls-20 {
+        font-size: 14px;
+      }
+    </style>
+  </defs>
+  <g class="cls-32">
+    <g id="artwork">
+      <rect class="cls-26" x="34.5" y="391.79" width="725.5" height="138.5"/>
+      <g>
+        <text class="cls-31" transform="translate(714.48 698.81)"><tspan x="0" y="0">278_0922</tspan></text>
+        <rect class="cls-1" y="675.79" width="760" height="40"/>
+      </g>
+      <g>
+        <rect class="cls-26" x="34.22" y="615.79" width="725.5" height="60"/>
+        <text class="cls-20" transform="translate(49.22 640.69)"><tspan x="0" y="0">Isolated Host</tspan></text>
+      </g>
+      <g>
+        <line class="cls-3" x1="721" y1="524.97" x2="721" y2="615.79"/>
+        <polygon class="cls-18" points="716.01 526.43 721 517.79 725.99 526.43 716.01 526.43"/>
+      </g>
+      <text class="cls-20" transform="translate(48.55 416.69)"><tspan x="0" y="0">Isolated Smart Proxy</tspan></text>
+      <rect class="cls-26" x="34.5" y="20" width="725.5" height="312"/>
+      <g>
+        <rect class="cls-24" x="80" y="176" width="664.5" height="140.5"/>
+        <path class="cls-21" d="M744,176.5v139.5H80.5V176.5H744m1-1H79.5v141.5H745V175.5h0Z"/>
+      </g>
+      <text class="cls-17" transform="translate(94.5 301.9)"><tspan x="0" y="0">Internal Smart Proxy</tspan></text>
+      <rect class="cls-24" x="369.43" y="61.02" width="115" height="55"/>
+      <text class="cls-19" transform="translate(392.9 91.44)"><tspan x="0" y="0">Puppet Server</tspan></text>
+      <g>
+        <line class="cls-3" x1="667.02" y1="51.2" x2="667.03" y2="49.7"/>
+        <line class="cls-11" x1="667.06" y1="46.47" x2="667.1" y2="41.63"/>
+        <polyline class="cls-3" points="667.12 40.02 667.13 38.52 665.63 38.52"/>
+        <line class="cls-14" x1="662.62" y1="38.52" x2="549.93" y2="38.52"/>
+        <polyline class="cls-3" points="548.43 38.52 546.93 38.52 546.93 40.02"/>
+        <line class="cls-9" x1="546.93" y1="43.29" x2="546.93" y2="48.2"/>
+        <line class="cls-3" x1="546.93" y1="49.84" x2="546.93" y2="51.34"/>
+        <polygon class="cls-18" points="672.02 49.78 666.96 58.38 662.05 49.7 672.02 49.78"/>
+        <polygon class="cls-18" points="541.94 49.88 546.93 58.52 551.91 49.88 541.94 49.88"/>
+      </g>
+      <g>
+        <polyline class="cls-3" points="49.5 78.66 3.9 78.66 3.74 480.04 39.82 480.04"/>
+        <polygon class="cls-18" points="38.36 485.03 47 480.04 38.36 475.06 38.36 485.03"/>
+      </g>
+      <text class="cls-20" transform="translate(49.5 45.9)"><tspan x="0" y="0">Foreman Server</tspan></text>
+      <rect class="cls-24" x="49.5" y="61.02" width="315" height="55"/>
+      <text class="cls-17" transform="translate(62.91 92.02)"><tspan x="0" y="0">Foreman</tspan></text>
+      <rect class="cls-24" x="489.43" y="61.02" width="115" height="55"/>
+      <text class="cls-19" transform="translate(523.25 91.44)"><tspan x="0" y="0">Candlepin</tspan></text>
+      <rect class="cls-24" x="609.5" y="61.02" width="115" height="55"/>
+      <text class="cls-19" transform="translate(655.57 91.44)"><tspan x="0" y="0">Qpid</tspan></text>
+      <g>
+        <line class="cls-3" x1="140.25" y1="180.82" x2="140.25" y2="179.32"/>
+        <line class="cls-12" x1="140.25" y1="176.43" x2="140.25" y2="148.95"/>
+        <polyline class="cls-3" points="140.25 147.5 140.25 146 141.75 146"/>
+        <line class="cls-13" x1="144.73" y1="146" x2="656.51" y2="146"/>
+        <polyline class="cls-3" points="658 146 659.5 146 659.5 144.5"/>
+        <line class="cls-4" x1="659.5" y1="141.04" x2="659.5" y2="128.92"/>
+        <line class="cls-3" x1="659.5" y1="127.19" x2="659.5" y2="125.69"/>
+        <polygon class="cls-18" points="145.24 179.36 140.25 188 135.26 179.36 145.24 179.36"/>
+        <polygon class="cls-18" points="664.49 127.15 659.5 118.52 654.51 127.15 664.49 127.15"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="236.75" y1="180.82" x2="236.75" y2="179.32"/>
+        <line class="cls-8" x1="236.75" y1="175.96" x2="236.75" y2="164.18"/>
+        <polyline class="cls-3" points="236.75 162.5 236.75 161 238.25 161"/>
+        <line class="cls-7" x1="241.25" y1="161" x2="671.5" y2="161"/>
+        <polyline class="cls-3" points="673 161 674.5 161 674.5 159.5"/>
+        <line class="cls-6" x1="674.5" y1="156.56" x2="674.5" y2="128.66"/>
+        <line class="cls-3" x1="674.5" y1="127.19" x2="674.5" y2="125.69"/>
+        <polygon class="cls-18" points="241.74 179.36 236.75 188 231.76 179.36 241.74 179.36"/>
+        <polygon class="cls-18" points="679.49 127.15 674.5 118.52 669.51 127.15 679.49 127.15"/>
+      </g>
+      <g>
+        <rect class="cls-24" x="264.25" y="71.77" width="89.5" height="33.5"/>
+        <path class="cls-27" d="M353,72.52v32h-88v-32h88m1.5-1.5h-91v35h91v-35h0Z"/>
+      </g>
+      <text class="cls-19" transform="translate(292.47 91.44)"><tspan x="0" y="0">Katello</tspan></text>
+      <g>
+        <rect class="cls-24" x=".64" y="393.42" width="7.1" height="56.54"/>
+        <text class="cls-19" transform="translate(7.1 446.09) rotate(-90)"><tspan x="0" y="0">TCP 9090</tspan></text>
+      </g>
+      <g>
+        <polyline class="cls-3" points="39.82 98.66 18.83 98.66 18.83 465.04 49.5 465.04"/>
+        <polygon class="cls-18" points="38.36 93.68 47 98.66 38.36 103.65 38.36 93.68"/>
+      </g>
+      <g>
+        <rect class="cls-24" x="10.85" y="128.52" width="16.25" height="49.95"/>
+        <text class="cls-19" transform="translate(21.9 174.37) rotate(-90)"><tspan x="0" y="0">TCP 443</tspan></text>
+      </g>
+      <rect class="cls-28" x="94.5" y="190.5" width="91.5" height="85.5"/>
+      <text class="cls-19" transform="translate(129.63 235.42)"><tspan x="0" y="0">Pulp</tspan></text>
+      <rect class="cls-28" x="191" y="190.5" width="91.5" height="85.5"/>
+      <text class="cls-19" transform="translate(225.33 224.42)"><tspan x="0" y="0">Qpid</tspan><tspan x="-9.34" y="11">Dispatch</tspan><tspan x="-4.73" y="22">Router</tspan></text>
+      <rect class="cls-28" x="288" y="190.5" width="442" height="85.5"/>
+      <text class="cls-17" transform="translate(303 213.8)"><tspan x="0" y="0">Foreman Proxy</tspan></text>
+      <polyline class="cls-3" points="603.25 403.79 603.25 376.79 18.83 376.79"/>
+      <line class="cls-3" x1="497.75" y1="403.79" x2="497.75" y2="376.79"/>
+      <g>
+        <line class="cls-3" x1="497.75" y1="429.79" x2="497.75" y2="413.97"/>
+        <polygon class="cls-18" points="502.74 415.43 497.75 406.79 492.76 415.43 502.74 415.43"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="603.25" y1="429.79" x2="603.25" y2="413.97"/>
+        <polygon class="cls-18" points="608.24 415.43 603.25 406.79 598.26 415.43 608.24 415.43"/>
+      </g>
+      <g>
+        <polyline class="cls-3" points="663 429.79 663 302 236.75 302 236.75 285.68"/>
+        <polygon class="cls-18" points="241.74 287.14 236.75 278.5 231.76 287.14 241.74 287.14"/>
+      </g>
+      <rect class="cls-24" x="634" y="429.79" width="58" height="85.5" transform="translate(1326 945.09) rotate(-180)"/>
+      <text class="cls-19" transform="translate(651.57 464.46)"><tspan x="0" y="0">Qpid</tspan><tspan x="-9.34" y="11">Dispatch</tspan><tspan x="-4.73" y="22">Router</tspan></text>
+      <rect class="cls-24" x="577.5" y="429.79" width="51.5" height="85.5" transform="translate(1206.5 945.09) rotate(-180)"/>
+      <text class="cls-19" transform="translate(585.9 469.96)"><tspan x="0" y="0">Puppet</tspan><tspan x="1.79" y="11">Server</tspan></text>
+      <rect class="cls-24" x="49.5" y="429.79" width="419.5" height="85.5"/>
+      <text class="cls-17" transform="translate(62.91 453.09)"><tspan x="0" y="0">Foreman Proxy</tspan></text>
+      <rect class="cls-24" x="474.5" y="429.79" width="46.5" height="85.5" transform="translate(995.5 945.09) rotate(-180)"/>
+      <text class="cls-19" transform="translate(483.03 469.96)"><tspan x="0" y="0">RHSM</tspan><tspan x=".61" y="11">(yum)</tspan></text>
+      <g>
+        <rect class="cls-24" x="330.88" y="368.77" width="47.57" height="16.25"/>
+        <text class="cls-19" transform="translate(333.79 379.82)"><tspan x="0" y="0">TCP 443</tspan></text>
+      </g>
+      <line class="cls-10" x1="549.25" y1="385.93" x2="549.25" y2="366.79"/>
+      <line class="cls-10" x1="564.25" y1="385.93" x2="564.25" y2="366.79"/>
+      <g>
+        <polyline class="cls-3" points="549.25 420.12 549.25 361.79 49.5 361.79 49.5 131 213 131 213 106.02"/>
+        <polygon class="cls-18" points="554.24 418.66 549.25 427.29 544.26 418.66 554.24 418.66"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="534.25" y1="420.12" x2="534.25" y2="376.79"/>
+        <polygon class="cls-18" points="539.24 418.66 534.25 427.29 529.26 418.66 539.24 418.66"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="564.25" y1="429.79" x2="564.25" y2="413.97"/>
+        <polygon class="cls-18" points="569.24 415.43 564.25 406.79 559.26 415.43 569.24 415.43"/>
+      </g>
+      <g>
+        <rect class="cls-24" x="411.78" y="353.77" width="41.67" height="16.25"/>
+        <text class="cls-19" transform="translate(414.8 364.82)"><tspan x="0" y="0">TCP 80</tspan></text>
+      </g>
+      <g>
+        <polyline class="cls-3" points="564.25 403.79 564.25 346.79 64.57 346.79 64.57 233.25 84.82 233.25"/>
+        <polygon class="cls-18" points="83.36 238.24 92 233.25 83.36 228.26 83.36 238.24"/>
+      </g>
+      <g>
+        <rect class="cls-24" x="485.67" y="338.93" width="54.17" height="15.75"/>
+        <text class="cls-19" transform="translate(488.36 350.16)"><tspan x="0" y="0">TCP 5000</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-24" x="337.41" y="293.77" width="54.5" height="16.25"/>
+        <text class="cls-19" transform="translate(340.8 304.82)"><tspan x="0" y="0">TCP 5646</tspan></text>
+      </g>
+      <g>
+        <line class="cls-2" x1="139.5" y1="510.65" x2="139.5" y2="615.75"/>
+        <polygon class="cls-22" points="134.51 512.11 139.5 503.47 144.49 512.11 134.51 512.11"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="189.5" y1="510.65" x2="189.5" y2="615.75"/>
+        <polygon class="cls-22" points="184.51 512.11 189.5 503.47 194.49 512.11 184.51 512.11"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="327" y1="510.65" x2="327" y2="615.79"/>
+        <polygon class="cls-22" points="322.01 512.11 327 503.47 331.99 512.11 322.01 512.11"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="387.5" y1="510.65" x2="387.5" y2="615.79"/>
+        <polygon class="cls-18" points="382.51 512.11 387.5 503.47 392.49 512.11 382.51 512.11"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="497.75" y1="524.97" x2="497.75" y2="615.79"/>
+        <polygon class="cls-18" points="492.76 526.43 497.75 517.79 502.74 526.43 492.76 526.43"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="549.25" y1="524.97" x2="549.25" y2="615.79"/>
+        <polygon class="cls-18" points="544.26 526.43 549.25 517.79 554.24 526.43 544.26 526.43"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="603.25" y1="524.97" x2="603.25" y2="615.79"/>
+        <polygon class="cls-18" points="598.26 526.43 603.25 517.79 608.24 526.43 598.26 526.43"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="663" y1="524.97" x2="663" y2="615.79"/>
+        <polygon class="cls-18" points="658.01 526.43 663 517.79 667.99 526.43 658.01 526.43"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="432.25" y1="500.97" x2="432.25" y2="606.12"/>
+        <polygon class="cls-18" points="427.26 604.66 432.25 613.29 437.24 604.66 427.26 604.66"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="103.98" y1="500.97" x2="103.98" y2="606.08"/>
+        <polygon class="cls-22" points="98.99 604.62 103.98 613.25 108.97 604.62 98.99 604.62"/>
+      </g>
+      <g>
+        <line class="cls-5" x1="73.98" y1="510.15" x2="73.98" y2="615.75"/>
+        <polygon class="cls-22" points="68.99 511.61 73.98 502.97 78.97 511.61 68.99 511.61"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="269.5" y1="510.65" x2="269.5" y2="615.79"/>
+        <polygon class="cls-22" points="264.51 512.11 269.5 503.47 274.49 512.11 264.51 512.11"/>
+      </g>
+      <g>
+        <line class="cls-5" x1="234.5" y1="500.47" x2="234.5" y2="606.08"/>
+        <polygon class="cls-22" points="229.51 604.62 234.5 613.25 239.49 604.62 229.51 604.62"/>
+      </g>
+      <rect class="cls-24" x="377.97" y="206.64" width="29.06" height="735" transform="translate(966.64 181.64) rotate(90)"/>
+      <text class="cls-23" transform="translate(93.24 572.46)"><tspan x="0" y="0">UDP</tspan><tspan x="4.46" y="11">68</tspan></text>
+      <text class="cls-23" transform="translate(63.24 572.46)"><tspan x="0" y="0">UDP</tspan><tspan x="4.66" y="11">67</tspan></text>
+      <text class="cls-23" transform="translate(178.76 572.46)"><tspan x="0" y="0">UDP</tspan><tspan x="4.42" y="11">69</tspan></text>
+      <text class="cls-23" transform="translate(316.8 572.46)"><tspan x="0" y="0">TCP</tspan><tspan x="-3.04" y="11">8000</tspan></text>
+      <text class="cls-19" transform="translate(377.3 572.46)"><tspan x="0" y="0">TCP</tspan><tspan x="-2.87" y="11">9090</tspan></text>
+      <text class="cls-19" transform="translate(487.55 572.46)"><tspan x="0" y="0">TCP</tspan><tspan x="-2.47" y="11">8443</tspan></text>
+      <text class="cls-19" transform="translate(593.05 572.46)"><tspan x="0" y="0">TCP</tspan><tspan x="-1.26" y="11">8140</tspan></text>
+      <text class="cls-19" transform="translate(652.8 572.46)"><tspan x="0" y="0">TCP</tspan><tspan x="-2.1" y="11">5647</tspan></text>
+      <rect class="cls-24" x="697" y="429.79" width="48" height="85.5" transform="translate(1442 945.09) rotate(-180)"/>
+      <text class="cls-19" transform="translate(706.11 469.96)"><tspan x="0" y="0">MQTT</tspan><tspan x="-.66" y="11">broker</tspan></text>
+      <text class="cls-19" transform="translate(422.05 572.46)"><tspan x="0" y="0">TCP</tspan><tspan x="4.5" y="11">22</tspan></text>
+      <text class="cls-23" transform="translate(224.3 572.46)"><tspan x="0" y="0">TCP</tspan><tspan x="-2.47" y="11">8443</tspan></text>
+      <text class="cls-23" transform="translate(259.3 572.46)"><tspan x="0" y="0">TCP</tspan><tspan x="-2.87" y="11">9090</tspan></text>
+      <text class="cls-23" transform="translate(128.76 572.46)"><tspan x="0" y="0">UDP</tspan><tspan x="4.75" y="11">53</tspan></text>
+      <rect class="cls-30" x="34.5" y="535.25" width="330" height="75.5"/>
+      <rect class="cls-24" x="526" y="429.79" width="46.5" height="85.5" transform="translate(1098.5 945.09) rotate(-180)"/>
+      <text class="cls-19" transform="translate(541.13 475.46)"><tspan x="0" y="0">Pulp</tspan></text>
+      <rect class="cls-24" x="529.96" y="550.9" width="38.58" height="56" transform="translate(1128.15 29.65) rotate(90)"/>
+      <text class="cls-19" transform="translate(539.05 572.46)"><tspan x="0" y="0">TCP</tspan><tspan x="-9.46" y="11">80, 443,</tspan><tspan x="-2.86" y="22">5000</tspan></text>
+      <g>
+        <rect class="cls-24" x="168.25" y="71.77" width="89.5" height="33.5"/>
+        <path class="cls-27" d="M257,72.52v32h-88v-32h88m1.5-1.5h-91v35h91v-35h0Z"/>
+      </g>
+      <text class="cls-19" transform="translate(192.49 91.44)"><tspan x="0" y="0">bootdisk</tspan></text>
+      <rect class="cls-25" x="64.5" y="466.29" width="50" height="34"/>
+      <rect class="cls-25" x="114.5" y="466.29" width="50" height="34"/>
+      <rect class="cls-16" x="364.5" y="466.29" width="46" height="34"/>
+      <rect class="cls-16" x="410.5" y="466.29" width="43.5" height="34"/>
+      <rect class="cls-25" x="164.5" y="466.29" width="50" height="34"/>
+      <rect class="cls-25" x="214.5" y="466.29" width="75" height="34"/>
+      <rect class="cls-25" x="289.5" y="466.29" width="75" height="34"/>
+      <text class="cls-19" transform="translate(128.8 486.21)"><tspan x="0" y="0">DNS</tspan></text>
+      <text class="cls-19" transform="translate(176.56 486.21)"><tspan x="0" y="0">TFTP</tspan></text>
+      <text class="cls-19" transform="translate(228.81 486.21)"><tspan x="0" y="0">Discovery</tspan></text>
+      <text class="cls-19" transform="translate(302.17 486.21)"><tspan x="0" y="0">Templates</tspan></text>
+      <text class="cls-19" transform="translate(373.82 486.21)"><tspan x="0" y="0">SCAP</tspan></text>
+      <text class="cls-19" transform="translate(75.05 486.21)"><tspan x="0" y="0">DHCP</tspan></text>
+      <text class="cls-19" transform="translate(422.19 486.21)"><tspan x="0" y="0">REX</tspan></text>
+      <text class="cls-23" transform="translate(0 583.46)"><tspan x="0" y="0">provisioning</tspan></text>
+      <text class="cls-19" transform="translate(710.8 572.46)"><tspan x="0" y="0">TCP</tspan><tspan x="-.79" y="11">1883</tspan></text>
+      <g>
+        <g>
+          <rect class="cls-29" x="303" y="227" width="50" height="34"/>
+          <rect class="cls-29" x="353" y="227" width="50" height="34"/>
+          <rect class="cls-15" x="603" y="227" width="56" height="34"/>
+          <rect class="cls-15" x="659" y="227" width="56" height="34"/>
+          <rect class="cls-29" x="403" y="227" width="50" height="34"/>
+          <rect class="cls-29" x="453" y="227" width="75" height="34"/>
+          <rect class="cls-29" x="528" y="227" width="75" height="34"/>
+        </g>
+        <text class="cls-19" transform="translate(367.3 248.25)"><tspan x="0" y="0">DNS</tspan></text>
+        <text class="cls-19" transform="translate(415.06 248.25)"><tspan x="0" y="0">TFTP</tspan></text>
+        <text class="cls-19" transform="translate(467.31 248.25)"><tspan x="0" y="0">Discovery</tspan></text>
+        <text class="cls-19" transform="translate(540.67 247.31)"><tspan x="0" y="0">Templates</tspan></text>
+        <text class="cls-19" transform="translate(617.32 248.25)"><tspan x="0" y="0">SCAP</tspan></text>
+        <text class="cls-19" transform="translate(676.94 247.73)"><tspan x="0" y="0">REX</tspan></text>
+        <text class="cls-19" transform="translate(313.55 248.25)"><tspan x="0" y="0">DHCP</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

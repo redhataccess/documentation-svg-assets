@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 382">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #06c;
+      }
+
+      .cls-6 {
+        fill: #e6e6e6;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-9, .cls-10 {
+        fill: #151515;
+      }
+
+      .cls-11 {
+        fill: #ececec;
+        font-family: RedHatTextRoman-Regular, 'Red Hat Text';
+        font-size: 10px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-5, .cls-8, .cls-10 {
+        font-family: RedHatTextRoman-Medium, 'Red Hat Text';
+        font-size: 12px;
+        font-variation-settings: 'wght' 500;
+      }
+
+      .cls-2 {
+        stroke: #151515;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: #06c;
+      }
+    </style>
+  </defs>
+  <rect class="cls-6" x="0" y="110" width="240" height="50"/>
+  <rect class="cls-6" x="259.65" y="110" width="240" height="50"/>
+  <rect class="cls-6" x="259.65" y="205" width="240" height="50"/>
+  <rect class="cls-6" x="520" y="110" width="240" height="50"/>
+  <line class="cls-2" x1="379.65" y1="70" x2="379.65" y2="110"/>
+  <polyline class="cls-2" points="359.65 70 359.65 90 120 90 120 110"/>
+  <polyline class="cls-2" points="399.65 70 399.65 90 640 90 640 110"/>
+  <g>
+    <line class="cls-2" x1="379.65" y1="205" x2="379.65" y2="169.68"/>
+    <polygon class="cls-9" points="384.64 171.14 379.65 162.5 374.66 171.14 384.64 171.14"/>
+  </g>
+  <g>
+    <line class="cls-3" x1="359.65" y1="315" x2="359.65" y2="264.68"/>
+    <polygon class="cls-4" points="364.64 266.14 359.65 257.5 354.66 266.14 364.64 266.14"/>
+  </g>
+  <g>
+    <polyline class="cls-2" points="399.65 205 399.65 185 640 185 640 169.68"/>
+    <polygon class="cls-9" points="644.99 171.14 640 162.5 635.01 171.14 644.99 171.14"/>
+  </g>
+  <g>
+    <polyline class="cls-3" points="359.65 205 359.65 185 120 185 120 169.68"/>
+    <polygon class="cls-4" points="124.99 171.14 120 162.5 115.01 171.14 124.99 171.14"/>
+  </g>
+  <rect class="cls-4" x="259.65" y="20" width="240" height="50"/>
+  <g>
+    <line class="cls-2" x1="399.65" y1="315" x2="399.65" y2="264.68"/>
+    <polygon class="cls-9" points="404.64 266.14 399.65 257.5 394.66 266.14 404.64 266.14"/>
+  </g>
+  <g>
+    <line class="cls-2" x1="319.65" y1="315" x2="319.65" y2="264.68"/>
+    <polygon class="cls-9" points="324.64 266.14 319.65 257.5 314.66 266.14 324.64 266.14"/>
+  </g>
+  <g>
+    <line class="cls-2" x1="439.65" y1="315" x2="439.65" y2="264.68"/>
+    <polygon class="cls-9" points="444.64 266.14 439.65 257.5 434.66 266.14 444.64 266.14"/>
+  </g>
+  <rect class="cls-6" x="259.65" y="315" width="240" height="50"/>
+  <rect class="cls-7" x="263" y="280.65" width="233.3" height="16.69"/>
+  <text class="cls-8" transform="translate(334.41 48.5)"><tspan x="0" y="0">Foreman Server</tspan></text>
+  <text class="cls-10" transform="translate(362.87 344.46)"><tspan x="0" y="0">Client</tspan></text>
+  <text class="cls-10" transform="translate(305.5 293.2) scale(1.03 1)"><tspan x="0" y="0">8140</tspan></text>
+  <text class="cls-10" transform="translate(384.47 293.2) scale(1.03 1)"><tspan x="0" y="0">5647</tspan></text>
+  <text class="cls-10" transform="translate(428.14 293.2) scale(1.03 1)"><tspan x="0" y="0">433</tspan></text>
+  <text class="cls-5" transform="translate(347.55 293.2) scale(1.03 1)"><tspan x="0" y="0">8141</tspan></text>
+  <text class="cls-10" transform="translate(328.45 234.46)"><tspan x="0" y="0">TCP load balancer</tspan></text>
+  <text class="cls-10" transform="translate(319.85 139.46)"><tspan x="0" y="0">Smart Proxy Server 2</tspan></text>
+  <text class="cls-10" transform="translate(580 139.46)"><tspan x="0" y="0">Smart Proxy Server 3</tspan></text>
+  <text class="cls-10" transform="translate(61.7 139.46)"><tspan x="0" y="0">Smart Proxy Server 1</tspan></text>
+  <g>
+    <text class="cls-11" transform="translate(714.48 365.02)"><tspan x="0" y="0">278_0922</tspan></text>
+    <rect class="cls-1" x="0" y="342" width="760" height="40"/>
+  </g>
+</svg>

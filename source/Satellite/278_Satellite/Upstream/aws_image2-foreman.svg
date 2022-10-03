@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 449">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-8 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-8 {
+        stroke: #5b5b5b;
+        stroke-width: 1.5px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke: #151515;
+      }
+
+      .cls-9 {
+        font-size: 16px;
+      }
+
+      .cls-9, .cls-10, .cls-11, .cls-12 {
+        fill: #151515;
+      }
+
+      .cls-9, .cls-12 {
+        font-family: RedHatTextRoman-Bold, 'Red Hat Text';
+        font-variation-settings: 'wght' 700;
+      }
+
+      .cls-13 {
+        fill: #06c;
+      }
+
+      .cls-14 {
+        fill: #e6e6e6;
+      }
+
+      .cls-15, .cls-16, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-17 {
+        fill: #e5e5e5;
+      }
+
+      .cls-18 {
+        fill: #7f7f7f;
+      }
+
+      .cls-19 {
+        fill: #d9e8f7;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 0 0 3.02 3.02;
+      }
+
+      .cls-20 {
+        fill: #ececec;
+        font-family: RedHatTextRoman-Regular, 'Red Hat Text';
+        font-size: 10px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-10 {
+        font-size: 11px;
+      }
+
+      .cls-10, .cls-16, .cls-11 {
+        font-family: RedHatTextRoman-Medium, 'Red Hat Text';
+        font-variation-settings: 'wght' 500;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 0 0 3.02 3.02;
+      }
+
+      .cls-16, .cls-11 {
+        font-size: 12px;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        stroke: #bfbfbf;
+      }
+
+      .cls-12 {
+        font-size: 14px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-14" x="0" y="20" width="351.5" height="389"/>
+  <text class="cls-9" transform="translate(24.69 58.14)"><tspan x="0" y="0">Amazon Web Services</tspan></text>
+  <rect class="cls-15" x="40.19" y="84.55" width="271.5" height="283.59"/>
+  <text class="cls-12" transform="translate(60.19 114.45)"><tspan x="0" y="0">VPC</tspan></text>
+  <rect class="cls-19" x="85.69" y="149.55" width="206" height="35"/>
+  <text class="cls-11" transform="translate(153.41 170.56)"><tspan x="0" y="0">Base system</tspan></text>
+  <polyline class="cls-7" points="75.69 264.55 75.69 299.55 281.69 299.55"/>
+  <polyline class="cls-7" points="80.69 259.55 80.69 294.55 286.69 294.55"/>
+  <rect class="cls-14" x="85.69" y="254.55" width="206" height="35"/>
+  <text class="cls-11" transform="translate(144.63 275.56)"><tspan x="0" y="0">RHEL instances</tspan></text>
+  <line class="cls-6" x1="188.69" y1="234.55" x2="188.69" y2="254.55"/>
+  <g>
+    <polyline class="cls-3" points="326.69 381.55 326.69 383.05 325.19 383.05"/>
+    <line class="cls-4" x1="322.18" y1="383.05" x2="28.2" y2="383.05"/>
+    <polyline class="cls-3" points="26.69 383.05 25.19 383.05 25.19 381.55"/>
+    <line class="cls-5" x1="25.19" y1="378.54" x2="25.19" y2="132.56"/>
+    <polyline class="cls-3" points="25.19 131.05 25.19 129.55 26.69 129.55"/>
+    <line class="cls-4" x1="29.71" y1="129.55" x2="323.68" y2="129.55"/>
+    <polyline class="cls-3" points="325.19 129.55 326.69 129.55 326.69 131.05"/>
+    <line class="cls-5" x1="326.69" y1="134.07" x2="326.69" y2="380.04"/>
+  </g>
+  <rect class="cls-14" x="125.19" y="377.68" width="101.5" height="10.75"/>
+  <text class="cls-11" transform="translate(130.22 386.76)"><tspan x="0" y="0">Availability zone</tspan></text>
+  <polyline class="cls-6" points="223.19 334.05 60.19 334.05 60.19 209.55 85.69 209.55"/>
+  <path class="cls-18" d="M231.12,320.04h0s96.06,0,96.06,0v28.01h-96.06s0,0,0,0c-10.58,0-10.58-28.01,0-28.01Z"/>
+  <text class="cls-16" transform="translate(233.67 337.45)"><tspan x="0" y="0">VPN Gateway</tspan></text>
+  <g>
+    <path class="cls-18" d="M235.43,39.58h0s116.06,0,116.06,0v28.01h-116.06s0,0,0,0c-10.58,0-10.58-28.01,0-28.01Z"/>
+    <text class="cls-16" transform="translate(237.98 56.99)"><tspan x="0" y="0">Internet Gateway</tspan></text>
+  </g>
+  <rect class="cls-13" x="85.69" y="184.55" width="206" height="50"/>
+  <text class="cls-16" transform="translate(133.67 213.06)"><tspan x="0" y="0">Smart Proxy Server</tspan></text>
+  <line class="cls-6" x1="327.19" y1="334.05" x2="488.5" y2="334.05"/>
+  <g>
+    <rect class="cls-15" x="490" y="86.05" width="268.5" height="280.59"/>
+    <path class="cls-17" d="M757,87.55V365.14H491.5V87.55h265.5m3-3H488.5V368.14h271.5V84.55h0Z"/>
+  </g>
+  <text class="cls-12" transform="translate(508.5 114.45)"><tspan x="0" y="0">On-premise datacenter</tspan></text>
+  <polyline class="cls-6" points="562.5 334.05 740 334.05 740 209.55 714.5 209.55"/>
+  <g>
+    <path class="cls-18" d="M554.57,320.04h0s-66.06,0-66.06,0v28.01h66.06s0,0,0,0c10.58,0,10.58-28.01,0-28.01Z"/>
+    <text class="cls-16" transform="translate(502.08 337.45)"><tspan x="0" y="0">Gateway</tspan></text>
+  </g>
+  <rect class="cls-13" x="508.5" y="184.55" width="206" height="50"/>
+  <text class="cls-16" transform="translate(566.25 213.06)"><tspan x="0" y="0">Foreman Server</tspan></text>
+  <line class="cls-6" x1="351.5" y1="53.58" x2="398.25" y2="53.58"/>
+  <g>
+    <text class="cls-10" transform="translate(399.05 81.04)"><tspan x="0" y="0">Internet</tspan></text>
+    <path class="cls-8" d="M435.06,51.19c0-7.33-5.99-13.27-13.38-13.27-5,0-9.36,2.73-11.65,6.76-.56-.1-1.14-.16-1.73-.16-5.55,0-10.05,4.46-10.05,9.97s4.5,9.97,10.05,9.97h26.76c3.69,0,6.69-2.97,6.69-6.64s-3-6.64-6.69-6.64Z"/>
+  </g>
+  <g>
+    <text class="cls-10" transform="translate(408.25 367.54)"><tspan x="0" y="0">VPN</tspan><tspan x="-16.98" y="12">connection</tspan></text>
+    <g>
+      <path class="cls-15" d="M434.73,318.73l-14.56-3.1c-.11-.02-.23-.02-.34,0l-14.56,3.1c-.38,.08-.66,.42-.66,.81v16.76c0,8.49,6.9,15.39,15.39,15.39s15.39-6.9,15.39-15.39v-16.76c0-.39-.27-.73-.66-.81Z"/>
+      <polyline class="cls-2" points="415.28 333.8 418.12 336.61 424.66 330.11"/>
+      <path class="cls-2" d="M420,350.91c-8.06,0-14.61-6.55-14.61-14.61v-16.8l14.61-3.1,14.61,3.1v16.8c0,8.06-6.55,14.61-14.61,14.61Z"/>
+    </g>
+  </g>
+  <g>
+    <text class="cls-20" transform="translate(714.48 432.02)"><tspan x="0" y="0">278_0922</tspan></text>
+    <rect class="cls-1" x="0" y="409" width="760" height="40"/>
+  </g>
+</svg>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 328.09">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-8 {
+        stroke: #5b5b5b;
+        stroke-width: 1.5px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke: #06c;
+      }
+
+      .cls-9 {
+        font-family: RedHatText-Bold, 'Red Hat Text';
+        font-size: 14px;
+      }
+
+      .cls-9, .cls-10, .cls-11 {
+        fill: #151515;
+      }
+
+      .cls-12 {
+        fill: #06c;
+      }
+
+      .cls-13, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-14 {
+        fill: #e8e8e8;
+      }
+
+      .cls-15 {
+        fill: #d9e8f7;
+      }
+
+      .cls-16 {
+        fill: #5b5b5b;
+      }
+
+      .cls-10 {
+        font-family: RedHatText-Medium, 'Red Hat Text';
+      }
+
+      .cls-10, .cls-11 {
+        font-size: 11px;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 0 0 2.97 2.97;
+      }
+
+      .cls-17 {
+        fill: #ececec;
+        font-family: RedHatText-Regular, 'Red Hat Text';
+        font-size: 10px;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 0 0 3.02 3.02;
+      }
+
+      .cls-11 {
+        font-family: RedHatTextRoman-Medium, 'Red Hat Text';
+        font-variation-settings: 'wght' 500;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 0 0 2.87 2.87;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <path class="cls-14" d="M453,22V309H2V22H453m2-2H0V311H455V20h0Z"/>
+  <g>
+    <line class="cls-3" x1="552.5" y1="126.18" x2="552.5" y2="127.68"/>
+    <line class="cls-5" x1="552.5" y1="130.7" x2="552.5" y2="237.99"/>
+    <line class="cls-3" x1="552.5" y1="239.5" x2="552.5" y2="241"/>
+    <polygon class="cls-12" points="547.51 127.64 552.5 119 557.49 127.64 547.51 127.64"/>
+  </g>
+  <line class="cls-3" x1="227.5" y1="116.5" x2="227.5" y2="216.5"/>
+  <g>
+    <line class="cls-3" x1="157.5" y1="216.55" x2="157.5" y2="231.37"/>
+    <polygon class="cls-12" points="152.51 229.91 157.5 238.55 162.49 229.91 152.51 229.91"/>
+  </g>
+  <g>
+    <line class="cls-3" x1="290.32" y1="266" x2="288.82" y2="266"/>
+    <line class="cls-4" x1="285.86" y1="266" x2="227.98" y2="266"/>
+    <line class="cls-3" x1="226.5" y1="266" x2="225" y2="266"/>
+    <polygon class="cls-12" points="288.86 261.01 297.5 266 288.86 270.99 288.86 261.01"/>
+  </g>
+  <line class="cls-7" x1="470.27" y1="266" x2="447.23" y2="266"/>
+  <g>
+    <line class="cls-3" x1="475.32" y1="266" x2="473.82" y2="266"/>
+    <line class="cls-6" x1="470.95" y1="266" x2="437.94" y2="266"/>
+    <line class="cls-3" x1="436.5" y1="266" x2="435" y2="266"/>
+    <polygon class="cls-12" points="473.86 261.01 482.5 266 473.86 270.99 473.86 261.01"/>
+  </g>
+  <polyline class="cls-3" points="87.5 116.5 87.5 216.5 367.5 216.5 367.5 116.5"/>
+  <g>
+    <rect class="cls-14" x="485" y="66.5" width="135" height="50"/>
+    <text class="cls-10" transform="translate(524.15 88.55)"><tspan x="0" y="0">Reporting &amp;</tspan><tspan x="8.08" y="12">analytics</tspan></text>
+  </g>
+  <text class="cls-9" transform="translate(20 51.53)"><tspan x="0" y="0">Python application</tspan></text>
+  <rect class="cls-14" x="20" y="66.5" width="135" height="50"/>
+  <rect class="cls-13" x="20" y="158.69" width="415" height="36.31"/>
+  <text class="cls-10" transform="translate(68.63 88.55)"><tspan x="0" y="0">Project</tspan><tspan x="1.56" y="12">source</tspan></text>
+  <rect class="cls-14" x="160" y="66.5" width="135" height="50"/>
+  <text class="cls-10" transform="translate(200.43 88.55)"><tspan x="0" y="0">Credential</tspan><tspan x="9.76" y="12">source</tspan></text>
+  <rect class="cls-15" x="90" y="241" width="135" height="50"/>
+  <text class="cls-10" transform="translate(126.05 263.05)"><tspan x="0" y="0">Ansible SDK</tspan><tspan x="-.91" y="12">async library</tspan></text>
+  <rect class="cls-14" x="300" y="66.5" width="135" height="50"/>
+  <text class="cls-10" transform="translate(342.76 88.55)"><tspan x="0" y="0">Inventory</tspan><tspan x="7.43" y="12">source</tspan></text>
+  <rect class="cls-14" x="300" y="241" width="135" height="50"/>
+  <text class="cls-10" transform="translate(336.92 263.05)"><tspan x="0" y="0">Automation</tspan><tspan x="-3.35" y="12">data receiver</tspan></text>
+  <g>
+    <rect class="cls-13" x="485.5" y="241.5" width="134" height="49"/>
+    <path class="cls-12" d="M619,242v48h-133v-48h133m1-1h-135v50h135v-50h0Z"/>
+  </g>
+  <text class="cls-10" transform="translate(525.89 263.05)"><tspan x="0" y="0">Persistent</tspan><tspan x="-6.19" y="12">data storage</tspan></text>
+  <g>
+    <text class="cls-11" transform="translate(68.63 187.64)"><tspan x="0" y="0">Project</tspan></text>
+    <g>
+      <polygon class="cls-8" points="103.9 171 71.1 171 71.1 150.99 76.37 145.72 103.9 145.72 103.9 171"/>
+      <polygon class="cls-8" points="71.1 150.99 76.37 150.99 76.37 145.72 71.1 150.99"/>
+      <polyline class="cls-2" points="91.38 152.08 87.56 152.08 87.56 164.71 91.38 164.71"/>
+      <line class="cls-2" x1="87.56" y1="158.39" x2="83.74" y2="158.39"/>
+      <circle class="cls-8" cx="78.72" cy="158.39" r="2.51"/>
+      <circle class="cls-8" cx="96.4" cy="164.71" r="2.51"/>
+      <circle class="cls-8" cx="96.4" cy="152.08" r="2.51"/>
+    </g>
+  </g>
+  <g>
+    <text class="cls-11" transform="translate(197.8 187.64)"><tspan x="0" y="0">Credentials</tspan></text>
+    <g>
+      <path class="cls-8" d="M224.98,154.17c-3.29-1.06-5.68-4.15-5.68-7.8,0-4.53,3.67-8.2,8.2-8.2s8.2,3.67,8.2,8.2c0,3.16-1.79,5.9-4.42,7.27h0s0,4.71,0,4.71l-1.26,1.27,2.52,2.52-2.52,2.52v3.8h0s-2.52,2.52-2.52,2.52l-2.52-2.52v-14.31h0Z"/>
+      <circle class="cls-16" cx="227.5" cy="141.95" r=".79"/>
+    </g>
+  </g>
+  <g>
+    <text class="cls-11" transform="translate(342.76 187.64)"><tspan x="0" y="0">Inventory</tspan></text>
+    <g>
+      <line class="cls-2" x1="363.7" y1="154.59" x2="356.12" y2="154.59"/>
+      <line class="cls-2" x1="378.88" y1="154.59" x2="371.3" y2="154.59"/>
+      <line class="cls-2" x1="367.5" y1="158.39" x2="367.5" y2="165.97"/>
+      <line class="cls-2" x1="367.5" y1="143.22" x2="367.5" y2="150.79"/>
+      <circle class="cls-8" cx="381.39" cy="154.59" r="2.51"/>
+      <circle class="cls-8" cx="381.39" cy="168.49" r="2.51"/>
+      <circle class="cls-8" cx="381.39" cy="140.7" r="2.51"/>
+      <circle class="cls-8" cx="367.5" cy="154.59" r="3.8"/>
+      <g>
+        <line class="cls-8" x1="370.19" y1="157.28" x2="379.62" y2="166.71"/>
+        <line class="cls-8" x1="364.82" y1="151.9" x2="355.39" y2="142.48"/>
+        <line class="cls-8" x1="355.39" y1="166.71" x2="364.82" y2="157.28"/>
+        <line class="cls-8" x1="379.62" y1="142.48" x2="370.19" y2="151.91"/>
+      </g>
+      <circle class="cls-8" cx="367.5" cy="168.49" r="2.51"/>
+      <circle class="cls-8" cx="367.5" cy="140.7" r="2.51"/>
+      <circle class="cls-8" cx="353.61" cy="154.59" r="2.51"/>
+      <circle class="cls-8" cx="353.61" cy="168.49" r="2.51"/>
+      <circle class="cls-8" cx="353.61" cy="140.7" r="2.51"/>
+    </g>
+  </g>
+  <g>
+    <text class="cls-17" transform="translate(717.48 311.11)"><tspan x="0" y="0">285_1022</tspan></text>
+    <rect class="cls-1" y="288.09" width="760" height="40"/>
+  </g>
+</svg>

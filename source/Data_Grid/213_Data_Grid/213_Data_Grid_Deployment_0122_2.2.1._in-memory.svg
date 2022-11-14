@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 466">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #151515;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke: #c4c4c4;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        stroke: #adadad;
+      }
+
+      .cls-8 {
+        fill: #06c;
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        fill: #e8e8e8;
+      }
+
+      .cls-11 {
+        fill: #c4c4c4;
+      }
+
+      .cls-12 {
+        fill: #d9e8f7;
+      }
+
+      .cls-13, .cls-14, .cls-15, .cls-16, .cls-17 {
+        fill: #151515;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 0 0 3.02 3.02;
+      }
+
+      .cls-14 {
+        font-family: RedHatTextRoman-Regular, 'Red Hat Text';
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-14, .cls-15, .cls-17 {
+        font-size: 11px;
+      }
+
+      .cls-18 {
+        fill: #f3f3f3;
+        font-family: RedHatText-Regular, 'Red Hat Text';
+        font-size: 10px;
+      }
+
+      .cls-15 {
+        font-family: RedHatTextRoman-Medium, 'Red Hat Text';
+        font-variation-settings: 'wght' 500;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 0 0 2.96 2.96;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+        stroke-width: 8px;
+      }
+
+      .cls-16 {
+        font-size: 13px;
+      }
+
+      .cls-16, .cls-17 {
+        font-family: RedHatTextRoman-Bold, 'Red Hat Text';
+        font-variation-settings: 'wght' 700;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="cls-18" transform="translate(720.39 449.02)"><tspan x="0" y="0">213_0122</tspan></text>
+    <rect class="cls-1" x="0" y="426" width="760" height="40"/>
+  </g>
+  <g>
+    <rect class="cls-10" y="17.5" width="760" height="408.5"/>
+    <text class="cls-16" transform="translate(20 47.53)"><tspan x="0" y="0">OpenShift Cluster</tspan></text>
+    <rect class="cls-9" x="20" y="62.5" width="710" height="80"/>
+    <text class="cls-17" transform="translate(35 85.03)"><tspan x="0" y="0">openshift-operators</tspan></text>
+    <rect class="cls-9" x="20" y="162.5" width="285" height="243.5"/>
+    <text class="cls-17" transform="translate(35 185.03)"><tspan x="0" y="0">Namespace 1</tspan></text>
+    <g>
+      <polyline class="cls-4" points="35 199 35 197.5 36.5 197.5"/>
+      <line class="cls-6" x1="39.46" y1="197.5" x2="287.02" y2="197.5"/>
+      <polyline class="cls-4" points="288.5 197.5 290 197.5 290 199"/>
+      <line class="cls-5" x1="290" y1="202.02" x2="290" y2="387.99"/>
+      <polyline class="cls-4" points="290 389.5 290 391 288.5 391"/>
+      <line class="cls-6" x1="285.54" y1="391" x2="37.98" y2="391"/>
+      <polyline class="cls-4" points="36.5 391 35 391 35 389.5"/>
+      <line class="cls-5" x1="35" y1="386.48" x2="35" y2="200.51"/>
+    </g>
+    <text class="cls-17" transform="translate(45 215.03)"><tspan x="0" y="0">Data Grid cluster</tspan></text>
+    <rect class="cls-12" x="45" y="226" width="90" height="50"/>
+    <rect class="cls-12" x="190" y="226" width="90" height="50"/>
+    <rect class="cls-12" x="45" y="331" width="90" height="50"/>
+    <rect class="cls-12" x="190" y="331" width="90" height="50"/>
+    <g>
+      <line class="cls-3" x1="82.52" y1="285.68" x2="82.48" y2="321.32"/>
+      <polygon class="cls-11" points="77.54 287.13 82.53 278.5 87.51 287.14 77.54 287.13"/>
+      <polygon class="cls-11" points="77.49 319.86 82.47 328.5 87.46 319.87 77.49 319.86"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="242.52" y1="285.68" x2="242.48" y2="321.32"/>
+      <polygon class="cls-11" points="237.54 287.13 242.53 278.5 247.51 287.14 237.54 287.13"/>
+      <polygon class="cls-11" points="237.49 319.86 242.47 328.5 247.46 319.87 237.49 319.86"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="144.68" y1="355.98" x2="180.32" y2="356.02"/>
+      <polygon class="cls-11" points="146.13 360.96 137.5 355.97 146.14 350.99 146.13 360.96"/>
+      <polygon class="cls-11" points="178.86 361.01 187.5 356.03 178.87 351.04 178.86 361.01"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="144.68" y1="250.98" x2="180.32" y2="251.02"/>
+      <polygon class="cls-11" points="146.13 255.96 137.5 250.97 146.14 245.99 146.13 255.96"/>
+      <polygon class="cls-11" points="178.86 256.01 187.5 251.03 178.87 246.04 178.86 256.01"/>
+    </g>
+    <text class="cls-15" transform="translate(76.51 254.21)"><tspan x="0" y="0">Pod 1</tspan></text>
+    <text class="cls-15" transform="translate(220.09 254.21)"><tspan x="0" y="0">Pod 3</tspan></text>
+    <text class="cls-15" transform="translate(75.25 359.21)"><tspan x="0" y="0">Pod 2</tspan></text>
+    <text class="cls-15" transform="translate(219.24 359.21)"><tspan x="0" y="0">Pod N</tspan></text>
+    <rect class="cls-9" x="455" y="162.5" width="285" height="243.5"/>
+    <text class="cls-17" transform="translate(470 185.03)"><tspan x="0" y="0">Namespace 2</tspan></text>
+    <g>
+      <polyline class="cls-4" points="470 199 470 197.5 471.5 197.5"/>
+      <line class="cls-6" x1="474.46" y1="197.5" x2="722.02" y2="197.5"/>
+      <polyline class="cls-4" points="723.5 197.5 725 197.5 725 199"/>
+      <line class="cls-5" x1="725" y1="202.02" x2="725" y2="387.99"/>
+      <polyline class="cls-4" points="725 389.5 725 391 723.5 391"/>
+      <line class="cls-6" x1="720.54" y1="391" x2="472.98" y2="391"/>
+      <polyline class="cls-4" points="471.5 391 470 391 470 389.5"/>
+      <line class="cls-5" x1="470" y1="386.48" x2="470" y2="200.51"/>
+    </g>
+    <text class="cls-17" transform="translate(480 215.03)"><tspan x="0" y="0">Data Grid cluster</tspan></text>
+    <rect class="cls-12" x="480" y="226" width="90" height="50"/>
+    <rect class="cls-12" x="625" y="226" width="90" height="50"/>
+    <rect class="cls-12" x="480" y="331" width="90" height="50"/>
+    <rect class="cls-12" x="625" y="331" width="90" height="50"/>
+    <g>
+      <polyline class="cls-3" points="97.52 321.32 97.48 308.5 227.55 308.5 227.55 285.68"/>
+      <polygon class="cls-11" points="102.5 319.85 97.55 328.5 92.53 319.88 102.5 319.85"/>
+      <polygon class="cls-11" points="232.53 287.14 227.55 278.5 222.56 287.14 232.53 287.14"/>
+    </g>
+    <line class="cls-7" x1="212.46" y1="318.1" x2="212.52" y2="298.1"/>
+    <g>
+      <polyline class="cls-3" points="212.51 321.32 212.57 298.5 97.48 298.5 97.48 285.68"/>
+      <polygon class="cls-11" points="217.5 319.88 212.5 328.5 207.53 319.85 217.5 319.88"/>
+      <polygon class="cls-11" points="102.46 287.14 97.48 278.5 92.49 287.14 102.46 287.14"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="517.52" y1="285.68" x2="517.48" y2="321.32"/>
+      <polygon class="cls-11" points="512.54 287.13 517.53 278.5 522.51 287.14 512.54 287.13"/>
+      <polygon class="cls-11" points="512.49 319.86 517.47 328.5 522.46 319.87 512.49 319.86"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="677.52" y1="285.68" x2="677.48" y2="321.32"/>
+      <polygon class="cls-11" points="672.54 287.13 677.53 278.5 682.51 287.14 672.54 287.13"/>
+      <polygon class="cls-11" points="672.49 319.86 677.47 328.5 682.46 319.87 672.49 319.86"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="579.68" y1="355.98" x2="615.32" y2="356.02"/>
+      <polygon class="cls-11" points="581.13 360.96 572.5 355.97 581.14 350.99 581.13 360.96"/>
+      <polygon class="cls-11" points="613.86 361.01 622.5 356.03 613.87 351.04 613.86 361.01"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="579.68" y1="250.98" x2="615.32" y2="251.02"/>
+      <polygon class="cls-11" points="581.13 255.96 572.5 250.97 581.14 245.99 581.13 255.96"/>
+      <polygon class="cls-11" points="613.86 256.01 622.5 251.03 613.87 246.04 613.86 256.01"/>
+    </g>
+    <g>
+      <polyline class="cls-3" points="532.52 321.32 532.48 308.5 662.55 308.5 662.55 285.68"/>
+      <polygon class="cls-11" points="537.5 319.85 532.55 328.5 527.53 319.88 537.5 319.85"/>
+      <polygon class="cls-11" points="667.53 287.14 662.55 278.5 657.56 287.14 667.53 287.14"/>
+    </g>
+    <text class="cls-15" transform="translate(511.51 254.21)"><tspan x="0" y="0">Pod 1</tspan></text>
+    <text class="cls-15" transform="translate(655.09 254.21)"><tspan x="0" y="0">Pod 3</tspan></text>
+    <text class="cls-15" transform="translate(510.25 359.21)"><tspan x="0" y="0">Pod 2</tspan></text>
+    <text class="cls-15" transform="translate(654.24 359.21)"><tspan x="0" y="0">Pod N</tspan></text>
+    <g>
+      <line class="cls-2" x1="460.32" y1="284.25" x2="299.68" y2="284.19"/>
+      <polygon class="cls-13" points="458.87 279.27 467.5 284.26 458.86 289.24 458.87 279.27"/>
+      <polygon class="cls-13" points="301.14 279.21 292.5 284.19 301.13 289.18 301.14 279.21"/>
+    </g>
+    <line class="cls-2" x1="380.03" y1="284.19" x2="379.97" y2="127.5"/>
+    <path class="cls-8" d="M470.5,79.5v46h-181v-46h181m2-2h-185v50h185v-50h0Z"/>
+    <text class="cls-15" transform="translate(329.92 105.71)"><tspan x="0" y="0">Data Grid Operator</tspan></text>
+    <text class="cls-14" transform="translate(337.3 298.47)"><tspan x="0" y="0">Manages clusters</tspan></text>
+    <line class="cls-7" x1="647.46" y1="318.1" x2="647.52" y2="298.1"/>
+    <g>
+      <polyline class="cls-3" points="647.51 321.32 647.57 298.5 532.48 298.5 532.48 285.68"/>
+      <polygon class="cls-11" points="652.5 319.88 647.5 328.5 642.53 319.85 652.5 319.88"/>
+      <polygon class="cls-11" points="537.46 287.14 532.48 278.5 527.49 287.14 537.46 287.14"/>
+    </g>
+  </g>
+</svg>

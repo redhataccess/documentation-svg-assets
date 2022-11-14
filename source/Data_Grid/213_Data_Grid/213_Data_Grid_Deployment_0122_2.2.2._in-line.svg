@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 309.35">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2, .cls-6, .cls-4, .cls-5 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-5 {
+        stroke: #151515;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #f3f3f3;
+      }
+
+      .cls-9 {
+        fill: #06c;
+      }
+
+      .cls-10 {
+        fill: #e8e8e8;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: #151515;
+      }
+
+      .cls-12 {
+        font-family: RedHatTextRoman-Regular, 'Red Hat Text';
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-12, .cls-13, .cls-14 {
+        font-size: 11px;
+      }
+
+      .cls-8 {
+        font-family: RedHatText-Regular, 'Red Hat Text';
+        font-size: 10px;
+      }
+
+      .cls-13 {
+        font-family: RedHatTextRoman-Medium, 'Red Hat Text';
+        font-variation-settings: 'wght' 500;
+      }
+
+      .cls-3 {
+        stroke: #c4c4c4;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        fill: #fff;
+        stroke: #5b5b5b;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        stroke: #fff;
+        stroke-width: 14px;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 0 0 2.85 2.85;
+      }
+
+      .cls-14 {
+        font-family: RedHatTextRoman-Bold, 'Red Hat Text';
+        font-variation-settings: 'wght' 700;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="cls-8" transform="translate(720.39 292.37)"><tspan x="0" y="0">213_0122</tspan></text>
+    <rect class="cls-1" x="0" y="269.35" width="760" height="40"/>
+  </g>
+  <g>
+    <line class="cls-2" x1="507.18" y1="143.47" x2="585.32" y2="143.53"/>
+    <polygon class="cls-11" points="508.63 148.46 500 143.47 508.64 138.49 508.63 148.46"/>
+    <polygon class="cls-11" points="583.86 148.51 592.5 143.53 583.87 138.54 583.86 148.51"/>
+  </g>
+  <g>
+    <line class="cls-2" x1="88" y1="199.32" x2="88" y2="197.82"/>
+    <line class="cls-5" x1="88.01" y1="194.98" x2="88.05" y2="156.57"/>
+    <line class="cls-2" x1="88.05" y1="155.15" x2="88.05" y2="153.65"/>
+    <polygon class="cls-11" points="92.99 197.87 87.99 206.5 83.02 197.86 92.99 197.87"/>
+    <polygon class="cls-11" points="93.04 155.11 88.06 146.47 83.07 155.1 93.04 155.11"/>
+  </g>
+  <text class="cls-12" transform="translate(519.79 135.59)"><tspan x="0" y="0">Reconcile</tspan></text>
+  <path class="cls-9" d="M495.5,19.5v248h-161V19.5h161m2-2h-165v252h165V17.5h0Z"/>
+  <text class="cls-14" transform="translate(347.5 40.03)"><tspan x="0" y="0">Data Grid Operator</tspan></text>
+  <rect class="cls-10" x="347.5" y="118.5" width="135" height="50"/>
+  <text class="cls-13" transform="translate(388.73 146.71)"><tspan x="0" y="0">Controller</tspan></text>
+  <rect class="cls-10" x="595" y="17.5" width="165" height="252"/>
+  <text class="cls-14" transform="translate(610 40.03)"><tspan x="0" y="0">OpenShift </tspan><tspan x="0" y="12">native resources</tspan></text>
+  <rect class="cls-7" x="610" y="64.5" width="135" height="27.5" transform="translate(1355 156.5) rotate(-180)"/>
+  <text class="cls-13" transform="translate(643.2 82.21)"><tspan x="0" y="0">Deployments</tspan></text>
+  <rect class="cls-7" x="610" y="97" width="135" height="27.5" transform="translate(1355 221.5) rotate(-180)"/>
+  <text class="cls-13" transform="translate(645.72 114.71)"><tspan x="0" y="0">Statefulsets</tspan></text>
+  <rect class="cls-7" x="610" y="129.5" width="135" height="27.5" transform="translate(1355 286.5) rotate(-180)"/>
+  <text class="cls-13" transform="translate(659.26 147.21)"><tspan x="0" y="0">Routes</tspan></text>
+  <rect class="cls-7" x="610" y="162" width="135" height="27.5" transform="translate(1355 351.5) rotate(-180)"/>
+  <text class="cls-13" transform="translate(657.74 179.71)"><tspan x="0" y="0">Secrets</tspan></text>
+  <rect class="cls-7" x="610" y="194.5" width="135" height="27.5" transform="translate(1355 416.5) rotate(-180)"/>
+  <text class="cls-13" transform="translate(646.13 212.21)"><tspan x="0" y="0">ConfigMaps</tspan></text>
+  <rect class="cls-7" x="610" y="227" width="135" height="27.5" transform="translate(1355 481.5) rotate(-180)"/>
+  <text class="cls-13" transform="translate(627.35 244.71)"><tspan x="0" y="0">Persistent Volumes</tspan></text>
+  <line class="cls-4" x1="330.49" y1="143.47" x2="339.38" y2="143.53"/>
+  <g>
+    <line class="cls-2" x1="277.62" y1="143.47" x2="337.82" y2="143.53"/>
+    <polygon class="cls-11" points="279.07 148.46 270.44 143.47 279.08 138.49 279.07 148.46"/>
+    <polygon class="cls-11" points="336.36 148.51 345 143.53 336.37 138.54 336.36 148.51"/>
+  </g>
+  <g>
+    <line class="cls-2" x1="42.24" y1="143.44" x2="123.27" y2="143.5"/>
+    <polygon class="cls-11" points="121.8 148.49 130.44 143.51 121.81 138.51 121.8 148.49"/>
+  </g>
+  <text class="cls-12" transform="translate(287.5 135.59)"><tspan x="0" y="0">Listen</tspan></text>
+  <text class="cls-12" transform="translate(93.02 184.7)"><tspan x="0" y="0">Apply</tspan></text>
+  <rect class="cls-10" x="132.94" y="118.5" width="135" height="50"/>
+  <text class="cls-13" transform="translate(160.14 146.71)"><tspan x="0" y="0">Kubernetes API</tspan></text>
+  <g>
+    <polyline class="cls-3" points="33.03 269 163.03 269 163.03 219"/>
+    <polyline class="cls-3" points="28.03 264 158.03 264 158.03 214"/>
+    <rect class="cls-10" x="23.03" y="209" width="130" height="50"/>
+    <text class="cls-13" transform="translate(41.34 237.21)"><tspan x="0" y="0">Custom resources</tspan></text>
+  </g>
+  <g>
+    <text class="cls-13" transform="translate(0 164.95)"><tspan x="0" y="0">OpenShift</tspan><tspan x="15.66" y="12">user</tspan></text>
+    <g>
+      <path class="cls-6" d="M45.26,148.38c0-10.06-8.26-18.22-18.45-18.22s-18.45,8.16-18.45,18.22H45.26Z"/>
+      <ellipse class="cls-6" cx="26.81" cy="121.03" rx="9.26" ry="9.15"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 734.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-13, .cls-14 {
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-6 {
+        stroke: #151515;
+      }
+
+      .cls-3, .cls-5, .cls-7, .cls-8, .cls-9, .cls-11 {
+        stroke: #8cbae8;
+      }
+
+      .cls-4, .cls-10, .cls-13, .cls-14 {
+        stroke: #c4c4c4;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 0 0 2.92 2.92;
+      }
+
+      .cls-15 {
+        font-family: RedHatTextRoman-Medium, 'Red Hat Text';
+        font-variation-settings: 'wght' 500;
+        font-weight: 500;
+      }
+
+      .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20 {
+        fill: #151515;
+      }
+
+      .cls-15, .cls-16, .cls-18, .cls-19, .cls-20, .cls-21 {
+        font-size: 14px;
+      }
+
+      .cls-22 {
+        font-size: 9.5px;
+      }
+
+      .cls-22, .cls-23, .cls-19 {
+        font-family: RedHatMonoRoman-Regular, 'Red Hat Mono';
+      }
+
+      .cls-22, .cls-23, .cls-19, .cls-24 {
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-16, .cls-21 {
+        font-family: RedHatTextRoman-Bold, 'Red Hat Text';
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 0 0 2.92 2.92;
+      }
+
+      .cls-25 {
+        fill: #06c;
+      }
+
+      .cls-26 {
+        fill: #ebf3fb;
+      }
+
+      .cls-27 {
+        fill: #fff;
+      }
+
+      .cls-28 {
+        fill: #e8e8e8;
+      }
+
+      .cls-29 {
+        fill: #d9e8f7;
+      }
+
+      .cls-30 {
+        fill: #3bab39;
+      }
+
+      .cls-8 {
+        stroke-dasharray: 0 0 2.92 2.92;
+      }
+
+      .cls-18, .cls-31 {
+        font-family: RedHatMonoRoman-SemiBold, 'Red Hat Mono';
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+
+      .cls-9 {
+        stroke-dasharray: 0 0 2.95 2.95;
+      }
+
+      .cls-10 {
+        stroke-dasharray: 0 0 2.98 2.98;
+      }
+
+      .cls-32 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-24 {
+        fill: #ececec;
+        font-family: RedHatTextRoman-Regular, 'Red Hat Text';
+        font-size: 10px;
+      }
+
+      .cls-33 {
+        isolation: isolate;
+      }
+
+      .cls-11 {
+        stroke-dasharray: 0 0 2.92 2.92;
+      }
+
+      .cls-12 {
+        stroke: #d9e8f7;
+        stroke-width: 10px;
+      }
+
+      .cls-13 {
+        stroke-dasharray: 0 0 2.99 2.99;
+      }
+
+      .cls-14 {
+        stroke-dasharray: 0 0 3.03 3.03;
+      }
+    </style>
+  </defs>
+  <g class="cls-33">
+    <g id="artwork">
+      <rect class="cls-28" x="20.5" y="40.56" width="720.5" height="81"/>
+      <rect class="cls-28" x="20.5" y="131.56" width="720.5" height="81"/>
+      <text class="cls-16" transform="translate(35.5 65.82)"><tspan x="0" y="0">systemd</tspan></text>
+      <text class="cls-16" transform="translate(35.5 156.82)"><tspan x="0" y="0">Host OS processes</tspan></text>
+      <text class="cls-15" transform="translate(572.48 80.07)"><tspan x="0" y="0">Default</tspan><tspan x="0" y="14">namespace</tspan></text>
+      <g>
+        <polyline class="cls-4" points="2 232.5 .5 232.5 .5 231"/>
+        <line class="cls-14" x1=".5" y1="227.97" x2=".5" y2="23.51"/>
+        <polyline class="cls-4" points=".5 22 .5 20.5 2 20.5"/>
+        <line class="cls-13" x1="4.99" y1="20.5" x2="756.51" y2="20.5"/>
+        <polyline class="cls-4" points="758 20.5 759.5 20.5 759.5 22"/>
+        <line class="cls-14" x1="759.5" y1="25.03" x2="759.5" y2="229.49"/>
+        <polyline class="cls-4" points="759.5 231 759.5 232.5 758 232.5"/>
+        <line class="cls-13" x1="755.01" y1="232.5" x2="3.49" y2="232.5"/>
+      </g>
+      <g class="cls-32">
+        <g>
+          <line class="cls-3" x1="339.25" y1="137.06" x2="337.9" y2="137.71"/>
+          <line class="cls-5" x1="335.27" y1="138.97" x2="247.17" y2="181.28"/>
+          <line class="cls-3" x1="245.85" y1="181.91" x2="244.5" y2="182.56"/>
+        </g>
+        <g>
+          <line class="cls-3" x1="339.25" y1="137.06" x2="337.9" y2="136.41"/>
+          <line class="cls-7" x1="335.27" y1="135.15" x2="247.17" y2="92.84"/>
+          <line class="cls-3" x1="245.85" y1="92.21" x2="244.5" y2="91.56"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <rect class="cls-27" x="339.75" y="85.06" width="208" height="104"/>
+          <path class="cls-25" d="M547.25,85.56v103h-207V85.56h207m1-1h-209v105h209V84.56h0Z"/>
+        </g>
+        <text class="cls-19" transform="translate(354.25 108.65)"><tspan x="0" y="0">/run/systemd</tspan><tspan x="0" y="16">/run/host</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-27" x="36" y="168.06" width="208" height="29"/>
+        <path class="cls-25" d="M243.5,168.56v28H36.5v-28H243.5m1-1H35.5v30H244.5v-30h0Z"/>
+      </g>
+      <g>
+        <rect class="cls-27" x="36" y="77.06" width="208" height="29"/>
+        <path class="cls-25" d="M243.5,77.56v28H36.5v-28H243.5m1-1H35.5v30H244.5v-30h0Z"/>
+      </g>
+      <text class="cls-19" transform="translate(45.5 95.65)"><tspan x="0" y="0">/run/systemd</tspan></text>
+      <text class="cls-19" transform="translate(45.5 186.65)"><tspan x="0" y="0">/run/host</tspan></text>
+      <line class="cls-2" x1="532.6" y1="113.12" x2="568" y2="77.06"/>
+      <rect class="cls-29" x="20.5" y="358.56" width="720.5" height="316"/>
+      <rect class="cls-29" x="20.5" y="267.56" width="720.5" height="81"/>
+      <text class="cls-16" transform="translate(35.5 292.82)"><tspan x="0" y="0">Kubelet</tspan></text>
+      <text class="cls-16" transform="translate(35.5 383.82)"><tspan x="0" y="0">Container-runtime</tspan></text>
+      <rect class="cls-26" x="35.5" y="471.56" width="224" height="188"/>
+      <text class="cls-17" transform="translate(50.5 496.96)"><tspan class="cls-21"><tspan x="0" y="0">Container 1</tspan></tspan><tspan class="cls-22"><tspan x="0" y="12">(mountPropagation:Bidirectional)</tspan></tspan></text>
+      <rect class="cls-26" x="269.5" y="471.56" width="224" height="188"/>
+      <rect class="cls-26" x="503.5" y="471.56" width="222.5" height="188"/>
+      <text class="cls-17" transform="translate(518 496.96)"><tspan class="cls-21"><tspan x="0" y="0">Container 3</tspan></tspan><tspan class="cls-22"><tspan x="0" y="12">(mountPropagation:None)</tspan></tspan></text>
+      <g>
+        <polyline class="cls-4" points="2 694.5 .5 694.5 .5 693"/>
+        <line class="cls-10" x1=".5" y1="690.02" x2=".5" y2="250.49"/>
+        <polyline class="cls-4" points=".5 249 .5 247.5 2 247.5"/>
+        <line class="cls-13" x1="4.99" y1="247.5" x2="756.51" y2="247.5"/>
+        <polyline class="cls-4" points="758 247.5 759.5 247.5 759.5 249"/>
+        <line class="cls-10" x1="759.5" y1="251.98" x2="759.5" y2="691.51"/>
+        <polyline class="cls-4" points="759.5 693 759.5 694.5 758 694.5"/>
+        <line class="cls-13" x1="755.01" y1="694.5" x2="3.49" y2="694.5"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="339.25" y1="364.06" x2="338.52" y2="365.37"/>
+        <line class="cls-9" x1="337.09" y1="367.96" x2="245.95" y2="531.96"/>
+        <line class="cls-3" x1="245.23" y1="533.25" x2="244.5" y2="534.56"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="339.25" y1="364.06" x2="337.9" y2="364.71"/>
+        <line class="cls-11" x1="335.27" y1="365.97" x2="247.17" y2="408.28"/>
+        <line class="cls-3" x1="245.85" y1="408.91" x2="244.5" y2="409.56"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="339.25" y1="364.06" x2="337.9" y2="363.41"/>
+        <line class="cls-8" x1="335.27" y1="362.15" x2="247.17" y2="319.84"/>
+        <line class="cls-3" x1="245.85" y1="319.21" x2="244.5" y2="318.56"/>
+      </g>
+      <g>
+        <line class="cls-6" x1="443.75" y1="461.89" x2="443.75" y2="416.56"/>
+        <polygon class="cls-17" points="448.74 460.43 443.75 469.06 438.76 460.43 448.74 460.43"/>
+      </g>
+      <g>
+        <rect class="cls-27" x="36" y="304.06" width="208" height="29"/>
+        <path class="cls-25" d="M243.5,304.56v28H36.5v-28H243.5m1-1H35.5v30H244.5v-30h0Z"/>
+      </g>
+      <g>
+        <rect class="cls-27" x="36" y="395.06" width="208" height="29"/>
+        <path class="cls-25" d="M243.5,395.56v28H36.5v-28H243.5m1-1H35.5v30H244.5v-30h0Z"/>
+      </g>
+      <text class="cls-19" transform="translate(45.5 322.65)"><tspan x="0" y="0">/run/kubelet</tspan></text>
+      <text class="cls-19" transform="translate(45.5 413.65)"><tspan x="0" y="0">/run/cri</tspan></text>
+      <g>
+        <rect class="cls-27" x="51" y="520.06" width="193" height="29"/>
+        <path class="cls-30" d="M243.5,520.56v28H51.5v-28H243.5m1-1H50.5v30H244.5v-30h0Z"/>
+      </g>
+      <g>
+        <rect class="cls-27" x="285" y="520.06" width="193" height="29"/>
+        <path class="cls-30" d="M477.5,520.56v28h-192v-28h192m1-1h-194v30h194v-30h0Z"/>
+      </g>
+      <g>
+        <rect class="cls-27" x="518.5" y="520.06" width="193" height="29"/>
+        <path class="cls-30" d="M711,520.56v28h-192v-28h192m1-1h-194v30h194v-30h0Z"/>
+      </g>
+      <text class="cls-20" transform="translate(60.5 538.65)"><tspan class="cls-31"><tspan x="0" y="0">/run/a</tspan></tspan><tspan class="cls-23"><tspan x="0" y="32">/run/systemd</tspan></tspan><tspan class="cls-23"><tspan x="0" y="48">/run/host</tspan></tspan><tspan class="cls-23"><tspan x="0" y="64">/run/kubelet</tspan></tspan><tspan class="cls-23"><tspan x="0" y="80">/run/cri</tspan></tspan></text>
+      <text class="cls-17" transform="translate(284.5 496.96)"><tspan class="cls-21"><tspan x="0" y="0">Container 2</tspan></tspan><tspan class="cls-22"><tspan x="0" y="12">(mountPropagation:HostToContainer)</tspan></tspan></text>
+      <line class="cls-12" x1="301.11" y1="444.08" x2="287.12" y2="444.08"/>
+      <g>
+        <polyline class="cls-6" points="147.5 461.89 147.5 444.06 428.75 444.06 428.75 426.24"/>
+        <polygon class="cls-17" points="152.49 460.43 147.5 469.06 142.51 460.43 152.49 460.43"/>
+        <polygon class="cls-17" points="433.74 427.7 428.75 419.06 423.76 427.7 433.74 427.7"/>
+      </g>
+      <text class="cls-20" transform="translate(294.5 538.65)"><tspan class="cls-31"><tspan x="0" y="0">/run/b</tspan></tspan><tspan class="cls-23"><tspan x="0" y="32">/run/systemd</tspan></tspan><tspan class="cls-23"><tspan x="0" y="48">/run/host</tspan></tspan><tspan class="cls-23"><tspan x="0" y="64">/run/kubelet</tspan></tspan><tspan class="cls-23"><tspan x="0" y="80">/run/cri</tspan></tspan><tspan class="cls-23"><tspan x="0" y="96">/run/a</tspan></tspan></text>
+      <text class="cls-18" transform="translate(528 538.65)"><tspan x="0" y="0">/run/c</tspan></text>
+      <text class="cls-15" transform="translate(572.48 307.08)"><tspan x="0" y="0">Kubernetes</tspan><tspan x="0" y="14">namespace</tspan></text>
+      <g>
+        <g>
+          <rect class="cls-27" x="339.75" y="312.06" width="208" height="104"/>
+          <path class="cls-25" d="M547.25,312.56v103h-207v-103h207m1-1h-209v105h209v-105h0Z"/>
+        </g>
+        <text class="cls-19" transform="translate(354.25 335.65)"><tspan x="0" y="0">/run/systemd</tspan><tspan x="0" y="16">/run/host</tspan><tspan x="0" y="32">/run/kubelet</tspan><tspan x="0" y="48">/run/cri</tspan><tspan x="0" y="64">/run/a</tspan></text>
+      </g>
+      <line class="cls-2" x1="532.6" y1="340.12" x2="568" y2="304.06"/>
+      <g>
+        <line class="cls-6" x1="443.75" y1="189.56" x2="443.75" y2="301.89"/>
+        <polygon class="cls-17" points="438.76 300.43 443.75 309.06 448.74 300.43 438.76 300.43"/>
+      </g>
+      <text class="cls-24" transform="translate(669.02 717.52)"><tspan x="0" y="0">290_OpenShift_1122</tspan></text>
+      <rect class="cls-1" x="0" y="694.5" width="760" height="40"/>
+    </g>
+  </g>
+</svg>

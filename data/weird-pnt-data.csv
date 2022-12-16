@@ -1,31 +1,31 @@
-"PNT ID";"Title";"Author";"Creator";"Created Date";"Updated Date";"Distribution";"Audience";"Related products";"Content Hub";"Partner Hub";"redhat.com";"Document type";"Offer ID";"ID";"Preview URL";"Size";"Partners";"Source Link";"Languages"
-"p-647385";""OpenShift"")";;;"vstanisl";"2015-06-23";;;;;"";"";"";;;"3cc42f03-0211-4827-869d-c3fef999be71";"https://pnt.redhat.com/pnt/p-647385/";"114";;"";"en"; ; ;
-"p-10658595";""Red Hat AMQ"")";"";;"eeble";"2018-11-12";;;;;"";"";"";;;"0f10f924-0b94-4ae9-ab00-16fb8e6e400d";"https://pnt.redhat.com/pnt/p-10658595/";"57";;"";"en_US"; ; ;
-"p-4114273";""Red Hat Ceph Storage"")";;;"jschaefe";"2016-12-08";;;;;"";"";"";;;"b736a07c-a3ae-433a-9761-926dbb5d6a19";"https://pnt.redhat.com/pnt/p-4114273/";"59";;"";"en_US"; ; ;
-"p-647387";""Red Hat OpenStack"")";;;"vstanisl";"2015-06-23";;;;;"";"";"";;;"ef7f59b6-ea7c-4f83-b41e-c4d2f5a912a8";"https://pnt.redhat.com/pnt/p-647387/";"171";;"";"en"; ; ;
-"p-15667925";""Red Hat Integration"")";;;"jschaefe";"2020-05-07";;;;;"";"";"";;;"c6d1906a-264d-4f03-8a12-2e78bdff34b6";"https://pnt.redhat.com/pnt/p-15667925/";"16";;"";"en_US"; ; ;
-"p-647386";""RHEL"")";;;"vstanisl";"2015-06-23";;;;;"";"";"";;;"965dc087-fc66-49fc-a842-b5991c3892fa";"https://pnt.redhat.com/pnt/p-647386/";"122";;"";"en"; ; ;
-"p-12603565";""Red Hat Decision Manager"")";;;"jschaefe";"2019-07-15";;;;;"";"";"";;;"c3f8a63b-b5c9-47c8-90e5-d03d0de66aa3";"https://pnt.redhat.com/pnt/p-12603565/";"21";;"";"en_US"; ; ;
-"p-647392";""Red Hat JBoss"")";;;"vstanisl";"2015-06-23";;;;;"";"";"";;;"9773a259-967d-4639-ad35-828bb77df26c";"https://pnt.redhat.com/pnt/p-647392/";"60";;"";"en"; ; ;
-"p-13512055";""Red Hat 3Scale"")";;;"jschaefe";"2019-11-04";;;;;"";"";"";;;"34cbd532-8a9a-44c2-99f8-f358d0c6192e";"https://pnt.redhat.com/pnt/p-13512055/";"6";;"";"en_US"; ; ;
-"p-7847993";""RHAMT"")";"";;"eeble";"2017-12-01";;;;;"";"";"";;;"4bedd941-fa87-42f4-86d4-d06a9050a9d4";"https://pnt.redhat.com/pnt/p-7847993/";"6";;"";"en_US"; ; ;
-"p-647388";""RHV"")";;;"vstanisl";"2015-06-23";;;;;"";"";"";;;"b683e5a2-80dd-48eb-9c9a-b3954b8ecc12";"https://pnt.redhat.com/pnt/p-647388/";"34";;"";"en"; ; ;
-"p-942343";""Red Hat Cloud Suite"")";;;"jschaefe";"2016-05-12";;;;;"";"";"";;;"f176e0e9-5baf-4449-9547-595f4a8420da";"https://pnt.redhat.com/pnt/p-942343/";"6";;"";"en_US"; ; ;
-"p-11138765";""Red Hat Process Automation Manager"")";;;"jschaefe";"2019-02-06";;;;;"";"";"";;;"12830387-8f42-4c16-bf79-cb835b867883";"https://pnt.redhat.com/pnt/p-11138765/";"17";;"";"en_US"; ; ;
-"p-4652513";""Red Hat Cloud Infrastructure"")";;;"jschaefe";"2017-01-30";;;;;"";"";"";;;"ad8d7479-47c5-49ed-9a5b-67e839fe17db";"https://pnt.redhat.com/pnt/p-4652513/";"13";;"";"en_US"; ; ;
-"p-15674035";""Red Hat Single Sign-On"")";;;"jschaefe";"2020-05-08";;;;;"";"";"";;;"735a35dc-2301-411c-be5e-629b7761d6e2";"https://pnt.redhat.com/pnt/p-15674035/";"4";;"";"en_US"; ; ;
-"p-6070383";""Red Hat Subscription Management"")";;;"eeble";"2017-05-30";;;;;"";"";"";;;"2f2fd8de-6106-40d3-a0b7-5e7af0cf2c56";"https://pnt.redhat.com/pnt/p-6070383/";"10";;"";"en_US"; ; ;
-"p-647393";""Red Hat Satellite"")";;;"vstanisl";"2015-06-23";;;;;"";"";"";;;"24000874-0dee-410e-a49b-1f5690b947ff";"https://pnt.redhat.com/pnt/p-647393/";"24";;"";"en"; ; ;
-"p-10573315";""Red Hat Fuse"")";;;"jschaefe";"2018-10-17";;;;;"";"";"";;;"cb932d24-7476-431d-9108-d3089325ee0f";"https://pnt.redhat.com/pnt/p-10573315/";"8";;"";"en_US"; ; ;
-"p-18476025";""Red Hat CodeReady"")";;;"jschaefe";"2021-02-03";;;;;"";"";"";;;"f00c3080-dca8-4b21-87cb-ca75bfc7a87c";"https://pnt.redhat.com/pnt/p-18476025/";"3";;"";"en_US"; ; ;
-"p-647389";""Red Hat CloudForms"")";;;"vstanisl";"2015-06-23";;;;;"";"";"";;;"98be5f4e-60f7-4c18-8e7b-74c3e945b08f";"https://pnt.redhat.com/pnt/p-647389/";"8";;"";"en"; ; ;
-"p-13953946";""Red Hat Managed Integration"")";;;"jschaefe";"2020-01-15";;;;;"";"";"";;;"1acd889a-bac2-43fd-b5a6-86d54ce4e4c8";"https://pnt.redhat.com/pnt/p-13953946/";"2";;"";"en_US"; ; ;
-"p-10574135";""Red Hat Hyperconverged Infrastructure"")";;;"jschaefe";"2018-10-17";;;;;"";"";"";;;"5fd5e423-7a3a-400a-b558-c769a4e81bcf";"https://pnt.redhat.com/pnt/p-10574135/";"3";;"";"en_US"; ; ;
-"p-647384";""FeedHenry"")";;;"vstanisl";"2015-06-23";;;;;"";"";"";;;"029469fe-d4aa-4826-a68e-611f6044b807";"https://pnt.redhat.com/pnt/p-647384/";"4";;"";"en"; ; ;
-"p-647391";""Red Hat Gluster Storage"")";;;"vstanisl";"2015-06-23";;;;;"";"";"";;;"e734b09c-8a7a-48aa-9b36-f5d6ea153d57";"https://pnt.redhat.com/pnt/p-647391/";"56";;"";"en"; ; ;
-"p-942443";""Red Hat Update Infrastructure"")";;;"jschaefe";"2016-05-12";;;;;"";"";"";;;"3cdbbfac-0a1d-424d-aec6-e1630e60df70";"https://pnt.redhat.com/pnt/p-942443/";"4";;"";"en_US"; ; ;
-"p-4694703";""Red Hat Certification"")";;;"jschaefe";"2017-02-01";;;;;"";"";"";;;"7bf12990-2058-41b4-9121-9844278a1149";"https://pnt.redhat.com/pnt/p-4694703/";"4";;"";"en_US"; ; ;
-"p-5573393";""RHMAP"")";;;"eeble";"2017-04-13";;;;;"";"";"";;;"8fb5ad35-d5d5-4cac-9fa0-1e8aa1c4ed48";"https://pnt.redhat.com/pnt/p-5573393/";"3";;"";"en_US"; ; ;
-"p-5570643";""Red Hat Directory Server"")";;;"eeble";"2017-04-13";;;;;"";"";"";;;"7e4f19b5-9b11-4040-ba04-ef1d74bb7f55";"https://pnt.redhat.com/pnt/p-5570643/";"1";;"";"en_US"; ; ;
-"p-5990903";""Red Hat Development Suite"")";;;"eeble";"2017-05-23";;;;;"";"";"";;;"a04b95a2-72b8-4941-8865-186c17e011aa";"https://pnt.redhat.com/pnt/p-5990903/";"1";;"";"en_US"; ; ;
-"p-11139035";""Red Hat Container Development Kit"")";;;"jschaefe";"2019-02-06";;;;;"";"";"";;;"9d4ea83a-9896-48d5-84e8-dd4ef8656440";"https://pnt.redhat.com/pnt/p-11139035/";"1";;"";"en_US"; ; ;
+Title,Creator,Created Date,Preview URL,ID,Size,Languages,Updated Date,Distribution,Audience,Related products,Content Hub,Partner Hub,redhat.com,Document type,Offer ID,Partners,Source Link
+OpenShift,vstanisl,2015-06-23,https://pnt.redhat.com/pnt/p-647385/,3cc42f03-0211-4827-869d-c3fef999be71,114,en,,,,,,,,,,,
+Red Hat AMQ,eeble,2018-11-12,https://pnt.redhat.com/pnt/p-10658595/,0f10f924-0b94-4ae9-ab00-16fb8e6e400d,57,en_US,,,,,,,,,,,
+Red Hat Ceph Storage,jschaefe,2016-12-08,https://pnt.redhat.com/pnt/p-4114273/,b736a07c-a3ae-433a-9761-926dbb5d6a19,59,en_US,,,,,,,,,,,
+Red Hat OpenStack,vstanisl,2015-06-23,https://pnt.redhat.com/pnt/p-647387/,ef7f59b6-ea7c-4f83-b41e-c4d2f5a912a8,171,en,,,,,,,,,,,
+Red Hat Integration,jschaefe,2020-05-07,https://pnt.redhat.com/pnt/p-15667925/,c6d1906a-264d-4f03-8a12-2e78bdff34b6,16,en_US,,,,,,,,,,,
+RHEL,vstanisl,2015-06-23,https://pnt.redhat.com/pnt/p-647386/,965dc087-fc66-49fc-a842-b5991c3892fa,122,en,,,,,,,,,,,
+Red Hat Decision Manager,jschaefe,2019-07-15,https://pnt.redhat.com/pnt/p-12603565/,c3f8a63b-b5c9-47c8-90e5-d03d0de66aa3,21,en_US,,,,,,,,,,,
+Red Hat JBoss,vstanisl,2015-06-23,https://pnt.redhat.com/pnt/p-647392/,9773a259-967d-4639-ad35-828bb77df26c,60,en,,,,,,,,,,,
+Red Hat 3Scale,jschaefe,2019-11-04,https://pnt.redhat.com/pnt/p-13512055/,34cbd532-8a9a-44c2-99f8-f358d0c6192e,6,en_US,,,,,,,,,,,
+RHAMT,eeble,2017-12-01,https://pnt.redhat.com/pnt/p-7847993/,4bedd941-fa87-42f4-86d4-d06a9050a9d4,6,en_US,,,,,,,,,,,
+RHV,vstanisl,2015-06-23,https://pnt.redhat.com/pnt/p-647388/,b683e5a2-80dd-48eb-9c9a-b3954b8ecc12,34,en,,,,,,,,,,,
+Red Hat Cloud Suite,jschaefe,2016-05-12,https://pnt.redhat.com/pnt/p-942343/,f176e0e9-5baf-4449-9547-595f4a8420da,6,en_US,,,,,,,,,,,
+Red Hat Process Automation Manager,jschaefe,2019-02-06,https://pnt.redhat.com/pnt/p-11138765/,12830387-8f42-4c16-bf79-cb835b867883,17,en_US,,,,,,,,,,,
+Red Hat Cloud Infrastructure,jschaefe,2017-01-30,https://pnt.redhat.com/pnt/p-4652513/,ad8d7479-47c5-49ed-9a5b-67e839fe17db,13,en_US,,,,,,,,,,,
+Red Hat Single Sign-On,jschaefe,2020-05-08,https://pnt.redhat.com/pnt/p-15674035/,735a35dc-2301-411c-be5e-629b7761d6e2,4,en_US,,,,,,,,,,,
+Red Hat Subscription Management,eeble,2017-05-30,https://pnt.redhat.com/pnt/p-6070383/,2f2fd8de-6106-40d3-a0b7-5e7af0cf2c56,10,en_US,,,,,,,,,,,
+Red Hat Satellite,vstanisl,2015-06-23,https://pnt.redhat.com/pnt/p-647393/,24000874-0dee-410e-a49b-1f5690b947ff,24,en,,,,,,,,,,,
+Red Hat Fuse,jschaefe,2018-10-17,https://pnt.redhat.com/pnt/p-10573315/,cb932d24-7476-431d-9108-d3089325ee0f,8,en_US,,,,,,,,,,,
+Red Hat CodeReady,jschaefe,2021-02-03,https://pnt.redhat.com/pnt/p-18476025/,f00c3080-dca8-4b21-87cb-ca75bfc7a87c,3,en_US,,,,,,,,,,,
+Red Hat CloudForms,vstanisl,2015-06-23,https://pnt.redhat.com/pnt/p-647389/,98be5f4e-60f7-4c18-8e7b-74c3e945b08f,8,en,,,,,,,,,,,
+Red Hat Managed Integration,jschaefe,2020-01-15,https://pnt.redhat.com/pnt/p-13953946/,1acd889a-bac2-43fd-b5a6-86d54ce4e4c8,2,en_US,,,,,,,,,,,
+Red Hat Hyperconverged Infrastructure,jschaefe,2018-10-17,https://pnt.redhat.com/pnt/p-10574135/,5fd5e423-7a3a-400a-b558-c769a4e81bcf,3,en_US,,,,,,,,,,,
+FeedHenry,vstanisl,2015-06-23,https://pnt.redhat.com/pnt/p-647384/,029469fe-d4aa-4826-a68e-611f6044b807,4,en,,,,,,,,,,,
+Red Hat Gluster Storage,vstanisl,2015-06-23,https://pnt.redhat.com/pnt/p-647391/,e734b09c-8a7a-48aa-9b36-f5d6ea153d57,56,en,,,,,,,,,,,
+Red Hat Update Infrastructure,jschaefe,2016-05-12,https://pnt.redhat.com/pnt/p-942443/,3cdbbfac-0a1d-424d-aec6-e1630e60df70,4,en_US,,,,,,,,,,,
+Red Hat Certification,jschaefe,2017-02-01,https://pnt.redhat.com/pnt/p-4694703/,7bf12990-2058-41b4-9121-9844278a1149,4,en_US,,,,,,,,,,,
+RHMAP,eeble,2017-04-13,https://pnt.redhat.com/pnt/p-5573393/,8fb5ad35-d5d5-4cac-9fa0-1e8aa1c4ed48,3,en_US,,,,,,,,,,,
+Red Hat Directory Server,eeble,2017-04-13,https://pnt.redhat.com/pnt/p-5570643/,7e4f19b5-9b11-4040-ba04-ef1d74bb7f55,1,en_US,,,,,,,,,,,
+Red Hat Development Suite,eeble,2017-05-23,https://pnt.redhat.com/pnt/p-5990903/,a04b95a2-72b8-4941-8865-186c17e011aa,1,en_US,,,,,,,,,,,
+Red Hat Container Development Kit,jschaefe,2019-02-06,https://pnt.redhat.com/pnt/p-11139035/,9d4ea83a-9896-48d5-84e8-dd4ef8656440,1,en_US,,,,,,,,,,,

@@ -1,5 +1,4 @@
 Title	fileName	relatedProducts	Languages	Document type	Partner Hub	extension	createdDate	fullPath	fileSize
-title	236_Ansible_Reference_Arch_update_0422_hop.png	Ansible	en	graphic	partner	png		for-web/Ansible/236_Ansible/236_Ansible_Reference_Arch_update_0422_hop.png	101218
 	206_3Scale_Admin_API_Gateway_0122_where-it-is.png	3Scale				png		for-web/3Scale/206_3Scale/206_3Scale_Admin_API_Gateway_0122_where-it-is.png	48308
 	289_3scale_HA_active-passive_clusters_1122_2.png	3Scale				png		for-web/3Scale/289_3scale/289_3scale_HA_active-passive_clusters_1122_2.png	122638
 	117_AMQ_Security_Options_Kafka_0920-listeners.svg	AMQ_Streams				svg		for-web/AMQ_Streams/117_AMQ/117_AMQ_Security_Options_Kafka_0920-listeners.svg	4914
@@ -63,6 +62,7 @@ title	236_Ansible_Reference_Arch_update_0422_hop.png	Ansible	en	graphic	partner	
 	228_Ansible_Process_Overview_0322_2.png	Ansible				png		for-web/Ansible/228_Ansible/228_Ansible_Process_Overview_0322_2.png	123514
 	236_Ansible_Reference_Arch_update_0422_ansible_tower.png	Ansible				png		for-web/Ansible/236_Ansible/236_Ansible_Reference_Arch_update_0422_ansible_tower.png	33107
 	236_Ansible_Reference_Arch_update_0422_bastion.png	Ansible				png		for-web/Ansible/236_Ansible/236_Ansible_Reference_Arch_update_0422_bastion.png	85803
+	236_Ansible_Reference_Arch_update_0422_hop.png	Ansible				png		for-web/Ansible/236_Ansible/236_Ansible_Reference_Arch_update_0422_hop.png	101218
 	236_Ansible_Reference_Arch_update_0422_map.png	Ansible				png		for-web/Ansible/236_Ansible/236_Ansible_Reference_Arch_update_0422_map.png	298958
 	285_Ansible_SDK_local_executor_1022.svg	Ansible				svg		for-web/Ansible/285_Ansible/285_Ansible_SDK_local_executor_1022.svg	7453
 	285_Ansible_SDK_local_executor_1022_1.png	Ansible				png		for-web/Ansible/285_Ansible/285_Ansible_SDK_local_executor_1022_1.png	74129

@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  padding: 40px;
+}
+
+rh-table {
+  max-width: calc(100% + 80px);
+  margin: 0 -40px;
+}
+
+td:has(.preview-image, #f00) {
+  padding: 4px;
+}
+
+tr:has(.warning) {
+  --rh-table--hoveredCol--Background: #ffeec1;
+  --rh-table--hoveredRow--Background: #F9E0A2;
+  --rh-table--hoveredIntersection--Background: #F6D173;
+
+  background: #FDF7E7;
+}
+
+td.warning {
+  --rh-table--hoveredCol--Background: #F9E0A2;
+  --rh-table--hoveredRow--Background: #F6D173;
+
+  background: #F9E0A2;
+}
+
+tr:has(.error) {
+  --rh-table--hoveredCol--Background: #ffeec1;
+  --rh-table--hoveredRow--Background: #F9E0A2;
+  --rh-table--hoveredIntersection--Background: #F6D173;
+
+  background: #FAEAE8;
+}
+
+td.error {
+  --rh-table--hoveredCol--Background: #F9E0A2;
+  --rh-table--hoveredRow--Background: #F6D173;
+
+  background: #F9E0A2;
+}
+
+.js-lazy-load {
+  display: block;
+  width: 80px;
+  height: 80px;
+  background: #eee;
+  border: 0;
+}
+
+.preview-image {
+  display: block;
+  max-width: 80px;
+  height: auto;
+  cursor: pointer;
+}
+
+/* .modal__preview {} */
+
+dialog {
+  display: flex;
+  flex-direction: column;
+  border: 0;
+  box-shadow: 2px 4px 20px #00000099;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+dialog::backdrop {
+  background: #00000099;
+}

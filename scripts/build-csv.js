@@ -134,6 +134,12 @@ const getNewCsvRows = () => {
   return rowsToAddToCsv;
 }
 
+/**
+ * Creates the HTML for a table based on arrays
+ * @param {array} headerRow Column headings as an array
+ * @param {array} rows An array of arrays with the latter being the values for each cell in a row
+ * @returns {string} the HTML for the table
+ */
 const createListingTable = (headerRow, rows) => {
   if (!Array.isArray(headerRow) || !headerRow.length) {
     console.error('Tried to build HTML table for index page without a headerRow', 'headerRow: ', headerRow, 'rows: ', rows);
@@ -145,9 +151,14 @@ const createListingTable = (headerRow, rows) => {
   }
 
   const fullPathIndex = headerRow.indexOf('fullPath');
+  const fileSizeIndex = headerRow.indexOf('fileSize');
   headerRow = ['Preview'].concat(headerRow);
 
   let table = `<rh-table full-screen="false"><table><thead><tr>`;
+  // Remove column for fullPath
+  headerRow.splice(fullPathIndex + 1, 1);
+
+  // Create HTML for the header row
   headerRow.forEach((heading) => {
     switch (heading) {
       case 'fileName':
@@ -159,12 +170,11 @@ const createListingTable = (headerRow, rows) => {
       case 'createdDate':
         heading = 'Created Date';
         break;
-      case 'fullPath':
-        heading = 'Path';
-        break;
       case 'fileSize':
-        heading = 'File Size';
+        heading = 'File Size (kb)';
         break;
+      case 'extension':
+        heading = 'Extension';
     }
     table = `${table}<th>${heading}</th>`;
   });
@@ -177,14 +187,29 @@ const createListingTable = (headerRow, rows) => {
       let fullPath = currentRow[fullPathIndex];
       const startsWithForWeb = fullPath.indexOf('for-web/') === 0;
       if (startsWithForWeb) fullPath = fullPath.substring(8);
-      const previewImg = `<img data-src="${fullPath}" alt="" class="preview-image" />`;
+      const previewImg = `<img data-src="${fullPath}" alt="" class="preview-image js-lazy-load" />`;
       currentRow = [previewImg].concat(currentRow);
     }
     else {
       currentRow = [''].concat(currentRow);
     }
-    currentRow.forEach((cell) => {
-      table = `${table}<td>${cell}</td>`;
+
+    // Remove fullPath column
+    currentRow.splice(fullPathIndex + 1, 1);
+
+    // Add HTML for this row
+    currentRow.forEach((cell, index) => {
+      let cellClass = '';
+      if (index === fileSizeIndex) {
+        cell = Math.round(parseInt(cell) / 1000);
+        if (cell > 150) {
+          cellClass = ' class="warning"';
+        }
+        else if (cell > 500) {
+          cellClass = ' class="error"';
+        }
+      }
+      table = `${table}<td${cellClass}>${cell}</td>`;
     });
     table = `${table}</tr>`;
   });
@@ -210,6 +235,7 @@ const buildIndexHtml = (headerRow, rows) => {
       indexHtml = `${indexHtml}\n  <link media="all" rel="stylesheet" type="text/css" href="_listing-page-assets/@cpelements/rh-table/dist/rh-table--lightdom.css" />`;
       indexHtml = `${indexHtml}\n  <link media="all" rel="stylesheet" type="text/css" href="_listing-page-assets/styles.css" />`;
       indexHtml = `${indexHtml}\n  <script src="_listing-page-assets/@cpelements/rh-table/dist/rh-table.min.js" type="module"></script>`;
+      indexHtml = `${indexHtml}\n  <script src="_listing-page-assets/script.js"></script>`;
       indexHtml = `${indexHtml}</head>`;
       indexHtml = `${indexHtml}\n<body>`;
       indexHtml = `${indexHtml}\n  <h1>${pageTitle}</h1>${table}`;

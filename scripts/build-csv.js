@@ -3,13 +3,15 @@ console.clear();
 const fs = require('fs');
 const path = require('path');
 const { parse } = require("csv-parse");
+const { stringify } = require("csv-stringify");
 
 // Config
 const dir = {
   'compiled': './for-web/',
   'source': './source/',
 };
-const localAssetsCsvPath = './data/localAssets.csv';
+const localAssetsCsvPath = './data/localAssets.tsv';
+const csvDelimeter = '\t';
 
 // crawlDir Data vars
 const filesByFolder = {};
@@ -128,7 +130,7 @@ const getNewCsvRows = () => {
  * Process the CSV file and get the relevant data
  */
 fs.createReadStream(localAssetsCsvPath)
-  .pipe(parse({delimiter: "|", from_line: 1 }))
+  .pipe(parse({delimiter: csvDelimeter, from_line: 1 }))
   .on('error', (error) => {
     console.warn(error);
     // return;
@@ -166,4 +168,16 @@ fs.createReadStream(localAssetsCsvPath)
     // Figure out what files are new
     const newCsvRows = getNewCsvRows();
     console.log(newCsvRows);
+    debugger;
+
+    // Write new rows to CSV
+    const writableStream = fs.createWriteStream(localAssetsCsvPath);
+    if (Array.isArray(newCsvRows) && newCsvRows.length) {
+      const convertToCsv = stringify({ header: true, columns: csvHeaders, delimiter: csvDelimeter });
+      // Write existing rows back
+      csvRows.forEach((row) => convertToCsv.write(row));
+      // Add new rows
+      newCsvRows.forEach((row) => convertToCsv.write(row));
+      convertToCsv.pipe(writableStream);
+    }
   });

@@ -13,5 +13,9 @@
     "gulp": "^4.0.2",
     "gulp-replace": "^1.0.0",
     "gulp-svgo": "^2.2.1"
+  },
+  "dependencies": {
+    "csv": "^6.2.5",
+    "path": "^0.12.7"
   }
 }

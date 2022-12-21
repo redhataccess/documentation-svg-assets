@@ -11,7 +11,9 @@ const dir = {
   'source': './source/',
 };
 const localAssetsCsvPath = './data/localAssets.tsv';
+const indexPagePath = './for-web/index.html';
 const csvDelimeter = '\t';
+const pageTitle = 'Documentation Diagram Library';
 
 // crawlDir Data vars
 const filesByFolder = {};
@@ -37,17 +39,23 @@ const crawlDir = (dirToCrawl) => {
     const fullPath = path.join(dirToCrawl, fileName);
     const stat = fs.lstatSync(fullPath);
     if (stat.isDirectory()) {
-      crawlDir(fullPath);
+      if (fileName !== '_listing-page-assets') {
+        crawlDir(fullPath);
+      }
     }
     else {
+      // Get the 2nd path and assume it's a product name (e.g. for-web/RHEL, use RHEL)
+      const productName = fullPath.split('/')[1];
+      const extension = fullPath.split('.').pop();
+
       if (typeof filesByFolder[dirToCrawl] === 'undefined') {
         filesByFolder[dirToCrawl] = [fileName];
       }
       else {
         filesByFolder[dirToCrawl].push(fileName);
         fileMetadata[fullPath] = {
-          'productName': fullPath.split('/')[1],
-          'extension': fullPath.split('.').pop(),
+          'productName': productName,
+          'extension': extension,
           'fileName': fileName,
           'fileSize': fs.statSync(fullPath).size,
         };
@@ -70,7 +78,7 @@ const getNewCsvRows = () => {
     console.error('Missing required data from fileMetadata.', fileMetadata);
   }
   if (!csvHeaders || !csvRows) {
-    console.error('Missing required data from localAssets.csv', 'csvHeaders: ', csvHeaders, 'csvRows: ', csvRows);
+    console.error('Missing required data from localAssets.tsv', 'csvHeaders: ', csvHeaders, 'csvRows: ', csvRows);
   }
 
   const localFullFilePaths = Object.keys(fileMetadata);
@@ -78,7 +86,7 @@ const getNewCsvRows = () => {
 
   localFullFilePaths.forEach((fullPath) => {
     if (csvFileFullPaths.indexOf(fullPath) >= 0) {
-      console.log('Not adding to CSV', fullPath);
+      // console.log('Not adding to CSV', fullPath);
       return;
     }
 
@@ -117,14 +125,100 @@ const getNewCsvRows = () => {
         }
       });
       // Debug output
-      console.log('----------');
-      csvHeaders.forEach((value, index) => console.log(value, rowToAdd[index]));
+      // console.log('----------');
+      // csvHeaders.forEach((value, index) => console.log(value, rowToAdd[index]));
       rowsToAddToCsv.push(rowToAdd);
     }
   });
 
   return rowsToAddToCsv;
 }
+
+const createListingTable = (headerRow, rows) => {
+  if (!Array.isArray(headerRow) || !headerRow.length) {
+    console.error('Tried to build HTML table for index page without a headerRow', 'headerRow: ', headerRow, 'rows: ', rows);
+    return;
+  }
+  if (!Array.isArray(rows) || !rows.length) {
+    console.error('Tried to build HTML table for index page without rows', 'headerRow: ', headerRow, 'rows: ', rows);
+    return;
+  }
+
+  const fullPathIndex = headerRow.indexOf('fullPath');
+  headerRow = ['Preview'].concat(headerRow);
+
+  let table = `<rh-table full-screen="false"><table><thead><tr>`;
+  headerRow.forEach((heading) => {
+    switch (heading) {
+      case 'fileName':
+        heading = 'File Name';
+        break;
+      case 'relatedProducts':
+        heading = 'Related Products';
+        break;
+      case 'createdDate':
+        heading = 'Created Date';
+        break;
+      case 'fullPath':
+        heading = 'Path';
+        break;
+      case 'fileSize':
+        heading = 'File Size';
+        break;
+    }
+    table = `${table}<th>${heading}</th>`;
+  });
+  table = `${table}</tr></thead>`;
+
+  // Populate rows of the table
+  rows.forEach((currentRow) => {
+    table = `${table}<tr>`;
+    if (typeof currentRow[fullPathIndex] === 'string' && currentRow[fullPathIndex].length) {
+      let fullPath = currentRow[fullPathIndex];
+      const startsWithForWeb = fullPath.indexOf('for-web/') === 0;
+      if (startsWithForWeb) fullPath = fullPath.substring(8);
+      const previewImg = `<img data-src="${fullPath}" alt="" class="preview-image" />`;
+      currentRow = [previewImg].concat(currentRow);
+    }
+    else {
+      currentRow = [''].concat(currentRow);
+    }
+    currentRow.forEach((cell) => {
+      table = `${table}<td>${cell}</td>`;
+    });
+    table = `${table}</tr>`;
+  });
+  table = `${table}</table></rh-table>`;
+  return table;
+}
+
+/**
+ * Builds an index html page listing all of the diagrams
+ * @param {array} headerRow Column headings as an array
+ * @param {array} rows An array of arrays with the latter being the values for each cell in a row
+ */
+const buildIndexHtml = (headerRow, rows) => {
+  const indexPage = fs.createWriteStream(indexPagePath);
+
+  indexPage.once('open', () => {
+    const table = createListingTable(headerRow, rows);
+    if (table) {
+      let indexHtml =          `<!DOCTYPE html><html><head>`;
+      indexHtml = `${indexHtml}\n  <title>${pageTitle} - Red Hat</title>`;
+      indexHtml = `${indexHtml}\n  <link media="all" rel="stylesheet" type="text/css" href="_listing-page-assets/@patternfly/pfe-styles/dist/pfe-base.min.css" />`;
+      indexHtml = `${indexHtml}\n  <link media="all" rel="stylesheet" type="text/css" href="_listing-page-assets/@patternfly/pfe-styles/dist/red-hat-font.min.css" />`;
+      indexHtml = `${indexHtml}\n  <link media="all" rel="stylesheet" type="text/css" href="_listing-page-assets/@cpelements/rh-table/dist/rh-table--lightdom.css" />`;
+      indexHtml = `${indexHtml}\n  <link media="all" rel="stylesheet" type="text/css" href="_listing-page-assets/styles.css" />`;
+      indexHtml = `${indexHtml}\n  <script src="_listing-page-assets/@cpelements/rh-table/dist/rh-table.min.js" type="module"></script>`;
+      indexHtml = `${indexHtml}</head>`;
+      indexHtml = `${indexHtml}\n<body>`;
+      indexHtml = `${indexHtml}\n  <h1>${pageTitle}</h1>${table}`;
+      indexHtml = `${indexHtml}</body></html>`;
+      indexPage.end(indexHtml);
+    }
+    debugger;
+  });
+};
 
 /**
  * Process the CSV file and get the relevant data
@@ -167,17 +261,24 @@ fs.createReadStream(localAssetsCsvPath)
 
     // Figure out what files are new
     const newCsvRows = getNewCsvRows();
-    console.log(newCsvRows);
-    debugger;
+    // console.log(newCsvRows);
 
-    // Write new rows to CSV
-    const writableStream = fs.createWriteStream(localAssetsCsvPath);
+    // If we have new rows, update the CSV then build the index page
     if (Array.isArray(newCsvRows) && newCsvRows.length) {
-      const convertToCsv = stringify({ header: true, columns: csvHeaders, delimiter: csvDelimeter });
-      // Write existing rows back
-      csvRows.forEach((row) => convertToCsv.write(row));
-      // Add new rows
-      newCsvRows.forEach((row) => convertToCsv.write(row));
-      convertToCsv.pipe(writableStream);
+      const localAssetsTsvStream = fs.createWriteStream(localAssetsCsvPath);
+      localAssetsTsvStream.once('open', () => {
+        const allRows = csvRows.concat(newCsvRows);
+        const convertToCsv = stringify({ header: true, columns: csvHeaders, delimiter: csvDelimeter });
+        // Write existing rows back
+        csvRows.forEach((row) => convertToCsv.write(row));
+        // Add new rows
+        if (newCsvRows.length) newCsvRows.forEach((row) => convertToCsv.write(row));
+        convertToCsv.pipe(localAssetsTsvStream);
+        buildIndexHtml(csvHeaders, allRows);
+      });
+    }
+    // Otherwise just create the index page
+    else {
+      buildIndexHtml(csvHeaders, csvRows);
     }
   });

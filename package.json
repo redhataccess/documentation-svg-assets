@@ -6,7 +6,8 @@
     "gulp": "gulp",
     "start": "gulp",
     "build": "gulp",
-    "clean": "rm -rf node_modules"
+    "clean": "rm -rf node_modules",
+    "postinstall": "cp -Rp node_modules/@cpelements for-web/_listing-page-assets/ && cp -Rp node_modules/@patternfly for-web/_listing-page-assets/"
   },
   "author": "wesruv",
   "devDependencies": {
@@ -15,6 +16,8 @@
     "gulp-svgo": "^2.2.1"
   },
   "dependencies": {
+    "@cpelements/rh-table": "0.0.15",
+    "@patternfly/pfe-styles": "1.12.3",
     "csv": "^6.2.5",
     "path": "^0.12.7"
   }

@@ -3,14 +3,19 @@
   "version": "1.0.0",
   "description": "SVG versions of Red Hat Diagrams",
   "scripts": {
+    "browser-sync": "browser-sync",
     "gulp": "gulp",
-    "start": "gulp",
-    "build": "gulp",
+    "start": "npm run browser-sync -- start -s for-web/ --files for-web/**/* --no-ui --no-notify --no-inject-changes",
+    "build:diagrams": "gulp optimizeSvgs",
+    "build:listing": "node scripts/build-csv.js",
+    "build:dev:listing": "node inspect scripts/build-csv.js",
+    "build": "npm run build:diagrams && npm run build:listing",
     "clean": "rm -rf node_modules",
     "postinstall": "cp -Rp node_modules/@cpelements for-web/_listing-page-assets/ && cp -Rp node_modules/@patternfly for-web/_listing-page-assets/"
   },
   "author": "wesruv",
   "devDependencies": {
+    "browser-sync": "^2.27.11",
     "gulp": "^4.0.2",
     "gulp-replace": "^1.0.0",
     "gulp-svgo": "^2.2.1"

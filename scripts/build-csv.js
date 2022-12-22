@@ -1,29 +1,66 @@
 console.clear();
+
 // Dependencies
 const fs = require('fs');
 const path = require('path');
 const { parse } = require("csv-parse");
 const { stringify } = require("csv-stringify");
+const { execSync } = require('child_process');
+
+// @todo keyboard a11y
+// @todo Filters/search
+// @todo Fix number sort
+// @todo alt text field?
+// @todo warn about SVGs in Pantheon 1
+// @todo add button to submit request
+// @todo There may be less bandwidth from Jess, does there need to be a warning on new requests?
+// @todo Standards if you make your own
+// @todo Are there any issues like "this diagram can't be used"? Good reason not to put this on prod.
+// @todo Usage instructions for images on the webpage?
+// @todo Feature requests for the listing page?
 
 // Config
 const dir = {
-  'compiled': './for-web/',
-  'source': './source/',
+  'compiled': 'for-web/',
+  'source': 'source/',
 };
-const localAssetsCsvPath = './data/localAssets.tsv';
+const localAssetsTsvPath = './data/localAssets.tsv';
 const indexPagePath = './for-web/index.html';
-const csvDelimeter = '\t';
+const tsvDelimeter = '\t';
 const pageTitle = 'Documentation Diagram Library';
 
 // crawlDir Data vars
 const filesByFolder = {};
 const fileMetadata = {};
 
-// CSV data vars
-let csvHeaders;
-let csvRow = 1;
-const csvFileFullPaths = [];
-const csvRows = [];
+// TSV data vars
+let tsvHeaders;
+const tsvFileFullPaths = [];
+const tsvRows = [];
+
+/**
+ * Runs a command in the CLI and returns the output
+ * @link https://stackoverflow.com/a/12941186
+ * @param {string} command CLI command
+ * @param {function} callback Function to pickup command output
+ */
+const runCliCommand = (command, callback) => {
+  const stdout = execSync(command);
+  if (stdout) {
+    let output;
+    if (typeof stdout === 'string') {
+      output = stdout;
+    }
+    else if (typeof stdout.toString === 'function') {
+      output = stdout.toString();
+    }
+    else {
+      console.warn('Unable to get string value of command ouptut.', stdout);
+      return;
+    }
+    callback(output);
+  }
+};
 
 /**
  * Recursive function that finds all files in a dir and populates filesByFolder and fileMetadata.
@@ -32,61 +69,63 @@ const csvRows = [];
 const crawlDir = (dirToCrawl) => {
   const files = fs.readdirSync(dirToCrawl);
   if (!fs.existsSync(dirToCrawl)) {
-    console.warn('Invalid directory.', dirToCrawl);
+    console.warn('Invalid directory given during crawl.', dirToCrawl);
   }
 
   files.forEach((fileName) => {
     const fullPath = path.join(dirToCrawl, fileName);
     const stat = fs.lstatSync(fullPath);
     if (stat.isDirectory()) {
+      // Don't find or list assets from our landing page assets folder
       if (fileName !== '_listing-page-assets') {
         crawlDir(fullPath);
       }
     }
     else {
+      if (typeof filesByFolder[dirToCrawl] === 'undefined') {
+        filesByFolder[dirToCrawl] = [fileName];
+      }
       // Get the 2nd path and assume it's a product name (e.g. for-web/RHEL, use RHEL)
       const productName = fullPath.split('/')[1];
       const extension = fullPath.split('.').pop();
 
-      if (typeof filesByFolder[dirToCrawl] === 'undefined') {
-        filesByFolder[dirToCrawl] = [fileName];
+      // Extensions to skip
+      switch (extension.toLowerCase()) {
+        case 'js':
+        case 'css':
+        case 'html':
+          return;
       }
-      else {
-        filesByFolder[dirToCrawl].push(fileName);
-        fileMetadata[fullPath] = {
-          'productName': productName,
-          'extension': extension,
-          'fileName': fileName,
-          'fileSize': fs.statSync(fullPath).size,
-        };
-      }
+
+      // Add the file metadata for inclusion in the TSV
+      filesByFolder[dirToCrawl].push(fileName);
+      fileMetadata[fullPath] = {
+        'productName': productName,
+        'extension': extension,
+        'fileName': fileName,
+        'fileSize': fs.statSync(fullPath).size,
+      };
     }
   });
 };
 
-// Crawl the compiled folder for files and populate data
-crawlDir(dir.compiled);
-
-console.log(filesByFolder);
-console.log(fileMetadata);
-
 /**
- * Compare data in CSV to files in the compiled folder and make sure each file is represented in the CSV
+ * Compare data in TSV to files in the compiled folder and make sure each file is represented in the TSV
  */
-const getNewCsvRows = () => {
+const getNewTsvRows = () => {
   if (!fileMetadata, !Object.keys(fileMetadata).length) {
     console.error('Missing required data from fileMetadata.', fileMetadata);
   }
-  if (!csvHeaders || !csvRows) {
-    console.error('Missing required data from localAssets.tsv', 'csvHeaders: ', csvHeaders, 'csvRows: ', csvRows);
+  if (!tsvHeaders || !tsvRows) {
+    console.error('Missing required data from localAssets.tsv', 'tsvHeaders: ', tsvHeaders, 'tsvRows: ', tsvRows);
   }
 
   const localFullFilePaths = Object.keys(fileMetadata);
-  const rowsToAddToCsv = [];
+  const rowsToAddToTsv = [];
 
   localFullFilePaths.forEach((fullPath) => {
-    if (csvFileFullPaths.indexOf(fullPath) >= 0) {
-      // console.log('Not adding to CSV', fullPath);
+    if (tsvFileFullPaths.indexOf(fullPath) >= 0) {
+      // console.log('Not adding to TSV', fullPath);
       return;
     }
 
@@ -94,44 +133,67 @@ const getNewCsvRows = () => {
       console.warn(`Tried to add ${fullPath}, but could't get it's file data`, fileMetadata[fullPath]);
     }
     else {
-      // Create an array with the same number of indexes as there are CSV columns
-      const rowToAdd = Array(csvHeaders.length);
+      // Create an array with the same number of indexes as there are TSV columns
+      const rowToAdd = Array(tsvHeaders.length);
       const currentFileMetadata = fileMetadata[fullPath];
       const metadataKeys = Object.keys(currentFileMetadata);
 
       // Set the fullPath column
-      rowToAdd[csvHeaders.indexOf('fullPath')] = fullPath;
+      rowToAdd[tsvHeaders.indexOf('fullPath')] = fullPath;
 
       // Find the appropriate column index to set the value for known metadata
       metadataKeys.forEach((metadataKey) => {
-        let csvColumnIndex;
+        let tsvColumnIndex;
 
         // Handle any special mapping
         switch (metadataKey) {
           case 'productName':
-            csvColumnIndex = csvHeaders.indexOf('relatedProducts');
+            tsvColumnIndex = tsvHeaders.indexOf('relatedProducts');
             break;
           default:
-            csvColumnIndex = csvHeaders.indexOf(metadataKey);
+            tsvColumnIndex = tsvHeaders.indexOf(metadataKey);
             break;
         }
 
         // Set the metadata to the correct column
-        if (csvColumnIndex >= 0) {
-          rowToAdd[csvColumnIndex] = currentFileMetadata[metadataKey];
+        if (tsvColumnIndex >= 0) {
+          rowToAdd[tsvColumnIndex] = currentFileMetadata[metadataKey];
         }
         else {
-          console.warn(`Couldn't find a column in the CSV for ${metadataKey}, columns are:`, csvHeaders);
+          console.warn(`Couldn't find a column in the TSV for ${metadataKey}, columns are:`, tsvHeaders);
         }
       });
+
+      let createdDate = '';
+      runCliCommand(
+        `git log --format=%ad --date=iso "${fullPath}"`,
+        (stdout) => {
+          // if (error) console.error('Encountered git error when trying to retrieve git created date', error);
+          // if (stderr) console.error('Encountered git error when trying to retrieve git created date', stderr);
+          if (stdout) {
+            // We expect the first characters to follow this format YYYY-MM-DD
+            createdDate = stdout.substring(0, 10);
+            // Test our assumption
+            if (!/\d{4}-\d{2}-\d{2}/.test(createdDate)) {
+              // Wipe the date if it's not the format we expect
+              createdDate = '';
+            }
+          }
+        }
+      );
+
+      const createdDateIndex = tsvHeaders.indexOf('createdDate');
+      if (createdDate.length) {
+        rowToAdd[createdDateIndex] = createdDate;
+      }
+
       // Debug output
       // console.log('----------');
-      // csvHeaders.forEach((value, index) => console.log(value, rowToAdd[index]));
-      rowsToAddToCsv.push(rowToAdd);
+      // tsvHeaders.forEach((value, index) => console.log(value, rowToAdd[index]));
+      rowsToAddToTsv.push(rowToAdd);
     }
   });
-
-  return rowsToAddToCsv;
+  return rowsToAddToTsv;
 }
 
 /**
@@ -151,15 +213,32 @@ const createListingTable = (headerRow, rows) => {
   }
 
   const fullPathIndex = headerRow.indexOf('fullPath');
-  const fileSizeIndex = headerRow.indexOf('fileSize');
+  // Remove full path column
+  headerRow.splice(fullPathIndex, 1);
+  // Add new preview column
   headerRow = ['Preview'].concat(headerRow);
 
-  let table = `<rh-table full-screen="false"><table><thead><tr>`;
-  // Remove column for fullPath
-  headerRow.splice(fullPathIndex + 1, 1);
+  // Get column number of sortable columns
+  const fileSizeIndex = headerRow.indexOf('fileSize');
+  const fileNameIndex = headerRow.indexOf('fileName');
+  const relatedProductsIndex = headerRow.indexOf('relatedProducts');
+  const extensionIndex = headerRow.indexOf('extension');
+  const createdDateIndex = headerRow.indexOf('createdDate');
 
-  // Create HTML for the header row
+  const sortableColumns = [
+    fileNameIndex + 1,
+    relatedProductsIndex + 1,
+    extensionIndex + 1,
+    createdDateIndex + 1,
+    fileSizeIndex + 1,
+  ];
+
+  // Setup web component wrapper and start table and table head
+  let table = `<rh-table full-screen="false" sortable="${sortableColumns.join(',')}"><table><thead><tr>\n`;
+
+  // Create table headers
   headerRow.forEach((heading) => {
+    // Convert machine friendly names to human friendly names
     switch (heading) {
       case 'fileName':
         heading = 'File Name';
@@ -176,20 +255,30 @@ const createListingTable = (headerRow, rows) => {
       case 'extension':
         heading = 'Extension';
     }
-    table = `${table}<th>${heading}</th>`;
+    // Write out HTML
+    table = `${table}<th>${heading}</th>\n`;
   });
-  table = `${table}</tr></thead>`;
+  // Close table head
+  table = `${table}</tr></thead>\n`;
 
-  // Populate rows of the table
+  // Populate rows of the table from rows data
   rows.forEach((currentRow) => {
+    // Start table row
     table = `${table}<tr>`;
+
+    // Make first column the preview image
     if (typeof currentRow[fullPathIndex] === 'string' && currentRow[fullPathIndex].length) {
       let fullPath = currentRow[fullPathIndex];
+
+      // Remove for-web from path since HTML file is in that folder
       const startsWithForWeb = fullPath.indexOf('for-web/') === 0;
       if (startsWithForWeb) fullPath = fullPath.substring(8);
-      const previewImg = `<img data-src="${fullPath}" alt="" class="preview-image js-lazy-load" />`;
+
+      // Create img tag
+      const previewImg = `<img tabindex="0" data-src="${fullPath}" alt="" class="preview-image js-lazy-load" />`;
       currentRow = [previewImg].concat(currentRow);
     }
+    // Or an empty cell if we can't make the image
     else {
       currentRow = [''].concat(currentRow);
     }
@@ -199,20 +288,32 @@ const createListingTable = (headerRow, rows) => {
 
     // Add HTML for this row
     currentRow.forEach((cell, index) => {
-      let cellClass = '';
+      // Start array for classes on td with column header class name
+      const cellClasses = [`column--${headerRow[index]}`];
+
+      // Add warning or error class for files with large sizees
       if (index === fileSizeIndex) {
+        // Convert bytes into kilobytes
         cell = Math.round(parseInt(cell) / 1000);
-        if (cell > 150) {
-          cellClass = ' class="warning"';
+        // Mark 500kb as an 'error'
+        if (cell > 300) {
+          cellClasses.push('error');
         }
-        else if (cell > 500) {
-          cellClass = ' class="error"';
+        // Warn for 150kb and up
+        else if (cell > 150) {
+          cellClasses.push('warning');
         }
       }
-      table = `${table}<td${cellClass}>${cell}</td>`;
+
+      // Build attributes as string
+      const attributes = ` class="${cellClasses.join(' ')}"`;
+      // Write out table cell with attributes and data
+      table = `${table}<td${attributes}>${cell}</td>\n`;
     });
+    // Complete the row
     table = `${table}</tr>`;
   });
+  // Complete table tags
   table = `${table}</table></rh-table>`;
   return table;
 }
@@ -223,6 +324,7 @@ const createListingTable = (headerRow, rows) => {
  * @param {array} rows An array of arrays with the latter being the values for each cell in a row
  */
 const buildIndexHtml = (headerRow, rows) => {
+  console.log('Starting web page build...');
   const indexPage = fs.createWriteStream(indexPagePath);
 
   indexPage.once('open', () => {
@@ -242,69 +344,99 @@ const buildIndexHtml = (headerRow, rows) => {
       indexHtml = `${indexHtml}</body></html>`;
       indexPage.end(indexHtml);
     }
-    debugger;
+
+    console.log('Successfully built web page.');
   });
 };
 
 /**
- * Process the CSV file and get the relevant data
+ * Process the TSV file and get the relevant data
  */
-fs.createReadStream(localAssetsCsvPath)
-  .pipe(parse({delimiter: csvDelimeter, from_line: 1 }))
-  .on('error', (error) => {
-    console.warn(error);
-    // return;
-  })
-  .on('data', (row) => {
-    if (csvRow === 1) {
-      csvHeaders = row;
+const processLocalAssetsTsv = () => {
+  console.log('Processing TSV data...');
+  let tsvRowCount = 1;
+
+  /**
+   * Process a row of data from TSV
+   * @param {array} row Data from TSV row
+   */
+  const processTsvRow = (row) => {
+    if (tsvRowCount === 1) {
+      tsvHeaders = row;
     }
     else {
-      // Populate csvRows with data
-      csvRows.push(row);
-      // Populate csvFileFullPaths
-      const fullPathHeaderIndex = csvHeaders.indexOf('fullPath');
+      // Populate tsvRows with data
+      tsvRows.push(row);
+      // Populate tsvFileFullPaths
+      const fullPathHeaderIndex = tsvHeaders.indexOf('fullPath');
       if (!fullPathHeaderIndex) {
-        console.error('Couldn\'t get the column id for fullPath in CSV Header', csvHeaders);
+        console.error('Couldn\'t get the column id for fullPath in TSV Header', tsvHeaders);
         return;
       }
       else {
         const fullPath = row[fullPathHeaderIndex].trim();
         if (fullPath) {
-          csvFileFullPaths.push(fullPath);
+          tsvFileFullPaths.push(fullPath);
         }
         else {
-          console.warn('Couldn\'t get fullPath for row.', 'Row: ', row, 'Headers:', csvHeaders, 'fullPathHeaderIndex: ', fullPathHeaderIndex);
+          console.warn('Couldn\'t get fullPath for row.', 'Row: ', row, 'Headers:', tsvHeaders, 'fullPathHeaderIndex: ', fullPathHeaderIndex);
         }
       }
     }
-    csvRow++;
-  })
-  .on('end', () => {
-    console.log(csvFileFullPaths);
-    console.log(csvHeaders);
-    console.log(csvRows);
+    tsvRowCount++;
+  };
+
+  const postTsvProcessing = () => {
+    // Subtracting one for header row, and one because the count starts at 1
+    console.log(`Processed ${tsvRowCount - 2} files from TSV.\n`);
 
     // Figure out what files are new
-    const newCsvRows = getNewCsvRows();
-    // console.log(newCsvRows);
+    console.log('Comparing indexed files to files in TSV...');
+    const newTsvRows = getNewTsvRows();
 
-    // If we have new rows, update the CSV then build the index page
-    if (Array.isArray(newCsvRows) && newCsvRows.length) {
-      const localAssetsTsvStream = fs.createWriteStream(localAssetsCsvPath);
+    // If we have new rows, update the TSV then build the index page
+    if (Array.isArray(newTsvRows) && newTsvRows.length) {
+      const localAssetsTsvStream = fs.createWriteStream(localAssetsTsvPath);
       localAssetsTsvStream.once('open', () => {
-        const allRows = csvRows.concat(newCsvRows);
-        const convertToCsv = stringify({ header: true, columns: csvHeaders, delimiter: csvDelimeter });
+        console.log(`Adding ${newTsvRows.length} file${ newTsvRows.length > 1 ? 's' : '' } to the TSV...`);
+        const allRows = tsvRows.concat(newTsvRows);
+
         // Write existing rows back
-        csvRows.forEach((row) => convertToCsv.write(row));
+        const convertToTsv = stringify({ header: true, columns: tsvHeaders, delimiter: tsvDelimeter });
+        tsvRows.forEach((row) => convertToTsv.write(row));
+
         // Add new rows
-        if (newCsvRows.length) newCsvRows.forEach((row) => convertToCsv.write(row));
-        convertToCsv.pipe(localAssetsTsvStream);
-        buildIndexHtml(csvHeaders, allRows);
+        if (newTsvRows.length) newTsvRows.forEach((row) => convertToTsv.write(row));
+        convertToTsv.pipe(localAssetsTsvStream);
+        console.log('TSV updated.\n');
+
+        buildIndexHtml(tsvHeaders, allRows);
       });
     }
     // Otherwise just create the index page
     else {
-      buildIndexHtml(csvHeaders, csvRows);
+      console.log(`No new files to add to the TSV.\n`);
+      buildIndexHtml(tsvHeaders, tsvRows);
     }
-  });
+  };
+
+  // Kick off TSV processing
+  fs.createReadStream(localAssetsTsvPath)
+    .pipe(parse({delimiter: tsvDelimeter, from_line: 1 }))
+    .on('error', (error) => {
+      console.warn(error);
+    })
+    .on('data', processTsvRow)
+    .on('end', postTsvProcessing);
+};
+
+const run = () => {
+  console.log(`Indexing files in ${dir.compiled}...`);
+  // Crawl the compiled folder for files and populate data
+  crawlDir(dir.compiled);
+  const indexedFilesCount = Object.keys(fileMetadata).length;
+  console.log(`Indexed ${indexedFilesCount} file${ indexedFilesCount > 1 ? 's' : ''}.\n`);
+  processLocalAssetsTsv();
+};
+
+run();

@@ -66,3 +66,4 @@ const optimizeSvgs = () =>
     .pipe(dest(svgDestination));
 
 task('default', optimizeSvgs);
+task('optimizeSvgs', optimizeSvgs);

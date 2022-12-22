@@ -8,8 +8,17 @@ rh-table {
   margin: 0 -40px;
 }
 
-td:has(.preview-image, #f00) {
+td {
+  text-align: center;
+}
+
+/* Fighting rh-table style */
+td.column--Preview[class][class][class] {
   padding: 4px;
+}
+
+td.column--fileName {
+  text-align: left;
 }
 
 tr:has(.warning) {
@@ -28,18 +37,18 @@ td.warning {
 }
 
 tr:has(.error) {
-  --rh-table--hoveredCol--Background: #ffeec1;
-  --rh-table--hoveredRow--Background: #F9E0A2;
-  --rh-table--hoveredIntersection--Background: #F6D173;
+  --rh-table--hoveredCol--Background: #f7d6d2;
+  --rh-table--hoveredRow--Background: #f9cac5;
+  --rh-table--hoveredIntersection--Background: #f0a39a;
 
   background: #FAEAE8;
 }
 
 td.error {
-  --rh-table--hoveredCol--Background: #F9E0A2;
-  --rh-table--hoveredRow--Background: #F6D173;
+  --rh-table--hoveredCol--Background: #f9cac5;
+  --rh-table--hoveredRow--Background: #f0a39a;
 
-  background: #F9E0A2;
+  background: #f9cac5;
 }
 
 .js-lazy-load {
@@ -55,6 +64,15 @@ td.error {
   max-width: 80px;
   height: auto;
   cursor: pointer;
+}
+
+.preview-image:not(.js-lazy-load) {
+  box-shadow: 0 0 0 1px #06c;
+}
+
+.preview-image:not(.js-lazy-load):hover,
+.preview-image:not(.js-lazy-load):focus {
+  box-shadow: 0 0 0 2px rgb(0, 76, 152);
 }
 
 /* .modal__preview {} */

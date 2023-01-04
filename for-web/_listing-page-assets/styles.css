@@ -78,14 +78,20 @@ td.error {
 /* .modal__preview {} */
 
 dialog {
-  display: flex;
-  flex-direction: column;
+  overflow: auto;
   border: 0;
   box-shadow: 2px 4px 20px #00000099;
-  align-items: flex-end;
-  justify-content: flex-end;
 }
 
 dialog::backdrop {
   background: #00000099;
+}
+
+@supports (object-fit: contain) {
+  .modal__preview {
+    display: block;
+    object-fit: contain;
+    max-width: 90vw;
+    max-height: 90vh;
+  }
 }

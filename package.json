@@ -7,7 +7,7 @@
     "gulp": "gulp",
     "start": "npm run browser-sync -- start -s for-web/ --files for-web/**/* --no-ui --no-notify --no-inject-changes",
     "build:diagrams": "gulp optimizeSvgs",
-    "build:listing": "node scripts/build-csv.js",
+    "build:listing": "node scripts/build-listing.js",
     "build:dev:listing": "node inspect scripts/build-csv.js",
     "build": "npm run build:diagrams && npm run build:listing",
     "clean": "rm -rf node_modules",

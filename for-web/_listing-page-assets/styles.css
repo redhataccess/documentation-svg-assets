@@ -21,6 +21,7 @@ td.column--fileName {
   text-align: left;
 }
 
+/* Highlight rows that have a warning */
 tr:has(.warning) {
   --rh-table--hoveredCol--Background: #ffeec1;
   --rh-table--hoveredRow--Background: #F9E0A2;
@@ -29,6 +30,7 @@ tr:has(.warning) {
   background: #FDF7E7;
 }
 
+/* Highlight cell with the warning */
 td.warning {
   --rh-table--hoveredCol--Background: #F9E0A2;
   --rh-table--hoveredRow--Background: #F6D173;
@@ -36,6 +38,7 @@ td.warning {
   background: #F9E0A2;
 }
 
+/* Highlight rows that have a error */
 tr:has(.error) {
   --rh-table--hoveredCol--Background: #f7d6d2;
   --rh-table--hoveredRow--Background: #f9cac5;
@@ -44,6 +47,7 @@ tr:has(.error) {
   background: #FAEAE8;
 }
 
+/* Highlight cell with the error */
 td.error {
   --rh-table--hoveredCol--Background: #f9cac5;
   --rh-table--hoveredRow--Background: #f0a39a;
@@ -51,7 +55,8 @@ td.error {
   background: #f9cac5;
 }
 
-.js-lazy-load {
+/* Images before they've been lazy loaded */
+.js-lazy-load[class] {
   display: block;
   width: 80px;
   height: 80px;
@@ -66,16 +71,14 @@ td.error {
   cursor: pointer;
 }
 
+/* Images after they've been lazy loaded */
 .preview-image:not(.js-lazy-load) {
   box-shadow: 0 0 0 1px #06c;
 }
-
 .preview-image:not(.js-lazy-load):hover,
 .preview-image:not(.js-lazy-load):focus {
   box-shadow: 0 0 0 2px rgb(0, 76, 152);
 }
-
-/* .modal__preview {} */
 
 dialog {
   overflow: auto;

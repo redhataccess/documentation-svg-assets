@@ -1,3 +1,7 @@
+/**
+ * @file
+ * Diagram landing page JS
+ */
 'use strict';
 
 // Avoid polluting the global scope
@@ -24,9 +28,8 @@
     });
   }
 
-  window.addEventListener('DOMContentLoaded', () => {
-    initImageLazyLoading();
-
+  // Adds markup and behaviors necessary for modal
+  const setupModal = () => {
     const $previewImages = document.querySelectorAll('.preview-image');
     const $modal = document.createElement('dialog');
 
@@ -41,7 +44,7 @@
     $modalClose.innerHTML = 'Close';
 
     /**
-     * Close modal and cleanup
+     * Utility function to close modal and cleanup
      */
     const closeModal = () => {
       $modal.close();
@@ -65,8 +68,13 @@
       $previewImage.classList.add('preview-image--processed');
     });
 
+    // When the backdrop is clicked, close the modal
+    // ::backdrop is a pseudo element inside of modal,
+    // so any click on the backdrop or in the modal area will go to the modal
     $modal.addEventListener('click', (event) => {
+      // Get coordinates of modal area
       const modalRect = $modal.getBoundingClientRect();
+      // Compare click location with modal area
       const clickedInModal = (
         modalRect.top <= event.clientY
         && event.clientY <= modalRect.top + modalRect.height
@@ -77,5 +85,10 @@
         $modal.close();
       }
     });
+  };
+
+  window.addEventListener('DOMContentLoaded', () => {
+    initImageLazyLoading();
+    setupModal();
   });
 })();

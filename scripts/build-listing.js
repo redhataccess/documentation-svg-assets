@@ -6,7 +6,7 @@
 // @todo warn about SVGs in Pantheon 1
 // @todo add button to submit request
 // @todo There may be less bandwidth from Jess, does there need to be a warning on new requests?
-// @todo Standards if you make your own
+// @todo Standards if you make your own? This will probably be a future thing, Jess is working with LucidCharts
 // @todo Are there any issues like "this diagram can't be used"? Good reason not to put this on prod.
 // @todo Usage instructions for images on the webpage?
 // @todo Feature requests for the listing page?

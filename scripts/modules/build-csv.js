@@ -11,9 +11,6 @@ const runCliCommand = require('./runCliCommand');
 const localAssetsTsvPath = './data/localAssets.tsv';
 const tsvDelimeter = '\t';
 
-// TSV data vars
-
-
 /**
  * Flat object with folder path as key and array of file (not folder) names inside.
  * For example:
@@ -79,7 +76,7 @@ const crawlDir = (dirToCrawl, filesByFolder, fileMetadata) => {
       }
     }
     else {
-      // Instantiate
+      // Instantiate key in the object if it doesn't exist
       if (typeof filesByFolder[dirToCrawl] === 'undefined') {
         filesByFolder[dirToCrawl] = [fileName];
       }
@@ -97,6 +94,8 @@ const crawlDir = (dirToCrawl, filesByFolder, fileMetadata) => {
 
       // Add the file metadata for inclusion in the TSV
       filesByFolder[dirToCrawl].push(fileName);
+
+      // See fileMetadataEntry typedef
       fileMetadata[fullPath] = {
         'productName': productName,
         'extension': extension,
@@ -130,15 +129,19 @@ const processLocalAssetsTsv = (fileMetadata, callback) => {
     else {
       // Populate tsvRows with data
       tsvRows.push(row);
+
       // Populate tsvFileFullPaths
+      // Get the column number for the fullPath, in case they get reordered
       const fullPathHeaderIndex = tsvHeaders.indexOf('fullPath');
       if (!fullPathHeaderIndex) {
         console.error('Couldn\'t get the column id for fullPath in TSV Header', tsvHeaders);
         return;
       }
       else {
+        // Get the value of the for path column
         const fullPath = row[fullPathHeaderIndex].trim();
         if (fullPath) {
+          // Populate an array of fullPaths that are in the TSV so we can figure out what files aren't in the TSV later
           tsvFileFullPaths.push(fullPath);
         }
         else {
@@ -164,6 +167,7 @@ const processLocalAssetsTsv = (fileMetadata, callback) => {
     const rowsToAddToTsv = [];
 
     localFullFilePaths.forEach((fullPath) => {
+      // Check to see if file already exists in the TSV
       if (tsvFileFullPaths.indexOf(fullPath) >= 0) {
         // console.log('Not adding to TSV', fullPath);
         return;
@@ -196,6 +200,7 @@ const processLocalAssetsTsv = (fileMetadata, callback) => {
           }
 
           // Set the metadata to the correct column
+          // Making sure column exists in TSV, indexOf will return -1 if the column doesn't exist
           if (tsvColumnIndex >= 0) {
             rowToAdd[tsvColumnIndex] = currentFileMetadata[metadataKey];
           }
@@ -265,7 +270,7 @@ const processLocalAssetsTsv = (fileMetadata, callback) => {
         }
       });
     }
-    // Otherwise just create the index page
+    // There weren't any new rows, just create the index page
     else {
       console.log(`No new files to add to the TSV.\n`);
         if (typeof callback === 'function') {

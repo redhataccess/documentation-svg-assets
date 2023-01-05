@@ -33,6 +33,7 @@ const buildListingTable = (headerRow, rows) => {
   const extensionIndex = headerRow.indexOf('extension');
   const createdDateIndex = headerRow.indexOf('createdDate');
 
+  // Adding 1 to each because a preview column was added as the first column
   const sortableColumns = [
     fileNameIndex + 1,
     relatedProductsIndex + 1,

@@ -5,26 +5,46 @@ body {
 
 .content-expander__trigger {
   border: none;
+  background-color: transparent;
+}
+
+.content-expander__trigger:hover {
+  background-color: var(--fbc-light-gray);
 }
 
 .content-expander__trigger::after {
-  content: ">";
-  font-size: 1.25rem;
-  transform: rotate(90deg);
-  display: inline-block;
-  transition: transform 0.5s ease;
-  padding: 5px;
+  content: '';
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 12px;
+    margin-left: 10px;
+    background-color: var(--fbc-blue-60);
+    background-repeat: no-repeat;
+    background-size: contain;
+    transition: transform 0.25s;
+    transform: rotate(0deg);
+    mask-position: center center;
+    mask-repeat: no-repeat;
+    mask-image: url('/_listing-page-assets/chevron-down-solid.svg');
 }
 .content-expander__trigger[aria-expanded="true"]::after {
-  transform: rotate(-90deg);
+  transform: rotate(-180deg);
 }
 
 .content-expander {
   display: none;
+  border: var(--fbc-borders);
+  padding: 10px;
 }
 
 .content-expander[open] {
   display: block;
+  position: absolute;
+  width: 100%;
+  z-index: 100;
+  background-color: var(--fbc-white);
+  box-shadow: 0 4px 8px 1px rgba(0, 0, 0, 0.16);
 }
 
 td {
@@ -122,6 +142,7 @@ dialog::backdrop {
   width: 75vw;
   max-width: 1600px;
   margin: 0 auto;
+  position: relative;
 }
 
 button {
@@ -130,11 +151,15 @@ button {
   padding: 1rem;
 }
 
+.back-link::before {
+  content: "←";
+  display: inline-block;
+  margin-right: 10px;
+}
+
 .product-grid {
   display: flex;
   flex-wrap: wrap;
-  border: var(--fbc-borders);
-  padding: 10px;
 }
 
 @supports (display: grid) {

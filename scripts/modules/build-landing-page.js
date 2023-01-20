@@ -176,7 +176,7 @@ const buildImagePages = (headerRow, rows, title, productsLinks) => {
         <body>
         <div class='content-container'>
           <h1>${pageTitle}</h1>
-          <a href='/' class=''>Back to product listing</a>
+          <a href='/' class='back-link'>Back to product listing</a>
           <button class="content-expander__trigger">
             View other products
         </button>

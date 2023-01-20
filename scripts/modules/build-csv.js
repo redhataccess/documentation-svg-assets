@@ -95,12 +95,27 @@ const crawlDir = (dirToCrawl, filesByFolder, fileMetadata) => {
       // Add the file metadata for inclusion in the TSV
       filesByFolder[dirToCrawl].push(fileName);
 
+      // get rid of underscores and dashes and replace with spaces
+      let fileNameCleaned = fileName.replace(/(_)+|(-)+/g," ");
+      // split on the period before the file extension
+      let fileNameArr = fileNameCleaned.split('.');
+      // take the first item from the array, which will be the filename, 
+      // and split it on spaces
+      fileNameArr = fileNameArr[0].split(' ');
+      // if the first item in the array is a number, remove it
+      if (!isNaN(parseInt(fileNameArr[0]))) {
+        fileNameArr.shift();
+      }
+      // join the array of words back into a string to be used in the object
+      const fileNameFixed = fileNameArr.join(' ');
+
       // See fileMetadataEntry typedef
       fileMetadata[fullPath] = {
         'productName': productName,
         'extension': extension,
         'fileName': fileName,
         'fileSize': fs.statSync(fullPath).size,
+        'Title': fileNameFixed,
       };
     }
   });

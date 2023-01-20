@@ -22,12 +22,20 @@ const dir = {
 };
 
 const run = () => {
-  console.log(`Indexing files in ${dir.compiled}...`);
+  console.log(`Indexing files in ${dir.compiled}...`);0
   // Crawl the compiled folder for files and populate data
   const fileMetadata = buildCsv.crawlDir(dir.compiled);
-  const indexedFilesCount = Object.keys(fileMetadata).length;
-  console.log(`Indexed ${indexedFilesCount} file${ indexedFilesCount > 1 ? 's' : ''}.\n`);
-  buildCsv.processLocalAssetsTsv(fileMetadata, buildLandingPage.buildIndexHtml);
+  const indexedProductsCount = Object.keys(fileMetadata).length;
+  let indexedFiles = []
+  for (const product in fileMetadata) {
+    if (Object.hasOwnProperty.call(fileMetadata, product)) {
+      const filesArr = Object.keys(fileMetadata[product]);
+      indexedFiles = indexedFiles.concat(filesArr)
+    }
+  }
+  const indexedFilesCount = indexedFiles.length;
+  console.log(`Indexed ${indexedFilesCount} file${ indexedFilesCount > 1 ? 's' : ''} from ${indexedProductsCount} product${ indexedProductsCount > 1 ? 's' : ''}.\n`);
+  buildCsv.processLocalAssetsTsv(fileMetadata, buildLandingPage.buildPages);
 };
 
 run();

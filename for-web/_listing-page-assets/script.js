@@ -87,8 +87,97 @@
     });
   };
 
+const setupExpanders = () =>{
+  const $expanders = document.querySelectorAll('.content-expander');
+  if ($expanders.length > 0) {
+    for (let i = 0; i < $expanders.length; i++) {
+      const $expander = $expanders[i];
+      const $expanderTrigger = $expander.previousElementSibling;
+      $expanderTrigger.expander = new ContentExpander($expanderTrigger, $expander);
+    }
+  }
+
+}
+
+  
+  /**
+   * Handle keyboard input specifically for the esc key
+   * @param {$control} element button or other element used to trigger the expander
+   * @param {$dropdown} element container that will show and hide
+   * @param {options} object additional options used for the expander such as globallyCancelable (boolean) to use the escape key to close the expander
+   */
+   class ContentExpander {
+    constructor ($control, $dropdown, options) {
+      this.open = this.open.bind(this);
+      this.close = this.close.bind(this);
+      this.toggle = this.toggle.bind(this);
+      this.control = $control;
+      this.dropdown = $dropdown;
+      this.options = options ? options : {};
+      const id = `content-expander-${Math.random().toString(36).substring(2, 9)}`;
+      // if no id in the element, create one
+      if (!this.dropdown.id) {
+        this.dropdown.id = id;
+      }
+      this.control.setAttribute('aria-expanded','false');
+      this.dropdown.setAttribute('aria-hidden', 'true');
+      // make sure the aria-controls attribute matches the id of the element controlling it
+      this.control.setAttribute('aria-controls', this.dropdown.id);
+      this.control.addEventListener('click', this.toggle);
+      if (this.options.globallyCancelable) {
+        window.addEventListener('keydown', this.handleEscPress);
+      }
+    }
+  
+    open() {
+      this.control.setAttribute('aria-expanded','true');
+      this.dropdown.setAttribute('open','');
+      this.dropdown.removeAttribute('aria-hidden');
+    }
+  
+    close() {
+      this.control.setAttribute('aria-expanded','false');
+      this.dropdown.removeAttribute('open');
+      this.dropdown.setAttribute('aria-hidden','true');
+    }
+  
+    toggle() {
+      if (this.dropdown.hasAttribute('open')) {
+        this.close();
+      }
+      else {
+        this.open();
+      }
+    }
+  
+    /**
+     * Handle keyboard input specifically for the esc key
+     * @param {object} event Event object from event listener
+     */
+    handleEscPress(event) {
+      // console.log(event);
+      if (event.defaultPrevented) {
+        return; // Do nothing if the event was already processed
+      }
+      switch (event.key) {
+        case 'Esc': // IE/Edge specific value
+        case 'Escape':
+          // use the tabletBreakpoint  check to see if the page is on mobile/tablet
+          // and run the function to collapse the TOC if it's open
+          close();
+          break;
+        default:
+          return; // Quit when this doesn't handle the key event.
+      }
+      // Cancel the default action to avoid it being handled twice
+      event.preventDefault();
+    }
+  }  
+
+
   window.addEventListener('DOMContentLoaded', () => {
     initImageLazyLoading();
     setupModal();
+    setupExpanders();
   });
 })();

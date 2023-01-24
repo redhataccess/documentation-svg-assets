@@ -112,7 +112,9 @@ for (const row in rows) {
          else if (content > 150) {
            cellClasses.push('warning');
          }
-       }
+      } else if (heading === 'Link' && content) {
+        content = `<a href='${content}' target='_blank' rel='noopener noreferrer'>${content}</a>`
+      }
        // If there's nothing there, instead of passing "undefined" pass an empty string
        if (!content) {
         content = '';
@@ -156,7 +158,6 @@ const buildImagePages = (headerRow, rows, title, productsLinks) => {
       pageLinks.splice(i, 1, updatedLink);
     }
   }
-  console.log(pageLinks);
 
   indexPage.once('open', () => {
     const table = buildListingTable(headerRow, rows, title);
@@ -278,9 +279,7 @@ const buildPages = (headerRow, fileRows) => {
   // Loop through keys in the object to pass the objects inside for building the web pages
   for (const title in fileMetadata) {
     if (Object.hasOwnProperty.call(fileMetadata, title)) {
-      // const rows = Object.values(fileMetadata[title]);
       const rows = fileMetadata[title];
-      // console.log({rows});
       buildImagePages(headerRow, rows, title, productsLinks);
     }
   }

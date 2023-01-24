@@ -106,6 +106,23 @@ const crawlDir = (dirToCrawl, filesByFolder, fileMetadata) => {
       if (!isNaN(parseInt(fileNameArr[0]))) {
         fileNameArr.shift();
       }
+
+      // Loop through each item in the array
+      for (let i = 0; i < fileNameArr.length; i++) {
+        const item = fileNameArr[i];
+        // check to see if any items in the array are 4 digit numbers
+        if (item.length === 4 && !isNaN(parseInt(item))) {
+
+          if (i === fileNameArr.length - 1) {
+            // if it's the last thing in the file name, just delete it
+            fileNameArr.pop();
+          } else {
+            // replace the number with a dash
+            fileNameArr.splice(i, 1, '-');
+          }
+        }
+      }
+
       // join the array of words back into a string to be used in the object
       const fileNameFixed = fileNameArr.join(' ');
 

@@ -119,10 +119,34 @@ td.error {
   box-shadow: 0 0 0 2px rgb(0, 76, 152);
 }
 
-dialog {
+dialog[open] {
   overflow: auto;
   border: 0;
   box-shadow: 2px 4px 20px #00000099;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.modal__close {
+  align-self: flex-start;
+  display: flex;
+  align-items: center;
+  border: none;
+  padding: 10px;
+}
+
+.modal__close::after {
+  display: block;
+  content: '';
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  margin-left: 15px;
+  mask-position: center center;
+  mask-repeat: no-repeat;
+  mask-image: url('/_listing-page-assets/close.svg');
+  
 }
 
 dialog::backdrop {
@@ -190,3 +214,34 @@ button {
   border: 1px solid var(--fbc-blue-70);
   
 }
+
+.image-download {
+  padding: 15px;
+  background-color: var(--fbc-blue-60);
+  color: var(--fbc-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-download:hover {
+  background-color: var(--fbc-blue-70);
+  text-decoration: none;
+}
+
+.image-download:visited {
+  color: var(--fbc-white);
+}
+
+.image-download::after {
+  display: block;
+  content: '';
+  width: 1em;
+  height: 1em;
+  background-color: white;
+  margin-left: 15px;
+  mask-position: center center;
+  mask-repeat: no-repeat;
+  mask-image: url('/_listing-page-assets/download.svg');
+}
+

@@ -6,6 +6,8 @@
 
 // Avoid polluting the global scope
 (() => {
+  
+  
   const initImageLazyLoading = () => {
     // Lazy load images since we're likely to have a ton on one page
     const $lazyLoadedImages = document.querySelectorAll('.js-lazy-load');
@@ -32,6 +34,12 @@
   const setupModal = () => {
     const $previewImages = document.querySelectorAll('.preview-image');
     const $modal = document.createElement('dialog');
+    
+    // Setup context warning twice so that nobody has an excuse that they didn't see it.
+    const $warning = document.createElement('p');
+    $warning.innerHTML = 'Please do not use this graphic out of context.'
+    const $warning2 = document.createElement('p');
+    $warning2.innerHTML = 'Please do not use this graphic out of context.'
 
     // Setup full size image
     const $modalPreviewImage = document.createElement('img');
@@ -42,6 +50,12 @@
     const $modalClose = document.createElement('button');
     $modalClose.classList.add('modal__close');
     $modalClose.innerHTML = 'Close';
+
+    // Setup download button
+    const $imageDownload = document.createElement('a');
+    $imageDownload.classList.add('image-download');
+    $imageDownload.innerHTML = 'Download Image';
+    // $imageDownload.setAttribute('download', true);
 
     /**
      * Utility function to close modal and cleanup
@@ -56,13 +70,22 @@
     });
 
     // Add everything to the DOM
-    $modal.append($modalClose, $modalPreviewImage);
+    $modal.append($modalClose, $warning, $modalPreviewImage, $warning2, $imageDownload);
     document.querySelector('body').append($modal);
 
     // Add lightbox behavior to preview images
     $previewImages.forEach(($previewImage) => {
       $previewImage.addEventListener('click', () => {
+        // Set the source for the modal image
         $modalPreviewImage.src = $previewImage.dataset.src;
+        // Set the path for the download link 
+        $imageDownload.setAttribute('href', $previewImage.dataset.src);
+        // pull apart the path to get the filename
+        const previewImageFilename = $previewImage.dataset.src.split('/').slice(-1).pop();
+        // remove the file extension
+        const previewImageTitle = previewImageFilename.split('.')[0];
+        // add the download attribute to the download link with the filename as the value so that when the user downloads the image, it has the right name
+        $imageDownload.setAttribute('download', previewImageTitle);
         $modal.showModal();
       });
       $previewImage.classList.add('preview-image--processed');
@@ -87,17 +110,6 @@
     });
   };
 
-const setupExpanders = () =>{
-  const $expanders = document.querySelectorAll('.content-expander');
-  if ($expanders.length > 0) {
-    for (let i = 0; i < $expanders.length; i++) {
-      const $expander = $expanders[i];
-      const $expanderTrigger = $expander.previousElementSibling;
-      $expanderTrigger.expander = new ContentExpander($expanderTrigger, $expander);
-    }
-  }
-
-}
 
   
   /**
@@ -111,6 +123,8 @@ const setupExpanders = () =>{
       this.open = this.open.bind(this);
       this.close = this.close.bind(this);
       this.toggle = this.toggle.bind(this);
+      this.handleClickAway = this.handleClickAway.bind(this);
+      this.handleEscPress = this.handleEscPress.bind(this);
       this.control = $control;
       this.dropdown = $dropdown;
       this.options = options ? options : {};
@@ -128,17 +142,33 @@ const setupExpanders = () =>{
         window.addEventListener('keydown', this.handleEscPress);
       }
     }
-  
+
+    handleClickAway(event) {
+      let target = event.target;
+      if (typeof target.closest === 'function') {
+        // find if click target was a target of the component and if it's not, close the menu
+        let trigger = target.closest('.content-expander__trigger')
+        let expander = target.closest('.content-expander')
+        if (!trigger && !expander) {
+          this.close();
+        }
+      }
+    }
+
     open() {
       this.control.setAttribute('aria-expanded','true');
       this.dropdown.setAttribute('open','');
       this.dropdown.removeAttribute('aria-hidden');
+      window.addEventListener('click', this.handleClickAway);
+      window.addEventListener('keyup', this.handleEscPress);
     }
   
     close() {
       this.control.setAttribute('aria-expanded','false');
       this.dropdown.removeAttribute('open');
       this.dropdown.setAttribute('aria-hidden','true');
+      window.removeEventListener('keyup', this.handleClickAway);
+      window.removeEventListener('keyup', this.handleEscPress);
     }
   
     toggle() {
@@ -164,7 +194,7 @@ const setupExpanders = () =>{
         case 'Escape':
           // use the tabletBreakpoint  check to see if the page is on mobile/tablet
           // and run the function to collapse the TOC if it's open
-          close();
+          this.close();
           break;
         default:
           return; // Quit when this doesn't handle the key event.
@@ -173,6 +203,30 @@ const setupExpanders = () =>{
       event.preventDefault();
     }
   }  
+
+
+  const setupExpanders = () =>{
+    const $expanders = document.querySelectorAll('.content-expander');
+    if ($expanders.length > 0) {
+      for (let i = 0; i < $expanders.length; i++) {
+        const $expander = $expanders[i];
+        const $expanderTrigger = $expander.previousElementSibling;
+        $expanderTrigger.expander = new ContentExpander($expanderTrigger, $expander);
+        // $expanderTrigger.addEventListener('click', () => {
+        //   console.log("clicked");
+        //     // if the product listing is toggled open, set the menu listeners
+        //     if ($expanderTrigger.hasAttribute('aria-expanded') && $expanderTrigger.getAttribute('aria-expanded') === 'true') {
+        //       productMenuOpened();
+        //     }
+        //     // if the product listing is toggled closed, remove the menu listeners so they're not hanging around
+        //     else {
+        //       productMenuClosed();
+        //     }
+          
+        // });
+      }
+    }
+  }
 
 
   window.addEventListener('DOMContentLoaded', () => {

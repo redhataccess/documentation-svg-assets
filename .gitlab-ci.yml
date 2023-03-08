@@ -1,0 +1,16 @@
+stages:
+ - docs
+
+before_script:
+  - npm ci
+
+pages:
+  stage: docs
+  image: node:18
+  tags:
+    - docker
+  script:
+    - npm run build:listing
+  artifacts:
+    paths:
+      - for-web
